@@ -1,41 +1,39 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-08-08T13:03:31.489374+00:00
+Generated: 2026-08-09T13:06:14.515830+00:00
 
 ## Business Keywords
 
-### PLC Simulation
+### Digital Twin Manufacturing
 
-- [The future of PLC programming: How software-defined automation is transforming industrial control - Control Design](https://news.google.com/rss/articles/CBMiggJBVV95cUxQR2pLMmNGSlFZbEVUMlplRWZMMFhaWUs2RXoxb25nZEd3djV3dEpCVVJJME8xclRfaWZPSjMtVEtWVTZlcTktdGJ6Y1N5RUNUMVJJeGwzb3pIZVFYUXVybmdGd3FvaHJJQ2hQR2k2dWNKbXBoR3VtcGxuUmdLQWd3Z0lCZlJmblpCMm5kbjFlTWQ5SkdVRS16YmlGLTNTX2JIUFU4NnVMY0lldFdzLXBuT0xuUTR3ZzBqRUdkajFZSzE0VEpIWndKRk04WF9vb21lb0ctdV8wVG9DU0dPUl94WDNnMnlyY1Q0RGF5bW9EODQ0SmZZMFFTb3VGYW02ZzExNFE?oc=5) (Wed, 02 Apr 2025 07:00:00 GMT)
-  Summary: The future of PLC programming: How software-defined automation is transforming industrial control Control Design
-  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
+- [New uses for digital twins in the race to navigate an uncertain future - Deloitte](https://news.google.com/rss/articles/CBMilgFBVV95cUxPRDIzUDRYZGt6MVUwMklTVmhINHFCRUQzOEZndVg0QmhXcUwtVzVDcF9VQlBrOTR6ZzdFMkZXUzlSd2lKWjFLcUYwU2xtR29KM3VLUlVVazluVXZvS09RUFVmRXBid2dMd3kxMVBteFphZGVBMktLOVhDZXdGZ2JMRGlvc2hYUTByUFItT2psMEJJeVJjNXc?oc=5) (Fri, 18 Oct 2024 07:00:00 GMT)
+  Summary: New uses for digital twins in the race to navigate an uncertain future Deloitte
+  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
+- [Innovative “3D human simulation”: BMW Group Plant Regensburg uses virtual tools to plan assembly processes years ahead of NEUE KLASSE series launch - BMW Group](https://news.google.com/rss/articles/CBMi2wJBVV95cUxNcmxvTnFUOF9jbEx4LUZMUlJFcTBkR0pkcUQ4Q1pObkpMRWhiMFNxUWM2dXpyaHRSbkxhU2Z6ckZGY3VPN3o5RXF6Y28xaUVHWERGa1FrYWRwRmxuaDQtT2hfb2UtZmhNM0FzR2FpblZVWEg0TnFmQjFuQzdPb3ZjYUJLQ1o5T0llTUYydlJiWHlLcS1NVWMwWlR0WF9NaEZuNVdYSm9JR0dNaUUxbUN4ZndGZ0xid25YYVEzUnRYcXVfTGpCdU9EYVhLdlk4MUFldTVEZW0zRjRRZXpKUUZOYURfWWczMW1wN0hwU254b1JqUndHOEVIV0I5cFNLVWk4eFlIUHl6YnhIYk9RTFB5OVdkaVpwS1RKQmJRQVhsTXNQamxOVnZOUnRxNEtlRjlWbkJ2c0lZTHhWa0I3TEZMVW54UUVyZzBONFVqT1lyY2YxcFdXRDhHU1FjYw?oc=5) (Thu, 18 Jul 2024 07:00:00 GMT)
+  Summary: Innovative “3D human simulation”: BMW Group Plant Regensburg uses virtual tools to plan assembly processes years ahead of NEUE KLASSE series launch BMW Group
+  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [RML Machinery becomes ABB Robotics Authorised Value Provider in New Zealand - ABB](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjFyLVJQZGlIRXV5S3hXQ19lanl3RlRkRjFGT0E5OGh0LTN1X2NIRS1XTHNRTy1ReXFfSGN3cEtObWtOWkN0U1cwemFZTWtfcW5RMjFMQmpoZlpmLWh0NVVDX0hZY0NkamxnaE05NjNjVExqVVpqMmdnSkpvQ004eE0tNi1pbGhJT2NpTVNrWkJqZzZJMXhpYUZiNmdPQ2FfOGw4VFRrU1pQcWE3aXZQcGRmQlc?oc=5) (Wed, 13 Aug 2025 07:00:00 GMT)
-  Summary: RML Machinery becomes ABB Robotics Authorised Value Provider in New Zealand ABB
+- [RoboDK releases simulation and offline programming API for Matlab - The Robot Report](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQXpUNW5WV1ZrVHVxTlcwekpLUjVrUXVnNXF6SUxaV2hVc21aZFVoRURaQUZnX2YtbGNSYlNJbkJtNE0xT0lfZFlod2loTXo2MWpZcGxDN25vSjU2dHVkR1BRTjNxV0ZkX1Njc3hSZng5M3ZuMV8tR25oZ09EVmFjeHZVWGlKS3VmMHU5VHlQNEFXUWM?oc=5) (Tue, 27 Dec 2022 08:00:00 GMT)
+  Summary: RoboDK releases simulation and offline programming API for Matlab The Robot Report
+  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
+- [ABB introduces PickMaster® Twin, with digital twin technology to reduce commissioning times - ABB](https://news.google.com/rss/articles/CBMixwFBVV95cUxQUkh0cmhjQ3BSTVFTQWZHY2FUNXA2a3cwNVh5SVJEdV8tY0w2dDdjZFlOMEZ0cGFvRHh3MHg2LS1ZeW0zcHJLT2hVYzh0bXdPaXR2MmtQbTNJOW1GaUQtLWpEVFlxQXZzdXR6SmRzZ1FXbktjc1ppYldaYi1EV3g4QUZRTmcxX0psakt2VEQ5dlNRNWFPbjNONGNaRGpUNE9OYVpwYUVkajN0MzljU3pRZF9RMjliNF9ReDdrTXN4dmZ2bnZKVW0w?oc=5) (Tue, 17 Sep 2019 07:00:00 GMT)
+  Summary: ABB introduces PickMaster® Twin, with digital twin technology to reduce commissioning times ABB
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 
 ## Competitors
 
-### NVIDIA
-
-- [Firebird Launches CIS Region’s Largest AI Factory in Armenia](https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/) (Sat, 08 Aug 2026 10:24:54 +0000)
-  Summary: The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure . Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy prime minister of the Republic of Kazakhstan; and David Allen, U.S. chargé d`affaires, a.i. in Armenia, attended the...
-  Feed source: https://blogs.nvidia.com/feed/
-### RoboDK
-
-- [Real-Time Collision Checking for Physical AI Applications in RoboDK 6](https://robodk.com/blog/real-time-collision-checking-for-physical-ai-applications-robodk-6/) (Wed, 05 Aug 2026 09:51:09 +0000)
-  Summary: New benchmarks show how RoboDK 6 supports responsive path planning, runtime adjustments and emerging physical AI applications. Collision checking is one of the most computationally demanding parts of robot simulation and motion planning. A planner may need to check thousands of potential robot configurations and path segments against the surrounding geometry. That’s a lot of mathematics. Those calculations are now significantly faster in RoboDK 6 . In fact, ‘significantly’ may be an understat...
-  Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [SPX FLOW and Siemens collaborate on revolutionary Digital Twin and AI product design - Siemens Newsroom](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UeHBWZE5GYzQwaFYxbU5CRTZPbXowdkFGQkM4MzNMUnV4ZnlTbGdubXRKWnZyV3Q0ZEZwUmZGNXVsS3B4NWJ5TzJHMldrcmdsN3I1SHdNeFJlZWoxR2o0YkxR?oc=5) (Wed, 29 Jan 2025 08:00:00 GMT)
-  Summary: SPX FLOW and Siemens collaborate on revolutionary Digital Twin and AI product design Siemens Newsroom
+- [What is the industrial metaverse? - Siemens](https://news.google.com/rss/articles/CBMiigFBVV95cUxNb3JPUWNGTzZGZHpVazNtQVJDTTJfWEFIV0ZtZ013WEIxbEVBcGx6UlF0TEhSaGpYS0JtSkY1VVdKaW95alVtR1hDOHdURUJBN2lXc09pMFNIUVk1djRQUDdTcUZILXl2RlhnYVFVZk9URFJUNlQ2Z21zRTh1NjVyeHBVc1B1VHFiRHc?oc=5) (Fri, 13 Feb 2026 12:12:06 GMT)
+  Summary: What is the industrial metaverse? Siemens
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Siemens and KU Leuven collaborate to research Digital Twin for Smart and Sustainable Products - Siemens Newsroom](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGZ01qQzF2RDhzZGpxUlVYdWVXUEJrYVlqcUkzcFJLYjlWV1FyWXhBWFZoZ1hkbEVpdVNOYU42RmtwZUU4cUFTV3JPLTFhejNlV2NGVVJoNU9TZTUyWmc?oc=5) (Tue, 11 Jun 2024 07:00:00 GMT)
-  Summary: Siemens and KU Leuven collaborate to research Digital Twin for Smart and Sustainable Products Siemens Newsroom
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Digital Twins are Coming of Age - advancedmanufacturing.org](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaDBCU0pESkZCQXRfVTZWVkFJcXZYX2NlQkt2alhNTlg4Wk9YM3Ezby1HY25VNWRzd05mSENSOWJSaE9Rb1VRUUdIV20xSjRibDl3MkhGQ2txRDJBMDFMZHJ0cU5GVGw1SlZEQmhpMlJ5d2JsN3RfYUtpdUxxSms5a04weWhYQTRvOWFnVGE3dFVCRVpZby1OUjBXaWx2aGprUWJTYkJHTi1mSU5HUUNteEdVdllzV0RoTnF4WHB4cE9sM1c2eVVfZ3dYQVhUN3ItSWhNSVd0SjJsNGZlZkE?oc=5) (Thu, 18 Jul 2024 07:00:00 GMT)
-  Summary: Digital Twins are Coming of Age advancedmanufacturing.org
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+### Visual Components
+
+- [3D simulation unlocks digital manufacturing transformation - Automotive World](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDZaVG9wZHJKZnFKQzkyMnR4cHZyQk9LUGVFNHAtanBRNFBIT1k2UXY2NnZWemwzdFdIUDlNd2xZS3JiRnlYRzg0S2RJUHI2WlR4bHNmdXROeXh0dmpERjlpMWtqd240MFp1TEVZTjFMcENWSmdXOGNrQjJVLTRIV0pnUGlvS1NKM09xb3NVSzktYl9XLU5mTkpFaE1yUGhJQ0E?oc=5) (Mon, 30 Oct 2023 07:00:00 GMT)
+  Summary: 3D simulation unlocks digital manufacturing transformation Automotive World
+  Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
+- [3D simulation for the use of AGVs - Computer&Automation](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTZDTnlUcVJrbDluLUlySVluRjI1UU1qRmVJSXg4WU9meVBrbEtkczRfemcxd2tjWjNUYVcwN3JKbUtaazZIY05Dd1pOc0QtMGtLWFptSDA5SFZIbGhlN2lRZGgzRWs4S3NsbVVIOFBsZG5YWldzLUNDMUMzZFBub2ZwYzZoUkFBVE5CUmY4SjFySkpBZjdV?oc=5) (Mon, 22 Jan 2024 08:00:00 GMT)
+  Summary: 3D simulation for the use of AGVs Computer&Automation
+  Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 
