@@ -1,6 +1,6 @@
 # AGENTS.md
 
-## Cursor Cloud specific instructions
+## Cursor specific instructions
 
 ### What this project is
 A single-file Python job (`competitor_monitor.py`) that fetches industrial-automation
