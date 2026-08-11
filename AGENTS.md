@@ -4,15 +4,21 @@ Context guide for AI agents. Read this file before exploring the full repository
 
 ## What this project is
 
-A daily competitive-intelligence monitor for **industrial automation** (virtual commissioning, digital twin, PLC/robot simulation, intralogistics). A single Python script collects news from RSS, Google News, and YouTube feeds, filters by keywords, deduplicates entries, and generates reports.
+A daily competitive-intelligence monitor for **industrial automation** (virtual commissioning, digital twin, PLC/robot simulation, intralogistics). Python modules collect news from RSS, Google News, and YouTube feeds, filter by keywords, deduplicate entries, and generate reports.
 
-**Main script:** `competitor_monitor.py`  
+**Entry point:** `competitor_monitor.py` (`main()`)  
 **Automation:** GitHub Actions (`.github/workflows/daily_business_brief.yml`) — runs daily at 12:00 UTC (~06:00 Mexico City) and can be triggered manually.
 
 ## Repository layout
 
 ```
-competitor_monitor.py          # Full job logic (single source file)
+competitor_monitor.py          # Entry point: orchestrates load → collect → write
+config.py                      # Feeds, keywords, paths, section labels
+feeds.py                       # Feed fetching and entry text extraction
+filter.py                      # Keyword relevance check
+storage.py                     # seen.json load/save
+collector.py                   # Feed-group iteration and deduplication
+writers.py                     # CSV, Markdown, and HTML output writers
 requirements.txt               # feedparser>=6.0.11
 .github/workflows/
   daily_business_brief.yml     # CI: install deps, run script, commit outputs
@@ -42,7 +48,7 @@ There is no test suite, linter, or formatter config.
 - Direct blog RSS feeds, YouTube channel feeds (`/feeds/videos.xml`), and Google News RSS searches.
 - `_fetch_feed()` fetches manually with SSL bypass, gzip/deflate decompression, and `feedparser` parsing.
 - `KEYWORDS` includes: virtual commissioning, digital twin, simulation, factory, robot, plc, automation, opc ua, industrial, intralogistics, material handling, tia portal, omniverse.
-- To add a competitor or topic: edit `COMPETITOR_FEEDS` / `BUSINESS_KEYWORD_FEEDS` at the top of `competitor_monitor.py`.
+- To add a competitor or topic: edit `COMPETITOR_FEEDS` / `BUSINESS_KEYWORD_FEEDS` in `config.py`.
 
 ## Generated outputs
 
@@ -85,7 +91,7 @@ Workflow: `Daily Business Intelligence Brief`
    git checkout -- business_intelligence_brief.md business_intelligence_brief.csv docs/index.html data/seen.json
    ```
 2. **`seen.json` already has extensive history** — a normal run often reports `0 new posts`. To see populated output, temporarily reset it (`echo "{}" > data/seen.json`), run, then restore (or use `reset_seen` in Actions).
-3. **No abstraction layer** — everything lives in one procedural script (~400 lines). Do not look for packages, modules, or an API.
+3. **Modular layout** — logic is split across flat modules at repo root; `competitor_monitor.py` is only the orchestrator.
 4. **Do not commit accidental data changes** — outputs are updated automatically by CI; manual brief edits are usually noise.
 5. **`data/latest_by_topic.json`** exists in the repo but is **not used** by the current script; ignore it unless explicitly integrated.
 
@@ -93,9 +99,11 @@ Workflow: `Daily Business Intelligence Brief`
 
 | Task | Where to change |
 |------|-----------------|
-| Add competitor / feed | `COMPETITOR_FEEDS` in `competitor_monitor.py` |
-| Add business topic | `BUSINESS_KEYWORD_FEEDS` |
-| Adjust relevance filter | `KEYWORDS` list |
-| Change HTML styling | inline CSS block in `competitor_monitor.py` (~line 319) |
+| Add competitor / feed | `COMPETITOR_FEEDS` in `config.py` |
+| Add business topic | `BUSINESS_KEYWORD_FEEDS` in `config.py` |
+| Adjust relevance filter | `KEYWORDS` list in `config.py` |
+| Change feed fetch logic | `feeds.py` |
+| Change collection / dedup logic | `collector.py` |
+| Change HTML styling | inline CSS block in `writers.py` |
 | Change CI schedule | cron in `daily_business_brief.yml` |
 | Change dependencies | `requirements.txt` |

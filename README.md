@@ -11,6 +11,12 @@ This repository generates a daily brief focused on:
 - `business_intelligence_brief.csv` : structured data export
 - `data/seen.json` : history of seen links to avoid duplicates
 
+## Project structure
+
+- `competitor_monitor.py` — entry point
+- `config.py` — feed URLs, keywords, output paths
+- `feeds.py`, `filter.py`, `storage.py`, `collector.py`, `writers.py` — fetch, filter, dedup, and report logic
+
 ## Run locally
 
 ```bash
