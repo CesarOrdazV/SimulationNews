@@ -1,72 +1,72 @@
 # AGENTS.md
 
-Guía de contexto para agentes de IA. Consulta este archivo antes de explorar el repositorio completo.
+Context guide for AI agents. Read this file before exploring the full repository.
 
-## Qué es este proyecto
+## What this project is
 
-Monitor diario de inteligencia competitiva en **automatización industrial** (virtual commissioning, digital twin, simulación PLC/robots, intralogistics). Un único script Python recopila noticias de feeds RSS, Google News y YouTube, filtra por palabras clave, evita duplicados y genera informes.
+A daily competitive-intelligence monitor for **industrial automation** (virtual commissioning, digital twin, PLC/robot simulation, intralogistics). A single Python script collects news from RSS, Google News, and YouTube feeds, filters by keywords, deduplicates entries, and generates reports.
 
-**Script principal:** `competitor_monitor.py`  
-**Automatización:** GitHub Actions (`.github/workflows/daily_business_brief.yml`) — corre diario a las 12:00 UTC (~06:00 Ciudad de México) y puede dispararse manualmente.
+**Main script:** `competitor_monitor.py`  
+**Automation:** GitHub Actions (`.github/workflows/daily_business_brief.yml`) — runs daily at 12:00 UTC (~06:00 Mexico City) and can be triggered manually.
 
-## Estructura del repositorio
+## Repository layout
 
 ```
-competitor_monitor.py          # Lógica completa del job (único archivo de código)
+competitor_monitor.py          # Full job logic (single source file)
 requirements.txt               # feedparser>=6.0.11
 .github/workflows/
-  daily_business_brief.yml     # CI: instala deps, ejecuta script, commitea outputs
+  daily_business_brief.yml     # CI: install deps, run script, commit outputs
 data/
-  seen.json                    # Historial de links vistos (deduplicación)
+  seen.json                    # Seen-link history (deduplication)
 docs/
-  index.html                   # Página estática estilizada (GitHub Pages)
-business_intelligence_brief.md # Informe legible en Markdown
-business_intelligence_brief.csv# Exportación estructurada
-README.md                      # Documentación para humanos
+  index.html                   # Styled static page (GitHub Pages)
+business_intelligence_brief.md # Human-readable Markdown report
+business_intelligence_brief.csv# Structured CSV export
+README.md                      # Human-facing documentation
 ```
 
-No hay tests, linter ni configuración de formateo.
+There is no test suite, linter, or formatter config.
 
-## Flujo de datos
+## Data flow
 
-1. **Carga** `data/seen.json` — dict `{ "section:topic": [link, ...] }`.
-2. **Recorre dos grupos de feeds:**
+1. **Load** `data/seen.json` — dict `{ "section:topic": [link, ...] }`.
+2. **Iterate two feed groups:**
    - `COMPETITOR_FEEDS` — NVIDIA, RoboDK, Siemens, Visual Components, Rockwell/Emulate3D, AnyLogic, F.EE.
-   - `BUSINESS_KEYWORD_FEEDS` — Virtual Commissioning, Digital Twin, PLC Simulation, Robot Simulation, Intralogistics Simulation (vía Google News RSS).
-3. **Por cada entrada:** salta si el link ya está en `seen`, descarta si título+resumen no contienen ninguna de `KEYWORDS`.
-4. **Escribe outputs** con solo las entradas **nuevas** de esta ejecución (no un histórico acumulado).
-5. **Persiste** `seen.json` actualizado.
+   - `BUSINESS_KEYWORD_FEEDS` — Virtual Commissioning, Digital Twin, PLC Simulation, Robot Simulation, Intralogistics Simulation (via Google News RSS).
+3. **For each entry:** skip if the link is already in `seen`; discard if title+summary contain none of `KEYWORDS`.
+4. **Write outputs** with only **new** entries from this run (not a cumulative history).
+5. **Persist** the updated `seen.json`.
 
-## Fuentes y filtrado
+## Sources and filtering
 
-- Feeds directos de blog RSS, feeds de canal YouTube (`/feeds/videos.xml`) y búsquedas Google News RSS.
-- `_fetch_feed()` hace fetch manual con SSL bypass, descompresión gzip/deflate y parseo con `feedparser`.
-- `KEYWORDS` incluye: virtual commissioning, digital twin, simulation, factory, robot, plc, automation, opc ua, industrial, intralogistics, material handling, tia portal, omniverse.
-- Para añadir un competidor o tema: editar los dicts `COMPETITOR_FEEDS` / `BUSINESS_KEYWORD_FEEDS` al inicio de `competitor_monitor.py`.
+- Direct blog RSS feeds, YouTube channel feeds (`/feeds/videos.xml`), and Google News RSS searches.
+- `_fetch_feed()` fetches manually with SSL bypass, gzip/deflate decompression, and `feedparser` parsing.
+- `KEYWORDS` includes: virtual commissioning, digital twin, simulation, factory, robot, plc, automation, opc ua, industrial, intralogistics, material handling, tia portal, omniverse.
+- To add a competitor or topic: edit `COMPETITOR_FEEDS` / `BUSINESS_KEYWORD_FEEDS` at the top of `competitor_monitor.py`.
 
-## Outputs generados
+## Generated outputs
 
-| Archivo | Formato | Contenido |
-|---------|---------|-----------|
-| `business_intelligence_brief.md` | Markdown | Secciones Business Keywords / Competitors, agrupadas por topic |
-| `business_intelligence_brief.csv` | CSV | columnas: section, topic, title, summary, published, link, source_url |
-| `docs/index.html` | HTML estático | Misma info con UI dark-mode; enlaces a .md y .csv |
-| `data/seen.json` | JSON | Estado de deduplicación (mutado en cada run) |
+| File | Format | Content |
+|------|--------|---------|
+| `business_intelligence_brief.md` | Markdown | Business Keywords / Competitors sections, grouped by topic |
+| `business_intelligence_brief.csv` | CSV | columns: section, topic, title, summary, published, link, source_url |
+| `docs/index.html` | Static HTML | Same data with dark-mode UI; links to .md and .csv |
+| `data/seen.json` | JSON | Deduplication state (mutated on every run) |
 
-Si no hay artículos nuevos, los informes dicen *"No new relevant articles found."*
+If there are no new articles, reports say *"No new relevant articles found."*
 
-## Ejecución local
+## Running locally
 
 ```bash
 python -m pip install -r requirements.txt
 python competitor_monitor.py
 ```
 
-Requiere acceso a internet (feeds externos). Vista previa de la página:
+Requires outbound internet (external feeds). Preview the page:
 
 ```bash
 python -m http.server 8000
-# Abrir http://localhost:8000/docs/index.html
+# Open http://localhost:8000/docs/index.html
 ```
 
 ## CI / GitHub Actions
@@ -74,28 +74,28 @@ python -m http.server 8000
 Workflow: `Daily Business Intelligence Brief`
 
 - **Schedule:** `0 12 * * *` (UTC)
-- **Manual dispatch:** input `reset_seen` (boolean) — vacía `data/seen.json` antes de generar
-- **Commit automático** de: `business_intelligence_brief.md`, `.csv`, `data/seen.json`, `docs/index.html`
-- Mensaje de commit: `chore: update daily business intelligence brief`
+- **Manual dispatch:** `reset_seen` input (boolean) — clears `data/seen.json` before generating
+- **Auto-commit** of: `business_intelligence_brief.md`, `.csv`, `data/seen.json`, `docs/index.html`
+- Commit message: `chore: update daily business intelligence brief`
 
-## Gotchas importantes para agentes
+## Important gotchas for agents
 
-1. **Ejecutar el script modifica archivos trackeados.** Si solo pruebas el entorno, restaura después:
+1. **Running the script mutates tracked files.** If you only test the environment, restore afterward:
    ```bash
    git checkout -- business_intelligence_brief.md business_intelligence_brief.csv docs/index.html data/seen.json
    ```
-2. **`seen.json` ya tiene historial extenso** — un run normal suele reportar `0 new posts`. Para ver output poblado, resetea temporalmente (`echo "{}" > data/seen.json`), ejecuta y restaura (o usa `reset_seen` en Actions).
-3. **No hay capa de abstracción** — todo vive en un solo script procedural (~400 líneas). No busques paquetes, módulos ni API.
-4. **No commitear cambios de datos accidentales** — los outputs se actualizan automáticamente por CI; cambios manuales al brief suelen ser ruido.
-5. **`data/latest_by_topic.json`** existe en el repo pero **no es usado** por el script actual; ignóralo salvo que se integre explícitamente.
+2. **`seen.json` already has extensive history** — a normal run often reports `0 new posts`. To see populated output, temporarily reset it (`echo "{}" > data/seen.json`), run, then restore (or use `reset_seen` in Actions).
+3. **No abstraction layer** — everything lives in one procedural script (~400 lines). Do not look for packages, modules, or an API.
+4. **Do not commit accidental data changes** — outputs are updated automatically by CI; manual brief edits are usually noise.
+5. **`data/latest_by_topic.json`** exists in the repo but is **not used** by the current script; ignore it unless explicitly integrated.
 
-## Tareas comunes
+## Common tasks
 
-| Tarea | Dónde actuar |
-|-------|--------------|
-| Añadir competidor / feed | `COMPETITOR_FEEDS` en `competitor_monitor.py` |
-| Añadir tema de negocio | `BUSINESS_KEYWORD_FEEDS` |
-| Ajustar filtro de relevancia | lista `KEYWORDS` |
-| Cambiar estilo HTML | bloque CSS inline en `competitor_monitor.py` (~línea 319) |
-| Cambiar horario CI | cron en `daily_business_brief.yml` |
-| Cambiar dependencias | `requirements.txt` |
+| Task | Where to change |
+|------|-----------------|
+| Add competitor / feed | `COMPETITOR_FEEDS` in `competitor_monitor.py` |
+| Add business topic | `BUSINESS_KEYWORD_FEEDS` |
+| Adjust relevance filter | `KEYWORDS` list |
+| Change HTML styling | inline CSS block in `competitor_monitor.py` (~line 319) |
+| Change CI schedule | cron in `daily_business_brief.yml` |
+| Change dependencies | `requirements.txt` |
