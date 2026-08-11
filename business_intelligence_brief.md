@@ -1,34 +1,16 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-08-11T13:22:11.578804+00:00
+Generated: 2026-08-11T22:41:42.425247+00:00
 
 ## Business Keywords
 
-### Robot Simulation
-
-- [Smart ways to address manufacturing challenges with automation and simulation - Aerospace Manufacturing and Design](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQczNPRzM2UDZTMTMzX0JzVzNDQ1YtQm00TXBGSDlsV3J2ZTlSV0dZZHR5UWlfTDQzTU5ScFhFY3BQc3hVcUJ5bk1VX3lBN0ktQ1JrVlQyVG1HUG9TZnZpYm1KQXlnT3FZbFNtWlAwa1A5SnREWFV6TEpmZkdndTFJN2NFa3d3NTZpQU1IUTM3OElMM3lXSVBMSExiTmxEVWdoVmJ5RmtNX0dXdlZIQTBnMWdpTGFmOUFaT2JRb08tYkc0MFNHY3l2MmJZZGVHWXBZUnZBRDgzQjhaX1ltUjlOMw?oc=5) (Tue, 02 Sep 2025 07:00:00 GMT)
-  Summary: Smart ways to address manufacturing challenges with automation and simulation Aerospace Manufacturing and Design
-  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
-- [ABB Brings Generative AI to RobotStudio for Faster Easier Robot Programming - Metrology and Quality News](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUhzbVJTSER4d04tdU9ydGxkRG9tWnlSNXZyVnlmbFBEZDdQV2tyYVFUX2dKX3loSDZQM3lFOWE4VFV4MW9ieEw2cFJ2dGZBTUNkd0R0UjNPeUpjZmhGQnFIaDlQa2ZINVF6dGlYQWJWM2gxOTh0Ql9YdV9JVnA5ZjU3NXBsanBCei1KWVRvUWhneVQtSjRWeEFQdm40MVVR?oc=5) (Wed, 08 Oct 2025 07:00:00 GMT)
-  Summary: ABB Brings Generative AI to RobotStudio for Faster Easier Robot Programming Metrology and Quality News
-  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
-- [32 Robotics Companies and Startups on the Forefront of Innovation 2026 - Built In](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RX3B5WDFKRk5GQlpMSXNSWEcxSVYybXFEOU1RdVhIbHpJemcxN3IwNG9yTmphRWxjZDFIeHpQYm9jc1RjaEN5N25lTmEtWm1rUXRaRTZOQ1BkTmVzSDZVZ3hSUDY3dw?oc=5) (Tue, 17 Feb 2026 08:00:00 GMT)
-  Summary: 32 Robotics Companies and Startups on the Forefront of Innovation 2026 Built In
-  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
+No new relevant articles found.
 
 ## Competitors
 
-### RoboDK
-
-- [What Advanced Surface Finishing Strategies Improve Robotic Machining for Complex Parts?](https://robodk.com/blog/surface-finishing-strategies-improve-robotic-machining/) (Tue, 11 Aug 2026 12:55:10 +0000)
-  Summary: Advanced robotic surface finishing involves a range of strategies that go beyond basic force-controlled sanding or polishing. These strategies open up a whole new set of possibilities by combining factors like adaptive impedance control, multi-axis toolpath generation, and robot-specific CAM software. If you are a manufacturer already using or considering robotic finishing, these advanced strategies can help you gain even more from your automated surface finishing solutions. They can provide...
-  Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Leading the Industrial AI revolution - Siemens](https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTUxcmpneUhXbTFpT3llM1F5SXpoSGttN1ZaU1dQcG9OaUp2RlBJRzJ3Mk5VeTFVc3ctU3RMeEoyX25iYWdFUW9LNVpEbHZ0LXNGWWhtYmNyck5xNll0Wko3VmEzdlhGQnFFQ3NaOEJlVjN2NmgzdjJZTFR0UlBjNTRn?oc=5) (Fri, 13 Feb 2026 22:25:58 GMT)
-  Summary: Leading the Industrial AI revolution Siemens
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [How Plant Simulation X AI-Powered Copilot Automates SimTalk](https://www.youtube.com/watch?v=oRbMAkCBDf8) (2026-08-11T00:14:29+00:00)
-  Summary: Discover how Plant Simulation X AI-Powered Copilot accelerates discrete event simulation workflows by helping engineers generate, understand, and optimize SimTalk code using AI. In this video, we explore how AI-powered assistance reduces the complexity of simulation modeling, speeds up SimTalk programming, and enables engineers to focus more on system optimization instead of manual coding. Learn how Plant Simulation X Copilot can generate SimTalk code from natural language prompts, simplify A...
+- [Enhancing electrical engineering design, integration, and automation with Siemens Capital](https://www.youtube.com/watch?v=kQ-LUWfos8Q) (2026-08-11T13:46:23+00:00)
+  Summary: Electrical and electronic systems are becoming more complex than ever. As industries embrace electrification, automation and software-defined functionality, engineering teams need smarter ways to design, integrate and validate across domains. In this video, discover how Siemens Capital helps transform E/E systems engineering with a unified, model-based, AI-powered approach. 🔹 From architecture definition and network design 🔹 To embedded software, electrical systems and harness engineering 🔹 C...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
 
