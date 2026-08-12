@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "How to Build a Real-Time 3D Digital Twin | Physical AI Day at SIGGRAPH 2026",
-    "summary": "Learn how to build a real-time 3D digital twin for rapid engineering design using NVIDIA Omniverse, CUDA-X libraries, AI physics models, and agentic engineering tools. This session from NVIDIA Physical AI Day at SIGGRAPH 2026 explores how leading simulation providers are leveraging NVIDIA technologies to enable real-time digital twins that accelerate design iteration and improve engineering workflows. It also looks at how Rivian is using Siemens technologies accelerated by NVIDIA and AI physi...",
-    "link": "https://www.youtube.com/watch?v=bgNxIdI_IBU",
-    "published": "2026-08-12 13:40",
+    "title": "Bring 3D Graphics Skills into Robotics & Digital Twins| Physical AI Day at SIGGRAPH 2026",
+    "summary": "3D artists and creators bring valuable skills to physical AI. Review this career panel from NVIDIA Physical AI Day at SIGGRAPH 2026 to hear how industry leaders have moved from 3D graphics and content creation into roles across robotics, AI, simulation, and digital twins. Panelists share what skills carried over, what they had to learn, and practical advice for others looking to make the same move. Learn more about careers at NVIDIA \u2192 https://nvda.ws/3SsociQ About NVIDIA Omniverse: NVIDIA Omn...",
+    "link": "https://www.youtube.com/watch?v=XkjHr_jIcLg",
+    "published": "2026-08-12 14:47",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
