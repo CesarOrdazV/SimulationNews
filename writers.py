@@ -25,7 +25,7 @@ def write_csv(items: list[dict], path) -> None:
 def write_markdown(items: list[dict], generated_at: str, path) -> None:
     with open(path, "w", encoding="utf-8") as file:
         file.write("# Industrial Automation Business Intelligence Brief\n\n")
-        file.write(f"Generated: {generated_at}\n\n")
+        file.write(f"Generated: {generated_at} (Mexico City)\n\n")
 
         if not items:
             file.write("No new relevant articles found.\n")
@@ -90,7 +90,9 @@ def write_html(items: list[dict], generated_at: str, path) -> None:
         file.write("  <div class=\"wrap\">\n")
         file.write("    <div class=\"hero\">\n")
         file.write("      <h1>Industrial Automation Business Intelligence Brief</h1>\n")
-        file.write(f"      <div>Generated (UTC): {html.escape(generated_at)}</div>\n")
+        file.write(
+            f"      <div>Updated: {html.escape(generated_at)} (Mexico City)</div>\n"
+        )
         file.write("    </div>\n")
 
         if not items:
