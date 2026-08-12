@@ -17,6 +17,7 @@ def write_csv(items: list[dict], path) -> None:
                 "link",
                 "source_url",
             ],
+            extrasaction="ignore",
         )
         writer.writeheader()
         writer.writerows(items)
@@ -28,7 +29,7 @@ def write_markdown(items: list[dict], generated_at: str, path) -> None:
         file.write(f"Generated: {generated_at} (Mexico City)\n\n")
 
         if not items:
-            file.write("No new relevant articles found.\n")
+            file.write("No relevant articles available.\n")
             return
 
         for section_key, section_title in SECTIONS:
@@ -36,7 +37,7 @@ def write_markdown(items: list[dict], generated_at: str, path) -> None:
             file.write(f"## {section_title}\n\n")
 
             if not section_items:
-                file.write("No new relevant articles found.\n\n")
+                file.write("No relevant articles available.\n\n")
                 continue
 
             current_topic = None
@@ -46,9 +47,10 @@ def write_markdown(items: list[dict], generated_at: str, path) -> None:
                     current_topic = item["topic"]
                     file.write(f"### {current_topic}\n\n")
 
+                fallback_note = " _(last seen)_" if item.get("is_fallback") else ""
                 file.write(
                     f"- [{item['title']}]({item['link']})"
-                    f" ({item['published']})\n"
+                    f" ({item['published']}){fallback_note}\n"
                 )
 
                 if item["summary"]:
@@ -96,14 +98,14 @@ def write_html(items: list[dict], generated_at: str, path) -> None:
         file.write("    </div>\n")
 
         if not items:
-            file.write("    <p>No new relevant articles found.</p>\n")
+            file.write("    <p>No relevant articles available.</p>\n")
         else:
             for section_key, section_title in SECTIONS:
                 section_items = [item for item in items if item["section"] == section_key]
                 file.write(f"    <h2>{html.escape(section_title)}</h2>\n")
 
                 if not section_items:
-                    file.write("    <p>No new relevant articles found.</p>\n")
+                    file.write("    <p>No relevant articles available.</p>\n")
                     continue
 
                 current_topic = None
@@ -122,10 +124,15 @@ def write_html(items: list[dict], generated_at: str, path) -> None:
                         + "</a></div>\n"
                     )
 
+                    meta_bits = []
                     if item["published"]:
+                        meta_bits.append("Published: " + html.escape(item["published"]))
+                    if item.get("is_fallback"):
+                        meta_bits.append("Last seen (no new articles)")
+                    if meta_bits:
                         file.write(
-                            "      <div class=\"meta\">Published: "
-                            + html.escape(item["published"])
+                            "      <div class=\"meta\">"
+                            + " · ".join(meta_bits)
                             + "</div>\n"
                         )
 
