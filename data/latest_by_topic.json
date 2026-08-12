@@ -1,1 +1,110 @@
-{}
+{
+  "competitors:NVIDIA": {
+    "section": "competitors",
+    "topic": "NVIDIA",
+    "title": "How to Build a Real-Time 3D Digital Twin | Physical AI Day at SIGGRAPH 2026",
+    "summary": "Learn how to build a real-time 3D digital twin for rapid engineering design using NVIDIA Omniverse, CUDA-X libraries, AI physics models, and agentic engineering tools. This session from NVIDIA Physical AI Day at SIGGRAPH 2026 explores how leading simulation providers are leveraging NVIDIA technologies to enable real-time digital twins that accelerate design iteration and improve engineering workflows. It also looks at how Rivian is using Siemens technologies accelerated by NVIDIA and AI physi...",
+    "link": "https://www.youtube.com/watch?v=bgNxIdI_IBU",
+    "published": "2026-08-12 13:40",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
+  },
+  "competitors:RoboDK": {
+    "section": "competitors",
+    "topic": "RoboDK",
+    "title": "What Advanced Surface Finishing Strategies Improve Robotic Machining for Complex Parts?",
+    "summary": "Advanced robotic surface finishing involves a range of strategies that go beyond basic force-controlled sanding or polishing. These strategies open up a whole new set of possibilities by combining factors like adaptive impedance control, multi-axis toolpath generation, and robot-specific CAM software. If you are a manufacturer already using or considering robotic finishing, these advanced strategies can help you gain even more from your automated surface finishing solutions. They can provide...",
+    "link": "https://robodk.com/blog/surface-finishing-strategies-improve-robotic-machining/",
+    "published": "2026-08-11 06:55",
+    "source_url": "https://robodk.com/blog/feed/"
+  },
+  "competitors:Siemens Digital Industries": {
+    "section": "competitors",
+    "topic": "Siemens Digital Industries",
+    "title": "The Wendell Microgrid: A Blueprint for Resilient, Sustainable Manufacturing",
+    "summary": "Reliable energy is essential for manufacturing facilities. Through close collaboration between the Siemens Electrification & Automation manufacturing team in Wendell and Siemens Real Estate (SRE), an intelligent microgrid was developed that generates, stores, and manages energy on site. The microgrid can provide 100% of the electricity required to maintain industrial operations, allowing the facility to continue production even when the external grid is unavailable.",
+    "link": "https://www.youtube.com/shorts/a_CVoYuWhKE",
+    "published": "2026-08-12 05:58",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
+  },
+  "competitors:Visual Components": {
+    "section": "competitors",
+    "topic": "Visual Components",
+    "title": "Connect an Epson Virtual Robot Controller using OPC UA",
+    "summary": "In this tutorial you will learn how to use OPC UA to connect Visual Components with an Epson Virtual Robot Controller running in Espon RC+ 8 Note: To complete this exercise you will need the following: Epson RC+ https://epson.com/robots-industrial-automation-development-software Epson RC+ Express https://epson.com/For-Work/Robots/Integrated-Options/Epson-RC%2B-Express/p/RRCPLUSEXPSW Post processor from the Visual Components Forum https://forum.visualcomponents.com/t/robot-program-post-process...",
+    "link": "https://www.youtube.com/watch?v=30gKeUl7Vxc",
+    "published": "2026-07-04 01:35",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg"
+  },
+  "competitors:Rockwell Automation": {
+    "section": "competitors",
+    "topic": "Rockwell Automation",
+    "title": "FactoryTalk Optix - ListView Configuration",
+    "summary": "This video demonstrates how to create and configure a ListView object in FactoryTalk Optix. The ListView object, which is new in FactoryTalk Optix v1.7, enables FactoryTalk Optix applications to display and interact with dynamic collections of data \u2014 such as recipes, alarms, production orders, and database records \u2014 using a scalable, data-driven interface. For more information, refer to https://rok.auto/4z75luj",
+    "link": "https://www.youtube.com/watch?v=ySXJZD3zoMY",
+    "published": "2026-08-06 14:38",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
+  },
+  "competitors:AnyLogic": {
+    "section": "competitors",
+    "topic": "AnyLogic",
+    "title": "A multi-layer digital twin framework for enhanced production resilience in railcar manufacturing - Springer Nature Link",
+    "summary": "A multi-layer digital twin framework for enhanced production resilience in railcar manufacturing Springer Nature Link",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rY3YwQkV6eTBCdU9GVTJNWUs4WVJVZU8xb3NYaHVBVC1KU0c5T0RpejdVOGd0VGtkS2dYNDZJakdFYXhnM1BwQ0d2ankyOHhHT3FQdEVBQXNMcUJKdHB6MWNJSUJvN1Vwam8xdw?oc=5",
+    "published": "2026-08-08 06:22",
+    "source_url": "https://news.google.com/rss/search?q=anylogic+simulation+digital+twin&hl=en&gl=US&ceid=US:en"
+  },
+  "competitors:F.EE / fescreen-sim": {
+    "section": "competitors",
+    "topic": "F.EE / fescreen-sim",
+    "title": "Wenn der Standard-Arbeitsraum nicht mehr ausreicht \u2013 Linearachsen f\u00fcr Roboter von F.EE",
+    "summary": "#AutomationEssentials \u2013 Linearachsen f\u00fcr Roboter: Wenn der Standard-Arbeitsraum nicht mehr ausreicht \u2699\ufe0f Roboter arbeiten pr\u00e4zise, sind aber in ihrer Reichweite begrenzt. In vielen Projekten steht man vor der H\u00fcrde: Wie erweitert man effizient und zukunftssicher die Arbeitsbereiche von Robotern? Die Antwort liegt in der Mobilit\u00e4t. Wir realisieren Universal-Verfahrachsen, die herstellerunabh\u00e4ngig funktionieren (Decke, Wand, Boden). Statt leichter Alternativen setzen wir auf ein Grundtr\u00e4gersyste...",
+    "link": "https://www.youtube.com/watch?v=P_BqFAwJCB8",
+    "published": "2026-04-08 06:25",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEUDfVb3q1VVyQubsAmwTPw"
+  },
+  "business:Virtual Commissioning": {
+    "section": "business",
+    "topic": "Virtual Commissioning",
+    "title": "PIA Automation to build BMW E-Drive assembly line with 46 robots and digital twin technology - Robotics & Automation News",
+    "summary": "PIA Automation to build BMW E-Drive assembly line with 46 robots and digital twin technology Robotics & Automation News",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObzV3YXJ1NktJel9jallFalJPLTAwbVpDYlJrWTNDaWFJOHdDbXJWejc0TS1BTno0TzVweHVFZG1faEdJYmRVRmhidlRodVhwMERTVl8yYXlxZlN1SkVZY0pRSkNybmNtaXhoMWtyY3d5YUVibXJyR04yYk02SUc2dUdKUWFsUDdYWVJrSE5VbWVDa0w3aGpXV3hPREhrTVFOVDBLajJHbmNyY3NtTmJPbXg5QkxXb1RxZkltY1ByNnBPbjJCRU5WZVNuVmxYWUp5SHM2VWVoWldMYXB2Yi0xZENRUQ?oc=5",
+    "published": "2026-08-06 08:09",
+    "source_url": "https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en"
+  },
+  "business:Digital Twin Manufacturing": {
+    "section": "business",
+    "topic": "Digital Twin Manufacturing",
+    "title": "A multi-layer digital twin framework for enhanced production resilience in railcar manufacturing - Springer Nature Link",
+    "summary": "A multi-layer digital twin framework for enhanced production resilience in railcar manufacturing Springer Nature Link",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rY3YwQkV6eTBCdU9GVTJNWUs4WVJVZU8xb3NYaHVBVC1KU0c5T0RpejdVOGd0VGtkS2dYNDZJakdFYXhnM1BwQ0d2ankyOHhHT3FQdEVBQXNMcUJKdHB6MWNJSUJvN1Vwam8xdw?oc=5",
+    "published": "2026-08-08 06:22",
+    "source_url": "https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en"
+  },
+  "business:PLC Simulation": {
+    "section": "business",
+    "topic": "PLC Simulation",
+    "title": "How To Simulate S7-1500 PLC With WinCC Unified In TIA Portal 2026 Emmanuel Emenike (oohCiULMvD) - Mshale",
+    "summary": "How To Simulate S7-1500 PLC With WinCC Unified In TIA Portal 2026 Emmanuel Emenike (oohCiULMvD) Mshale",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14ZFFVV2RobXNhbTQwaUQwYjJvSVlwX2FwQnB2LVZlTUVONzZFZmxXN3dJWXk0Y0k4aDRDZFZ2TGlCY2VFUDdLRVdiQjJLYlhsUHpUb3AyeUdVR3hxX3ZqNQ?oc=5",
+    "published": "2026-07-18 13:26",
+    "source_url": "https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en"
+  },
+  "business:Robot Simulation": {
+    "section": "business",
+    "topic": "Robot Simulation",
+    "title": "Key Features to Consider in Digital Twin and OLP Software - roboticstomorrow.com",
+    "summary": "Key Features to Consider in Digital Twin and OLP Software roboticstomorrow.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT05tNVRNbDFrRmN3WWNtaTRMenZVbUg3R0VYRkYxLXBtaGMxcFNicjFmb2JILUlONDhZZndMZkt1U3RFY0hxdkNVYk1rMEVoUTAzN0VfQjFNeDUtUE1MY3dvYWN0SVJoenJOalVZTE4zbkNwTk9fT0pSbTdQSGJqVEpxWHNrMGJaT2ZkanJtb0dLUFlTdF94RG81ZHRDbFZPODZNcVVDQzhNZVZIMS0wemhB?oc=5",
+    "published": "2026-07-09 06:57",
+    "source_url": "https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en"
+  },
+  "business:Intralogistics Simulation": {
+    "section": "business",
+    "topic": "Intralogistics Simulation",
+    "title": "'Humans being optional': Gartner says robots will dominate workload handling in 50% of new warehouses by 2030 - TechRadar",
+    "summary": "'Humans being optional': Gartner says robots will dominate workload handling in 50% of new warehouses by 2030 TechRadar",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdExuejNCdE5CdkhxcXZzVE11SWlIdFFNdkxmVTVnamx6ZG9NQ0hUZ1NfVFFnNDFMbnRlQzRZYS0tYzZVdFRleFR5X19TTnVRR2I2akVZRGpGU2hYMmFCdzJzYzMzd0RGZEljQ3pBSDlrSTNvTl9mdEhCYVFOdklQa0YxMmNCazYxZ25vS20tbFFWdkkzUk81RjRDU3VXbUp3a3RSMHdaUWg5R05oNWkwN2VyQklXU2pGM0dGaWpZTEhBQ2Q2aTMzdVByQTBqVUth?oc=5",
+    "published": "2026-04-23 01:00",
+    "source_url": "https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en"
+  }
+}
