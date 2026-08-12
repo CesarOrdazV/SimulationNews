@@ -18,6 +18,7 @@ feeds.py                       # Feed fetching and entry text extraction
 filter.py                      # Keyword relevance check
 storage.py                     # seen.json load/save
 collector.py                   # Feed-group iteration and deduplication
+datetime_utils.py              # America/Mexico_City formatting helpers
 writers.py                     # CSV, Markdown, and HTML output writers
 requirements.txt               # feedparser>=6.0.11
 .github/workflows/
@@ -40,8 +41,16 @@ There is no test suite, linter, or formatter config.
    - `COMPETITOR_FEEDS` — NVIDIA, RoboDK, Siemens, Visual Components, Rockwell/Emulate3D, AnyLogic, F.EE.
    - `BUSINESS_KEYWORD_FEEDS` — Virtual Commissioning, Digital Twin, PLC Simulation, Robot Simulation, Intralogistics Simulation (via Google News RSS).
 3. **For each entry:** skip if the link is already in `seen`; discard if title+summary contain none of `KEYWORDS`.
-4. **Write outputs** with only **new** entries from this run (not a cumulative history).
-5. **Persist** the updated `seen.json`.
+4. **Normalize timestamps** via `datetime_utils.py` (`America/Mexico_City`, format `YYYY-MM-DD HH:MM`) for entry `published` and report generation time.
+5. **Write outputs** with only **new** entries from this run (not a cumulative history).
+6. **Persist** the updated `seen.json`.
+
+## Date and time
+
+- All user-facing timestamps use **`America/Mexico_City`** (stdlib `zoneinfo`; no extra deps).
+- Helpers live in `datetime_utils.py`: `format_mexico_now()`, `format_entry_published()`, `format_mexico_datetime()`.
+- Format is `YYYY-MM-DD HH:MM` (no seconds). Markdown/HTML headers label the zone as `(Mexico City)`.
+- RSS `published` / `updated` values are converted from feedparser struct times (UTC) into Mexico City local time in `collector.py`.
 
 ## Sources and filtering
 
@@ -54,9 +63,9 @@ There is no test suite, linter, or formatter config.
 
 | File | Format | Content |
 |------|--------|---------|
-| `business_intelligence_brief.md` | Markdown | Business Keywords / Competitors sections, grouped by topic |
-| `business_intelligence_brief.csv` | CSV | columns: section, topic, title, summary, published, link, source_url |
-| `docs/index.html` | Static HTML | Same data with dark-mode UI; links to .md and .csv |
+| `business_intelligence_brief.md` | Markdown | Header `Generated: … (Mexico City)`; Business Keywords / Competitors sections, grouped by topic |
+| `business_intelligence_brief.csv` | CSV | columns: section, topic, title, summary, published, link, source_url (`published` in Mexico City time) |
+| `docs/index.html` | Static HTML | Header `Updated: … (Mexico City)`; same data with dark-mode UI; links to .md and .csv |
 | `data/seen.json` | JSON | Deduplication state (mutated on every run) |
 
 If there are no new articles, reports say *"No new relevant articles found."*
@@ -104,6 +113,7 @@ Workflow: `Daily Business Intelligence Brief`
 | Adjust relevance filter | `KEYWORDS` list in `config.py` |
 | Change feed fetch logic | `feeds.py` |
 | Change collection / dedup logic | `collector.py` |
+| Change timezone / datetime format | `datetime_utils.py` |
 | Change HTML styling | inline CSS block in `writers.py` |
 | Change CI schedule | cron in `daily_business_brief.yml` |
 | Change dependencies | `requirements.txt` |
