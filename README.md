@@ -11,6 +11,11 @@ This repository generates a daily brief focused on:
 - `business_intelligence_brief.csv` : structured data export
 - `docs/index.html` : static HTML page (GitHub Pages)
 - `data/seen.json` : history of seen links to avoid duplicates
+- `data/latest_by_topic.json` : last relevant article per topic/competitor (fallback when there is nothing new)
+
+Each topic or competitor always shows content when available:
+- **New articles this run** → only those new articles are listed
+- **No new articles** → the last stored article from `latest_by_topic.json` is shown instead
 
 Timestamps in reports (generation time and article `published`) use **America/Mexico_City**, formatted as `YYYY-MM-DD HH:MM` and labeled `(Mexico City)`.
 
@@ -19,7 +24,7 @@ Timestamps in reports (generation time and article `published`) use **America/Me
 - `competitor_monitor.py` — entry point
 - `config.py` — feed URLs, keywords, output paths
 - `datetime_utils.py` — Mexico City timezone helpers (`zoneinfo`)
-- `feeds.py`, `filter.py`, `storage.py`, `collector.py`, `writers.py` — fetch, filter, dedup, and report logic
+- `feeds.py`, `filter.py`, `storage.py`, `collector.py`, `writers.py` — fetch, filter, dedup, fallback, and report logic
 
 ## Run locally
 

@@ -51,7 +51,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add business_intelligence_brief.md business_intelligence_brief.csv data/seen.json docs/index.html
+          git add business_intelligence_brief.md business_intelligence_brief.csv data/seen.json data/latest_by_topic.json docs/index.html
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0

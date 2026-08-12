@@ -31,3 +31,23 @@ def format_entry_published(entry) -> str:
             continue
 
     return getattr(entry, "published", "") or getattr(entry, "updated", "")
+
+
+def parse_mexico_datetime(value: str) -> datetime | None:
+    if not value:
+        return None
+    try:
+        return datetime.strptime(value, DATETIME_FORMAT).replace(tzinfo=MEXICO_TZ)
+    except (TypeError, ValueError):
+        return None
+
+
+def is_published_newer(candidate: str, current: str) -> bool:
+    """Return True if candidate published time is strictly newer than current."""
+    candidate_dt = parse_mexico_datetime(candidate)
+    current_dt = parse_mexico_datetime(current)
+    if candidate_dt and current_dt:
+        return candidate_dt > current_dt
+    if candidate_dt and not current_dt:
+        return True
+    return False

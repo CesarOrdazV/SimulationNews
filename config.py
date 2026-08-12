@@ -75,6 +75,7 @@ SECTIONS = [
 
 DATA_DIR = Path("data")
 SEEN_FILE = DATA_DIR / "seen.json"
+LATEST_BY_TOPIC_FILE = DATA_DIR / "latest_by_topic.json"
 PAGES_DIR = Path("docs")
 CSV_OUTPUT = Path("business_intelligence_brief.csv")
 MARKDOWN_OUTPUT = Path("business_intelligence_brief.md")
