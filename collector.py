@@ -1,4 +1,5 @@
 from config import BUSINESS_KEYWORD_FEEDS, COMPETITOR_FEEDS
+from datetime_utils import format_entry_published
 from feeds import extract_entry_description, fetch_feed
 from filter import is_relevant
 
@@ -43,7 +44,7 @@ def collect_from_feed_group(section: str, feeds_by_topic: dict, seen: dict) -> l
                             "title": title,
                             "summary": summary,
                             "link": link,
-                            "published": getattr(entry, "published", ""),
+                            "published": format_entry_published(entry),
                             "source_url": url,
                         }
                     )

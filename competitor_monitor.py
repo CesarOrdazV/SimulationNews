@@ -14,9 +14,8 @@ Outputs:
 - docs/index.html
 """
 
-from datetime import datetime, timezone
-
 from collector import collect_all
+from datetime_utils import format_mexico_now
 from config import CSV_OUTPUT, HTML_OUTPUT, MARKDOWN_OUTPUT
 from storage import load_seen, save_seen
 from writers import write_csv, write_html, write_markdown
@@ -27,7 +26,7 @@ def main() -> None:
     new_items = collect_all(seen)
     save_seen(seen)
 
-    generated_at = datetime.now(timezone.utc).isoformat()
+    generated_at = format_mexico_now()
 
     write_csv(new_items, CSV_OUTPUT)
     write_markdown(new_items, generated_at, MARKDOWN_OUTPUT)
