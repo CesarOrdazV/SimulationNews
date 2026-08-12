@@ -9,12 +9,16 @@ This repository generates a daily brief focused on:
 
 - `business_intelligence_brief.md` : human-readable report for GitHub
 - `business_intelligence_brief.csv` : structured data export
+- `docs/index.html` : static HTML page (GitHub Pages)
 - `data/seen.json` : history of seen links to avoid duplicates
+
+Timestamps in reports (generation time and article `published`) use **America/Mexico_City**, formatted as `YYYY-MM-DD HH:MM` and labeled `(Mexico City)`.
 
 ## Project structure
 
 - `competitor_monitor.py` — entry point
 - `config.py` — feed URLs, keywords, output paths
+- `datetime_utils.py` — Mexico City timezone helpers (`zoneinfo`)
 - `feeds.py`, `filter.py`, `storage.py`, `collector.py`, `writers.py` — fetch, filter, dedup, and report logic
 
 ## Run locally
