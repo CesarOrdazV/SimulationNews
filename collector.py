@@ -82,9 +82,9 @@ def collect_from_feed_group(
                     seen[seen_key].append(link)
 
                 print(
-                    f"  [{section}] {topic}: {total} entradas | "
-                    f"{already_seen} ya vistas | {not_relevant} sin keywords | "
-                    f"{total - already_seen - not_relevant} nuevas"
+                    f"  [{section}] {topic}: {total} entries | "
+                    f"{already_seen} already seen | {not_relevant} no keywords | "
+                    f"{total - already_seen - not_relevant} new"
                 )
 
             except Exception as exc:
