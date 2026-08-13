@@ -1,13 +1,13 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-08-12 15:37 (Mexico City)
+Generated: 2026-08-13 07:27 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [Virtual twins simplify manufacturing processes - Computer&Automation](https://news.google.com/rss/articles/CBMisgFBVV95cUxORndNLTVHVGlHMTlFam84Sk83NEpjN2p3VEFnY3dkSDR1YkxyS2tKQnhpc0sxNzJqV1E3dmNXa2wzOFd1cXRWUEp1a1p4T09pUXVreWNNeHdBanI5YWVOZGZRR3J0QU1pdjBhZTRSQ3RxbXc1eW5icTNvcnNLNHVfXzRwN2FocUdmLWRnOGlVcjd2TGZ0dHJvcjN5UkZzelZRVkVqMVYtaWVFTkFoX1pTOFl3?oc=5) (2024-04-24 01:00)
-  Summary: Virtual twins simplify manufacturing processes Computer&Automation
+- [PIA Automation to build BMW E-Drive assembly line with 46 robots and digital twin technology - Robotics & Automation News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxObzV3YXJ1NktJel9jallFalJPLTAwbVpDYlJrWTNDaWFJOHdDbXJWejc0TS1BTno0TzVweHVFZG1faEdJYmRVRmhidlRodVhwMERTVl8yYXlxZlN1SkVZY0pRSkNybmNtaXhoMWtyY3d5YUVibXJyR04yYk02SUc2dUdKUWFsUDdYWVJrSE5VbWVDa0w3aGpXV3hPREhrTVFOVDBLajJHbmNyY3NtTmJPbXg5QkxXb1RxZkltY1ByNnBPbjJCRU5WZVNuVmxYWUp5SHM2VWVoWldMYXB2Yi0xZENRUQ?oc=5) (2026-08-06 08:09) _(last seen)_
+  Summary: PIA Automation to build BMW E-Drive assembly line with 46 robots and digital twin technology Robotics & Automation News
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
@@ -16,8 +16,14 @@ Generated: 2026-08-12 15:37 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [How To Simulate S7-1500 PLC With WinCC Unified In TIA Portal 2026 Emmanuel Emenike (oohCiULMvD) - Mshale](https://news.google.com/rss/articles/CBMiYEFVX3lxTE14ZFFVV2RobXNhbTQwaUQwYjJvSVlwX2FwQnB2LVZlTUVONzZFZmxXN3dJWXk0Y0k4aDRDZFZ2TGlCY2VFUDdLRVdiQjJLYlhsUHpUb3AyeUdVR3hxX3ZqNQ?oc=5) (2026-07-18 13:26) _(last seen)_
-  Summary: How To Simulate S7-1500 PLC With WinCC Unified In TIA Portal 2026 Emmanuel Emenike (oohCiULMvD) Mshale
+- [Programmable Logic Controller (PLC) Market Size & Forecast - Market Growth Reports](https://news.google.com/rss/articles/CBMinwFBVV95cUxNcGJGUVdwVnc2TDlpR09pQ3dxRHExTnpDLTVNVC1fMkxFZXh6RTVhUGozeE0zTlVibTR2aGlnZGV3X1JZTzdSWjBOaTFLdXVyWTdZLTU2akE4ejZfUDZLU1UtWjk3Q1NZRmVRbmxzM3JMbVhjZXdEbkVNWV9COFg4cGZVWWt4dHphLS1KTWlLYl9VaUw1TmhJRGVReWx1TmM?oc=5) (2026-07-24 01:00)
+  Summary: Programmable Logic Controller (PLC) Market Size & Forecast Market Growth Reports
+  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
+- [Video: Mitsubishi Electric Automation releases MELSOFT Gemini 3D simulator software - Electronics360](https://news.google.com/rss/articles/CBMizwFBVV95cUxNcTlkWVVKZWpJb054TUl4aFpyZzkxcFFrbi1UVnlWdVRuZ3BlX3k2dkhDZnBVb0NQTl9kVjltRm05dDUzakRpMVZJY2hLYzBzZmlhT0RLZTk3Tkw2cE1PUVpYUGV3OWFVdklUNVVkMXhaZUw4NDhoQWNvSWx6ZGFHT2xEQXk4MHRISTVydGllZE51LUpqTWt0M3Eza0wxbzhUYzB3cUl1d0FhMVU2T0E1U29SX2llSE1KSFJtTnZZcy1aVTkydGR4eHh3WmxqOWM?oc=5) (2023-02-02 02:00)
+  Summary: Video: Mitsubishi Electric Automation releases MELSOFT Gemini 3D simulator software Electronics360
+  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
+- [Simulation, automated functions in new Coe PLC help reduce press feed line setup time - Canadian Metalworking](https://news.google.com/rss/articles/CBMiigJBVV95cUxONlhBTjVFQ2hENFh1VV9oTmZKSVd4VTBtbXQzNlFEZ2lSTjJ6Sk9LbU9PTEdBdmZDa2xpci1EbzRoaDJOQjJNbk1Ba001NjFpZzRSNmVoRjB3UFRSWGJlbS1iSlZMLVFFbl9DV0hIU2xRUHBWYmZnUUVUd0FNTFZmOXlad0RuLW1wYWUyUnJZVVhLQUZDYzVWYmJOZHdPUE16OEdDNU5uNjMzV1dpT1JfcEVPLWJONWhsSjdIZEpnczJpa1FDYklOa19wbWZnaFRmNEkxMHdIOGpmNTg0SFFKZEQyaVBtLTF2b3VORGNJcGxSUGNvWV9hOFA4XzJFcW4zbkVaZ3cxRTBPUQ?oc=5) (2019-11-28 02:00)
+  Summary: Simulation, automated functions in new Coe PLC help reduce press feed line setup time Canadian Metalworking
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
@@ -26,31 +32,16 @@ Generated: 2026-08-12 15:37 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- ['Humans being optional': Gartner says robots will dominate workload handling in 50% of new warehouses by 2030 - TechRadar](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdExuejNCdE5CdkhxcXZzVE11SWlIdFFNdkxmVTVnamx6ZG9NQ0hUZ1NfVFFnNDFMbnRlQzRZYS0tYzZVdFRleFR5X19TTnVRR2I2akVZRGpGU2hYMmFCdzJzYzMzd0RGZEljQ3pBSDlrSTNvTl9mdEhCYVFOdklQa0YxMmNCazYxZ25vS20tbFFWdkkzUk81RjRDU3VXbUp3a3RSMHdaUWg5R05oNWkwN2VyQklXU2pGM0dGaWpZTEhBQ2Q2aTMzdVByQTBqVUth?oc=5) (2026-04-23 01:00) _(last seen)_
-  Summary: 'Humans being optional': Gartner says robots will dominate workload handling in 50% of new warehouses by 2030 TechRadar
+- [Brightpick launches ‘highest-throughput robotic fulfillment system ever developed’ - Robotics & Automation News](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY2N6T3BYdmp5ZGE0azA2dlQ1OURPRXo1b0pQUW1QTVdLWGpYemJzRld5RlliY1JNaVJVUmt0T0RwdURmLXRzQ0tObHBBc1hOMFEzY1RjcGF4aUxUREtxbjl0cF9aeEVOeUgtSkZGN1Uwalh6SW9nX2V3U3VRUDh5SW9PZlNPVzNhOHNqMW43X0lqZUZ6cDV3OUp5WkFvdGNNSzZ6bUl0U2ppRXlYS1FHYzNHV0l0RmdFRTIwbE9lcUNDMkxHaE9rdER1RmlUNFRUYXc?oc=5) (2026-03-17 01:00)
+  Summary: Brightpick launches ‘highest-throughput robotic fulfillment system ever developed’ Robotics & Automation News
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
 
 ### NVIDIA
 
-- [Bring 3D Graphics Skills into Robotics & Digital Twins| Physical AI Day at SIGGRAPH 2026](https://www.youtube.com/watch?v=XkjHr_jIcLg) (2026-08-12 14:47)
-  Summary: 3D artists and creators bring valuable skills to physical AI. Review this career panel from NVIDIA Physical AI Day at SIGGRAPH 2026 to hear how industry leaders have moved from 3D graphics and content creation into roles across robotics, AI, simulation, and digital twins. Panelists share what skills carried over, what they had to learn, and practical advice for others looking to make the same move. Learn more about careers at NVIDIA → https://nvda.ws/3SsociQ About NVIDIA Omniverse: NVIDIA Omn...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
-- [AV Simulation with NuRec, Cosmos-Dreams, & 3D Gaussian Splatting | Physical AI Day at SIGGRAPH 2026](https://www.youtube.com/watch?v=mv5o3mYsT74) (2026-08-12 14:44)
-  Summary: Photorealistic driving simulation is moving from minutes of offline compute to interactive, real-time exploration on a single GPU. This session from NVIDIA Physical AI Day at SIGGRAPH 2026 covers two complementary approaches that make this possible: neural scene reconstruction from real-world captures with NVIDIA Omniverse NuRec, and generative scenario synthesis with NVIDIA Cosmos-Dreams. The session addresses open problems and solutions in scene representation, temporal consistency, and con...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
-- [Physics-Aware RTX Apps with NVIDIA Omniverse Libraries | Physical AI Day at SIGGRAPH 2026](https://www.youtube.com/watch?v=PerKP_qR108) (2026-08-12 14:31)
-  Summary: Learn how to build physics-aware, RTX-enabled simulation apps with NVIDIA Omniverse libraries. In this session from NVIDIA Physical AI Day at SIGGRAPH 2026, Damien Fagnou shows how developers can connect OpenUSD scenes, RTX rendering, physics, simulation, and UI capabilities into a working prototype starting from an existing 3D application. Lexi, an AI agent co-host, demonstrates how agents can inspect scenes, call tools, and speed up iteration, while Omniverse libraries provide the foundatio...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
-- [How to Build a Real-Time 3D Digital Twin | Physical AI Day at SIGGRAPH 2026](https://www.youtube.com/watch?v=bgNxIdI_IBU) (2026-08-12 13:40)
-  Summary: Learn how to build a real-time 3D digital twin for rapid engineering design using NVIDIA Omniverse, CUDA-X libraries, AI physics models, and agentic engineering tools. This session from NVIDIA Physical AI Day at SIGGRAPH 2026 explores how leading simulation providers are leveraging NVIDIA technologies to enable real-time digital twins that accelerate design iteration and improve engineering workflows. It also looks at how Rivian is using Siemens technologies accelerated by NVIDIA and AI physi...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
-- [Building SimReady 3D Worlds for Physical AI | Physical AI Day at SIGGRAPH 2026](https://www.youtube.com/watch?v=Ns8KEt6zOiU) (2026-08-12 13:35)
-  Summary: Physical AI needs more than realistic 3D graphics. Developers need simulation-ready 3D worlds with the semantics, scale, materials, physics, and validation required for robotics, AI training, and world model development. This session from NVIDIA Physical AI Day at SIGGRAPH 2026 shows how teams can use SimReady and OpenUSD-based assets to prepare 3D worlds for downstream physical AI workflows. Learn more about SimReady assets → https://nvda.ws/4wUAWgZ About NVIDIA Omniverse: NVIDIA Omniverse™...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
-- [OpenUSD for AI Agents and 3D Graphics Pipelines | Physical AI Day at SIGGRAPH 2026](https://www.youtube.com/watch?v=ewowRWicD4c) (2026-08-12 13:24)
-  Summary: OpenUSD helps developers build, connect, and validate 3D graphics pipelines for physical AI. As AI agents and open models help teams create simulation environments, developers need scene data they can direct, inspect, and trust. This session from NVIDIA Physical AI Day at SIGGRAPH 2026 covers how the latest OpenUSD standard supports modular, interoperable 3D worlds, and how NVIDIA is using OpenUSD across agentic physical AI workflows. Learn more about OpenUSD → https://nvda.ws/3Udqu5Q About N...
+- [Newton: Open-Source GPU Physics for Robot Simulation | Physical AI Day at SIGGRAPH 2026](https://www.youtube.com/watch?v=ElIyRboR1A8) (2026-08-12 16:50)
+  Summary: Robotics researchers and developers need faster, physically grounded simulation to model complex interactions and close the sim-to-real gap across diverse robot embodiments. This session from NVIDIA Physical AI Day at SIGGRAPH 2026 introduces Newton, an open-source, GPU-accelerated physics engine built on NVIDIA Warp. With OpenUSD integration, Newton enables real-time simulation of rigid and soft bodies, contact, friction, and actuators for advancing robot learning and simulation research. Le...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
@@ -59,8 +50,8 @@ Generated: 2026-08-12 15:37 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens and NEC collaborate to accelerate smart factory innovation - news.siemens.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFBzcHRlQ3dMaFlFOEd5LVF2SWx4VUhxejk4SmRHcEtaeTdzZlZrTWVTN2ZWR2RubDZhZVVjMXNnazMwa0dPLWpkWEh3dU9zaEhWc1ZnMm5EYU5GZ2pZcDhfakZtTVdKbEJiMVloTzFfaw?oc=5) (2025-11-04 02:00)
-  Summary: Siemens and NEC collaborate to accelerate smart factory innovation news.siemens.com
+- [FIA selects Siemens as Official Digital Twin Sponsor - Siemens Newsroom](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJU1hIN2xHNWh4VFFzVld5UVlldFZIMklycjFyTVNpellfbE93YjFvS2hQSm1xclBIM0dTWkZDcC0xVWtKdFkwRV9SajV4NHVyZWw2UTNpVUgxRG1V?oc=5) (2025-09-12 09:05)
+  Summary: FIA selects Siemens as Official Digital Twin Sponsor Siemens Newsroom
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
 ### Visual Components
 
