@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Newton: Open-Source GPU Physics for Robot Simulation | Physical AI Day at SIGGRAPH 2026",
-    "summary": "Robotics researchers and developers need faster, physically grounded simulation to model complex interactions and close the sim-to-real gap across diverse robot embodiments. This session from NVIDIA Physical AI Day at SIGGRAPH 2026 introduces Newton, an open-source, GPU-accelerated physics engine built on NVIDIA Warp. With OpenUSD integration, Newton enables real-time simulation of rigid and soft bodies, contact, friction, and actuators for advancing robot learning and simulation research. Le...",
-    "link": "https://www.youtube.com/watch?v=ElIyRboR1A8",
-    "published": "2026-08-12 16:50",
+    "title": "How Siemens Energy Is Using AI & Digital Twins to Modernize the Grid",
+    "summary": "Grid operations are becoming more dynamic and Siemens Energy is using AI and simulation to keep pace. \ud83d\udca1 Siemens Energy's Rishabh Mishra joined Lara Sophie Bothur to share how NVIDIA Omniverse, Isaac Sim, Cosmos and Metropolis Blueprint for video search and summarization are helping power digital twins, autonomous inspection robots and visual AI agents for the grid. \ud83d\udd17 Learn More: https://nvda.ws/45oZbrM",
+    "link": "https://www.youtube.com/shorts/ziATvUYuAZg",
+    "published": "2026-08-14 16:53",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "The Wendell Microgrid: A Blueprint for Resilient, Sustainable Manufacturing",
-    "summary": "Reliable energy is essential for manufacturing facilities. Through close collaboration between the Siemens Electrification & Automation manufacturing team in Wendell and Siemens Real Estate (SRE), an intelligent microgrid was developed that generates, stores, and manages energy on site. The microgrid can provide 100% of the electricity required to maintain industrial operations, allowing the facility to continue production even when the external grid is unavailable.",
-    "link": "https://www.youtube.com/shorts/a_CVoYuWhKE",
-    "published": "2026-08-12 05:58",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
+    "title": "Siemens SMB Manufacturing & Engineering Collection: Design smarter",
+    "summary": "Discover how the Siemens SMB Engineering and Manufacturing Collection gives small and medium industrial businesses the tools to design, simulate, and manufacture smarter in one connected platform. From generative design to integrated CAM and dynamic simulation, the SMB Collection helps your team find optimal part geometries early, prepare for production faster, and validate performance before the first prototype is built. Engineers can apply stage modeling, simulate machining operations, and...",
+    "link": "https://www.youtube.com/watch?v=_mWHhmtuwB4",
+    "published": "2026-08-14 10:06",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
   },
   "competitors:Visual Components": {
     "section": "competitors",
@@ -83,10 +83,10 @@
   "business:PLC Simulation": {
     "section": "business",
     "topic": "PLC Simulation",
-    "title": "Programmable Logic Controller (PLC) Market Size & Forecast - Market Growth Reports",
-    "summary": "Programmable Logic Controller (PLC) Market Size & Forecast Market Growth Reports",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcGJGUVdwVnc2TDlpR09pQ3dxRHExTnpDLTVNVC1fMkxFZXh6RTVhUGozeE0zTlVibTR2aGlnZGV3X1JZTzdSWjBOaTFLdXVyWTdZLTU2akE4ejZfUDZLU1UtWjk3Q1NZRmVRbmxzM3JMbVhjZXdEbkVNWV9COFg4cGZVWWt4dHphLS1KTWlLYl9VaUw1TmhJRGVReWx1TmM?oc=5",
-    "published": "2026-07-24 01:00",
+    "title": "Next-Generation Helmet Design Integrates Simulation, Additive Manufacturing, & AI - Design News",
+    "summary": "Next-Generation Helmet Design Integrates Simulation, Additive Manufacturing, & AI Design News",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFNWZi1vTms1OXp0dkNMcFY5amIyWF9nVjlGeXRta0tUUTlCS0t2ZEpKZ2gtMVBBSnB0WjF6dVVPeVFNclRLY0dNZGlKVnJqWHZ0NDlXcm16bHI5SGx2SGttcW0xRGE2YnhyTlp1X3lYd0ZRTHBhZkpGVG5iYklXZEtJODd5Y0ZjeDBrMGpQZDBjSElFZHBJaWRBeG12QUVJVzhMOHc3MjZTaW45WWdNdVpQMms0ckU?oc=5",
+    "published": "2026-07-29 01:00",
     "source_url": "https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Robot Simulation": {

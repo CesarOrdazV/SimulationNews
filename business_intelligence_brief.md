@@ -1,37 +1,34 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-08-14 07:22 (Mexico City)
+Generated: 2026-08-15 06:51 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [Robot Software Market Size, Share & Growth Report 2035 | MRFR - Market Research Future](https://news.google.com/rss/articles/CBMie0FVX3lxTFBmZzBpNjFUcWJRYUFBamlXSU5ieDdPTWcxb2U0VjZUTXV5d1l3bmhvdG1ld0xaX1FwT3pQOEJDb2lNOE1EZy1uYUw0WlNpYW5DMThYOEg0alM0SlE1SEZvemxpSi1KWFIxNGxWNXRUUFlxc2J4T2NkMmlUaw?oc=5) (2026-07-22 01:00)
-  Summary: Robot Software Market Size, Share & Growth Report 2035 | MRFR Market Research Future
+- [Fanuc America Plans $90M for Future Robotics Expansion in the US - AI Insider](https://news.google.com/rss/articles/CBMiowFBVV95cUxPQTRNWWh5bkVRanNaUFRUNzNtSkVFX3J6dm9kVHVmMUxzcm9MT1hMM3VRaGhtSkdBZXVTaWtEbkl6S1pkZExjX2dZS1hJakFRZWZRdEYtbDMxVlRiSjJtaEs3SFUzRWRHbW0yVkN4c1pRWFYyOUFQNUJqU3RScDhJR2dPeldWbjNRbjlacGRpZy1pZjhhNWFycTRLRVpaWGU5d0FF?oc=5) (2026-03-24 01:00)
+  Summary: Fanuc America Plans $90M for Future Robotics Expansion in the US AI Insider
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Simulation for battery manufacturing - siemens.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZU9rYUF4UUQ4OFpOQXRST29VV0h3VUcxR2ZPQWlXOUdSM0czek5wWFByaDRydFhYTlhORkpEN3MyeGZwOUgxNGVYYmFmYWl1Y0JpSmdMUUdWUGhQYjlib0ZiWkI4YXFyWTJEZlRNVFhaWFhFbnBvckNCNEZUZw?oc=5) (2026-08-13 08:59)
+- [Simulation for battery manufacturing - siemens.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZU9rYUF4UUQ4OFpOQXRST29VV0h3VUcxR2ZPQWlXOUdSM0czek5wWFByaDRydFhYTlhORkpEN3MyeGZwOUgxNGVYYmFmYWl1Y0JpSmdMUUdWUGhQYjlib0ZiWkI4YXFyWTJEZlRNVFhaWFhFbnBvckNCNEZUZw?oc=5) (2026-08-13 08:59) _(last seen)_
   Summary: Simulation for battery manufacturing siemens.com
-  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
-- [SPX Flow and Siemens collaborate on digital twin and AI product design - World Pumps](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXl4bHRvc2NNMUMtM0hLS0M0LXliS2ZIOEV0dXhhWTV2bThJTkgtNXhHS3NpTTJ6TmVGR1JWSDdlU3IwMEkyQjBqNDFJcDduX1cyaXU3bkI5ckNoaVNNMHdkREJyVFRVci1QTlZzYk1wdUlOWTRjT2hHbXRJUDFReDNmMXZVa0Q2a0wzQ1I0NFpmYkFUUGZKcXBJV2FYWThURkNubHFoRjBQMWlkVTlN?oc=5) (2025-01-29 02:00)
-  Summary: SPX Flow and Siemens collaborate on digital twin and AI product design World Pumps
-  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
-- [BMW's New Virtual Factory Technology May Cut Production Planning Costs By 30%: Report - ACKO Drive](https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWY3MTB1MU9vTVd0TXZsM0I3LTlpVnVPNDNBQnZod2VsVC02NV9wMTVra2RpcGVkU0RKZDgtQ1FrQzRzSEpNLVFHem1DOVBsMnktOFc0NEU0RDJjSDVLOVFXenZPRVkyRnpNVXdMSm1VRzZSVzQxdHl2SnRVWXpEcVBpMVp3aWxVV3BtWS1mNHRacks2Ukh2ME9rUVpZQ1M0QlpvLTREeWhFMGljc2xoVQ?oc=5) (2025-06-17 01:00)
-  Summary: BMW's New Virtual Factory Technology May Cut Production Planning Costs By 30%: Report ACKO Drive
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Programmable Logic Controller (PLC) Market Size & Forecast - Market Growth Reports](https://news.google.com/rss/articles/CBMinwFBVV95cUxNcGJGUVdwVnc2TDlpR09pQ3dxRHExTnpDLTVNVC1fMkxFZXh6RTVhUGozeE0zTlVibTR2aGlnZGV3X1JZTzdSWjBOaTFLdXVyWTdZLTU2akE4ejZfUDZLU1UtWjk3Q1NZRmVRbmxzM3JMbVhjZXdEbkVNWV9COFg4cGZVWWt4dHphLS1KTWlLYl9VaUw1TmhJRGVReWx1TmM?oc=5) (2026-07-24 01:00) _(last seen)_
-  Summary: Programmable Logic Controller (PLC) Market Size & Forecast Market Growth Reports
+- [Siemens boosts automation workflow with new TIA Portal V21 ... - eeNews Europe](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbm10Q2NKaGI2OG13QkVVelVoWkV2bmpxeDVVSkZUOFo5V05POERIeTVocmM2ZzJCOXdKS1kxWEVPc1NZUjItUVpyMkdGZjJORi02NUx1ZVMzOTFIVjBRSl9TTHNLc09udzBIbTdyRDhHMHQ4My04dnNZMXhQRHZFVFc2akpZRkNZNWhFQ1VKZEZsdEttcHc?oc=5) (2025-11-11 02:00)
+  Summary: Siemens boosts automation workflow with new TIA Portal V21 ... eeNews Europe
+  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
+- [Next-Generation Helmet Design Integrates Simulation, Additive Manufacturing, & AI - Design News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFNWZi1vTms1OXp0dkNMcFY5amIyWF9nVjlGeXRta0tUUTlCS0t2ZEpKZ2gtMVBBSnB0WjF6dVVPeVFNclRLY0dNZGlKVnJqWHZ0NDlXcm16bHI5SGx2SGttcW0xRGE2YnhyTlp1X3lYd0ZRTHBhZkpGVG5iYklXZEtJODd5Y0ZjeDBrMGpQZDBjSElFZHBJaWRBeG12QUVJVzhMOHc3MjZTaW45WWdNdVpQMms0ckU?oc=5) (2026-07-29 01:00)
+  Summary: Next-Generation Helmet Design Integrates Simulation, Additive Manufacturing, & AI Design News
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [Bringing Advanced Automation To Automotive Industry - roboticstomorrow.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVlYVnZKeWMtNDF5d1ozeFhMNk5SSi1nU0hDTWRwd2lyeDg1OGVkRThqR0pLeEhWcEZvZUJIN1UwZnpCUkU0TFYzMVJEU2FMakE4MDFJc1ZlT3hGNWRmTlc4RWM3QmRpMFBjVU5HcmtOYUUxSGVlRy1jZURVU1hNNHFQMEZBelp2UXV1clBGem1rUmhFSGh1Nmx5NDU4WkVwZGxfWWt2U2E?oc=5) (2020-05-05 02:00)
-  Summary: Bringing Advanced Automation To Automotive Industry roboticstomorrow.com
+- [Robotecki Redefines Robotics Precision Cutting and Drilling Applications with RoboDK - Robotics Tomorrow](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUjlKWWl1dmNyM04wT2g1Y25LQTFMVGRWMkNvNEZmSlFjUmRUSTBBeG1KVzZYbElUaDVHcFpBVHFmdXdNanBLLVFQT1VFakloVF84X3U4SDMxdlNobThkbjRZd3Nwd2N1RVNZS3FrNGk1TjJBRmxBSGV6SVZMWF9QYnAxM3JVVlFpQTJsSGR1cVVjbmdQdUFZVklmMThpT0hMZ0tBanJhdWNZUkliVnMzV3dtQXNUbERBWUZDTVVSdWFNSEtZVDJKbFFhT0N2bm1OMGFFVmlR?oc=5) (2026-01-07 02:00)
+  Summary: Robotecki Redefines Robotics Precision Cutting and Drilling Applications with RoboDK Robotics Tomorrow
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
-- [Industrial Digital Twins Scale Up in Scope, Complexity, and Applications - A3 Association for Advancing Automation](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTWd3MGhOVkNnc3NKZXNuMk95bEQtRk5Da0hoOVR3QmdQXy1hcGtjQnpXakdJWVU4clVOYTdWN3BRVXNGYkxQUVJSdC1ZWWsyUjk4NVBFVjBHYzRjeG1uRjhfMzd3M0huampaWUJOV0tXRkoyVFQ2QUpTb3FQcFJyVk51UFNMR0hIdkVxVkxKU25BbWxwcU81c3VFUQ?oc=5) (2024-08-08 01:00)
-  Summary: Industrial Digital Twins Scale Up in Scope, Complexity, and Applications A3 Association for Advancing Automation
+- [Augmented Reality helps students see the future of robot programming - ABB](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTM5bzN6bE1LTjE0TjktR1RrWFp3ZkRWRndJRXFnSUFQM2ZaaG5HSW5RZW9UeEJERzlRQ0VWeEdPMXA4OFRCZDkzQnlPY29MN19VVmY2MTAxUDQtbTkzMEktWkpDMW9HNVpqamVrVWZ6R0Z4QVBtRDN4U0VpZWRuTVQ0X3dVOERrRl8zZElkN0xiWnRuY0JTRUs2U053R2JxMzZabld5eTRKV1FXbjlCWTVR?oc=5) (2022-06-02 02:00)
+  Summary: Augmented Reality helps students see the future of robot programming ABB
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
@@ -43,8 +40,8 @@ Generated: 2026-08-14 07:22 (Mexico City)
 
 ### NVIDIA
 
-- [Newton: Open-Source GPU Physics for Robot Simulation | Physical AI Day at SIGGRAPH 2026](https://www.youtube.com/watch?v=ElIyRboR1A8) (2026-08-12 16:50) _(last seen)_
-  Summary: Robotics researchers and developers need faster, physically grounded simulation to model complex interactions and close the sim-to-real gap across diverse robot embodiments. This session from NVIDIA Physical AI Day at SIGGRAPH 2026 introduces Newton, an open-source, GPU-accelerated physics engine built on NVIDIA Warp. With OpenUSD integration, Newton enables real-time simulation of rigid and soft bodies, contact, friction, and actuators for advancing robot learning and simulation research. Le...
+- [How Siemens Energy Is Using AI & Digital Twins to Modernize the Grid](https://www.youtube.com/shorts/ziATvUYuAZg) (2026-08-14 16:53)
+  Summary: Grid operations are becoming more dynamic and Siemens Energy is using AI and simulation to keep pace. 💡 Siemens Energy's Rishabh Mishra joined Lara Sophie Bothur to share how NVIDIA Omniverse, Isaac Sim, Cosmos and Metropolis Blueprint for video search and summarization are helping power digital twins, autonomous inspection robots and visual AI agents for the grid. 🔗 Learn More: https://nvda.ws/45oZbrM
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
@@ -53,21 +50,15 @@ Generated: 2026-08-14 07:22 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens and NEC partner to develop robot teaching automation - Design World](https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2pMT3RCVWpBLVZNTDJ2VHhrSkZpQTMxVVVudy1fN1JDR0trQldiWnh2Zk4xWTNzM2p6ank1aUVncjduNGpva0tFOXNHSXBXZUxnQ2V1cXd6OHVwRFplVjFYbVdwUllxSU1XdXhZdHNrRFNOeU1abXZqNW00RFFMMHR0RU9GczBrTHBuLWdzaDZpWDR0cnZwXzFJdw?oc=5) (2025-11-07 02:00)
-  Summary: Siemens and NEC partner to develop robot teaching automation Design World
+- [Siemens' "Realize LIVE" Event: A New AI + Industrial Software Journey for One-Stop AI Solutions Advancement - 36Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VZk8tLWdBWkZxMUVVd05jbFdNNUJncFhOZkYxblVSWmpkcWNKZEJRTHdsTkZ3WDRUY2JxdUdlNVNBU3lHQ1N4NGg4bWlxcHhXbTFV?oc=5) (2025-06-03 01:00)
+  Summary: Siemens' "Realize LIVE" Event: A New AI + Industrial Software Journey for One-Stop AI Solutions Advancement 36Kr
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Siemens Introduces Advanced Digital Twin and Visualization Solutions in India - Machine Maker](https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1I5S3V1SlJ4T1p4WHdQNXR4TWtTTXFJSGNQblVBRW9XbGM2bWpIU1E2MTNxZmRzRmFDeUZ0ZUYzS3FpQjJtUld0OURXS1RkWW5lRm93UkxRQkVjNVB0SzZvVVIyOThfdDhTekFoNkpHTUhIQzBVTWhVRW45Z3Bjb0xURzg5U1Rxb0p0WWtvbG5ZcXYyTFNkYnU2a19NdFY2NnBPNEZlZUZJeF9qSUVoXw?oc=5) (2026-03-25 01:00)
-  Summary: Siemens Introduces Advanced Digital Twin and Visualization Solutions in India Machine Maker
+- [How digital twins are transforming aerospace development and testing - Aerospace Testing International](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHduQWJmRkJzRW41ajllanlYSk1kclVfUDdaZGNkMHVPR0RSakZHQkk0VEpBeFg0YzhWczlDQmcxWDVwLWh4ZUR1eHJXbTFoeTB2em15bjBiQzF3T1kzU2o3YUowdW5INFNRYlNmUFB4R3hTUGp0ckpXVndtZ0N6QW5CTHhIT0Jud3ZQQmgzUTFOLWZvYUlETVA0WHFYNC13Smc1bUJuVnI2Y2xOejJvd214TExINWpUNVpOcVA3SGt0YXlLd2Ew?oc=5) (2025-01-22 02:00)
+  Summary: How digital twins are transforming aerospace development and testing Aerospace Testing International
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [CES 2026: Siemens presents technologies to accelerate industrial AI - industrial-production.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnZINHF4THJGS1BIYl9rbm5HbmZKbEhuNXBGQVExU3FwTjhyd2ZKWUFYSlEwT0NQWjBvWTlmd0JhamV4aGhPaTJzWWExQmdQWHRDalFraTEtMlpTZFVVOEZHbGMyTWl2VkQtTkJXSWQySXE3Nmlpdzk1Q0NORU5PcTRXQmRCaGVXX0ZhVFFOV25haXMyRWNfa1pDbmFsWTc4Rk5XVlViRUJ0cWVBc25sTEFJa0JsNlRfVXV1U1NIQXdsTFRzamc?oc=5) (2026-01-13 02:00)
-  Summary: CES 2026: Siemens presents technologies to accelerate industrial AI industrial-production.de
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Is your digital twin comprehensive enough? - The Engineer](https://news.google.com/rss/articles/CBMijAFBVV95cUxOTVo1UXBjOV9ZdTRvc0otdU81TU1IT3o1OENTNVhGREVCSFNiaFg1TWl0QWl2cHJJSkVzR3lSLVNvNnlybVRpZXVUekpzUVQ0UTRoeWYzb2JyQXFCNDNYOVZsR1hlVkRUanhJbHNGSnh2TzgyajlacUxzYXhIbWcxR3J6ay11dkpOTm0xUw?oc=5) (2025-04-24 01:00)
-  Summary: Is your digital twin comprehensive enough? The Engineer
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [SPX Flow and Siemens collaborate on digital twin and AI product design - World Pumps](https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXl4bHRvc2NNMUMtM0hLS0M0LXliS2ZIOEV0dXhhWTV2bThJTkgtNXhHS3NpTTJ6TmVGR1JWSDdlU3IwMEkyQjBqNDFJcDduX1cyaXU3bkI5ckNoaVNNMHdkREJyVFRVci1QTlZzYk1wdUlOWTRjT2hHbXRJUDFReDNmMXZVa0Q2a0wzQ1I0NFpmYkFUUGZKcXBJV2FYWThURkNubHFoRjBQMWlkVTlN?oc=5) (2025-01-29 02:00)
-  Summary: SPX Flow and Siemens collaborate on digital twin and AI product design World Pumps
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Siemens SMB Manufacturing & Engineering Collection: Design smarter](https://www.youtube.com/watch?v=_mWHhmtuwB4) (2026-08-14 10:06)
+  Summary: Discover how the Siemens SMB Engineering and Manufacturing Collection gives small and medium industrial businesses the tools to design, simulate, and manufacture smarter in one connected platform. From generative design to integrated CAM and dynamic simulation, the SMB Collection helps your team find optimal part geometries early, prepare for production faster, and validate performance before the first prototype is built. Engineers can apply stage modeling, simulate machining operations, and...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
 ### Visual Components
 
 - [Connect an Epson Virtual Robot Controller using OPC UA](https://www.youtube.com/watch?v=30gKeUl7Vxc) (2026-07-04 01:35) _(last seen)_
@@ -75,9 +66,9 @@ Generated: 2026-08-14 07:22 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
-- [FactoryTalk Optix - ListView Configuration](https://www.youtube.com/watch?v=ySXJZD3zoMY) (2026-08-06 14:38) _(last seen)_
-  Summary: This video demonstrates how to create and configure a ListView object in FactoryTalk Optix. The ListView object, which is new in FactoryTalk Optix v1.7, enables FactoryTalk Optix applications to display and interact with dynamic collections of data — such as recipes, alarms, production orders, and database records — using a scalable, data-driven interface. For more information, refer to https://rok.auto/4z75luj
-  Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
+- [Rockwell Automation Showcases Emulate3D Factory Test for the First Time at NVIDIA GTC 2025 - Medianet News Hub](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRldVb25FLVhmMGctTktFSGJNQ254UEZrSXpMUGFucDRkbkpRZmltLV9kck1lVDBHYmNpQlAwSXpmQnVadm5IdV95NFFKS3NQM2s0YjN0dnN3c0plbTdTQmlsZFptajd2RUVSU3VGSW1RTEgtMDVldnNmMFV1emVrbTBsa0VhMF9ySXlZUmhnUEtrclJJYnJMRlA3SkZQNjRVSS1RZWxqa0FwajVlQTl1ZWJGZnFEeHJBQW5WZV9hWFBxdVY3NFBEemdMVGZGNm5TeEFj?oc=5) (2025-03-13 01:00)
+  Summary: Rockwell Automation Showcases Emulate3D Factory Test for the First Time at NVIDIA GTC 2025 Medianet News Hub
+  Feed source: https://news.google.com/rss/search?q=rockwell+automation+emulate3d+digital+twin&hl=en&gl=US&ceid=US:en
 ### AnyLogic
 
 - [A multi-layer digital twin framework for enhanced production resilience in railcar manufacturing - Springer Nature Link](https://news.google.com/rss/articles/CBMibEFVX3lxTE9rY3YwQkV6eTBCdU9GVTJNWUs4WVJVZU8xb3NYaHVBVC1KU0c5T0RpejdVOGd0VGtkS2dYNDZJakdFYXhnM1BwQ0d2ankyOHhHT3FQdEVBQXNMcUJKdHB6MWNJSUJvN1Vwam8xdw?oc=5) (2026-08-08 06:22) _(last seen)_
