@@ -1,28 +1,28 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-08-16 06:52 (Mexico City)
+Generated: 2026-08-17 06:57 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [PIA Automation to build BMW E-Drive assembly line with 46 robots and digital twin technology - Robotics & Automation News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxObzV3YXJ1NktJel9jallFalJPLTAwbVpDYlJrWTNDaWFJOHdDbXJWejc0TS1BTno0TzVweHVFZG1faEdJYmRVRmhidlRodVhwMERTVl8yYXlxZlN1SkVZY0pRSkNybmNtaXhoMWtyY3d5YUVibXJyR04yYk02SUc2dUdKUWFsUDdYWVJrSE5VbWVDa0w3aGpXV3hPREhrTVFOVDBLajJHbmNyY3NtTmJPbXg5QkxXb1RxZkltY1ByNnBPbjJCRU5WZVNuVmxYWUp5SHM2VWVoWldMYXB2Yi0xZENRUQ?oc=5) (2026-08-06 08:09) _(last seen)_
-  Summary: PIA Automation to build BMW E-Drive assembly line with 46 robots and digital twin technology Robotics & Automation News
+- [Virtual PLC (vPLC) Deployment Market to Reach USD 1,217.5 - openPR.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFA5UUZaVWg2bk5WeUk1SDE3TUdNNnptVlhEMzE3eWJ1SmZ3MW9RcGRJZnAwMWVUOE1RZjlqeV8xbnJmTjZOdmhQV3hXU1AtaF9DV3o0U2kwVWJmUXZvOVR0TjB0TVhmakJmM2tNY295bTNuMlZ4WmctbEtQQ3huQ3A0RHdMVDg0enp6WU92NlRmR1BHMXc?oc=5) (2026-07-10 01:00)
+  Summary: Virtual PLC (vPLC) Deployment Market to Reach USD 1,217.5 openPR.com
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Simulation for battery manufacturing - siemens.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZU9rYUF4UUQ4OFpOQXRST29VV0h3VUcxR2ZPQWlXOUdSM0czek5wWFByaDRydFhYTlhORkpEN3MyeGZwOUgxNGVYYmFmYWl1Y0JpSmdMUUdWUGhQYjlib0ZiWkI4YXFyWTJEZlRNVFhaWFhFbnBvckNCNEZUZw?oc=5) (2026-08-13 08:59) _(last seen)_
-  Summary: Simulation for battery manufacturing siemens.com
+- [Siemens introduces Digital Twin Composer for large-scale digital twin environments - Robotics & Automation News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQQU9na0JsZ0FORm05eDZwT2hvNHVKcUROMGF6dDB2V0RGVlVMOEFsQWJ1M2hhUDV6T1d6YXZ5X3hDTE4xWmRxWDlkQWxTVmd0ODYyZnJoVkVzcXlkTWI1eGVFWTdSSmYwamhBeG9vbU1CSmVoVUhfMEtfVWlfcnlsNVJDNVlPZ0wzMEUxNmhMTFFqY3dub0N2WFhEbl9kQWNOR1lZMzdzWkpGNlNuenFVMlVEbVhXVmNrTTFYVUh1aUk3b0xscVRwWkxn?oc=5) (2026-01-28 02:00)
+  Summary: Siemens introduces Digital Twin Composer for large-scale digital twin environments Robotics & Automation News
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Next-Generation Helmet Design Integrates Simulation, Additive Manufacturing, & AI - Design News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFNWZi1vTms1OXp0dkNMcFY5amIyWF9nVjlGeXRta0tUUTlCS0t2ZEpKZ2gtMVBBSnB0WjF6dVVPeVFNclRLY0dNZGlKVnJqWHZ0NDlXcm16bHI5SGx2SGttcW0xRGE2YnhyTlp1X3lYd0ZRTHBhZkpGVG5iYklXZEtJODd5Y0ZjeDBrMGpQZDBjSElFZHBJaWRBeG12QUVJVzhMOHc3MjZTaW45WWdNdVpQMms0ckU?oc=5) (2026-07-29 01:00) _(last seen)_
-  Summary: Next-Generation Helmet Design Integrates Simulation, Additive Manufacturing, & AI Design News
+- [How Is Rockwell Automation's Stock Performance Compared to Other Industrial Stocks? - Yahoo Finance](https://news.google.com/rss/articles/CBMisgFBVV95cUxPblJkT1B3MUw0U19ST18xLUhiYWtxckg1SDg5S0ZESVZTTlpSV0JuanV5dkd4bHo0MW5SblZKVm56Z2tIbkhiRGUzbnd6SENqMkxRS0VQZV8tVFVFZVFoQ3FHMHY2M2JBMVpEZ2REbTZwTFlJZTliT0VxRDJhSjgzZzM0SnFjNFhkY1BlSGNVVld6VlpFN3JpMTRWYjA5X18tY1ZwcWRLNEY5ejI5ZmpNeFF3?oc=5) (2026-06-11 01:00)
+  Summary: How Is Rockwell Automation's Stock Performance Compared to Other Industrial Stocks? Yahoo Finance
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [Celebrating10 years of Innovation in Robotics - Robotics Tomorrow](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUtSX1ZuUjl0dHRKMmJGTy1kbFZ3YVljbE04cFV6X0hwTGhyTUZqXy15TkVJWmFWakhOMURhaEs4dTM3bmdrWmtrSkx3ZGtvN3hha2N3RkFUUWRSNFA3UE9fLVR3RmJlMzlnOE1BelA1WUNSbS1sM1N0ZnE1XzVhd0FIN2tMVXZGRmkwQl9pQ3ZOeS10NnFmSjBjZ1VuMm9DTEE?oc=5) (2025-01-21 02:00)
-  Summary: Celebrating10 years of Innovation in Robotics Robotics Tomorrow
+- [ABB makes manufacturing more sustainable by recycling and remanufacturing thousands of old robots - ABB](https://news.google.com/rss/articles/CBMickFVX3lxTFBkRFdGQjctZUp6U245T08tU2JRV0JHdHVqSC01WHRsVUJkU1B5VGRDb3lId3Nhb3gtWDlUb1FzZG50N0ZuQVRudWNXTnZNVUhiX2I3N0M5TnAzakxDczhvbktzTnBmdU5Kb3dFWFp4X2tBUQ?oc=5) (2020-07-08 02:00)
+  Summary: ABB makes manufacturing more sustainable by recycling and remanufacturing thousands of old robots ABB
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
@@ -49,14 +49,14 @@ Generated: 2026-08-16 06:52 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
 ### Visual Components
 
-- [Connect an Epson Virtual Robot Controller using OPC UA](https://www.youtube.com/watch?v=30gKeUl7Vxc) (2026-07-04 01:35) _(last seen)_
-  Summary: In this tutorial you will learn how to use OPC UA to connect Visual Components with an Epson Virtual Robot Controller running in Espon RC+ 8 Note: To complete this exercise you will need the following: Epson RC+ https://epson.com/robots-industrial-automation-development-software Epson RC+ Express https://epson.com/For-Work/Robots/Integrated-Options/Epson-RC%2B-Express/p/RRCPLUSEXPSW Post processor from the Visual Components Forum https://forum.visualcomponents.com/t/robot-program-post-process...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
+- [Anscer Robotics launches new autonomous mobile robot to replace manual cart movement in factories - Robotics & Automation News](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZUM5NG5iYWU0RWtvUDNrem13YWxhT2FKOEVGUDkwMnBPSmNLWTZqTUs5Y05QWVJqaG0wa1BUOU8xZ19ZWlFPdC1rMmNFSUE1MjRsM2JYN2MxSmVHMFdidktTd2RkMW9PWjVMSkdwSDQ3bVBhT0VOaGhZYUw5czZaVC1rSlI0Z2NOSVpfUnN3cUFMbVE2eWFpNE1tWVV6ZnlMVHBtWVI2b2ZLZjFZbDVWUFpHcmlTR1IwaUVxNmwyZTVLc2NfbnpwdnloYlZnRnlyX216YXpkdDNGMUlObUFLdEFhRUlMNXBW?oc=5) (2025-07-30 01:00)
+  Summary: Anscer Robotics launches new autonomous mobile robot to replace manual cart movement in factories Robotics & Automation News
+  Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 
-- [Rockwell Automation’s Suite of Tools: Streamlining Manufacturing from Design to Maintenance - DirectIndustry e-Magazine](https://news.google.com/rss/articles/CBMizgFBVV95cUxQb1g4UUJESHR3emYtNEIxMGdSSWloY1loQkx2Z2V4MG5YT012N2VJRWZvWkR3Rm82YTYtcElVeTAycHlaZ0tLV0tpeHJSSUU4ek50ellZdDU1Q0Zjbk5QbmY4TlRDXzY0a00zN3A2cUZrUVFfUzczZ0llUElJY1R5djhRN3lIYkpJUjFaNkY0SExYb2JZakhCaDlhekZIWmR3SkxEeTlWSENqbGQ3aXJJVFFKTGJxNW03UE1CN0Q0cHU4SjZwd1dTZVRSeWtTdw?oc=5) (2024-11-27 02:00)
-  Summary: Rockwell Automation’s Suite of Tools: Streamlining Manufacturing from Design to Maintenance DirectIndustry e-Magazine
-  Feed source: https://news.google.com/rss/search?q=rockwell+automation+emulate3d+digital+twin&hl=en&gl=US&ceid=US:en
+- [FactoryTalk Optix - ListView Configuration](https://www.youtube.com/watch?v=ySXJZD3zoMY) (2026-08-06 14:38) _(last seen)_
+  Summary: This video demonstrates how to create and configure a ListView object in FactoryTalk Optix. The ListView object, which is new in FactoryTalk Optix v1.7, enables FactoryTalk Optix applications to display and interact with dynamic collections of data — such as recipes, alarms, production orders, and database records — using a scalable, data-driven interface. For more information, refer to https://rok.auto/4z75luj
+  Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
 - [A multi-layer digital twin framework for enhanced production resilience in railcar manufacturing - Springer Nature Link](https://news.google.com/rss/articles/CBMibEFVX3lxTE9rY3YwQkV6eTBCdU9GVTJNWUs4WVJVZU8xb3NYaHVBVC1KU0c5T0RpejdVOGd0VGtkS2dYNDZJakdFYXhnM1BwQ0d2ankyOHhHT3FQdEVBQXNMcUJKdHB6MWNJSUJvN1Vwam8xdw?oc=5) (2026-08-08 06:22) _(last seen)_
