@@ -1,28 +1,31 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-08-17 06:57 (Mexico City)
+Generated: 2026-08-18 06:59 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [Virtual PLC (vPLC) Deployment Market to Reach USD 1,217.5 - openPR.com](https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFA5UUZaVWg2bk5WeUk1SDE3TUdNNnptVlhEMzE3eWJ1SmZ3MW9RcGRJZnAwMWVUOE1RZjlqeV8xbnJmTjZOdmhQV3hXU1AtaF9DV3o0U2kwVWJmUXZvOVR0TjB0TVhmakJmM2tNY295bTNuMlZ4WmctbEtQQ3huQ3A0RHdMVDg0enp6WU92NlRmR1BHMXc?oc=5) (2026-07-10 01:00)
-  Summary: Virtual PLC (vPLC) Deployment Market to Reach USD 1,217.5 openPR.com
+- [Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery - Control Design](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTVROWWFCejgyRnZEREVnWW5VS1lRN3pJbldobFZwV3A0a1VpNmRKOXFfc3UtMU83Z2NSNVNHZmRMeTEyRGl0dUxOZnNRX2xVSExtUDA0VENhdWVaWTZ4clc0akdKZXRHWXMzcnk1a09sSnB3aGN3YVlZckN2RkhFb1c1YS1oOTIzalFGUC1JR0xQQ1BnbHdCb2xOWmh4Mkcza2t2RURjLUhkZTZYUGhGUTRPOXZrM2JqM1FqZXlzek9vQU1XMmlOcjVyTzJYOVVpcUFBWjdjMWVOV1ZYcE5XYlE4akFYQ1JoNkpibDlYTkw1ZjZDUUhhTEl0MVhoQQ?oc=5) (2026-08-17 20:17)
+  Summary: Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery Control Design
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Siemens introduces Digital Twin Composer for large-scale digital twin environments - Robotics & Automation News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQQU9na0JsZ0FORm05eDZwT2hvNHVKcUROMGF6dDB2V0RGVlVMOEFsQWJ1M2hhUDV6T1d6YXZ5X3hDTE4xWmRxWDlkQWxTVmd0ODYyZnJoVkVzcXlkTWI1eGVFWTdSSmYwamhBeG9vbU1CSmVoVUhfMEtfVWlfcnlsNVJDNVlPZ0wzMEUxNmhMTFFqY3dub0N2WFhEbl9kQWNOR1lZMzdzWkpGNlNuenFVMlVEbVhXVmNrTTFYVUh1aUk3b0xscVRwWkxn?oc=5) (2026-01-28 02:00)
-  Summary: Siemens introduces Digital Twin Composer for large-scale digital twin environments Robotics & Automation News
+- [From Feature-Scale Simulation To Digital Twins: Helping Process Engineers Tackle Growing Complexity - Semiconductor Engineering](https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1dneXhCY2hyQXVmb2dQUFhBMlZPc3FsSDlPQlV0bGEwUm5rSzcwMF9hcktmRjRMb0ZOVmFfTjNGbDhYZm8yanNPU1R3WWFhUlFGNVdMY29BLTFYdDcwa3hKRTZDTmhZbGVVdzA5SExyQWQ1X0lIeDg2M2EtZXdHNF9jTXkzdWdIaWZjZkVNN3ZKSUYwRUNhSmVhV3ZhbXNZMWdCTjRTY0h6S1FfdUliWXk1dUNfaW1oa3ozYVZjTlh6YVhtckE?oc=5) (2026-07-16 01:00)
+  Summary: From Feature-Scale Simulation To Digital Twins: Helping Process Engineers Tackle Growing Complexity Semiconductor Engineering
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [How Is Rockwell Automation's Stock Performance Compared to Other Industrial Stocks? - Yahoo Finance](https://news.google.com/rss/articles/CBMisgFBVV95cUxPblJkT1B3MUw0U19ST18xLUhiYWtxckg1SDg5S0ZESVZTTlpSV0JuanV5dkd4bHo0MW5SblZKVm56Z2tIbkhiRGUzbnd6SENqMkxRS0VQZV8tVFVFZVFoQ3FHMHY2M2JBMVpEZ2REbTZwTFlJZTliT0VxRDJhSjgzZzM0SnFjNFhkY1BlSGNVVld6VlpFN3JpMTRWYjA5X18tY1ZwcWRLNEY5ejI5ZmpNeFF3?oc=5) (2026-06-11 01:00)
-  Summary: How Is Rockwell Automation's Stock Performance Compared to Other Industrial Stocks? Yahoo Finance
+- [A common digital twin for production transparency at Audi - automotivemanufacturingsolutions.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxPQXpleURZV19Dazlud0R4QVNFWjUxZEh6a01wQm0yWDRrYnJDeWdFLUl1T3U3VnI0UmNXX2VPYzZVSGJYYmpVZ0p2RURyaU1sQVlPdVRaVnBNNVpTMk5QVXNnOW1CbUhkd2dsMHRiSzBtS0pld2ktMzdJVEtJdU5vVGNTNG1zRXFIYnpRcllaVFRrTW5CcjhyZVhPMnV3ai1kUW1xbnR1Z3NYQkpnYlRjODlrN0k2R3BEMXVVTVktMUx6S0dITU9r?oc=5) (2026-04-09 01:00)
+  Summary: A common digital twin for production transparency at Audi automotivemanufacturingsolutions.com
+  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
+- [Software Defined Automation unveils scalable DevOps, OT platform - Engineering.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxNbERPZkdZT0k0R1JrOEZIYUZ0cXZWRmk1SldZQ1hWaTdzSUFjT2JHaWFNZTdjRHlYTmNLZzNhbXh3M3VUejVSRFNmd2dvTDA5bXFreGhDN1dQeE5UTktKdWxuV0oxbVZUS205LV8xelBVNkt3ZUhSRkZXN3NnVGxPamRCQnRNbDl4ZTd3U0pRWnFIOEMtSWZF?oc=5) (2025-05-14 01:00)
+  Summary: Software Defined Automation unveils scalable DevOps, OT platform Engineering.com
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [ABB makes manufacturing more sustainable by recycling and remanufacturing thousands of old robots - ABB](https://news.google.com/rss/articles/CBMickFVX3lxTFBkRFdGQjctZUp6U245T08tU2JRV0JHdHVqSC01WHRsVUJkU1B5VGRDb3lId3Nhb3gtWDlUb1FzZG50N0ZuQVRudWNXTnZNVUhiX2I3N0M5TnAzakxDczhvbktzTnBmdU5Kb3dFWFp4X2tBUQ?oc=5) (2020-07-08 02:00)
-  Summary: ABB makes manufacturing more sustainable by recycling and remanufacturing thousands of old robots ABB
+- [Key Features to Consider in Digital Twin and OLP Software - roboticstomorrow.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT05tNVRNbDFrRmN3WWNtaTRMenZVbUg3R0VYRkYxLXBtaGMxcFNicjFmb2JILUlONDhZZndMZkt1U3RFY0hxdkNVYk1rMEVoUTAzN0VfQjFNeDUtUE1MY3dvYWN0SVJoenJOalVZTE4zbkNwTk9fT0pSbTdQSGJqVEpxWHNrMGJaT2ZkanJtb0dLUFlTdF94RG81ZHRDbFZPODZNcVVDQzhNZVZIMS0wemhB?oc=5) (2026-07-09 06:57) _(last seen)_
+  Summary: Key Features to Consider in Digital Twin and OLP Software roboticstomorrow.com
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
@@ -34,8 +37,8 @@ Generated: 2026-08-17 06:57 (Mexico City)
 
 ### NVIDIA
 
-- [How Siemens Energy Is Using AI & Digital Twins to Modernize the Grid](https://www.youtube.com/shorts/ziATvUYuAZg) (2026-08-14 16:53) _(last seen)_
-  Summary: Grid operations are becoming more dynamic and Siemens Energy is using AI and simulation to keep pace. 💡 Siemens Energy's Rishabh Mishra joined Lara Sophie Bothur to share how NVIDIA Omniverse, Isaac Sim, Cosmos and Metropolis Blueprint for video search and summarization are helping power digital twins, autonomous inspection robots and visual AI agents for the grid. 🔗 Learn More: https://nvda.ws/45oZbrM
+- [Siemens Energy Is Reimagining the Grid with AI | NVIDIA Omniverse](https://www.youtube.com/shorts/jbyPjjQ4B7U) (2026-08-17 16:38)
+  Summary: Grid operations are becoming more dynamic and Siemens Energy is using AI and simulation to keep pace. 💡 Siemens Energy's Rishabh Mishra joined Lara Sophie Bothur to share how NVIDIA Omniverse, Isaac Sim, Cosmos and Metropolis Blueprint for video search and summarization are helping power digital twins, autonomous inspection robots and visual AI agents for the grid.
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
@@ -44,14 +47,17 @@ Generated: 2026-08-17 06:57 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens SMB Manufacturing & Engineering Collection: Design smarter](https://www.youtube.com/watch?v=_mWHhmtuwB4) (2026-08-14 10:06) _(last seen)_
-  Summary: Discover how the Siemens SMB Engineering and Manufacturing Collection gives small and medium industrial businesses the tools to design, simulate, and manufacture smarter in one connected platform. From generative design to integrated CAM and dynamic simulation, the SMB Collection helps your team find optimal part geometries early, prepare for production faster, and validate performance before the first prototype is built. Engineers can apply stage modeling, simulate machining operations, and...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [CNC Digital Twin Software Market Size, Share & Forecast 2036 - Fact.MR](https://news.google.com/rss/articles/CBMib0FVX3lxTFB4N1JaZW5xLW9VRm53OGlLWS1DRno4RTRnQmZUWnVDQ25MSFdUNFhFbGp0VDlra043N2ZUWWJQXzhPWHpJRUJVamN0VmNjSGtRd2Roc0ktWmNKbHV2Q1pZajBzQ1FWd1U2aVJWRG5IZw?oc=5) (2026-08-18 05:15)
+  Summary: CNC Digital Twin Software Market Size, Share & Forecast 2036 Fact.MR
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Intralogistics: What’s next for automation and material flow](https://www.youtube.com/watch?v=iYL0_otofcc) (2026-08-18 03:33)
+  Summary: Intralogistics is evolving fast - driven by automation, smarter software, and data-driven decision-making across warehouses and distribution centers. In this episode, we explore what’s next for intralogistics and how companies can improve efficiency, flexibility, and resilience in internal material flow. Listen to the conversation featuring Siemens’ Joel Thomas and Markus Thiel on Manufacturing Happy Hour, sharing perspectives on key intralogistics trends, practical use cases, and where techn...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
-- [Anscer Robotics launches new autonomous mobile robot to replace manual cart movement in factories - Robotics & Automation News](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZUM5NG5iYWU0RWtvUDNrem13YWxhT2FKOEVGUDkwMnBPSmNLWTZqTUs5Y05QWVJqaG0wa1BUOU8xZ19ZWlFPdC1rMmNFSUE1MjRsM2JYN2MxSmVHMFdidktTd2RkMW9PWjVMSkdwSDQ3bVBhT0VOaGhZYUw5czZaVC1rSlI0Z2NOSVpfUnN3cUFMbVE2eWFpNE1tWVV6ZnlMVHBtWVI2b2ZLZjFZbDVWUFpHcmlTR1IwaUVxNmwyZTVLc2NfbnpwdnloYlZnRnlyX216YXpkdDNGMUlObUFLdEFhRUlMNXBW?oc=5) (2025-07-30 01:00)
-  Summary: Anscer Robotics launches new autonomous mobile robot to replace manual cart movement in factories Robotics & Automation News
-  Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
+- [Connect an Epson Virtual Robot Controller using OPC UA](https://www.youtube.com/watch?v=30gKeUl7Vxc) (2026-07-04 01:35) _(last seen)_
+  Summary: In this tutorial you will learn how to use OPC UA to connect Visual Components with an Epson Virtual Robot Controller running in Espon RC+ 8 Note: To complete this exercise you will need the following: Epson RC+ https://epson.com/robots-industrial-automation-development-software Epson RC+ Express https://epson.com/For-Work/Robots/Integrated-Options/Epson-RC%2B-Express/p/RRCPLUSEXPSW Post processor from the Visual Components Forum https://forum.visualcomponents.com/t/robot-program-post-process...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
 - [FactoryTalk Optix - ListView Configuration](https://www.youtube.com/watch?v=ySXJZD3zoMY) (2026-08-06 14:38) _(last seen)_

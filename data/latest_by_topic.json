@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "How Siemens Energy Is Using AI & Digital Twins to Modernize the Grid",
-    "summary": "Grid operations are becoming more dynamic and Siemens Energy is using AI and simulation to keep pace. \ud83d\udca1 Siemens Energy's Rishabh Mishra joined Lara Sophie Bothur to share how NVIDIA Omniverse, Isaac Sim, Cosmos and Metropolis Blueprint for video search and summarization are helping power digital twins, autonomous inspection robots and visual AI agents for the grid. \ud83d\udd17 Learn More: https://nvda.ws/45oZbrM",
-    "link": "https://www.youtube.com/shorts/ziATvUYuAZg",
-    "published": "2026-08-14 16:53",
+    "title": "Siemens Energy Is Reimagining the Grid with AI | NVIDIA Omniverse",
+    "summary": "Grid operations are becoming more dynamic and Siemens Energy is using AI and simulation to keep pace. \ud83d\udca1 Siemens Energy's Rishabh Mishra joined Lara Sophie Bothur to share how NVIDIA Omniverse, Isaac Sim, Cosmos and Metropolis Blueprint for video search and summarization are helping power digital twins, autonomous inspection robots and visual AI agents for the grid.",
+    "link": "https://www.youtube.com/shorts/jbyPjjQ4B7U",
+    "published": "2026-08-17 16:38",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Siemens SMB Manufacturing & Engineering Collection: Design smarter",
-    "summary": "Discover how the Siemens SMB Engineering and Manufacturing Collection gives small and medium industrial businesses the tools to design, simulate, and manufacture smarter in one connected platform. From generative design to integrated CAM and dynamic simulation, the SMB Collection helps your team find optimal part geometries early, prepare for production faster, and validate performance before the first prototype is built. Engineers can apply stage modeling, simulate machining operations, and...",
-    "link": "https://www.youtube.com/watch?v=_mWHhmtuwB4",
-    "published": "2026-08-14 10:06",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
+    "title": "CNC Digital Twin Software Market Size, Share & Forecast 2036 - Fact.MR",
+    "summary": "CNC Digital Twin Software Market Size, Share & Forecast 2036 Fact.MR",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4N1JaZW5xLW9VRm53OGlLWS1DRno4RTRnQmZUWnVDQ25MSFdUNFhFbGp0VDlra043N2ZUWWJQXzhPWHpJRUJVamN0VmNjSGtRd2Roc0ktWmNKbHV2Q1pZajBzQ1FWd1U2aVJWRG5IZw?oc=5",
+    "published": "2026-08-18 05:15",
+    "source_url": "https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en"
   },
   "competitors:Visual Components": {
     "section": "competitors",
@@ -65,10 +65,10 @@
   "business:Virtual Commissioning": {
     "section": "business",
     "topic": "Virtual Commissioning",
-    "title": "PIA Automation to build BMW E-Drive assembly line with 46 robots and digital twin technology - Robotics & Automation News",
-    "summary": "PIA Automation to build BMW E-Drive assembly line with 46 robots and digital twin technology Robotics & Automation News",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObzV3YXJ1NktJel9jallFalJPLTAwbVpDYlJrWTNDaWFJOHdDbXJWejc0TS1BTno0TzVweHVFZG1faEdJYmRVRmhidlRodVhwMERTVl8yYXlxZlN1SkVZY0pRSkNybmNtaXhoMWtyY3d5YUVibXJyR04yYk02SUc2dUdKUWFsUDdYWVJrSE5VbWVDa0w3aGpXV3hPREhrTVFOVDBLajJHbmNyY3NtTmJPbXg5QkxXb1RxZkltY1ByNnBPbjJCRU5WZVNuVmxYWUp5SHM2VWVoWldMYXB2Yi0xZENRUQ?oc=5",
-    "published": "2026-08-06 08:09",
+    "title": "Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery - Control Design",
+    "summary": "Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery Control Design",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTVROWWFCejgyRnZEREVnWW5VS1lRN3pJbldobFZwV3A0a1VpNmRKOXFfc3UtMU83Z2NSNVNHZmRMeTEyRGl0dUxOZnNRX2xVSExtUDA0VENhdWVaWTZ4clc0akdKZXRHWXMzcnk1a09sSnB3aGN3YVlZckN2RkhFb1c1YS1oOTIzalFGUC1JR0xQQ1BnbHdCb2xOWmh4Mkcza2t2RURjLUhkZTZYUGhGUTRPOXZrM2JqM1FqZXlzek9vQU1XMmlOcjVyTzJYOVVpcUFBWjdjMWVOV1ZYcE5XYlE4akFYQ1JoNkpibDlYTkw1ZjZDUUhhTEl0MVhoQQ?oc=5",
+    "published": "2026-08-17 20:17",
     "source_url": "https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Digital Twin Manufacturing": {
