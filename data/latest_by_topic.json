@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Siemens Energy Is Reimagining the Grid with AI | NVIDIA Omniverse",
-    "summary": "Grid operations are becoming more dynamic and Siemens Energy is using AI and simulation to keep pace. \ud83d\udca1 Siemens Energy's Rishabh Mishra joined Lara Sophie Bothur to share how NVIDIA Omniverse, Isaac Sim, Cosmos and Metropolis Blueprint for video search and summarization are helping power digital twins, autonomous inspection robots and visual AI agents for the grid.",
-    "link": "https://www.youtube.com/shorts/jbyPjjQ4B7U",
-    "published": "2026-08-17 16:38",
+    "title": "Build Agent-Ready Physical AI Workflows with NVIDIA Omniverse Libraries",
+    "summary": "NVIDIA Omniverse libraries give developers and AI agents prebuilt tools for physical AI workflows. Skills chain those tools together into end-to-end pipelines, ready to run and ready to extend. In this video, explore three Omniverse skills: \ud83d\udc49 CAD to SimReady: Convert CAD assets into simulation-ready USD with geometry, materials, and physics. \ud83d\udc49 USD Performance Tuning: Profile and optimize large digital twin scenes for real-time simulation. \ud83d\udc49 Realtime Viewer: Inspect OpenUSD scenes with a viewe...",
+    "link": "https://www.youtube.com/watch?v=OrX_h1Ay7c0",
+    "published": "2026-08-18 16:32",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -20,20 +20,20 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "CNC Digital Twin Software Market Size, Share & Forecast 2036 - Fact.MR",
-    "summary": "CNC Digital Twin Software Market Size, Share & Forecast 2036 Fact.MR",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4N1JaZW5xLW9VRm53OGlLWS1DRno4RTRnQmZUWnVDQ25MSFdUNFhFbGp0VDlra043N2ZUWWJQXzhPWHpJRUJVamN0VmNjSGtRd2Roc0ktWmNKbHV2Q1pZajBzQ1FWd1U2aVJWRG5IZw?oc=5",
-    "published": "2026-08-18 05:15",
-    "source_url": "https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en"
+    "title": "Technoszorty: szybka pomoc \u2013 Eigen Engineering Agent: jak i do czego wykorzysta\u0107 to rozwi\u0105zanie?",
+    "summary": "Rozwi\u0105zania sztucznej inteligencji z powodzeniem stosowane s\u0105 w automatyce przemys\u0142owej. Z technologii tej mo\u017cna ju\u017c korzysta\u0107 r\u00f3wnie\u017c w trakcie pracy w TIA Portal. Jest to mo\u017cliwe dzi\u0119ki Eigen Engineering Agent. To cyfrowy Agent, kt\u00f3ry pomaga in\u017cynierom zwi\u0119kszy\u0107 ich efektywno\u015b\u0107, zmniejszy\u0107 obci\u0105\u017cenie powtarzalnymi zadaniami i wdro\u017cy\u0107 opart\u0105 o sztuczn\u0105 inteligencj\u0119 automatyzacj\u0119 do codziennych zada\u0144. Obejrzyj Technoszorty: szybka pomoc, by dowiedzie\u0107 si\u0119, w jaki spos\u00f3b i do czego mo\u017cna wykor...",
+    "link": "https://www.youtube.com/watch?v=ZTlgagg2HGg",
+    "published": "2026-08-19 02:10",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
   },
   "competitors:Visual Components": {
     "section": "competitors",
     "topic": "Visual Components",
-    "title": "Connect an Epson Virtual Robot Controller using OPC UA",
-    "summary": "In this tutorial you will learn how to use OPC UA to connect Visual Components with an Epson Virtual Robot Controller running in Espon RC+ 8 Note: To complete this exercise you will need the following: Epson RC+ https://epson.com/robots-industrial-automation-development-software Epson RC+ Express https://epson.com/For-Work/Robots/Integrated-Options/Epson-RC%2B-Express/p/RRCPLUSEXPSW Post processor from the Visual Components Forum https://forum.visualcomponents.com/t/robot-program-post-process...",
-    "link": "https://www.youtube.com/watch?v=30gKeUl7Vxc",
-    "published": "2026-07-04 01:35",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg"
+    "title": "Visual Components: Automation to Optimize Manufacturing Cost - cioreview.com",
+    "summary": "Visual Components: Automation to Optimize Manufacturing Cost cioreview.com",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXdEtlQ281NnZLOVNJcGtWRzNENnZsbkJrT3Nvc1NISGFDOE5YOE11MGpJQzVZU1NpVFNOQk42N2V5djVTRVBoR2w4WEx4TGtJV09xMjVGSFE3YW82?oc=5",
+    "published": "2026-08-18 08:24",
+    "source_url": "https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en"
   },
   "competitors:Rockwell Automation": {
     "section": "competitors",
@@ -92,10 +92,10 @@
   "business:Robot Simulation": {
     "section": "business",
     "topic": "Robot Simulation",
-    "title": "Key Features to Consider in Digital Twin and OLP Software - roboticstomorrow.com",
-    "summary": "Key Features to Consider in Digital Twin and OLP Software roboticstomorrow.com",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT05tNVRNbDFrRmN3WWNtaTRMenZVbUg3R0VYRkYxLXBtaGMxcFNicjFmb2JILUlONDhZZndMZkt1U3RFY0hxdkNVYk1rMEVoUTAzN0VfQjFNeDUtUE1MY3dvYWN0SVJoenJOalVZTE4zbkNwTk9fT0pSbTdQSGJqVEpxWHNrMGJaT2ZkanJtb0dLUFlTdF94RG81ZHRDbFZPODZNcVVDQzhNZVZIMS0wemhB?oc=5",
-    "published": "2026-07-09 06:57",
+    "title": "The Manufacturing Skills Gap Starts in The Classroom \u2013 Engineering Professor Claims - Robotics Tomorrow",
+    "summary": "The Manufacturing Skills Gap Starts in The Classroom \u2013 Engineering Professor Claims Robotics Tomorrow",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdjdodWhvWHFxM2FZelQ0bHlaUmR2ZlV3dWFSTjdubXFnTm1zWDZ3bWFtZERMd1c3WEV5eGdiTDFOekRsQ0NBQVNlSkZXQmN0YzVIa216dlo0TnNad0dBZU9sVk14TGdnU2Y4Q0JUQTNBWmNVNUlNRHpEVVYyWlVsTW1rV1lfMWhiblExMEo3VWNmaEtZV3RZYnpyTmphOURGWmhVdGVtUHRWTVNlMzVDRTItSjZxUGJuZm5DY0VtUGQ3d0VQeDlVQ2N1R1VrbW0tUVYyWXVENmd1TUpMbGc?oc=5",
+    "published": "2026-07-17 01:00",
     "source_url": "https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en"
   },
   "business:Intralogistics Simulation": {
