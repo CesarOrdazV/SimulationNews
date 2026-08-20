@@ -1,23 +1,26 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-08-19 06:59 (Mexico City)
+Generated: 2026-08-20 07:02 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [From concept to completion: How digital twins impact the entire product lifecycle - Manufacturing Today India](https://news.google.com/rss/articles/CBMivAFBVV95cUxPY29Kd1Q1T1hvRjE2Rm1MelY3cEtVMFJabnFlNmNrT0FDa2pQc3MxUllrU0JjZjIxeHd6MWp5V1RFbWx1YVhWa0NuTy1KQ0tIbVpnSU5EME9iUnVjQ3BscmNiNkNHSC14eE5GcmxKa2FnSHU2aG9GVk1QRmtkald1XzF3cG1wTVRLdDdJTUU4T1daX2FVUVpPSjZBS3dTMmZTS3k5Yk5Vb3JsS2VhQmQ5UEVPa000d0ljeXpwMw?oc=5) (2025-04-07 01:00)
-  Summary: From concept to completion: How digital twins impact the entire product lifecycle Manufacturing Today India
+- [Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery - Control Design](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTVROWWFCejgyRnZEREVnWW5VS1lRN3pJbldobFZwV3A0a1VpNmRKOXFfc3UtMU83Z2NSNVNHZmRMeTEyRGl0dUxOZnNRX2xVSExtUDA0VENhdWVaWTZ4clc0akdKZXRHWXMzcnk1a09sSnB3aGN3YVlZckN2RkhFb1c1YS1oOTIzalFGUC1JR0xQQ1BnbHdCb2xOWmh4Mkcza2t2RURjLUhkZTZYUGhGUTRPOXZrM2JqM1FqZXlzek9vQU1XMmlOcjVyTzJYOVVpcUFBWjdjMWVOV1ZYcE5XYlE4akFYQ1JoNkpibDlYTkw1ZjZDUUhhTEl0MVhoQQ?oc=5) (2026-08-17 20:17) _(last seen)_
+  Summary: Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery Control Design
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Simulation for battery manufacturing - siemens.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZU9rYUF4UUQ4OFpOQXRST29VV0h3VUcxR2ZPQWlXOUdSM0czek5wWFByaDRydFhYTlhORkpEN3MyeGZwOUgxNGVYYmFmYWl1Y0JpSmdMUUdWUGhQYjlib0ZiWkI4YXFyWTJEZlRNVFhaWFhFbnBvckNCNEZUZw?oc=5) (2026-08-13 08:59) _(last seen)_
-  Summary: Simulation for battery manufacturing siemens.com
+- [Understanding digital twin technology - SAS: Data and AI Solutions](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzVvOVBGaTlLcG1WM3A5R2theFY0anZyTGdUQnR4NHBvb09UVFk0RXhBU1h1ZzVManNPNXRYRl91R2dYX1Rta3JGODNScDlqWlZlaU5PYTl4eDlfZkdzQndEZkdGZGtDZ1ZxZ05fdEY5Tm1wS1I5czRNYTFsR3hDMjdGNzdCc0ZabUMwN3RzQjZDYWo1a2pHYWxlaE8?oc=5) (2025-04-29 01:00)
+  Summary: Understanding digital twin technology SAS: Data and AI Solutions
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Next-Generation Helmet Design Integrates Simulation, Additive Manufacturing, & AI - Design News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFNWZi1vTms1OXp0dkNMcFY5amIyWF9nVjlGeXRta0tUUTlCS0t2ZEpKZ2gtMVBBSnB0WjF6dVVPeVFNclRLY0dNZGlKVnJqWHZ0NDlXcm16bHI5SGx2SGttcW0xRGE2YnhyTlp1X3lYd0ZRTHBhZkpGVG5iYklXZEtJODd5Y0ZjeDBrMGpQZDBjSElFZHBJaWRBeG12QUVJVzhMOHc3MjZTaW45WWdNdVpQMms0ckU?oc=5) (2026-07-29 01:00) _(last seen)_
-  Summary: Next-Generation Helmet Design Integrates Simulation, Additive Manufacturing, & AI Design News
+- [Virtual PLCnext Control: A software-based controller for the industrial future - Mynewsdesk](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWVJweGZILTJaNWQ1cDYzWW51RE9jeDBlSUZzNFIxYUFRbnRkMzlLVWhlN0gwQnl4MFdGQUY4S09DU2lReDRZdVRrek10MXZWRFBjb0xUakhielF6dklUWXJ0S3p0WXlCc1dqMUZNdk9DZ3JRdVpMMlR6eHk3akRHRE9LYS1xSW9KVmpaVXJMVkdJS2hmY1ZYT3c3b3BpWGtxMkp5UGhJMXNGekI3TnJ6QXRZLXllXzZyNGV3aGNTZnJlRkY2UDBpcGdMekMwZ0Vxb0JKWk9MU25kQmxpa0lHSnNn?oc=5) (2026-02-09 02:00)
+  Summary: Virtual PLCnext Control: A software-based controller for the industrial future Mynewsdesk
+  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
+- [A software-based controller for the industrial future - August 2026 - Phoenix Contact - SA Instrumentation & Control](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBubndYQ2xGRHJkWkdXNDJMaUhIT0QyV2Jpa2wya3ZnZDJnUHoxSmRsUk1GNVkxamdmdlhudnZFMmNvbFN0RjJlblhvSGtTWWVtOEE?oc=5) (2026-08-07 05:59)
+  Summary: A software-based controller for the industrial future - August 2026 - Phoenix Contact SA Instrumentation & Control
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
@@ -26,18 +29,15 @@ Generated: 2026-08-19 06:59 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Siemens creates new vertical market dedicated to Intralogistics in the U.S. - Design World](https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWFFRkJNMDFBMEVDSFJHbzg5eklVY3YwOHJFU0psWkdtdnRRNXFCNmF2Z2FOMmktV2I3eWZTWlpJX19FY2pMblhTcDJWWUlYTERHaFRpV3h1dmd2YnZJWVRRNTNYZXl3aDBoWmp1bXNNd2s4N1pCVDJXRGQzQTRpeENENll4YjlKdVpxWnV3Unp6amQ1SHRxVUtrRW9PSGh6d3dwTWl2TjRDLVJGNWc?oc=5) (2023-03-16 01:00)
-  Summary: Siemens creates new vertical market dedicated to Intralogistics in the U.S. Design World
+- [The Power of Digital Twins - FoodTechBiz](https://news.google.com/rss/articles/CBMie0FVX3lxTE9kNThZSGl2TllNZV9OcmpySnRVNjliazBJdjY0WUd6V0NxQW9ZQUw4eEtTZy1PM2l6eWpYRFVsSTEtV0tPNU91YlpYMTU2X2NhUFhYdHBPeWpyOXUydUFCa0RVajBFRG9SSjFNcEJlOXV5MF9MT0ZmUnF5WdIBiAFBVV95cUxOTTBPcnBJMkNHRTZTWWlfdnRtWWQyX0d0Q0pQSjhfdVBVVnBwUmhDMWdEM3hqeUkwUkVJcmx5N3g1RURXY1I3VHNmS3FDdF9xWV9iMTBvaHhvckNpMERYVWVid29hZERxcENqMmE1bWdEMklJRGtsYUVHT2FNcUpLMnlRZG90b1BE?oc=5) (2023-04-21 01:00)
+  Summary: The Power of Digital Twins FoodTechBiz
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
 
 ### NVIDIA
 
-- [Build Agent-Ready Physical AI Workflows with NVIDIA Omniverse Libraries](https://www.youtube.com/watch?v=OrX_h1Ay7c0) (2026-08-18 16:32)
-  Summary: NVIDIA Omniverse libraries give developers and AI agents prebuilt tools for physical AI workflows. Skills chain those tools together into end-to-end pipelines, ready to run and ready to extend. In this video, explore three Omniverse skills: 👉 CAD to SimReady: Convert CAD assets into simulation-ready USD with geometry, materials, and physics. 👉 USD Performance Tuning: Profile and optimize large digital twin scenes for real-time simulation. 👉 Realtime Viewer: Inspect OpenUSD scenes with a viewe...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
-- [Build a Household Robot Workflow With NVIDIA Isaac and Cosmos](https://www.youtube.com/watch?v=QCpelD3TqWk) (2026-08-18 11:54)
+- [Build a Household Robot Workflow With NVIDIA Isaac and Cosmos](https://www.youtube.com/watch?v=QCpelD3TqWk) (2026-08-20 01:55) _(last seen)_
   Summary: Join NVIDIA Omniverse Ambassador Kimate Richards, Founder of 10Things, and Oliver Choy, COO of 10Things, for a practical look at how one real robot uses the NVIDIA robotics stack. They’ll show how NVIDIA Isaac Sim supports robot development and testing, how Apple Vision Pro is used for teleoperation and data collection, and how Isaac Lab, GR00T, and Cosmos help with training, reasoning, and evaluation. They’ll also cover the robot’s onboard stack, including Jetson Thor running Isaac ROS for n...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
@@ -47,22 +47,19 @@ Generated: 2026-08-19 06:59 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Technoszorty: szybka pomoc – Eigen Engineering Agent: jak i do czego wykorzystać to rozwiązanie?](https://www.youtube.com/watch?v=ZTlgagg2HGg) (2026-08-19 02:10)
-  Summary: Rozwiązania sztucznej inteligencji z powodzeniem stosowane są w automatyce przemysłowej. Z technologii tej można już korzystać również w trakcie pracy w TIA Portal. Jest to możliwe dzięki Eigen Engineering Agent. To cyfrowy Agent, który pomaga inżynierom zwiększyć ich efektywność, zmniejszyć obciążenie powtarzalnymi zadaniami i wdrożyć opartą o sztuczną inteligencję automatyzację do codziennych zadań. Obejrzyj Technoszorty: szybka pomoc, by dowiedzieć się, w jaki sposób i do czego można wykor...
+- [Siemens develops new acoustic digital twin for the Hallé St Peters - Siemens](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUU1HVDNmSXg5N0hwUVRneVE3Z0ZCV2tON0VGYndnOWRzZXlKN2lGTDJ5SUtJSDJsYWl2QmduSXQ0UG1saVNZSTFEb1VZS28xSUpCeGo2eXJGLUo2V05aM3J5RFlGWG1HTlQ2Vkdwa1NZRjVKRGg1enhkTFJmU1VVN1R5VDNHdDUzMTU5b3BEbTB5bVZxcXpZSDk2U2dwSjQ?oc=5) (2026-07-16 03:03)
+  Summary: Siemens develops new acoustic digital twin for the Hallé St Peters Siemens
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Industrial AI Beyond the Hype: Context, Reasoning and Autonomous Action - with James Loach](https://www.youtube.com/watch?v=ki__ZxAMmXE) (2026-08-20 05:31)
+  Summary: Welcome to the Trend Detection podcast, brought to you by Senseye Predictive Maintenance – which gives you visibility and insights into all your assets, from single machines to full plants to help you reduce downtime, increase knowledge sharing and accelerate digital transformation across your organization. In this episode of the Trend Detection Podcast, we're joined by James Loach, Head of Research for Senseye Predictive Maintenance at Siemens, to explore what industrial AI means in practice...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [Episódio 02: Transformando a Indústria de Alimentos e Bebidas](https://www.youtube.com/watch?v=T6niTXj6QEM) (2026-08-18 14:37)
-  Summary: Como a tecnologia garante eficiência e segurança no que chega à sua mesa? Neste episódio, nossos especialistas discutem manutenção preditiva, IoT e blockchain na indústria de A&B, trazendo o papel da Siemens na digitalização industrial e quais tipos de carreira atuam no setor!
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [Leve a automação industrial para um novo nível com AS-i](https://www.youtube.com/watch?v=XkrT1epiJBM) (2026-08-18 11:11)
-  Summary: Com a solução AS-i, da Siemens, a sua operação ganha uma infraestrutura de automação mais simples, flexível e inteligente. Ao integrar dados e energia em um único cabo, a tecnologia reduz o tempo de instalação, simplifica expansões e otimiza a comunicação entre dispositivos. Tudo isso com integração ao TIA Portal para levar mais rapidez, escalabilidade e performance à sua indústria. 🔗 Descubra como modernizar sua automação: https://sie.ag/44DUt
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [Eigen Engineering Agent: AI-assistanse direkte i TIA Portal](https://www.youtube.com/watch?v=FCdhe9-_oaU) (2026-08-18 07:35)
-  Summary: Eigen Engineering Agent er en ny AI-drevet assistent utviklet spesielt for automatiseringsingeniører som jobber i TIA Portal. I denne videoen presenterer Matthias Flach hva verktøyet gjør, hvordan det fungerer, og hva det betyr for ingeniørteam som opplever stadig mer press i arbeidshverdagen. Ingeniører bruker i dag en stor del av arbeidstiden på repetitive, manuelle oppgaver, prosjektoppsett, skriving av standardkode, gjentatte endringer i titalls blokker, dokumentasjonsarbeid og rutinemess...
+- [The Tech Behind Racing (and more)](https://www.youtube.com/shorts/YXk2DeR_Nek) (2026-08-19 09:00)
+  Summary: The technology shaping race day has applications far beyond racing. From Andretti Global NTT INDYCAR SERIES cars to critical systems for the U.S. government, Siemens digital twin technology is helping organizations prepare, test, and adapt before real-world decisions are on the line. #Freedom250 #Freedom250GrandPrix #DC250
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
-- [Visual Components: Automation to Optimize Manufacturing Cost - cioreview.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXdEtlQ281NnZLOVNJcGtWRzNENnZsbkJrT3Nvc1NISGFDOE5YOE11MGpJQzVZU1NpVFNOQk42N2V5djVTRVBoR2w4WEx4TGtJV09xMjVGSFE3YW82?oc=5) (2026-08-18 08:24)
-  Summary: Visual Components: Automation to Optimize Manufacturing Cost cioreview.com
+- [Realtime Robotics Launches Visual Components and MELSOFT Gemini Integrations for Resolver - The AI Journal](https://news.google.com/rss/articles/CBMirwFBVV95cUxQejdRRllIcnc1VTlMUnhoZDdkbTBjOExXOTJvektkT1dKcUM2SC02eGZDUFVCM2pGTXVRbXR5NllRVTZ0Tm1hOXNCVjhlU3RWdWZONG9lVDc5T3U2cDR2VmpYTkJCWTF4TFIySGJTUkJNVENJZkRYREgzRElFWGF2T3otOTNjamFPNGpIeTN4dHVRaU9meWFveVRmNHpYb003elJLLU1rc1BzMUllaHo0?oc=5) (2025-06-24 01:00)
+  Summary: Realtime Robotics Launches Visual Components and MELSOFT Gemini Integrations for Resolver The AI Journal
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 

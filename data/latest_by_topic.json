@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Build Agent-Ready Physical AI Workflows with NVIDIA Omniverse Libraries",
-    "summary": "NVIDIA Omniverse libraries give developers and AI agents prebuilt tools for physical AI workflows. Skills chain those tools together into end-to-end pipelines, ready to run and ready to extend. In this video, explore three Omniverse skills: \ud83d\udc49 CAD to SimReady: Convert CAD assets into simulation-ready USD with geometry, materials, and physics. \ud83d\udc49 USD Performance Tuning: Profile and optimize large digital twin scenes for real-time simulation. \ud83d\udc49 Realtime Viewer: Inspect OpenUSD scenes with a viewe...",
-    "link": "https://www.youtube.com/watch?v=OrX_h1Ay7c0",
-    "published": "2026-08-18 16:32",
+    "title": "Build a Household Robot Workflow With NVIDIA Isaac and Cosmos",
+    "summary": "Join NVIDIA Omniverse Ambassador Kimate Richards, Founder of 10Things, and Oliver Choy, COO of 10Things, for a practical look at how one real robot uses the NVIDIA robotics stack. They\u2019ll show how NVIDIA Isaac Sim supports robot development and testing, how Apple Vision Pro is used for teleoperation and data collection, and how Isaac Lab, GR00T, and Cosmos help with training, reasoning, and evaluation. They\u2019ll also cover the robot\u2019s onboard stack, including Jetson Thor running Isaac ROS for n...",
+    "link": "https://www.youtube.com/watch?v=QCpelD3TqWk",
+    "published": "2026-08-20 01:55",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -20,10 +20,10 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Technoszorty: szybka pomoc \u2013 Eigen Engineering Agent: jak i do czego wykorzysta\u0107 to rozwi\u0105zanie?",
-    "summary": "Rozwi\u0105zania sztucznej inteligencji z powodzeniem stosowane s\u0105 w automatyce przemys\u0142owej. Z technologii tej mo\u017cna ju\u017c korzysta\u0107 r\u00f3wnie\u017c w trakcie pracy w TIA Portal. Jest to mo\u017cliwe dzi\u0119ki Eigen Engineering Agent. To cyfrowy Agent, kt\u00f3ry pomaga in\u017cynierom zwi\u0119kszy\u0107 ich efektywno\u015b\u0107, zmniejszy\u0107 obci\u0105\u017cenie powtarzalnymi zadaniami i wdro\u017cy\u0107 opart\u0105 o sztuczn\u0105 inteligencj\u0119 automatyzacj\u0119 do codziennych zada\u0144. Obejrzyj Technoszorty: szybka pomoc, by dowiedzie\u0107 si\u0119, w jaki spos\u00f3b i do czego mo\u017cna wykor...",
-    "link": "https://www.youtube.com/watch?v=ZTlgagg2HGg",
-    "published": "2026-08-19 02:10",
+    "title": "Industrial AI Beyond the Hype: Context, Reasoning and Autonomous Action - with James Loach",
+    "summary": "Welcome to the Trend Detection podcast, brought to you by Senseye Predictive Maintenance \u2013 which gives you visibility and insights into all your assets, from single machines to full plants to help you reduce downtime, increase knowledge sharing and accelerate digital transformation across your organization. In this episode of the Trend Detection Podcast, we're joined by James Loach, Head of Research for Senseye Predictive Maintenance at Siemens, to explore what industrial AI means in practice...",
+    "link": "https://www.youtube.com/watch?v=ki__ZxAMmXE",
+    "published": "2026-08-20 05:31",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
   },
   "competitors:Visual Components": {
@@ -83,10 +83,10 @@
   "business:PLC Simulation": {
     "section": "business",
     "topic": "PLC Simulation",
-    "title": "Next-Generation Helmet Design Integrates Simulation, Additive Manufacturing, & AI - Design News",
-    "summary": "Next-Generation Helmet Design Integrates Simulation, Additive Manufacturing, & AI Design News",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFNWZi1vTms1OXp0dkNMcFY5amIyWF9nVjlGeXRta0tUUTlCS0t2ZEpKZ2gtMVBBSnB0WjF6dVVPeVFNclRLY0dNZGlKVnJqWHZ0NDlXcm16bHI5SGx2SGttcW0xRGE2YnhyTlp1X3lYd0ZRTHBhZkpGVG5iYklXZEtJODd5Y0ZjeDBrMGpQZDBjSElFZHBJaWRBeG12QUVJVzhMOHc3MjZTaW45WWdNdVpQMms0ckU?oc=5",
-    "published": "2026-07-29 01:00",
+    "title": "A software-based controller for the industrial future - August 2026 - Phoenix Contact - SA Instrumentation & Control",
+    "summary": "A software-based controller for the industrial future - August 2026 - Phoenix Contact SA Instrumentation & Control",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBubndYQ2xGRHJkWkdXNDJMaUhIT0QyV2Jpa2wya3ZnZDJnUHoxSmRsUk1GNVkxamdmdlhudnZFMmNvbFN0RjJlblhvSGtTWWVtOEE?oc=5",
+    "published": "2026-08-07 05:59",
     "source_url": "https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Robot Simulation": {
