@@ -1,36 +1,42 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-08-20 07:02 (Mexico City)
+Generated: 2026-08-21 07:01 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery - Control Design](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTVROWWFCejgyRnZEREVnWW5VS1lRN3pJbldobFZwV3A0a1VpNmRKOXFfc3UtMU83Z2NSNVNHZmRMeTEyRGl0dUxOZnNRX2xVSExtUDA0VENhdWVaWTZ4clc0akdKZXRHWXMzcnk1a09sSnB3aGN3YVlZckN2RkhFb1c1YS1oOTIzalFGUC1JR0xQQ1BnbHdCb2xOWmh4Mkcza2t2RURjLUhkZTZYUGhGUTRPOXZrM2JqM1FqZXlzek9vQU1XMmlOcjVyTzJYOVVpcUFBWjdjMWVOV1ZYcE5XYlE4akFYQ1JoNkpibDlYTkw1ZjZDUUhhTEl0MVhoQQ?oc=5) (2026-08-17 20:17) _(last seen)_
-  Summary: Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery Control Design
+- [Industrial Automation Services Market Size, Share [2026-2034] - Fortune Business Insights](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ2tWM1dkT2ZXVnF0enpoVGZkWmdTY3gxQVk1SDB4dmYtUjBZamNKQXhVa0R1Zk5sSGZ1TTdwaXlaLVlkNXMtcTlQNHlNeXBjSlNqem9mS2Z6cmMxWXVSeTZQYlRJTTNXZks2VFllYlFBX1U0N0JDbmNMR1NmSmNCM0tfTVRBRV9XT1p0cA?oc=5) (2026-08-03 01:00)
+  Summary: Industrial Automation Services Market Size, Share [2026-2034] Fortune Business Insights
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Understanding digital twin technology - SAS: Data and AI Solutions](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzVvOVBGaTlLcG1WM3A5R2theFY0anZyTGdUQnR4NHBvb09UVFk0RXhBU1h1ZzVManNPNXRYRl91R2dYX1Rta3JGODNScDlqWlZlaU5PYTl4eDlfZkdzQndEZkdGZGtDZ1ZxZ05fdEY5Tm1wS1I5czRNYTFsR3hDMjdGNzdCc0ZabUMwN3RzQjZDYWo1a2pHYWxlaE8?oc=5) (2025-04-29 01:00)
-  Summary: Understanding digital twin technology SAS: Data and AI Solutions
+- [Simulation for battery manufacturing - siemens.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZU9rYUF4UUQ4OFpOQXRST29VV0h3VUcxR2ZPQWlXOUdSM0czek5wWFByaDRydFhYTlhORkpEN3MyeGZwOUgxNGVYYmFmYWl1Y0JpSmdMUUdWUGhQYjlib0ZiWkI4YXFyWTJEZlRNVFhaWFhFbnBvckNCNEZUZw?oc=5) (2026-08-13 08:59) _(last seen)_
+  Summary: Simulation for battery manufacturing siemens.com
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Virtual PLCnext Control: A software-based controller for the industrial future - Mynewsdesk](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWVJweGZILTJaNWQ1cDYzWW51RE9jeDBlSUZzNFIxYUFRbnRkMzlLVWhlN0gwQnl4MFdGQUY4S09DU2lReDRZdVRrek10MXZWRFBjb0xUakhielF6dklUWXJ0S3p0WXlCc1dqMUZNdk9DZ3JRdVpMMlR6eHk3akRHRE9LYS1xSW9KVmpaVXJMVkdJS2hmY1ZYT3c3b3BpWGtxMkp5UGhJMXNGekI3TnJ6QXRZLXllXzZyNGV3aGNTZnJlRkY2UDBpcGdMekMwZ0Vxb0JKWk9MU25kQmxpa0lHSnNn?oc=5) (2026-02-09 02:00)
-  Summary: Virtual PLCnext Control: A software-based controller for the industrial future Mynewsdesk
-  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
-- [A software-based controller for the industrial future - August 2026 - Phoenix Contact - SA Instrumentation & Control](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBubndYQ2xGRHJkWkdXNDJMaUhIT0QyV2Jpa2wya3ZnZDJnUHoxSmRsUk1GNVkxamdmdlhudnZFMmNvbFN0RjJlblhvSGtTWWVtOEE?oc=5) (2026-08-07 05:59)
-  Summary: A software-based controller for the industrial future - August 2026 - Phoenix Contact SA Instrumentation & Control
+- [KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 - Automation.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTJrNUMzSWZjR0ZIYUtNcURGaVJONldMRXZ5b0hYZWhhNEluVC1GNzBIeTBBaVJ1RzlCZmdvMlJHYVYzZ1pXY3p0UmFoVjFhM2ZwMHdtbDlRUTd2OWdESGpkaEgyNXBmdGJnS1hhVUxqNVdldGtiZDF4SGFWa01vaDJGV3c5NU0wdy1XQm55LU5GSU1nNXRYVU5MRlB3Y0RKQXpxLUFlNERDSVpkeUVLWkRn?oc=5) (2026-08-19 13:44)
+  Summary: KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 Automation.com
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [The Manufacturing Skills Gap Starts in The Classroom – Engineering Professor Claims - Robotics Tomorrow](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdjdodWhvWHFxM2FZelQ0bHlaUmR2ZlV3dWFSTjdubXFnTm1zWDZ3bWFtZERMd1c3WEV5eGdiTDFOekRsQ0NBQVNlSkZXQmN0YzVIa216dlo0TnNad0dBZU9sVk14TGdnU2Y4Q0JUQTNBWmNVNUlNRHpEVVYyWlVsTW1rV1lfMWhiblExMEo3VWNmaEtZV3RZYnpyTmphOURGWmhVdGVtUHRWTVNlMzVDRTItSjZxUGJuZm5DY0VtUGQ3d0VQeDlVQ2N1R1VrbW0tUVYyWXVENmd1TUpMbGc?oc=5) (2026-07-17 01:00) _(last seen)_
-  Summary: The Manufacturing Skills Gap Starts in The Classroom – Engineering Professor Claims Robotics Tomorrow
+- [KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 - Automation.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTJrNUMzSWZjR0ZIYUtNcURGaVJONldMRXZ5b0hYZWhhNEluVC1GNzBIeTBBaVJ1RzlCZmdvMlJHYVYzZ1pXY3p0UmFoVjFhM2ZwMHdtbDlRUTd2OWdESGpkaEgyNXBmdGJnS1hhVUxqNVdldGtiZDF4SGFWa01vaDJGV3c5NU0wdy1XQm55LU5GSU1nNXRYVU5MRlB3Y0RKQXpxLUFlNERDSVpkeUVLWkRn?oc=5) (2026-08-19 13:44)
+  Summary: KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 Automation.com
+  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
+- [Automation adoption is surging at trade shows. Most US factories still haven't started. - MarketScale](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa2o5M3dhVS0yY284N01rQkxUdUtZZWVKTm5NMjhSajFCcnJYMDl2WWpPMUVOQmhPOXVRSUVNLVMxMUo1YXJFc1JwMFFwb25hb2xXVnJfNS1Sck9helc0MF9neWZuTXZ4NUYyUFd1VEU5ZHdlNzZYSkc4SFI5MnMzLTNpNlNOS2JFZWZDV28yQzVfNVBoSVF0dzhzOUxKT0gxU19jenVLZ2Zqb0h2UHNjRU90SzRHSzZPc1lMclpubFotdko4RS1zcURrNS0yMG5YVXZzTQ?oc=5) (2026-07-16 01:00)
+  Summary: Automation adoption is surging at trade shows. Most US factories still haven't started. MarketScale
+  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
+- [Virtual Planning, Control, and Machining for a Modular-Based Automated Factory Operation in an Augmented Reality Environment - Nature](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LTmcyYmdHZDZrRDNhRnNoQkxpOVB0cXN0RHo4eXlvOVZVanlBc2JjVG50TFg4dHhGUVhQRVhLc0VrVGNvYVdDaFlja3dlUC1UaFQ4?oc=5) (2016-06-07 02:00)
+  Summary: Virtual Planning, Control, and Machining for a Modular-Based Automated Factory Operation in an Augmented Reality Environment Nature
+  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
+- [CAD for CAM, robots - Aerospace Manufacturing and Design](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUtlaEhHSXN5TWU1eldYM3JMb0JCOVhpaVlhMzI1cml6YmNnbG13OXV1SlhKTkhFemVITGg1cEpfc0c4YWdGZEdyTTdlQ012S3VCUHpHRTlSWXM5T0wxWXBFVTEtSVVoOG03aG0tcjAtbWZEWm8yOUpfSmtYNXpnTHFuZkh4VVRsdzZJemdmWEpFWERwaFhF?oc=5) (2017-12-25 04:06)
+  Summary: CAD for CAM, robots Aerospace Manufacturing and Design
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [The Power of Digital Twins - FoodTechBiz](https://news.google.com/rss/articles/CBMie0FVX3lxTE9kNThZSGl2TllNZV9OcmpySnRVNjliazBJdjY0WUd6V0NxQW9ZQUw4eEtTZy1PM2l6eWpYRFVsSTEtV0tPNU91YlpYMTU2X2NhUFhYdHBPeWpyOXUydUFCa0RVajBFRG9SSjFNcEJlOXV5MF9MT0ZmUnF5WdIBiAFBVV95cUxOTTBPcnBJMkNHRTZTWWlfdnRtWWQyX0d0Q0pQSjhfdVBVVnBwUmhDMWdEM3hqeUkwUkVJcmx5N3g1RURXY1I3VHNmS3FDdF9xWV9iMTBvaHhvckNpMERYVWVid29hZERxcENqMmE1bWdEMklJRGtsYUVHT2FNcUpLMnlRZG90b1BE?oc=5) (2023-04-21 01:00)
-  Summary: The Power of Digital Twins FoodTechBiz
+- [Invata Intralogistics Completes Omni-Channel Fulfillment Center For Destination Maternity - DC Velocity](https://news.google.com/rss/articles/CBMiywFBVV95cUxNUkROenBYc0lTRG1VVW1uQzZveFQzbDlhNHA5LTBVQjJHSTVNeElnSlpGakhOR1RaUlF2VEVGUWpvdk1oTm5GTXAxb2JZMUdIM0t3MmxScmgtcFY3ZlBkbFE0VjVtU1N0OVRnWHJpSm9zTVg3cURqNk1vT09kVEViRzFRTlhzVklQZENUd2ZCVHNIMWdadWNpaXZ3empBNkg3SDUycVZ0V2MwSGdOdjNISXJnN1g0UW9RUldaVUtSZlRTOGFRbDRwX1ZrTQ?oc=5) (2016-04-21 02:00)
+  Summary: Invata Intralogistics Completes Omni-Channel Fulfillment Center For Destination Maternity DC Velocity
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
@@ -47,19 +53,19 @@ Generated: 2026-08-20 07:02 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens develops new acoustic digital twin for the Hallé St Peters - Siemens](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUU1HVDNmSXg5N0hwUVRneVE3Z0ZCV2tON0VGYndnOWRzZXlKN2lGTDJ5SUtJSDJsYWl2QmduSXQ0UG1saVNZSTFEb1VZS28xSUpCeGo2eXJGLUo2V05aM3J5RFlGWG1HTlQ2Vkdwa1NZRjVKRGg1enhkTFJmU1VVN1R5VDNHdDUzMTU5b3BEbTB5bVZxcXpZSDk2U2dwSjQ?oc=5) (2026-07-16 03:03)
-  Summary: Siemens develops new acoustic digital twin for the Hallé St Peters Siemens
+- [Siemens to offer industrial AI-powered simulation software for the UK and Ireland - techbuzzireland.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxQaWxYMkNBVW00OGlQa3Z4Z0Noa19rbk1oM2ZGNjhBY2FZalBNeDBFY2tDRE5LLUNzZlBmLTJTMzlIS0JjU0hjVWp1OVZFNHFEaE95WGZSek9jQlJEQ3A4S1UwUHVIRG04cVJRVG9OUHRJYU5HaGl1bkJRaXkzMFE0cGMtSTdzR2o4MGx5aGhpajlCRUhpOWNiREhTbXRzczRFLW4yWHZHRGhTY3EwaHloRmtXM2dzMWRuYl9YX0JB?oc=5) (2026-07-16 01:00)
+  Summary: Siemens to offer industrial AI-powered simulation software for the UK and Ireland techbuzzireland.com
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Industrial AI Beyond the Hype: Context, Reasoning and Autonomous Action - with James Loach](https://www.youtube.com/watch?v=ki__ZxAMmXE) (2026-08-20 05:31)
-  Summary: Welcome to the Trend Detection podcast, brought to you by Senseye Predictive Maintenance – which gives you visibility and insights into all your assets, from single machines to full plants to help you reduce downtime, increase knowledge sharing and accelerate digital transformation across your organization. In this episode of the Trend Detection Podcast, we're joined by James Loach, Head of Research for Senseye Predictive Maintenance at Siemens, to explore what industrial AI means in practice...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [The Tech Behind Racing (and more)](https://www.youtube.com/shorts/YXk2DeR_Nek) (2026-08-19 09:00)
-  Summary: The technology shaping race day has applications far beyond racing. From Andretti Global NTT INDYCAR SERIES cars to critical systems for the U.S. government, Siemens digital twin technology is helping organizations prepare, test, and adapt before real-world decisions are on the line. #Freedom250 #Freedom250GrandPrix #DC250
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [Accenture Acquires IndX to Expand Industrial AI and Siemens Software Expertise - AIM Media House](https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEl2MmUyX0hoRlFnTmdaRi1IN25wN3lNblVpdnZ0d0dqR1RYUW9aYWZPRTlweEFMdXBUbU1IX05TSlR4YW5BN21Xa3Z5anF6NlE5Q2F0eTkzZ0RKbUd0T2Ezbm43MVk1Wk54QklTVW9KbUVHZWVDd1FFR3BPZW96cHpOV1c2bm9LZU0xTDQyaXV3UnpVbDdGRTJEcFRxYlZFbUxoazd2UjFDdmxtZDNGVnRQekdvSnQ3SEE?oc=5) (2026-06-19 01:00)
+  Summary: Accenture Acquires IndX to Expand Industrial AI and Siemens Software Expertise AIM Media House
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Model-Based Systems Engineering Example: How Navantia Uses Teamcenter](https://www.youtube.com/watch?v=kUPIxGcTeyA) (2026-08-20 10:28)
+  Summary: Looking for a real-world model-based systems engineering example? Learn how Navantia uses Teamcenter® software and Siemens Xcelerator to connect requirements, systems engineering, simulation and lifecycle management while reducing engineering process times by more than 50% in some cases. 📖Read the blog for more details: https://sie.ag/6AKr7K With more than 300 years of shipbuilding experience, Navantia develops military vessels, combat systems and lifecycle support programs for government cus...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
 ### Visual Components
 
-- [Realtime Robotics Launches Visual Components and MELSOFT Gemini Integrations for Resolver - The AI Journal](https://news.google.com/rss/articles/CBMirwFBVV95cUxQejdRRllIcnc1VTlMUnhoZDdkbTBjOExXOTJvektkT1dKcUM2SC02eGZDUFVCM2pGTXVRbXR5NllRVTZ0Tm1hOXNCVjhlU3RWdWZONG9lVDc5T3U2cDR2VmpYTkJCWTF4TFIySGJTUkJNVENJZkRYREgzRElFWGF2T3otOTNjamFPNGpIeTN4dHVRaU9meWFveVRmNHpYb003elJLLU1rc1BzMUllaHo0?oc=5) (2025-06-24 01:00)
-  Summary: Realtime Robotics Launches Visual Components and MELSOFT Gemini Integrations for Resolver The AI Journal
+- [Simulation essential to realising the factory of the future - Automotive World](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZS1UYzVUeFVJMzhrZno2WFdObEJPTDBxd2FJc0d3QURoTnRJRzZLWlJiY21tWExXOHpuemhiVC1rQXBhTXlLS25CZTMzajRtSEFnWEhDZFc2eWxyY1NER3BVSlNlaGhLVkZEVEMyUElZa0VlMWdwUjNvc0xrMWxmVDhBeEc0bF9LbWxZM2lPcm5HVVJUMmoxc3JXV1N4VzA0clg0?oc=5) (2021-10-22 02:00)
+  Summary: Simulation essential to realising the factory of the future Automotive World
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 
@@ -68,9 +74,9 @@ Generated: 2026-08-20 07:02 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
-- [A multi-layer digital twin framework for enhanced production resilience in railcar manufacturing - Springer Nature Link](https://news.google.com/rss/articles/CBMibEFVX3lxTE9rY3YwQkV6eTBCdU9GVTJNWUs4WVJVZU8xb3NYaHVBVC1KU0c5T0RpejdVOGd0VGtkS2dYNDZJakdFYXhnM1BwQ0d2ankyOHhHT3FQdEVBQXNMcUJKdHB6MWNJSUJvN1Vwam8xdw?oc=5) (2026-08-08 06:22) _(last seen)_
-  Summary: A multi-layer digital twin framework for enhanced production resilience in railcar manufacturing Springer Nature Link
-  Feed source: https://news.google.com/rss/search?q=anylogic+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Register for the simulation event of the year!](https://www.youtube.com/shorts/R4phjRy13LE) (2026-08-21 05:08)
+  Summary: Register for the simulation event of the year 🚀 The AnyLogic Conference 2026 program is filling up fast with industry leaders and real-world insights! Don’t miss the launch of AnyLogic Online and AnyLogic AI Assistant! September 15. Be among the first to see what’s next. Link in bio.
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCdH-e29FvfphfWmI2EMZPhg
 ### F.EE / fescreen-sim
 
 - [Wenn der Standard-Arbeitsraum nicht mehr ausreicht – Linearachsen für Roboter von F.EE](https://www.youtube.com/watch?v=P_BqFAwJCB8) (2026-04-08 06:25) _(last seen)_
