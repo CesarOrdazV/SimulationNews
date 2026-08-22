@@ -38,10 +38,10 @@
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "FactoryTalk Optix - ListView Configuration",
-    "summary": "This video demonstrates how to create and configure a ListView object in FactoryTalk Optix. The ListView object, which is new in FactoryTalk Optix v1.7, enables FactoryTalk Optix applications to display and interact with dynamic collections of data \u2014 such as recipes, alarms, production orders, and database records \u2014 using a scalable, data-driven interface. For more information, refer to https://rok.auto/4z75luj",
-    "link": "https://www.youtube.com/watch?v=ySXJZD3zoMY",
-    "published": "2026-08-06 14:38",
+    "title": "Get Ready for Automation Fair 2026!",
+    "summary": "Tune in for an exclusive look at what you can expect at this year\u2019s Automation Fair, happening November 16-19 in Boston, MA. Register for the premiere industrial automation event today: rok.auto/4hMVi7j #ROKevents",
+    "link": "https://www.youtube.com/watch?v=HIh-yOhyGdM",
+    "published": "2026-08-21 14:17",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {
@@ -83,10 +83,10 @@
   "business:PLC Simulation": {
     "section": "business",
     "topic": "PLC Simulation",
-    "title": "KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 - Automation.com",
-    "summary": "KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 Automation.com",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTJrNUMzSWZjR0ZIYUtNcURGaVJONldMRXZ5b0hYZWhhNEluVC1GNzBIeTBBaVJ1RzlCZmdvMlJHYVYzZ1pXY3p0UmFoVjFhM2ZwMHdtbDlRUTd2OWdESGpkaEgyNXBmdGJnS1hhVUxqNVdldGtiZDF4SGFWa01vaDJGV3c5NU0wdy1XQm55LU5GSU1nNXRYVU5MRlB3Y0RKQXpxLUFlNERDSVpkeUVLWkRn?oc=5",
-    "published": "2026-08-19 13:44",
+    "title": "Same control logic used regardless of PLC manufacturer\u2026 JLT develops 6.7 billion won 'SYNEX+' - \ubca4\ucc98\uc2a4\ud018\uc5b4",
+    "summary": "Same control logic used regardless of PLC manufacturer\u2026 JLT develops 6.7 billion won 'SYNEX+' \ubca4\ucc98\uc2a4\ud018\uc5b4",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mZEc3dmVJSy1WRlZ5cGl1VFBOYUNwTTU5eE1vMUFYa29Lck10RVItWHZObF9ldXdtR0FoQTVFVkVaYnM5SjkzdU5UbWhvQTVZQ1Bj?oc=5",
+    "published": "2026-08-20 19:02",
     "source_url": "https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Robot Simulation": {
