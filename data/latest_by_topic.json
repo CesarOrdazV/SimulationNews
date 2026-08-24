@@ -11,20 +11,20 @@
   "competitors:RoboDK": {
     "section": "competitors",
     "topic": "RoboDK",
-    "title": "What Advanced Surface Finishing Strategies Improve Robotic Machining for Complex Parts?",
-    "summary": "Advanced robotic surface finishing involves a range of strategies that go beyond basic force-controlled sanding or polishing. These strategies open up a whole new set of possibilities by combining factors like adaptive impedance control, multi-axis toolpath generation, and robot-specific CAM software. If you are a manufacturer already using or considering robotic finishing, these advanced strategies can help you gain even more from your automated surface finishing solutions. They can provide...",
-    "link": "https://robodk.com/blog/surface-finishing-strategies-improve-robotic-machining/",
-    "published": "2026-08-11 06:55",
+    "title": "Climb vs Conventional Milling: Which Is Better for Robotic Machining?",
+    "summary": "Which is better, climb milling or conventional milling? This classic question becomes even more important when we\u2019re talking about robotic machining. The debate of climb vs conventional milling has been going on for a long time between machinists. Climb milling generally produces a better surface finish, while conventional milling can offer more stability. For robotic machining, the question becomes a lot more interesting! Unlike conventional CNC machines, robot arms tend to be less rigid, us...",
+    "link": "https://robodk.com/blog/climb-conventional-milling-better-robotic-machining/",
+    "published": "2026-08-24 02:44",
     "source_url": "https://robodk.com/blog/feed/"
   },
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Plant Simulation Virtual User Group: Model index table behavior using transporters and tracks",
-    "summary": "Join the conversation! Discuss this session and connect with the expert community in the Plant Simulation Virtual User Group: https://sie.ag/6MEzMZ This session of the Plant Simulation Virtual User Group demonstrates how to model index table behavior using transporters and tracks. By mastering these synchronized transport operations, engineering teams can optimize material flow for multi-step production processes. Topics covered: \u2022 Create an index table model \u2022 Build information flow between...",
-    "link": "https://www.youtube.com/watch?v=LWhM-6bxwcs",
-    "published": "2026-08-22 11:03",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
+    "title": "Follow The Flag \ud83c\udfc1",
+    "summary": "Andretti Global \ud83e\udd1d Siemens software Our digital twin technology helps the Andretti team simulate, test, and refine performance before the car ever hits the track. Did you catch our special guest at the end? \ud83d\udc40 #IndyCar #Freedom250",
+    "link": "https://www.youtube.com/shorts/7rKVRcl_wFs",
+    "published": "2026-08-23 09:00",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
   },
   "competitors:Visual Components": {
     "section": "competitors",
@@ -38,10 +38,10 @@
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "Get Ready for Automation Fair 2026!",
-    "summary": "Tune in for an exclusive look at what you can expect at this year\u2019s Automation Fair, happening November 16-19 in Boston, MA. Register for the premiere industrial automation event today: rok.auto/4hMVi7j #ROKevents",
-    "link": "https://www.youtube.com/watch?v=HIh-yOhyGdM",
-    "published": "2026-08-21 14:17",
+    "title": "Building Resilience Across the Machine Lifecycle",
+    "summary": "Steve Mulder, Director, Global Industry Sales - OEM Hybrid, Rockwell Automation, joins Stan Miller in the ROKStudios. Steve Mulder, Director of Global Industry Sales, OEM Hybrid, at Rockwell Automation, explores how machine builders are navigating growing complexity across the machine lifecycle. He discusses the shift from one-time machine performance to delivering consistent, resilient outcomes, enabled by virtual validation, standardized architectures, and improved data readiness. The conve...",
+    "link": "https://www.youtube.com/watch?v=0ekU5tt4O68",
+    "published": "2026-08-24 02:15",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {
