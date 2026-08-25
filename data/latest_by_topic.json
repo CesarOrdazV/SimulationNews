@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Build a Household Robot Workflow With NVIDIA Isaac and Cosmos",
-    "summary": "Join NVIDIA Omniverse Ambassador Kimate Richards, Founder of 10Things, and Oliver Choy, COO of 10Things, for a practical look at how one real robot uses the NVIDIA robotics stack. They\u2019ll show how NVIDIA Isaac Sim supports robot development and testing, how Apple Vision Pro is used for teleoperation and data collection, and how Isaac Lab, GR00T, and Cosmos help with training, reasoning, and evaluation. They\u2019ll also cover the robot\u2019s onboard stack, including Jetson Thor running Isaac ROS for n...",
-    "link": "https://www.youtube.com/watch?v=QCpelD3TqWk",
-    "published": "2026-08-20 01:55",
+    "title": "From Robot Development to Deployment with Isaac GR00T & Jetson Thor",
+    "summary": "Join Noble Machines and Seeed Studio to see how NVIDIA Isaac GR00T and Jetson Thor help take robots from development to real-world deployment. Noble Machines will share how it uses the NVIDIA Isaac GR00T humanoid platform to develop Moby, its general-purpose industrial robot designed to solve real customer problems in industrial environments. Learn how the team applies Isaac Sim, Isaac Lab, GR00T 1.7, and Jetson Thor for policy training and sim-to-real transfer, with onboard inference running...",
+    "link": "https://www.youtube.com/watch?v=Ixr5t-W6gJ0",
+    "published": "2026-08-24 16:18",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -20,10 +20,10 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Follow The Flag \ud83c\udfc1",
-    "summary": "Andretti Global \ud83e\udd1d Siemens software Our digital twin technology helps the Andretti team simulate, test, and refine performance before the car ever hits the track. Did you catch our special guest at the end? \ud83d\udc40 #IndyCar #Freedom250",
-    "link": "https://www.youtube.com/shorts/7rKVRcl_wFs",
-    "published": "2026-08-23 09:00",
+    "title": "CIGRE 2026 Invitation Viktor Tomalak",
+    "summary": "Viktor Tomalak previews his CIGRE 2026 poster session on integrated engineering, showing how connected workflows for configuration, testing, and documentation speed up delivery, improve consistency, and ease onboarding as protection and automation projects grow more complex. Meet him at his poster session in Paris.",
+    "link": "https://www.youtube.com/shorts/tbjvxCT0yyM",
+    "published": "2026-08-25 02:41",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
   },
   "competitors:Visual Components": {

@@ -39,7 +39,10 @@
     "https://www.youtube.com/shorts/ziATvUYuAZg",
     "https://www.youtube.com/shorts/jbyPjjQ4B7U",
     "https://www.youtube.com/watch?v=OrX_h1Ay7c0",
-    "https://www.youtube.com/watch?v=QCpelD3TqWk"
+    "https://www.youtube.com/watch?v=QCpelD3TqWk",
+    "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+    "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+    "https://www.youtube.com/watch?v=Ixr5t-W6gJ0"
   ],
   "competitors:RoboDK": [
     "https://robodk.com/blog/robot-3d-printing/",
@@ -218,7 +221,10 @@
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYUxVS1Z2TkVCZVZBbjNvTnFwWURnNzJQYXJJYzZiYzlZbnRfeS1BRGd4Z3RFMThmTlB6ZjJSWXpGaVc1MW15eE9WR1VnUHlrQ1lkS3k3WGxpNjVyMGh3dUpsR0FGRW1zUF9PcDhqWHhqbWFLSzNidHExU3FRV0h0RDhzb3JucHBIcDVPZmlWMjF5UQ?oc=5",
     "https://www.youtube.com/watch?v=LWhM-6bxwcs",
     "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWWm16T2xUZjVETUo5VzA5VW5fWV90NDgzenI1VmJWdGpDRTFVZkRGYkxxdldUQXVpclhUSEFtMGEzeUZ5dDNQeHBPYVBReFF2c1gxeHp0NjF5WmcyRVBGbjZsSmV5dGs?oc=5",
-    "https://www.youtube.com/shorts/7rKVRcl_wFs"
+    "https://www.youtube.com/shorts/7rKVRcl_wFs",
+    "https://www.youtube.com/shorts/tbjvxCT0yyM",
+    "https://www.youtube.com/watch?v=yTuIYkl4mn4",
+    "https://www.youtube.com/watch?v=Pl8DqSy25d8"
   ],
   "competitors:Visual Components": [
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSENXbC1BZkR3Njk5R1drWERzYkxfa2FKQWVBNWFOSDdwc3FMekZUYmFFeEVCWTVQWFRvMTY1bTA0MkpETFdnMzAtc0luRGFDRU41SFpzT25fRmxlNEhYSkkzdF81ZWpvcjltQUlOYzVUclNlMEF2Q01IOFNuQ1NCVnNGRWdRMVpmOTdZb0IwVGRRd1g3all2RXFVUjB2WklDUEI3TFNWaS10anFZNjM3VkF5QnRuYW5qc3JQeE9uM2tXdEhoMnhCQlJn?oc=5",
@@ -630,7 +636,16 @@
     "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mZEc3dmVJSy1WRlZ5cGl1VFBOYUNwTTU5eE1vMUFYa29Lck10RVItWHZObF9ldXdtR0FoQTVFVkVaYnM5SjkzdU5UbWhvQTVZQ1Bj?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb3JPUWNGTzZGZHpVazNtQVJDTTJfWEFIV0ZtZ013WEIxbEVBcGx6UlF0TEhSaGpYS0JtSkY1VVdKaW95alVtR1hDOHdURUJBN2lXc09pMFNIUVk1djRQUDdTcUZILXl2RlhnYVFVZk9URFJUNlQ2Z21zRTh1NjVyeHBVc1B1VHFiRHc?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXA0bzh3OVBwSUE3UWlGeVlVN0tHbk1DNHl0bDJGaDFybXFXdHZQMkFjTzFvVE1yNXpuLW1jSlp5cmdvTE9PM0kyUWx3UTN5eGllLWYzN2lWNHEtaFhOLXV6cEtkWEowdTFKTjluSC1lMGxKYlJjMGg2U2ZEeDYzdVpxLTN1b1pRNzVSV1lET0dlZEt0Z2hOS3pLOWV2QXJUaFJPVGRhVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekwxOThHNDFDQ0h2WWw2LThPTGxWNHlXX0VFaGdjS3hBMmxvWU90MTVFellCOFBzaUNWZmxpTHZ3NkZucmFvUUV5d2wwMXF2SmpCLUJRRVJaSjZzYy1yV3NZc3AxSXdTYWpIa29Ec0ZLZU8wM2RYSGNmS3cwemFtbHNYcjU0NjFBdUE?oc=5"
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekwxOThHNDFDQ0h2WWw2LThPTGxWNHlXX0VFaGdjS3hBMmxvWU90MTVFellCOFBzaUNWZmxpTHZ3NkZucmFvUUV5d2wwMXF2SmpCLUJRRVJaSjZzYy1yV3NZc3AxSXdTYWpIa29Ec0ZLZU8wM2RYSGNmS3cwemFtbHNYcjU0NjFBdUE?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVTlaNDVOOWFmazVfOWtKdU1GMlltd09oYW1RUzVES2s4b3NGSmtNeEJxdmQ2R1J3STh6eG5Pa2paMGFleVkya1hJN3BReDZua2JjSXJObmh6c3hqSFk5cE52ck81OGRyelpYUGF1Ri1neGFLMk9kc00welRjUmJPUmRiN1J4TVJs?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNTjBPTWt1YnlxVFhZVUNwcWZsU1ZqRXVpZTVPdGo4WkpfemZiajhtbUFKdHdMamZVMnFJem1tMENQVGI1UjlDV0VWbkxIZ2puc3AyMGlGdmJlY2llMklMYkNaMllSUlRGR0VKVmw2SkxCSTFwVmRWVDczT3NSM2JnRUdka2NWRWU0dURBQ3E5c1JuZW9RazVIZmo4ME42UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWZuSmZDWnVsZmdaY184MzRrb0EyZlFxUXJIMmROV3V1SFpxVTJJTEcwczRxVWRoWEpCSDhjZEJ4cUxVMElfUDU4YktEQmE3ckpnOXVVeXNEYUZBWmQtYkp3Sjdrektsd01lcWwtVTA3M0ZzLTJfZzJ5eGNIcmc1UEozQWd5U21l?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmd2dnJjUE5CY2JHUF9JdGd2RTktclBLaGJzbzgtUERlZU9UQ1N6UHh5V3hVTmxaVTliTWt4c2FCU0RJR2J1UmlLdzVsMFp4T3RfdnlDNGNUaHpZTmdneGxmUXFTRi12eU1CUWJCT0s0YmE3ckxpYkxOdUxGQkV4SkVrekpuUV9PUEZRTGlDQ3JKOV91TGJNRzQ1VW1hOWN0YjZTbHhCQVpfU25QTjhFbQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTUxcmpneUhXbTFpT3llM1F5SXpoSGttN1ZaU1dQcG9OaUp2RlBJRzJ3Mk5VeTFVc3ctU3RMeEoyX25iYWdFUW9LNVpEbHZ0LXNGWWhtYmNyck5xNll0Wko3VmEzdlhGQnFFQ3NaOEJlVjN2NmgzdjJZTFR0UlBjNTRn?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2SVBfeXhyYmx0MEFFY1FYeTFGbnJvVFFMV2d6UU5IYVJ6eUc4bVFpNHZkQVFINkFGVXlLY0JxTjZVa3lQZ1JzTFJwRFFKcUlSc09abDA1STJqd25ITXRFUEZHUnVkaXBsbVJNWA?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MSTZYdXdvY0lZa3g0ZXNVS05Gc3lGb05yWDJHLWp4TDVGRm1DY3NKREZFTjlmZm1LOTdBVlBCRVZRWk1BSTVMTEtISU9fWHFpVXRSalV1N1hxelhNTUNV?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQU9na0JsZ0FORm05eDZwT2hvNHVKcUROMGF6dDB2V0RGVlVMOEFsQWJ1M2hhUDV6T1d6YXZ5X3hDTE4xWmRxWDlkQWxTVmd0ODYyZnJoVkVzcXlkTWI1eGVFWTdSSmYwamhBeG9vbU1CSmVoVUhfMEtfVWlfcnlsNVJDNVlPZ0wzMEUxNmhMTFFqY3dub0N2WFhEbl9kQWNOR1lZMzdzWkpGNlNuenFVMlVEbVhXVmNrTTFYVUh1aUk3b0xscVRwWkxn?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVnRvMDdORzQ1aUQwSlJIOWNpallKR2h0MF9aWG1WQzhNR2ZLYU1CNDR6X2g5a21PdGhxSjhaVFppU3hZbUR6SFN2akFXMEYxdTBZbEU1UTNGQnVhb05ZTlljaWpjbWpHTUlfVjhmaWRPSTNPSHk1WWZjVmRyWW5xRnJwUm9HOXdqbVNuUkM4bmRYa1RRN2dDbw?oc=5"
   ],
   "business:Robot Simulation": [
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT05tNVRNbDFrRmN3WWNtaTRMenZVbUg3R0VYRkYxLXBtaGMxcFNicjFmb2JILUlONDhZZndMZkt1U3RFY0hxdkNVYk1rMEVoUTAzN0VfQjFNeDUtUE1MY3dvYWN0SVJoenJOalVZTE4zbkNwTk9fT0pSbTdQSGJqVEpxWHNrMGJaT2ZkanJtb0dLUFlTdF94RG81ZHRDbFZPODZNcVVDQzhNZVZIMS0wemhB?oc=5",
@@ -726,6 +741,7 @@
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY2N6T3BYdmp5ZGE0azA2dlQ1OURPRXo1b0pQUW1QTVdLWGpYemJzRld5RlliY1JNaVJVUmt0T0RwdURmLXRzQ0tObHBBc1hOMFEzY1RjcGF4aUxUREtxbjl0cF9aeEVOeUgtSkZGN1Uwalh6SW9nX2V3U3VRUDh5SW9PZlNPVzNhOHNqMW43X0lqZUZ6cDV3OUp5WkFvdGNNSzZ6bUl0U2ppRXlYS1FHYzNHV0l0RmdFRTIwbE9lcUNDMkxHaE9rdER1RmlUNFRUYXc?oc=5",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWFFRkJNMDFBMEVDSFJHbzg5eklVY3YwOHJFU0psWkdtdnRRNXFCNmF2Z2FOMmktV2I3eWZTWlpJX19FY2pMblhTcDJWWUlYTERHaFRpV3h1dmd2YnZJWVRRNTNYZXl3aDBoWmp1bXNNd2s4N1pCVDJXRGQzQTRpeENENll4YjlKdVpxWnV3Unp6amQ1SHRxVUtrRW9PSGh6d3dwTWl2TjRDLVJGNWc?oc=5",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kNThZSGl2TllNZV9OcmpySnRVNjliazBJdjY0WUd6V0NxQW9ZQUw4eEtTZy1PM2l6eWpYRFVsSTEtV0tPNU91YlpYMTU2X2NhUFhYdHBPeWpyOXUydUFCa0RVajBFRG9SSjFNcEJlOXV5MF9MT0ZmUnF5WdIBiAFBVV95cUxOTTBPcnBJMkNHRTZTWWlfdnRtWWQyX0d0Q0pQSjhfdVBVVnBwUmhDMWdEM3hqeUkwUkVJcmx5N3g1RURXY1I3VHNmS3FDdF9xWV9iMTBvaHhvckNpMERYVWVid29hZERxcENqMmE1bWdEMklJRGtsYUVHT2FNcUpLMnlRZG90b1BE?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUkROenBYc0lTRG1VVW1uQzZveFQzbDlhNHA5LTBVQjJHSTVNeElnSlpGakhOR1RaUlF2VEVGUWpvdk1oTm5GTXAxb2JZMUdIM0t3MmxScmgtcFY3ZlBkbFE0VjVtU1N0OVRnWHJpSm9zTVg3cURqNk1vT09kVEViRzFRTlhzVklQZENUd2ZCVHNIMWdadWNpaXZ3empBNkg3SDUycVZ0V2MwSGdOdjNISXJnN1g0UW9RUldaVUtSZlRTOGFRbDRwX1ZrTQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUkROenBYc0lTRG1VVW1uQzZveFQzbDlhNHA5LTBVQjJHSTVNeElnSlpGakhOR1RaUlF2VEVGUWpvdk1oTm5GTXAxb2JZMUdIM0t3MmxScmgtcFY3ZlBkbFE0VjVtU1N0OVRnWHJpSm9zTVg3cURqNk1vT09kVEViRzFRTlhzVklQZENUd2ZCVHNIMWdadWNpaXZ3empBNkg3SDUycVZ0V2MwSGdOdjNISXJnN1g0UW9RUldaVUtSZlRTOGFRbDRwX1ZrTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHRkSWRaWFNKVlVhWnZld2hONjVhWWVEYi10OGRZejl4Z0ZPTXN4VmduS0JfcUdzM1VaOHUyQW9SNmg0eGVNYUtLRlJ1YUhyNmNrY0hKNnIzbDVlNDl2QUdQTnd0Z2J6TEhrMmtVODhFRjFMV21oRjF6NXdodVJyYWRaNjVjU0FYbWxvR1pDaEhaOWY2VXNONmpralJVWHc?oc=5"
   ]
 }
