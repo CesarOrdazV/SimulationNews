@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "From Robot Development to Deployment with Isaac GR00T & Jetson Thor",
-    "summary": "Join Noble Machines and Seeed Studio to see how NVIDIA Isaac GR00T and Jetson Thor help take robots from development to real-world deployment. Noble Machines will share how it uses the NVIDIA Isaac GR00T humanoid platform to develop Moby, its general-purpose industrial robot designed to solve real customer problems in industrial environments. Learn how the team applies Isaac Sim, Isaac Lab, GR00T 1.7, and Jetson Thor for policy training and sim-to-real transfer, with onboard inference running...",
-    "link": "https://www.youtube.com/watch?v=Ixr5t-W6gJ0",
-    "published": "2026-08-24 16:18",
+    "title": "Accelerate Computational Engineering and Robotics With NVIDIA Warp",
+    "summary": "Learn how NVIDIA Warp, an open-source CUDA-X library for accelerating computational engineering, simulation, and robotics workflows, is leveraged by developers and lead to 10M downloads. In this livestream, we\u2019ll introduce NVIDIA Warp, why developers are using it, and how it accelerates engineering and robotics applications. We\u2019ll walk through practical use cases, including an industrial engineering example and a robotics workflow, to showcase how Warp can help teams build and test high-perfo...",
+    "link": "https://www.youtube.com/watch?v=W9Z0uae0YNk",
+    "published": "2026-08-25 22:35",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "CIGRE 2026 Invitation Viktor Tomalak",
-    "summary": "Viktor Tomalak previews his CIGRE 2026 poster session on integrated engineering, showing how connected workflows for configuration, testing, and documentation speed up delivery, improve consistency, and ease onboarding as protection and automation projects grow more complex. Meet him at his poster session in Paris.",
-    "link": "https://www.youtube.com/shorts/tbjvxCT0yyM",
-    "published": "2026-08-25 02:41",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
+    "title": "Industrial AI: From \"Storytelling\" to \"Crunching the Numbers\" - Gasgoo",
+    "summary": "Industrial AI: From \"Storytelling\" to \"Crunching the Numbers\" Gasgoo",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmcxYWFpVXBBQi12MXllYms1VDgzM2JmeXJTR0xrdTNGQmtiMWpON3FmaHkxTzJHdERVeTBRMGNfVWVWeE5ZdWY2c0VobGhqTDRBaUwxOXhzanFMSkkyZXdHcUVOLS1MbjZTVUVCRmkwWG90LUFjNW03anFtMWV4NEZ5ZVFNdGhuUklUNGlTUG5nYW1CSXdueXZ5enRqY0lHcThXVVQtdUhXS28weWlkZ1J6WHJnMEJzUHc?oc=5",
+    "published": "2026-08-26 06:27",
+    "source_url": "https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en"
   },
   "competitors:Visual Components": {
     "section": "competitors",
@@ -38,10 +38,10 @@
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "Building Resilience Across the Machine Lifecycle",
-    "summary": "Steve Mulder, Director, Global Industry Sales - OEM Hybrid, Rockwell Automation, joins Stan Miller in the ROKStudios. Steve Mulder, Director of Global Industry Sales, OEM Hybrid, at Rockwell Automation, explores how machine builders are navigating growing complexity across the machine lifecycle. He discusses the shift from one-time machine performance to delivering consistent, resilient outcomes, enabled by virtual validation, standardized architectures, and improved data readiness. The conve...",
-    "link": "https://www.youtube.com/watch?v=0ekU5tt4O68",
-    "published": "2026-08-24 02:15",
+    "title": "Designing for Autonomy Across the Machine Lifecycle",
+    "summary": "Uwe K\u00fcppers, Business Lead, Lifecycle Service, Rockwell Automation, joins Stan Miller in the ROKStudios. In this ROKStudios conversation, Uwe K\u00fcppers, Business Lead for Lifecycle Services at Rockwell Automation, explores how manufacturers and OEMs can design for autonomy across the full machine lifecycle. He discusses the shift from isolated automation to connected, lifecycle-wide strategies, highlighting the role of digital engineering, AI-enabled insights, and data contextualization. The co...",
+    "link": "https://www.youtube.com/watch?v=tHTeJ2bGqyA",
+    "published": "2026-08-26 04:30",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {
@@ -101,10 +101,10 @@
   "business:Intralogistics Simulation": {
     "section": "business",
     "topic": "Intralogistics Simulation",
-    "title": "'Humans being optional': Gartner says robots will dominate workload handling in 50% of new warehouses by 2030 - TechRadar",
-    "summary": "'Humans being optional': Gartner says robots will dominate workload handling in 50% of new warehouses by 2030 TechRadar",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdExuejNCdE5CdkhxcXZzVE11SWlIdFFNdkxmVTVnamx6ZG9NQ0hUZ1NfVFFnNDFMbnRlQzRZYS0tYzZVdFRleFR5X19TTnVRR2I2akVZRGpGU2hYMmFCdzJzYzMzd0RGZEljQ3pBSDlrSTNvTl9mdEhCYVFOdklQa0YxMmNCazYxZ25vS20tbFFWdkkzUk81RjRDU3VXbUp3a3RSMHdaUWg5R05oNWkwN2VyQklXU2pGM0dGaWpZTEhBQ2Q2aTMzdVByQTBqVUth?oc=5",
-    "published": "2026-04-23 01:00",
+    "title": "Getting warehouse automation design right from day one - Medianet News Hub",
+    "summary": "Getting warehouse automation design right from day one Medianet News Hub",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0ctTkhTUnZFQ2pub1FBTGlacFRuRy1nWkZiaUpUb3JIWDhWRzhILVp6d0x6enpaZllUSEtMdnc2Q2ZkZ05FRGdrLW53T2pXc0FPMENjelhxVTgzRjhrYVVGQ0tkRWIxaFkwUXlmR3pPWFZRdDNOSU96OWs5UkRqYjQ5VjBrWFYwMEZYQVBWWDZMWHhUbjRWSVAwQmRJUVZrQXVtbQ?oc=5",
+    "published": "2026-08-25 18:14",
     "source_url": "https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en"
   }
 }
