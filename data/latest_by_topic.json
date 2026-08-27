@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Accelerate Computational Engineering and Robotics With NVIDIA Warp",
-    "summary": "Learn how NVIDIA Warp, an open-source CUDA-X library for accelerating computational engineering, simulation, and robotics workflows, is leveraged by developers and lead to 10M downloads. In this livestream, we\u2019ll introduce NVIDIA Warp, why developers are using it, and how it accelerates engineering and robotics applications. We\u2019ll walk through practical use cases, including an industrial engineering example and a robotics workflow, to showcase how Warp can help teams build and test high-perfo...",
-    "link": "https://www.youtube.com/watch?v=W9Z0uae0YNk",
-    "published": "2026-08-25 22:35",
+    "title": "From Robot Development to Deployment with Isaac GR00T & Jetson Thor",
+    "summary": "Join Noble Machines and Seeed Studio to see how NVIDIA Isaac GR00T and Jetson Thor help take robots from development to real-world deployment. Noble Machines will share how it uses the NVIDIA Isaac GR00T humanoid platform to develop Moby, its general-purpose industrial robot designed to solve real customer problems in industrial environments. Learn how the team applies Isaac Sim, Isaac Lab, GR00T 1.7, and Jetson Thor for policy training and sim-to-real transfer, with onboard inference running...",
+    "link": "https://www.youtube.com/watch?v=Ixr5t-W6gJ0",
+    "published": "2026-08-26 23:52",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Industrial AI: From \"Storytelling\" to \"Crunching the Numbers\" - Gasgoo",
-    "summary": "Industrial AI: From \"Storytelling\" to \"Crunching the Numbers\" Gasgoo",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmcxYWFpVXBBQi12MXllYms1VDgzM2JmeXJTR0xrdTNGQmtiMWpON3FmaHkxTzJHdERVeTBRMGNfVWVWeE5ZdWY2c0VobGhqTDRBaUwxOXhzanFMSkkyZXdHcUVOLS1MbjZTVUVCRmkwWG90LUFjNW03anFtMWV4NEZ5ZVFNdGhuUklUNGlTUG5nYW1CSXdueXZ5enRqY0lHcThXVVQtdUhXS28weWlkZ1J6WHJnMEJzUHc?oc=5",
-    "published": "2026-08-26 06:27",
-    "source_url": "https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en"
+    "title": "Streamlining custom product design with the Designcenter Solid Edge Design Configurator",
+    "summary": "Discuss this session and connect with the community in the Designcenter Solid Edge forum: https://sie.ag/RMsqB This session demonstrates how Design Configurator supports template-driven design and automation for faster, more accurate custom product delivery. Topics covered: \u2022 Building reusable product templates \u2022 Automating design variations \u2022 Improving design accuracy and consistency \u2022 Connecting configuration to manufacturing processes \u2022 Optimizing design automation for faster customer resp...",
+    "link": "https://www.youtube.com/watch?v=_6doObffdzM",
+    "published": "2026-08-27 15:28",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
   },
   "competitors:Visual Components": {
     "section": "competitors",
@@ -38,10 +38,10 @@
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "Designing for Autonomy Across the Machine Lifecycle",
-    "summary": "Uwe K\u00fcppers, Business Lead, Lifecycle Service, Rockwell Automation, joins Stan Miller in the ROKStudios. In this ROKStudios conversation, Uwe K\u00fcppers, Business Lead for Lifecycle Services at Rockwell Automation, explores how manufacturers and OEMs can design for autonomy across the full machine lifecycle. He discusses the shift from isolated automation to connected, lifecycle-wide strategies, highlighting the role of digital engineering, AI-enabled insights, and data contextualization. The co...",
-    "link": "https://www.youtube.com/watch?v=tHTeJ2bGqyA",
-    "published": "2026-08-26 04:30",
+    "title": "Sustainability as a Design Principle for Machine Builders",
+    "summary": "Emmanuel Guilhamon, Vice President, Sustainability, Rockwell Automation, joins Stan Miller in the ROKStudios. In this episode of ROKStudios, Emmanuel Guilhamon, Vice President, Sustainability at Rockwell Automation, explores how sustainability is becoming a core design principle for machine builders. He discusses the shift from traditional performance metrics to a broader lifecycle view that includes energy efficiency, material use, and environmental impact. The conversation also highlights h...",
+    "link": "https://www.youtube.com/watch?v=BJ-T3lTDIC4",
+    "published": "2026-08-27 01:45",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {
