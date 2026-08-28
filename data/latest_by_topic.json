@@ -38,10 +38,10 @@
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "Sustainability as a Design Principle for Machine Builders",
-    "summary": "Emmanuel Guilhamon, Vice President, Sustainability, Rockwell Automation, joins Stan Miller in the ROKStudios. In this episode of ROKStudios, Emmanuel Guilhamon, Vice President, Sustainability at Rockwell Automation, explores how sustainability is becoming a core design principle for machine builders. He discusses the shift from traditional performance metrics to a broader lifecycle view that includes energy efficiency, material use, and environmental impact. The conversation also highlights h...",
-    "link": "https://www.youtube.com/watch?v=BJ-T3lTDIC4",
-    "published": "2026-08-27 01:45",
+    "title": "FactoryTalk Analytics PavilionX Runtime Spray Dryer Video",
+    "summary": "Watch this demonstration of FactoryTalk Analytics PavilionX optimizing a spray drying process. Using predictive models and advanced process control, FactoryTalk Analytics PavilionX helps reduce variability, improve product quality, and increase throughput. Learn more: https://rok.auto/3SDPv9T",
+    "link": "https://www.youtube.com/watch?v=npfnCqW_2CQ",
+    "published": "2026-08-28 11:13",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {
@@ -74,19 +74,19 @@
   "business:Digital Twin Manufacturing": {
     "section": "business",
     "topic": "Digital Twin Manufacturing",
-    "title": "Simulation for battery manufacturing - siemens.com",
-    "summary": "Simulation for battery manufacturing siemens.com",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZU9rYUF4UUQ4OFpOQXRST29VV0h3VUcxR2ZPQWlXOUdSM0czek5wWFByaDRydFhYTlhORkpEN3MyeGZwOUgxNGVYYmFmYWl1Y0JpSmdMUUdWUGhQYjlib0ZiWkI4YXFyWTJEZlRNVFhaWFhFbnBvckNCNEZUZw?oc=5",
-    "published": "2026-08-13 08:59",
+    "title": "Industrial AI Companions: Dassault Syst\u00e8mes Deploys Specialized AI Across Industrial\u2026 - Trend Hunter",
+    "summary": "Industrial AI Companions: Dassault Syst\u00e8mes Deploys Specialized AI Across Industrial\u2026 Trend Hunter",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SUDV1aEJDaFlnLWx3U2ViaDFRLWs3UUhIYk5pT01DRlZNRjFJcG16NEc1bUg2b3Z0MHQ0MC0wOFpEZldCRWpPT2pxVG8yMXpxeWNpTVU0em5YY29RRHN2dmZrZEZDN1ZaaTlv?oc=5",
+    "published": "2026-08-28 13:33",
     "source_url": "https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en"
   },
   "business:PLC Simulation": {
     "section": "business",
     "topic": "PLC Simulation",
-    "title": "Same control logic used regardless of PLC manufacturer\u2026 JLT develops 6.7 billion won 'SYNEX+' - \ubca4\ucc98\uc2a4\ud018\uc5b4",
-    "summary": "Same control logic used regardless of PLC manufacturer\u2026 JLT develops 6.7 billion won 'SYNEX+' \ubca4\ucc98\uc2a4\ud018\uc5b4",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mZEc3dmVJSy1WRlZ5cGl1VFBOYUNwTTU5eE1vMUFYa29Lck10RVItWHZObF9ldXdtR0FoQTVFVkVaYnM5SjkzdU5UbWhvQTVZQ1Bj?oc=5",
-    "published": "2026-08-20 19:02",
+    "title": "Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom",
+    "summary": "Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering Siemens Newsroom",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0ZVoxUzFTeUY4bkQyZHpHODlqSmQyU2dqWG1DR3RJRkl2T1BrX1V2SDMtODRBNnlULU94aGdRUG1DZXB1UzRodFgwYkhFX0xlcGFDMUdENTBUekFid3lJZ2VTTQ?oc=5",
+    "published": "2026-08-27 23:57",
     "source_url": "https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Robot Simulation": {
