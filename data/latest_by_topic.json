@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "From Robot Development to Deployment with Isaac GR00T & Jetson Thor",
-    "summary": "Join Noble Machines and Seeed Studio to see how NVIDIA Isaac GR00T and Jetson Thor help take robots from development to real-world deployment. Noble Machines will share how it uses the NVIDIA Isaac GR00T humanoid platform to develop Moby, its general-purpose industrial robot designed to solve real customer problems in industrial environments. Learn how the team applies Isaac Sim, Isaac Lab, GR00T 1.7, and Jetson Thor for policy training and sim-to-real transfer, with onboard inference running...",
-    "link": "https://www.youtube.com/watch?v=Ixr5t-W6gJ0",
-    "published": "2026-08-26 23:52",
+    "title": "From Robotaxis to L4 Autonomy: A Deep Dive Into NVIDIA Alpamayo 2 Super",
+    "summary": "Join us for a deep dive into Alpamayo 2 Super \u2014 our most capable model yet \u2014 as we walk through the release notebooks and show how it can power robotaxi and L4 autonomous vehicle pipelines at a fraction of the cost of existing solutions. We'll also share the latest AlpaSim updates, including new controller improvements, and give a full rundown of our two ongoing challenges \u2014 including how we've incorporated your feedback since the initial release. Attendees will learn: - How to use Alpamayo 2...",
+    "link": "https://www.youtube.com/watch?v=KtKXKgT_xBU",
+    "published": "2026-08-28 22:15",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {

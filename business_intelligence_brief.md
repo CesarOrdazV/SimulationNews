@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-08-28 16:09 (Mexico City)
+Generated: 2026-08-29 10:38 (Mexico City)
 
 ## Business Keywords
 
@@ -11,18 +11,18 @@ Generated: 2026-08-28 16:09 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Industrial AI Companions: Dassault Systèmes Deploys Specialized AI Across Industrial… - Trend Hunter](https://news.google.com/rss/articles/CBMia0FVX3lxTE9SUDV1aEJDaFlnLWx3U2ViaDFRLWs3UUhIYk5pT01DRlZNRjFJcG16NEc1bUg2b3Z0MHQ0MC0wOFpEZldCRWpPT2pxVG8yMXpxeWNpTVU0em5YY29RRHN2dmZrZEZDN1ZaaTlv?oc=5) (2026-08-28 13:33)
+- [Industrial AI Companions: Dassault Systèmes Deploys Specialized AI Across Industrial… - Trend Hunter](https://news.google.com/rss/articles/CBMia0FVX3lxTE9SUDV1aEJDaFlnLWx3U2ViaDFRLWs3UUhIYk5pT01DRlZNRjFJcG16NEc1bUg2b3Z0MHQ0MC0wOFpEZldCRWpPT2pxVG8yMXpxeWNpTVU0em5YY29RRHN2dmZrZEZDN1ZaaTlv?oc=5) (2026-08-28 13:33) _(last seen)_
   Summary: Industrial AI Companions: Dassault Systèmes Deploys Specialized AI Across Industrial… Trend Hunter
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom](https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0ZVoxUzFTeUY4bkQyZHpHODlqSmQyU2dqWG1DR3RJRkl2T1BrX1V2SDMtODRBNnlULU94aGdRUG1DZXB1UzRodFgwYkhFX0xlcGFDMUdENTBUekFid3lJZ2VTTQ?oc=5) (2026-08-27 23:57)
+- [Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom](https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0ZVoxUzFTeUY4bkQyZHpHODlqSmQyU2dqWG1DR3RJRkl2T1BrX1V2SDMtODRBNnlULU94aGdRUG1DZXB1UzRodFgwYkhFX0xlcGFDMUdENTBUekFid3lJZ2VTTQ?oc=5) (2026-08-27 23:57) _(last seen)_
   Summary: Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering Siemens Newsroom
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [News: 9 Types of Robotics Software You Might Consider for Your Robot - A3 Association for Advancing Automation](https://news.google.com/rss/articles/CBMiowFBVV95cUxQR2M3QjQ1Uk9jc0RuTHBEX0RjTmV3UFpYemJ5VmEyMEk3Z01VSGhnbG1nazRQeHpDX1BqUnlxV2JFaWhYSnd4YVZqMEYxTDJYSXk5RXdmU0d2Z0NkbTVsMEpTU2FiRnh5UzFXb0FwUl9GSnd3M2Q4SDJXYnQxQ0hveTI4MXB2UHVDeVNKRHlIcC1mZ2Z5bGZhQlNua3Fzemdmam1R?oc=5) (2020-06-15 02:00)
-  Summary: News: 9 Types of Robotics Software You Might Consider for Your Robot A3 Association for Advancing Automation
+- [KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 - Automation.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTJrNUMzSWZjR0ZIYUtNcURGaVJONldMRXZ5b0hYZWhhNEluVC1GNzBIeTBBaVJ1RzlCZmdvMlJHYVYzZ1pXY3p0UmFoVjFhM2ZwMHdtbDlRUTd2OWdESGpkaEgyNXBmdGJnS1hhVUxqNVdldGtiZDF4SGFWa01vaDJGV3c5NU0wdy1XQm55LU5GSU1nNXRYVU5MRlB3Y0RKQXpxLUFlNERDSVpkeUVLWkRn?oc=5) (2026-08-19 13:44) _(last seen)_
+  Summary: KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 Automation.com
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
@@ -34,8 +34,11 @@ Generated: 2026-08-28 16:09 (Mexico City)
 
 ### NVIDIA
 
-- [From Robot Development to Deployment with Isaac GR00T & Jetson Thor](https://www.youtube.com/watch?v=Ixr5t-W6gJ0) (2026-08-26 23:52) _(last seen)_
-  Summary: Join Noble Machines and Seeed Studio to see how NVIDIA Isaac GR00T and Jetson Thor help take robots from development to real-world deployment. Noble Machines will share how it uses the NVIDIA Isaac GR00T humanoid platform to develop Moby, its general-purpose industrial robot designed to solve real customer problems in industrial environments. Learn how the team applies Isaac Sim, Isaac Lab, GR00T 1.7, and Jetson Thor for policy training and sim-to-real transfer, with onboard inference running...
+- [From Robotaxis to L4 Autonomy: A Deep Dive Into NVIDIA Alpamayo 2 Super](https://www.youtube.com/watch?v=KtKXKgT_xBU) (2026-08-28 22:15)
+  Summary: Join us for a deep dive into Alpamayo 2 Super — our most capable model yet — as we walk through the release notebooks and show how it can power robotaxi and L4 autonomous vehicle pipelines at a fraction of the cost of existing solutions. We'll also share the latest AlpaSim updates, including new controller improvements, and give a full rundown of our two ongoing challenges — including how we've incorporated your feedback since the initial release. Attendees will learn: - How to use Alpamayo 2...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
+- [What's New in Isaac Lab-Arena | Robotics Office Hours](https://www.youtube.com/watch?v=jb1jr3mYZjs) (2026-08-25 22:46)
+  Summary: Take a closer look at the newest Isaac Lab-Arena release and how it helps developers and researchers benchmark and evaluate robot policies in simulation at scale. We’ll explore the latest capabilities, walk through how to author scalable benchmarks, and show how Isaac Lab-Arena can be used to evaluate policies across robotics tasks and environments. Through technical demos and insights from NVIDIA experts, you’ll see where Isaac Lab-Arena fits into the broader robotics development workflow an...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
@@ -54,11 +57,8 @@ Generated: 2026-08-28 16:09 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 
-- [FactoryTalk Analytics PavilionX Runtime Spray Dryer Video](https://www.youtube.com/watch?v=npfnCqW_2CQ) (2026-08-28 11:13)
+- [FactoryTalk Analytics PavilionX Runtime Spray Dryer Video](https://www.youtube.com/watch?v=npfnCqW_2CQ) (2026-08-28 11:13) _(last seen)_
   Summary: Watch this demonstration of FactoryTalk Analytics PavilionX optimizing a spray drying process. Using predictive models and advanced process control, FactoryTalk Analytics PavilionX helps reduce variability, improve product quality, and increase throughput. Learn more: https://rok.auto/3SDPv9T
-  Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
-- [FactoryTalk Analytics PavilionX Creating a Controller Dataset Video](https://www.youtube.com/watch?v=HlnRUOW3CS8) (2026-08-28 10:57)
-  Summary: Watch this demonstration of how FactoryTalk Analytics PavilionX uses step test data to create a controller and identify the models that drive predictive control. Using a powdered milk spray dryer example, this video walks through the controller development process within FactoryTalk Analytics PavilionX SolutionBuilder. Learn more: https://rok.auto/4cc1xOC
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
