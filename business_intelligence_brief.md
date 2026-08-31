@@ -1,48 +1,33 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-08-30 10:32 (Mexico City)
+Generated: 2026-08-31 13:04 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [Industrial Simulation Drives Automation Innovation - PlasticsToday](https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2p4LXpEVFBtUnlwdUdRVm5xNHV4TXJJSVVKY0EyckhTaEs3LUZ1WmtMcWpBMFhNQndwdm50ZmFyTnJiejhERmhMRVB6d01vdG00VHg3VmNtUm5HczR6UUYzMEpobmw0Q0gtMkVPWXdHZlVNejQ3S1pndTNGbXZKeXI2ZThUaFRVcTluam80bzUtYTViSjdCejVxaldEc1pZc20zOWgtRklyU3lMVTVvbGxIbzZSWElsTUktYk5yWklxUHgwOU9nTEFkZzhXUQ?oc=5) (2026-05-05 01:00)
-  Summary: Industrial Simulation Drives Automation Innovation PlasticsToday
-  Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
-- [Nord’s New Virtual Design and Commissioning Tech for Drives Systems - Automation World](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSThZckJDc2RIRmZCeGM4aHZFTGtrRTdhR0Uzc2NXalVIZHBBVTc2UDVwRUhwbGpSTUU4c1czZ3lEZzd6WHNEQlktTTNNTGRTQ280aUxwck9OM1ZhdXhjQmxFUUEzbV9HeEFuYzdFeUcwdklxeDlMTVVxeDVSd3d6dEZVWk40LV9fOGVaY2JEX0hYYkJtZVoyZTF6S2NCLWFMbGxyQW1oU1hvUFpuYVJ3d3RxLTItRTlkMUhJ?oc=5) (2026-03-10 01:00)
-  Summary: Nord’s New Virtual Design and Commissioning Tech for Drives Systems Automation World
-  Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
-- [Rockwell Automation Leverages NVIDIA Omniverse and OpenUSD - NVIDIA](https://news.google.com/rss/articles/CBMib0FVX3lxTE5XVTJqbWpEOEM2ZUNTWHdGaWw4OHVSamZPaXlBSWZ4UXUteUkxZTJSVDFsV2xaQzdaVjZTYmxKZ1oyUnNtSUUxcWFfNW1zQVotVGxLZGZyWnE3X0JZNFN2SmFSR3hXZ203akxwNl9zYw?oc=5) (2026-01-14 06:24)
-  Summary: Rockwell Automation Leverages NVIDIA Omniverse and OpenUSD NVIDIA
+- [Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery - Control Design](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTVROWWFCejgyRnZEREVnWW5VS1lRN3pJbldobFZwV3A0a1VpNmRKOXFfc3UtMU83Z2NSNVNHZmRMeTEyRGl0dUxOZnNRX2xVSExtUDA0VENhdWVaWTZ4clc0akdKZXRHWXMzcnk1a09sSnB3aGN3YVlZckN2RkhFb1c1YS1oOTIzalFGUC1JR0xQQ1BnbHdCb2xOWmh4Mkcza2t2RURjLUhkZTZYUGhGUTRPOXZrM2JqM1FqZXlzek9vQU1XMmlOcjVyTzJYOVVpcUFBWjdjMWVOV1ZYcE5XYlE4akFYQ1JoNkpibDlYTkw1ZjZDUUhhTEl0MVhoQQ?oc=5) (2026-08-17 20:17) _(last seen)_
+  Summary: Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery Control Design
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Industrial AI Companions: Dassault Systèmes Deploys Specialized AI Across Industrial… - Trend Hunter](https://news.google.com/rss/articles/CBMia0FVX3lxTE9SUDV1aEJDaFlnLWx3U2ViaDFRLWs3UUhIYk5pT01DRlZNRjFJcG16NEc1bUg2b3Z0MHQ0MC0wOFpEZldCRWpPT2pxVG8yMXpxeWNpTVU0em5YY29RRHN2dmZrZEZDN1ZaaTlv?oc=5) (2026-08-28 18:47) _(last seen)_
-  Summary: Industrial AI Companions: Dassault Systèmes Deploys Specialized AI Across Industrial… Trend Hunter
+- [BMW Group transforms global manufacturing operations with advanced digital twin technology - processexcellencenetwork.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOR3VzVVVMbHVnT1RPWmcwSUQ5dlQ2TS1yX3k0NUw2LVEyam82anJfUmstbXlNYjhvRnJULTZOQnBzcElidVJwUFZxbTZpQmljOWp6MzlOY1M3cXBSU2hSQUtQMWZaM0tNNThydnZJNkRkY0o2X0ozVU5Ob0NMSFpraGUyWXhQYzR3aXB4WXNmOEg0OC0zbk51Z21SU0pmYUtoUml1aGlFU1RHNGExWld1YmVxSG1IQktOU0RhMHpidTlkYXNfdnJCVUNaY1NBazA5YklWdE1JdGxaODctYUxMQnRiMGl3VnhmdzNlSkdLRHk?oc=5) (2025-06-12 01:00)
+  Summary: BMW Group transforms global manufacturing operations with advanced digital twin technology processexcellencenetwork.com
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Rockwell Automation Leverages NVIDIA Omniverse and OpenUSD - NVIDIA](https://news.google.com/rss/articles/CBMib0FVX3lxTE5XVTJqbWpEOEM2ZUNTWHdGaWw4OHVSamZPaXlBSWZ4UXUteUkxZTJSVDFsV2xaQzdaVjZTYmxKZ1oyUnNtSUUxcWFfNW1zQVotVGxLZGZyWnE3X0JZNFN2SmFSR3hXZ203akxwNl9zYw?oc=5) (2026-01-14 06:24)
-  Summary: Rockwell Automation Leverages NVIDIA Omniverse and OpenUSD NVIDIA
-  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
-- [Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hOXJZTnhEb3JVX0VHZ2Q2dV9RQlo3Y25yOHE1N3VOUVdpaHZhRnJjeTJnV0dhZzVVVVc0VkxzWUJTTVRycnJnNmxwNlN5RWRtOTlpMHR5V2lCZWc5dFNXanJoSQ?oc=5) (2026-08-28 02:27)
-  Summary: Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering Siemens Newsroom
+- [Factory Automation Market Size, Share & Growth Report 2035 | MRFR - Market Research Future](https://news.google.com/rss/articles/CBMigAFBVV95cUxQekQ3SGRXVldxWDdMbVNaa29TT3NHT1ZIMVAxMXp0blp5OEJ2MUZubFV0TlNRNEtWMFM0Wkk2b1BzWWFRTlBBT3h1U0c4Ykxocmp5UkpxSzlLd3FVY3J6U25NZG9fZEdtNURyak82X0ducVVTUkd3RktHS1dmSzRyTw?oc=5) (2017-07-05 19:40)
+  Summary: Factory Automation Market Size, Share & Growth Report 2035 | MRFR Market Research Future
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [Dassault Systèmes, Siemens, ABB Take Lead in Robotics Offline Programming Software Competitive Ranking - Manufacturing Business Technology](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMExCSm5na1d6U094OGh1a3hfNDJ1MzVxWThaVkNwMnpSTnF4bDRPUHJweVpHZldRM1hrM3VDb1NGQXB2S21sQTZrYVBpMi1xcTQtNXdVOWRkU2YweERsOVB0RnNFWEJUTzRsYkk4QWFVU3ZiTGUyRnJwREo0VE1TSzFsMUhINkplZjF2X3Fsakd4b2xCUGNfeVBZTHpCUEtMc3g4czRrMXJrcDhUUHFjT1pFQmFQcGRUelZYQTRDMjZiYjFNMXQ1QkgyNTR3SXFEVVg1QTRzbGF3ZG55aGFPMzA5TQ?oc=5) (2024-08-15 01:00)
-  Summary: Dassault Systèmes, Siemens, ABB Take Lead in Robotics Offline Programming Software Competitive Ranking Manufacturing Business Technology
-  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
-- [When you need someone from Canada to calibrate your robot in New Zealand - Robohub](https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTNxbWt5OU45dDVvd3hBQjMwYTU1S2Q3V05DaE9MS0xndDF5T1JYR1pReEhZejVha3RDTHBBcEtrU3B4UjlUSTlQR011cVN3LWZObUNhcXJwRjF6Y1MwVHc4SDdZbV9hLVpvcEI5LV9JLXlZLXV5bzlhbTU4elBWOWkxcGxlanVMUl85NDdhOG9Gbk1Yejk5Mjladw?oc=5) (2018-06-30 10:47)
-  Summary: When you need someone from Canada to calibrate your robot in New Zealand Robohub
+- [KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 - Automation.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTJrNUMzSWZjR0ZIYUtNcURGaVJONldMRXZ5b0hYZWhhNEluVC1GNzBIeTBBaVJ1RzlCZmdvMlJHYVYzZ1pXY3p0UmFoVjFhM2ZwMHdtbDlRUTd2OWdESGpkaEgyNXBmdGJnS1hhVUxqNVdldGtiZDF4SGFWa01vaDJGV3c5NU0wdy1XQm55LU5GSU1nNXRYVU5MRlB3Y0RKQXpxLUFlNERDSVpkeUVLWkRn?oc=5) (2026-08-19 13:44) _(last seen)_
+  Summary: KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 Automation.com
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Top 20 Warehouse Automation Suppliers Worldwide - Forbes](https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkt5YlVza3FLYURGcThjTWlCSHZvallBU0R5d2hRNXJsNlFzamppZ29HZUhyMmhMdVR6aXhobWNRMThKczdULW5HTGc2LW9jNnctN3FOdXpmWUNqUlU3YVp1UTF5bnY5ejZRZEJJeF91QUpFVXJ3by1aU2xWbjdRbWZuY29NZHZud3pmai14NjFORzZIWDNFWTA2elNCSmZTcUE?oc=5) (2022-11-01 01:00)
-  Summary: Top 20 Warehouse Automation Suppliers Worldwide Forbes
-  Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
-- [Swisslog Shines Spotlight on Data-driven Automation and Advanced Warehouse Solutions - LM - Logistics Manager](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXhWdU94WVQ4R1RCZzFfZWZCWGRESEVxRlFKSmZpLVR5MWI1MHlKbkEtVnVMNm14M2ZIM20wdXpybUdYc1pyRzU4UjczOUtHUXhlYmhwNGs0U0VBRWNoNGlvWUJlTm9KMmxja2Znd19CdE1YZkJDaDdab3BKb2phV1dXN19ZWU40STJSRl93UzlhMHVJUGhQc0NPMjNhRTZMWVJSbkJJTE1mZDAyNEJNYlB3WS13UQ?oc=5) (2019-10-08 02:00)
-  Summary: Swisslog Shines Spotlight on Data-driven Automation and Advanced Warehouse Solutions LM - Logistics Manager
+- [Getting warehouse automation design right from day one - Medianet News Hub](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0ctTkhTUnZFQ2pub1FBTGlacFRuRy1nWkZiaUpUb3JIWDhWRzhILVp6d0x6enpaZllUSEtMdnc2Q2ZkZ05FRGdrLW53T2pXc0FPMENjelhxVTgzRjhrYVVGQ0tkRWIxaFkwUXlmR3pPWFZRdDNOSU96OWs5UkRqYjQ5VjBrWFYwMEZYQVBWWDZMWHhUbjRWSVAwQmRJUVZrQXVtbQ?oc=5) (2026-08-25 18:14) _(last seen)_
+  Summary: Getting warehouse automation design right from day one Medianet News Hub
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
@@ -59,29 +44,23 @@ Generated: 2026-08-30 10:32 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Why Fire Digital Twin? - Siemens](https://news.google.com/rss/articles/CBMifEFVX3lxTE5EX213bkpreFlOQjdlZTNpeHBJZEZCUE9tWlE3c01hQ3hyTkRPUWdWT20zeWp5a0F0azFFRzlpSnRrSlB1ck12eWFoWnFfOUdJT1lmckVxU1A3U1NpQjJRUHFFTlQ2QnpLQnlrZlBxWmhab0NiU1dJbFVqeWw?oc=5) (2026-02-13 23:11)
-  Summary: Why Fire Digital Twin? Siemens
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Robotics AI Powers Siemens Industrial AI OS Revolution - AI CERTs](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHdTZTNGQ1JPYUdqcUt1VFlmd2EtSGFhX3dxOUZQLTRzR0tkWEt0dmt4RktZMzZqbllfdmNnTGdGU09OOThGVDdLdXdxcjZXNkJjaUJfUGhWdmZKbXhnbmZDVFZyU2ttM05ldHd6YzRyUXRyWE1HLUd1eHdXX2R3TlBuZWdGRFAzUE13?oc=5) (2026-02-03 10:04)
-  Summary: Robotics AI Powers Siemens Industrial AI OS Revolution AI CERTs
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Faster, Smarter, Trusted: A Framework for Industrial AI](https://www.youtube.com/watch?v=pmlZnsJdo_4) (2026-08-31 12:54)
+  Summary: The focus of Industrial AI is shifting to systematic implementations across tools and workflows in engineering, manufacturing, operations and more. For Siemens, that means building AI capabilities around three clear pillars and delivering measurable results at each layer. In this episode of the Future Ready Podcast, host Spencer Acain is joined again by Samir Desai, Senior Director for AI and Data Strategy at Siemens Digital Industries Software. Samir and Spencer explore how Siemens is puttin...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
-- [Industrial Simulation Drives Automation Innovation - PlasticsToday](https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2p4LXpEVFBtUnlwdUdRVm5xNHV4TXJJSVVKY0EyckhTaEs3LUZ1WmtMcWpBMFhNQndwdm50ZmFyTnJiejhERmhMRVB6d01vdG00VHg3VmNtUm5HczR6UUYzMEpobmw0Q0gtMkVPWXdHZlVNejQ3S1pndTNGbXZKeXI2ZThUaFRVcTluam80bzUtYTViSjdCejVxaldEc1pZc20zOWgtRklyU3lMVTVvbGxIbzZSWElsTUktYk5yWklxUHgwOU9nTEFkZzhXUQ?oc=5) (2026-05-05 01:00)
-  Summary: Industrial Simulation Drives Automation Innovation PlasticsToday
-  Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
-- [Visual Components leads the way in industrial simulation solutions with NVIDIA Omniverse and Lotus Technology - A3 Association for Advancing Automation](https://news.google.com/rss/articles/CBMi2gFBVV95cUxORHJfRVU4WFU2ekl4eUY3ZWQtdW1WTC1zNl91d0Z1aVh6VUFQdnRKU2diR0k2SkJWMnhTZVFoWTBDZmRrZTJRby1vbTFWNUQ2OVZ2Vi1lN0ttU01SSDg0TTFLV3RGcERDMTV1YUIxUmd0cmh4aHAtUXFZRzFGLU01TklTcFprbnc3ejhaR2J0MDh0VzVxeW14X0llajhXZ3dhb0JzVUJ0ZXFRZl8xdVBUMTdfZm8wSzY5WU9acHhqNHUxMEJPQmg1bGpIeUkwenVuUEdVejZ6aFlrQQ?oc=5) (2022-04-04 02:00)
-  Summary: Visual Components leads the way in industrial simulation solutions with NVIDIA Omniverse and Lotus Technology A3 Association for Advancing Automation
+- [Visual Components: Automation to Optimize Manufacturing Cost - cioreview.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXdEtlQ281NnZLOVNJcGtWRzNENnZsbkJrT3Nvc1NISGFDOE5YOE11MGpJQzVZU1NpVFNOQk42N2V5djVTRVBoR2w4WEx4TGtJV09xMjVGSFE3YW82?oc=5) (2026-08-18 08:24) _(last seen)_
+  Summary: Visual Components: Automation to Optimize Manufacturing Cost cioreview.com
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 
-- [Rockwell Automation Leverages NVIDIA Omniverse and OpenUSD - NVIDIA](https://news.google.com/rss/articles/CBMib0FVX3lxTE5XVTJqbWpEOEM2ZUNTWHdGaWw4OHVSamZPaXlBSWZ4UXUteUkxZTJSVDFsV2xaQzdaVjZTYmxKZ1oyUnNtSUUxcWFfNW1zQVotVGxLZGZyWnE3X0JZNFN2SmFSR3hXZ203akxwNl9zYw?oc=5) (2026-01-14 06:24)
-  Summary: Rockwell Automation Leverages NVIDIA Omniverse and OpenUSD NVIDIA
+- [Rockwell Automation & Eplan launch digital twin-driven electrical simulation integration | Process Excellence Network - processexcellencenetwork.com](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ2FDOXdrNmc4cGExUk43S056T3RXdlJNT3hZRFpsQUtNYVYwMXdpbXdiWWJYR1pXc0RERW1GX1N4WHBKNHJtRk9wTVZfZEFBbmgtaUlPVXVQcWdZbkIxQm92ZElvVUdtRC05WEZ1QWtHeU1qaXJlNWhfTWhuWW9NOUNfX2ZrMVNYZW55Q2QyOTNGYlRfbUZjMVREdG5nNzZ1cGp0R0pJUHpFenJ4RE12cmlFX2RDQ1FBeWtZWmlVTlBQLW9IZ0xnenVudWt6V0VOSmNiTE56S3htcWw3UW5Kc212YUNLUdIB6wFBVV95cUxOSWxNdnpYMnZKUUpHNnhvVjM4anVTdEVWNHJPN19lU2MtUjRWNWFBdVNoTzJKQ2FYSUp6QVQxc0N5RDBjRnpNS2lIYlJoM3hOWUtjLU80LXh4UW41R3E0U25fV3VDOFNLY1hubFhyUmd2d0ZITnRuM2tCTVdGZ0txY0J4d3l2NHVCMTBXMEhEUjZBcENYTlgwTWFnWlJULW9JMUd0WDRyaVE5aVhCVVFPb29CTzUySG1mVWpEVGxqenZsYTI0cWRoWTYzSEI4YXJDYmpoSXdPNE9oaWhGVEhWeGtyRUR1UzFHaXQw?oc=5) (2025-11-25 02:00)
+  Summary: Rockwell Automation & Eplan launch digital twin-driven electrical simulation integration | Process Excellence Network processexcellencenetwork.com
   Feed source: https://news.google.com/rss/search?q=rockwell+automation+emulate3d+digital+twin&hl=en&gl=US&ceid=US:en
 ### AnyLogic
 
-- [Register for the simulation event of the year!](https://www.youtube.com/shorts/R4phjRy13LE) (2026-08-21 05:08) _(last seen)_
-  Summary: Register for the simulation event of the year 🚀 The AnyLogic Conference 2026 program is filling up fast with industry leaders and real-world insights! Don’t miss the launch of AnyLogic Online and AnyLogic AI Assistant! September 15. Be among the first to see what’s next. Link in bio.
+- [Webinar | How Quick-Service Restaurants Use Simulation to Improve Performance](https://www.youtube.com/watch?v=EbdvjiM_vHE) (2026-08-31 06:16)
+  Summary: Small operational decisions can have a major impact on customer experience, labor utilization, throughput, and profitability. In this webinar, discover how simulation modeling and digital twin technology help quick service restaurant (QSR) leaders test operational changes before investing in new staff, equipment, restaurant layouts, kiosks, or menu updates. What you'll learn: ✅ How simulation helps evaluate operational changes before implementation. ✅ How digital twins represent real restaura...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCdH-e29FvfphfWmI2EMZPhg
 ### F.EE / fescreen-sim
 
