@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-08-31 13:04 (Mexico City)
+Generated: 2026-09-01 10:28 (Mexico City)
 
 ## Business Keywords
 
@@ -11,18 +11,18 @@ Generated: 2026-08-31 13:04 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [BMW Group transforms global manufacturing operations with advanced digital twin technology - processexcellencenetwork.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxOR3VzVVVMbHVnT1RPWmcwSUQ5dlQ2TS1yX3k0NUw2LVEyam82anJfUmstbXlNYjhvRnJULTZOQnBzcElidVJwUFZxbTZpQmljOWp6MzlOY1M3cXBSU2hSQUtQMWZaM0tNNThydnZJNkRkY0o2X0ozVU5Ob0NMSFpraGUyWXhQYzR3aXB4WXNmOEg0OC0zbk51Z21SU0pmYUtoUml1aGlFU1RHNGExWld1YmVxSG1IQktOU0RhMHpidTlkYXNfdnJCVUNaY1NBazA5YklWdE1JdGxaODctYUxMQnRiMGl3VnhmdzNlSkdLRHk?oc=5) (2025-06-12 01:00)
-  Summary: BMW Group transforms global manufacturing operations with advanced digital twin technology processexcellencenetwork.com
+- [Industrial AI Companions: Dassault Systèmes Deploys Specialized AI Across Industrial… - Trend Hunter](https://news.google.com/rss/articles/CBMia0FVX3lxTE9SUDV1aEJDaFlnLWx3U2ViaDFRLWs3UUhIYk5pT01DRlZNRjFJcG16NEc1bUg2b3Z0MHQ0MC0wOFpEZldCRWpPT2pxVG8yMXpxeWNpTVU0em5YY29RRHN2dmZrZEZDN1ZaaTlv?oc=5) (2026-08-28 18:47) _(last seen)_
+  Summary: Industrial AI Companions: Dassault Systèmes Deploys Specialized AI Across Industrial… Trend Hunter
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Factory Automation Market Size, Share & Growth Report 2035 | MRFR - Market Research Future](https://news.google.com/rss/articles/CBMigAFBVV95cUxQekQ3SGRXVldxWDdMbVNaa29TT3NHT1ZIMVAxMXp0blp5OEJ2MUZubFV0TlNRNEtWMFM0Wkk2b1BzWWFRTlBBT3h1U0c4Ykxocmp5UkpxSzlLd3FVY3J6U25NZG9fZEdtNURyak82X0ducVVTUkd3RktHS1dmSzRyTw?oc=5) (2017-07-05 19:40)
-  Summary: Factory Automation Market Size, Share & Growth Report 2035 | MRFR Market Research Future
+- [Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hOXJZTnhEb3JVX0VHZ2Q2dV9RQlo3Y25yOHE1N3VOUVdpaHZhRnJjeTJnV0dhZzVVVVc0VkxzWUJTTVRycnJnNmxwNlN5RWRtOTlpMHR5V2lCZWc5dFNXanJoSQ?oc=5) (2026-08-28 02:27) _(last seen)_
+  Summary: Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering Siemens Newsroom
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 - Automation.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTJrNUMzSWZjR0ZIYUtNcURGaVJONldMRXZ5b0hYZWhhNEluVC1GNzBIeTBBaVJ1RzlCZmdvMlJHYVYzZ1pXY3p0UmFoVjFhM2ZwMHdtbDlRUTd2OWdESGpkaEgyNXBmdGJnS1hhVUxqNVdldGtiZDF4SGFWa01vaDJGV3c5NU0wdy1XQm55LU5GSU1nNXRYVU5MRlB3Y0RKQXpxLUFlNERDSVpkeUVLWkRn?oc=5) (2026-08-19 13:44) _(last seen)_
-  Summary: KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 Automation.com
+- [SKAI Intelligence, ABB Robotics Partner on Physical AI Technologies - thelec.net](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWS1FWWJLdV8xTXdIbUhmUEZjd0VEY2ZCUkFybGQzRXFWdWpGMnpxSEIyRGtxZzktNjREUzhlYzM4SVBfZl9xUEtpZlpaTFliVm5tVV9IaWpQX3pNRTN5dElRc2JnVUE?oc=5) (2026-06-12 01:00)
+  Summary: SKAI Intelligence, ABB Robotics Partner on Physical AI Technologies thelec.net
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
@@ -44,8 +44,29 @@ Generated: 2026-08-31 13:04 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Faster, Smarter, Trusted: A Framework for Industrial AI](https://www.youtube.com/watch?v=pmlZnsJdo_4) (2026-08-31 12:54)
-  Summary: The focus of Industrial AI is shifting to systematic implementations across tools and workflows in engineering, manufacturing, operations and more. For Siemens, that means building AI capabilities around three clear pillars and delivering measurable results at each layer. In this episode of the Future Ready Podcast, host Spencer Acain is joined again by Samir Desai, Senior Director for AI and Data Strategy at Siemens Digital Industries Software. Samir and Spencer explore how Siemens is puttin...
+- [NVIDIA and Global Software leaders partner with Indian manufacturers to accelerate AI-driven industrial growth - varindia.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYVdMVTJ4cVQzeGNHTWNvdEhWY1VJbmQ2d2dJS3N6bC1iU2FBS2VaQ2R1dDJ1Yi1UMHlmQXdxYmIwQlMwa3hDUWdsUEswQWptc2ppMWZqNmtxcVVVUmp0SEltZUc1UVBwMElLeXRuT3Mxb3BZXzB3YlV3TWJhN0cxNWZFbkFhVkxxQmFRNFRYVWQxcWQxeTBOY0Nzc0pWX3R4NHlfXzc0aENFOVV0SkJhSldBU3pWRUpaZmtlTUFyencyYy1jTnFrZ3VlVFpWM043TXhjdERjNA?oc=5) (2026-02-19 01:26)
+  Summary: NVIDIA and Global Software leaders partner with Indian manufacturers to accelerate AI-driven industrial growth varindia.com
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Shlomo Dovrat: The Tecnomatix journey & the power of a shared mission](https://www.youtube.com/watch?v=qxpzJf_2F8I) (2026-09-01 01:57)
+  Summary: "A group of naive Israelis that don't know what they don't know..." In this rare reflection, Shlomo Dovrat, co-founder of Tecnomatix Technologies, looks back at the audacious journey of a small Israeli startup that went on to permanently reshape global industrial production. From pioneering digital planning and introducing advanced robotics to the world’s leading automotive, aerospace, and electronics giants, Shlomo reflects on what made Tecnomatix truly special: a relentless sense of mission...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [Zvi Feuer: How 30 years of simulation led to the age of humanoids & Siemens Physical AI](https://www.youtube.com/watch?v=CG1cGh5meSU) (2026-08-31 21:49)
+  Summary: "We started 30 years ago with human simulation... and guess what happened?" In this engaging reflection, Zvi Feuer, Leader of Digital Manufacturing at Siemens (and former Tecnomatix executive), shares his lifelong passion for manufacturing and discusses the extraordinary evolution of Tecnomatix's core technologies. Zvi explains how a human simulation tool created three decades ago - originally designed to prevent factory workers from injury - has directly paved the way for simulating, plannin...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [Parametrización G220 vía TIA Portal](https://www.youtube.com/watch?v=v454FoTdYE0) (2026-09-01 08:43)
+  Summary: : ¡Bienvenidos al EP. 03 de la serie “Motion en 1 minuto”! En este episodio, verá el paso a paso para configurar el SINAMICS G220 en TIA Portal. ¡Dele al play y descúbralo en solo 1 minuto! ¿Quiere saber más? Acceda a: https://sie.ag/bYXYr
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [Parametrização G220 via TIA Portal](https://www.youtube.com/watch?v=KCkjz2BzXIU) (2026-09-01 08:38)
+  Summary: Bem-vindos ao EP. 03 da série “Motion em 1 minuto”! Neste episódio, você confere o passo a passo para configurar o SINAMICS G220 no TIA Portal. Aperte o play e descubra em apenas 1 minuto! Quer saber mais? Clique em: https://sie.ag/2DHQnM
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [Multipurpose Automation Box | Gateway to Digitalized and AI-Ready Power Grids](https://www.youtube.com/watch?v=_yRvkfbukd0) (2026-09-01 03:56)
+  Summary: Power networks are becoming more complex as aging infrastructure, growing demand, renewable integration, and digitalization reshape grid operations. The Multipurpose Automation Box (MAB) is a plug-and-play IoT gateway that securely connects assets, collects critical data, and communicates across platforms such as Electrification X, Grid Scale X, and Building X. By transforming raw data into real-time visibility and actionable insights, MAB creates a scalable digital foundation for AI-enabled...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [From Planned Shutdowns to Predictive Maintenance: Highland Pellets' AI Journey - with Andrew Rehm](https://www.youtube.com/watch?v=irNcYBQ9gFg) (2026-09-01 02:03)
+  Summary: Welcome to the Trend Detection podcast, brought to you by Senseye Predictive Maintenance – which gives you visibility and insights into all your assets, from single machines to full plants to help you reduce downtime, increase knowledge sharing and accelerate digital transformation across your organization. In this episode we're joined by Andrew Rehm, Director of Reliability and Planning at Highland Pellets, to explore how predictive maintenance is transforming industrial operations. Andrew s...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [Ready, set, crunch! How digitalization helps make the perfect Pringles chip](https://www.youtube.com/watch?v=5EMOYVuM5UE) (2026-09-01 03:31)
+  Summary: Can you taste the data? Discover how Pringles transformed the art of dough-making into a precise science. Learn how we helped turn a traditional factory into a Digital Enterprise where every chip is a perfect crunch. Listen in now! Nature is unpredictable, but your snacks shouldn't be. Host Alex Chavez explores how the Pringles factory in Kutno, Poland, uses Digital Twin tech to master raw material variability. Join Justyna Galusa and Jan Laenen from Pringles, along with our expert Daniel Kle...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
@@ -54,12 +75,12 @@ Generated: 2026-08-31 13:04 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 
-- [Rockwell Automation & Eplan launch digital twin-driven electrical simulation integration | Process Excellence Network - processexcellencenetwork.com](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ2FDOXdrNmc4cGExUk43S056T3RXdlJNT3hZRFpsQUtNYVYwMXdpbXdiWWJYR1pXc0RERW1GX1N4WHBKNHJtRk9wTVZfZEFBbmgtaUlPVXVQcWdZbkIxQm92ZElvVUdtRC05WEZ1QWtHeU1qaXJlNWhfTWhuWW9NOUNfX2ZrMVNYZW55Q2QyOTNGYlRfbUZjMVREdG5nNzZ1cGp0R0pJUHpFenJ4RE12cmlFX2RDQ1FBeWtZWmlVTlBQLW9IZ0xnenVudWt6V0VOSmNiTE56S3htcWw3UW5Kc212YUNLUdIB6wFBVV95cUxOSWxNdnpYMnZKUUpHNnhvVjM4anVTdEVWNHJPN19lU2MtUjRWNWFBdVNoTzJKQ2FYSUp6QVQxc0N5RDBjRnpNS2lIYlJoM3hOWUtjLU80LXh4UW41R3E0U25fV3VDOFNLY1hubFhyUmd2d0ZITnRuM2tCTVdGZ0txY0J4d3l2NHVCMTBXMEhEUjZBcENYTlgwTWFnWlJULW9JMUd0WDRyaVE5aVhCVVFPb29CTzUySG1mVWpEVGxqenZsYTI0cWRoWTYzSEI4YXJDYmpoSXdPNE9oaWhGVEhWeGtyRUR1UzFHaXQw?oc=5) (2025-11-25 02:00)
-  Summary: Rockwell Automation & Eplan launch digital twin-driven electrical simulation integration | Process Excellence Network processexcellencenetwork.com
-  Feed source: https://news.google.com/rss/search?q=rockwell+automation+emulate3d+digital+twin&hl=en&gl=US&ceid=US:en
+- [FactoryTalk Analytics PavilionX Runtime Spray Dryer Video](https://www.youtube.com/watch?v=npfnCqW_2CQ) (2026-08-28 11:13) _(last seen)_
+  Summary: Watch this demonstration of FactoryTalk Analytics PavilionX optimizing a spray drying process. Using predictive models and advanced process control, FactoryTalk Analytics PavilionX helps reduce variability, improve product quality, and increase throughput. Learn more: https://rok.auto/3SDPv9T
+  Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
-- [Webinar | How Quick-Service Restaurants Use Simulation to Improve Performance](https://www.youtube.com/watch?v=EbdvjiM_vHE) (2026-08-31 06:16)
+- [Webinar | How Quick-Service Restaurants Use Simulation to Improve Performance](https://www.youtube.com/watch?v=EbdvjiM_vHE) (2026-08-31 06:16) _(last seen)_
   Summary: Small operational decisions can have a major impact on customer experience, labor utilization, throughput, and profitability. In this webinar, discover how simulation modeling and digital twin technology help quick service restaurant (QSR) leaders test operational changes before investing in new staff, equipment, restaurant layouts, kiosks, or menu updates. What you'll learn: ✅ How simulation helps evaluate operational changes before implementation. ✅ How digital twins represent real restaura...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCdH-e29FvfphfWmI2EMZPhg
 ### F.EE / fescreen-sim
