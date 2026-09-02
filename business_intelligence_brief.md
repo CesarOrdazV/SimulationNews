@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-01 10:28 (Mexico City)
+Generated: 2026-09-02 10:26 (Mexico City)
 
 ## Business Keywords
 
@@ -11,8 +11,23 @@ Generated: 2026-09-01 10:28 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Industrial AI Companions: Dassault Systèmes Deploys Specialized AI Across Industrial… - Trend Hunter](https://news.google.com/rss/articles/CBMia0FVX3lxTE9SUDV1aEJDaFlnLWx3U2ViaDFRLWs3UUhIYk5pT01DRlZNRjFJcG16NEc1bUg2b3Z0MHQ0MC0wOFpEZldCRWpPT2pxVG8yMXpxeWNpTVU0em5YY29RRHN2dmZrZEZDN1ZaaTlv?oc=5) (2026-08-28 18:47) _(last seen)_
-  Summary: Industrial AI Companions: Dassault Systèmes Deploys Specialized AI Across Industrial… Trend Hunter
+- [Simulation for battery manufacturing - Siemens](https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlpTbHd5OW14SWNJemJKMnhfWDBMUzBuSXNrMFFrNGZmYzZBalZWaXV4TEtFTjRJc01jZ1dRWXFtZjBWS3VGRTNNX3BWN0cxWFZrYkI0UF9YOTBjMGcxSU1qcF96UE82cWdRNGp2X25meC1SZG92WXRHVWNWTHNwVlVIbw?oc=5) (2026-07-14 11:24)
+  Summary: Simulation for battery manufacturing Siemens
+  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
+- [Siemens unveils Digital Twin Composer - Siemens Newsroom](https://news.google.com/rss/articles/CBMib0FVX3lxTE8zbTdlOC1CQTBYbGdLY1c2aEFNWjR3VmM5VjNzSG5RbDVlRUx0cmI4SnlaNUxidmtuanFQUk9kSmg3LTlRRlJidV8xNW5uRDFlcmtzT1E3cmxoWlFSYWRKM1ctUklFbG9CWldnaWt4WQ?oc=5) (2026-01-22 17:10)
+  Summary: Siemens unveils Digital Twin Composer Siemens Newsroom
+  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
+- [How to Launch a Digital Twin Strategy for Quality Control - Quality Magazine](https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1ZGUzQzQUtwTmk1aFZYcGZDRWRLVXYyaFJHRGxLeTRKbDBpbXRLSTF2ZEM3WEZjUlpDc1pXNGUtTFZtNFQ1U2hxNlFuTE1vMFNNcXV5YlNOeVl3dHVoejA4dWFkNXZQT2N3RjAzOHBMR3gxMFF6cjhfZFFFR1hydkNqRTNMbEZaUUZ6TElqbURGUVBGcEtjUlRTNlZuZXQw?oc=5) (2023-02-09 02:00)
+  Summary: How to Launch a Digital Twin Strategy for Quality Control Quality Magazine
+  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
+- [Sanofi harnesses Dassault's digital twin tech to optimize production at future vaccine plants - Fierce Pharma](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTlNkVThxSnNyaG1nUXNOQW9DdFQ5bkQxWnE1VkI2NmFMTHZlRTNHQ3R4SkNlNUNxVGpHVnFlVmd1eGs4Y045di1wNFhKT0l6UV9Pa3c5S09kS0Rwa2xieTZ3N3Y5cV9KSFdFNGRrRWhoQTNEMzVnTUJtVGlKWEEzdHZ6QlRoY3lfY3hVZXRoOXFDU1ZyWjhsMXVXaldQLWlEcWVyN1NWdnFZZlR0cGRGbzItdnJ4QVVUcklLMk5wcVZwdGFRc2lR?oc=5) (2022-10-26 02:00)
+  Summary: Sanofi harnesses Dassault's digital twin tech to optimize production at future vaccine plants Fierce Pharma
+  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
+- [Digital Twin and Virtual Twin: How the technology paths can help enhance quality, efficiency, sustainability - ET Auto](https://news.google.com/rss/articles/CBMiigJBVV95cUxQWHU5STNPRmtmdjRFdG5OMlNFY3ZBeU5jcXo1MWNHRTR5VndDazA2bGtYeFNIdHFTeFFNNVN6S2NNcDB5dXFIempuSmoxRURRSDJNMUloVlhFRWlQWmJ4UDhxTnFmdEN1ZnE2aVVySGJvZGFwUGl4RVJnNVExTF83UFdnSVhiSTdyelZJTkh1VDBmU3I1TUVpeTh5S0YwcFQxNnNvTHNQZGVmaUliYVl3bk5SQmVXb21sQ1cyQzlMUlZkaENBdWJBY3NUSWRtN1ZqYWJ0ZUMyM0wxd3Juamdha2pFSHBxdGsweGh1d2F4QW5Yb0ZsRHk4VmVEQ3FRZFZiNjlHM3c3V1Y4QdIBjwJBVV95cUxPaWVjU1owUlZBTXkxRUV4Mkl4SThyVHE1UzlBVGRzSk82NFZXTm9BbVZ5U0MtVEMwWXdsUHVxa1NDM2NTX00yRFpIUWRQNG5VNEFvaDRDc3FBeFlRbXAzdnlUeGY3ZXoteGhycWJuS2JaU210aFdxeERoMDdmbVdCSWw1RkRlQzdRODNpMnJyemQybkNFWkYtT0NDM0pDeFMxcVBqenZZSlgya0ttcDY5Vmt4cDlqSnlTeDFhU3R3WjNmcmxvZ2VRdms4bi0zdHNTQ2hCUFBxYUZDYkNNd0NaVktHSWZmR2hvc0tsZ19HT1pETVMtS29HSWJoOUtDaXhMc2h4SzhYazh6UnZpbWVj?oc=5) (2024-02-13 02:00)
+  Summary: Digital Twin and Virtual Twin: How the technology paths can help enhance quality, efficiency, sustainability ET Auto
+  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
+- [Quest Global to use Nvidia’s Omniverse digital twin solutions for manufacturing industry - Autocar Professional](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONUFwX2xwU2RjUEctSFpaaUZxLVNoOGxBU3RlMTJmbm43OWVmSUhjWHZkd1NISEJycUhMeVhsa25yd0hoam1oUmUzbzh4ajYwMkhwdXhhMTg0RzlTMEU2Q0RoTHVPVzh3MzFuaF9ZMWFWcG9YZnE5UzNtemhSTC1UaUhmUmZXWkRsUXQyVEc5aU42d1R6dWw2Sk8zYjhTbFUtZFpsSWo4SXhYcWpxdVhNcjZmYTdlSW03Q0k0Q2VHakJ2MWRrdmN6bTJaUmJRRUFldEpCVS1R0gHeAUFVX3lxTE5aSktUeEJKbnA2ekg1cnkzdjczajVVVVFuYzVhRWpnVWFHeThhM3VkT2ZjUDVRVUltNnR0VTdabmYyRzdjckdKWG4yaHFydm1sWEJENGZFaThDd0FOUmtzS2NvTG5lYXhLcFY2b3c3SW1NSkVYSUg3QUVGd2lLamJwMUF4Y2JJQ1Y2YWJXSkZ6d0FHTk9ndlV4eWRXSmhTc2NrX2JkSHNaZHNpSHAyd2NFc2pUSlFaUUF0UDZoN3JvQmxFalB6VENLZUVyVWVURGZPYldqWnIwM05tMC1yZw?oc=5) (2023-02-03 02:00)
+  Summary: Quest Global to use Nvidia’s Omniverse digital twin solutions for manufacturing industry Autocar Professional
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
@@ -21,8 +36,8 @@ Generated: 2026-09-01 10:28 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [SKAI Intelligence, ABB Robotics Partner on Physical AI Technologies - thelec.net](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tWS1FWWJLdV8xTXdIbUhmUEZjd0VEY2ZCUkFybGQzRXFWdWpGMnpxSEIyRGtxZzktNjREUzhlYzM4SVBfZl9xUEtpZlpaTFliVm5tVV9IaWpQX3pNRTN5dElRc2JnVUE?oc=5) (2026-06-12 01:00)
-  Summary: SKAI Intelligence, ABB Robotics Partner on Physical AI Technologies thelec.net
+- [Transforming the World Through Automation: FANUC’s Innovative Solutions at IMTS 2024 - Business Wire](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZkRTeGNhNE9xS3Y3ZjJMRlZzUVBzVHZzM3pNaUhCTUlIa0JnbVJLV0NYZFdjYVlyNUxZazQ2cVl2UHBXQ2lHR0Jscl9vY2p1RFBuRkgyZFdNZXA5algzNFQzSUx1TjBJRFZoYkV5VzZQZkI0VEhHWWJGM2ZNUFJXOEd4UUR6TjNNS3JEQXYzYkd6bmlFTGJXR1hTZnhsVzVTdGI1U09qaEdMN0FvRDNPMjdxUzFwT2VLMXBhSUg4bjZWUE15NFNYYlNCX0dsUk4xX2hfSkJB?oc=5) (2024-08-27 01:00)
+  Summary: Transforming the World Through Automation: FANUC’s Innovative Solutions at IMTS 2024 Business Wire
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
@@ -44,30 +59,33 @@ Generated: 2026-09-01 10:28 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [NVIDIA and Global Software leaders partner with Indian manufacturers to accelerate AI-driven industrial growth - varindia.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYVdMVTJ4cVQzeGNHTWNvdEhWY1VJbmQ2d2dJS3N6bC1iU2FBS2VaQ2R1dDJ1Yi1UMHlmQXdxYmIwQlMwa3hDUWdsUEswQWptc2ppMWZqNmtxcVVVUmp0SEltZUc1UVBwMElLeXRuT3Mxb3BZXzB3YlV3TWJhN0cxNWZFbkFhVkxxQmFRNFRYVWQxcWQxeTBOY0Nzc0pWX3R4NHlfXzc0aENFOVV0SkJhSldBU3pWRUpaZmtlTUFyencyYy1jTnFrZ3VlVFpWM043TXhjdERjNA?oc=5) (2026-02-19 01:26)
-  Summary: NVIDIA and Global Software leaders partner with Indian manufacturers to accelerate AI-driven industrial growth varindia.com
+- [Siemens brings the industrial metaverse to life with Digital Twin Composer - PR Newswire](https://news.google.com/rss/articles/CBMiygFBVV95cUxQNGktaFItSnplNEw3M3pQOExMZ1ZOMXIxQ0VPR2lsYlhWQmEyZWVOYzZDdTRLdzRwb1VYakxYNE9KT3RELV8tSklwTWc2WVV2ckdidlZyRi13aTlpX2JOeGpvaUZtWFJMVjQ2a0hQTTY1YmhkVWJhUzRITzZmczJPUmNJa2pkdzJLLXB5MENVWERGMUNmcGZJMkdZbjlHYURxWVgtd2pWYjhuM0xNYkhjZTV6Ujc0cnpVV3NKSW9IRXl4YXFRX1ByUndB?oc=5) (2026-01-06 02:00)
+  Summary: Siemens brings the industrial metaverse to life with Digital Twin Composer PR Newswire
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Shlomo Dovrat: The Tecnomatix journey & the power of a shared mission](https://www.youtube.com/watch?v=qxpzJf_2F8I) (2026-09-01 01:57)
-  Summary: "A group of naive Israelis that don't know what they don't know..." In this rare reflection, Shlomo Dovrat, co-founder of Tecnomatix Technologies, looks back at the audacious journey of a small Israeli startup that went on to permanently reshape global industrial production. From pioneering digital planning and introducing advanced robotics to the world’s leading automotive, aerospace, and electronics giants, Shlomo reflects on what made Tecnomatix truly special: a relentless sense of mission...
+- [Accenture to Strengthen Capabilities for Software and Automation Solutions from Siemens Digital Industries with Acquisition of Industries eXcellence Group - Business Wire](https://news.google.com/rss/articles/CBMitgJBVV95cUxPTHMwRUpBVGtidkhHMkNIcVNjd0RUeU5aOGp3M0Raa2dhelpESG5qUFpIRlhHVnMtMzRJUkJ3NTZvYlZLbFZ5dGlsbmE3MTFIc2UzRUQ5T3JqUjFVUHd4Q2tUN3pDRFBvcGJYYzFueGtsVElvaGtwLW5WTEw2cnRoMmNRNDJkNk1pZmJSMWRMdEhWbnNpbUp5VHJ0cmVSQ045ZFVyZTU2RXl1dnpqY1JRMHBLOGVFb1A0UzMwRnRuVV9wNGo5MU52cEhxQUFvZlJmc0VqMzduQVB2cVlQcWtGZmU4b0ZoLWlkN2d5RzB5cGh3V0tISUU0Y2RJUU1XZmlwQzBmQ3VmQWU0UTlObVpNYm9FaHA0eUUzSkt3ZmFRVlZpdktqUGxCbjJvSjB5WUF5QmEydDdB?oc=5) (2026-06-17 01:00)
+  Summary: Accenture to Strengthen Capabilities for Software and Automation Solutions from Siemens Digital Industries with Acquisition of Industries eXcellence Group Business Wire
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Siemens unveils Digital Twin Composer - Siemens Newsroom](https://news.google.com/rss/articles/CBMib0FVX3lxTFBIejJaSGZtZ2lOYzU2UHZ3UHVUdVJKRmJOU21JVlIyektZaDhocGIteVVOVjZydlNBSHJfVVJlOW1hMlRCaGdEN1oxQllIVlNfRVQ3Yk5RZ1ZhNnJmc1RadWxHams3eloxMkxyd2dTdw?oc=5) (2026-01-06 02:00)
+  Summary: Siemens unveils Digital Twin Composer Siemens Newsroom
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [How Siemens is Building the Smart Factory of the Future with IoT, AI, and Digital Twins - Analytics Insight](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcXd0RnNvN25DRTAtWl9UQkhIek11NjFURm9idFVTdDNGbVNTVUJGTFRORjMwVDc3SGpqaGpBREhoMkVEOWpCUmJNMDJDY3RyaC1nSTM4ZXNmNWZRcGpWVlpZR2R5eUlXRWJMeFdiY0FxV3FQOEV5OGxoTzV5QnNDY3FOQVJLNmVzeFZJWFdIOGl4S2ZSZUNiZ09vbDR3dkZod1NoX1Bkc3ZaQ3Rra2o5dDZqVlBjcW9PX2pnVTNtLUVjZmxYaUpocWtobTNLV0pqN3g5bmFETmlDZ9IB5wFBVV95cUxNYTBtZW9RSHJjNVBMQ0ZnYmszS1N3ZVk5bXZpQ3JRYXdUdWlBUEprVHkzYnBlektQNjhvaDkwQzlKVElpR1RLeEpHNVlrdE05RUZqRnFfNjYxSjdJRnB1M1lVUnE4a01KODVaRDRNVERhYUNyZGpfbzNZMENQWVdLTlZ6ODZXUVNRTERMREc1QjNmVlNhNUtyeGJlUlJfQ2Q0MzFtSE5CU0FaUjF4Z1Zfc1RSNEhNN3V4VlUwSWJYLUdoN0paZ2swTEFYZkd6VTZ3T1NQM3JZUi1tUUl6Mkxpa1EyOFNGYVE?oc=5) (2026-07-09 01:00)
+  Summary: How Siemens is Building the Smart Factory of the Future with IoT, AI, and Digital Twins Analytics Insight
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [What's new in Simcenter 3D Motion | Graphical topology mapping updates #WhatsNewSimcenter](https://www.youtube.com/watch?v=c-Rpvi8ZQjg) (2026-09-02 09:29)
+  Summary: Graphical topology map update for Simcenter 3D Motion 2606 — reference for rapid topology inspection and in-2D editing; visualize connectivity of motion bodies and connection types (joints, forces, constraints), filter views to show only bodies, elements or subgroups, step through subgroup sequences, directly edit motion entities in 2D, and identify redundant constraints to reduce modeling errors. Accelerates debugging and model-validation workflows for simulation teams with customizable filt...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [Zvi Feuer: How 30 years of simulation led to the age of humanoids & Siemens Physical AI](https://www.youtube.com/watch?v=CG1cGh5meSU) (2026-08-31 21:49)
-  Summary: "We started 30 years ago with human simulation... and guess what happened?" In this engaging reflection, Zvi Feuer, Leader of Digital Manufacturing at Siemens (and former Tecnomatix executive), shares his lifelong passion for manufacturing and discusses the extraordinary evolution of Tecnomatix's core technologies. Zvi explains how a human simulation tool created three decades ago - originally designed to prevent factory workers from injury - has directly paved the way for simulating, plannin...
+- [What's new in Simcenter 3D Additive Manufacturing | Octree non-uniform voxel meshing](https://www.youtube.com/watch?v=6tf7z-H72vU) (2026-09-02 09:25)
+  Summary: Octree non-uniform voxel-meshing brief for Simcenter 3D additive, reference guide for engineers evaluating powder-bed fusion simulations detailing Octree allocation of resolution to physics-sensitive zones, coarse cells in low-gradient regions with refinement around critical features, scalability optimizations for large parts and dense supports, early volume-fraction insight to validate support behavior before full compute, geometry-adaptive resolution preserving thermal-gradient and distorti...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [Parametrización G220 vía TIA Portal](https://www.youtube.com/watch?v=v454FoTdYE0) (2026-09-01 08:43)
-  Summary: : ¡Bienvenidos al EP. 03 de la serie “Motion en 1 minuto”! En este episodio, verá el paso a paso para configurar el SINAMICS G220 en TIA Portal. ¡Dele al play y descúbralo en solo 1 minuto! ¿Quiere saber más? Acceda a: https://sie.ag/bYXYr
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [Parametrização G220 via TIA Portal](https://www.youtube.com/watch?v=KCkjz2BzXIU) (2026-09-01 08:38)
-  Summary: Bem-vindos ao EP. 03 da série “Motion em 1 minuto”! Neste episódio, você confere o passo a passo para configurar o SINAMICS G220 no TIA Portal. Aperte o play e descubra em apenas 1 minuto! Quer saber mais? Clique em: https://sie.ag/2DHQnM
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [Multipurpose Automation Box | Gateway to Digitalized and AI-Ready Power Grids](https://www.youtube.com/watch?v=_yRvkfbukd0) (2026-09-01 03:56)
-  Summary: Power networks are becoming more complex as aging infrastructure, growing demand, renewable integration, and digitalization reshape grid operations. The Multipurpose Automation Box (MAB) is a plug-and-play IoT gateway that securely connects assets, collects critical data, and communicates across platforms such as Electrification X, Grid Scale X, and Building X. By transforming raw data into real-time visibility and actionable insights, MAB creates a scalable digital foundation for AI-enabled...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [From Planned Shutdowns to Predictive Maintenance: Highland Pellets' AI Journey - with Andrew Rehm](https://www.youtube.com/watch?v=irNcYBQ9gFg) (2026-09-01 02:03)
-  Summary: Welcome to the Trend Detection podcast, brought to you by Senseye Predictive Maintenance – which gives you visibility and insights into all your assets, from single machines to full plants to help you reduce downtime, increase knowledge sharing and accelerate digital transformation across your organization. In this episode we're joined by Andrew Rehm, Director of Reliability and Planning at Highland Pellets, to explore how predictive maintenance is transforming industrial operations. Andrew s...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [Ready, set, crunch! How digitalization helps make the perfect Pringles chip](https://www.youtube.com/watch?v=5EMOYVuM5UE) (2026-09-01 03:31)
-  Summary: Can you taste the data? Discover how Pringles transformed the art of dough-making into a precise science. Learn how we helped turn a traditional factory into a Digital Enterprise where every chip is a perfect crunch. Listen in now! Nature is unpredictable, but your snacks shouldn't be. Host Alex Chavez explores how the Pringles factory in Kutno, Poland, uses Digital Twin tech to master raw material variability. Join Justyna Galusa and Jan Laenen from Pringles, along with our expert Daniel Kle...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [What's new in Simcenter 3D | Rotor Dynamics #WhatsNewSimcenter](https://www.youtube.com/watch?v=ivdfIR0L20o) (2026-09-02 08:51)
+  Summary: Super-element rotor-analysis brief for Simcenter 3D Rotor Dynamics — reference detailing new super-element workflow enabling fast condensed-model simulations while retaining detailed modal output: Campbell diagrams and complex modes at critical speeds; preserved element-group definitions (low-pressure, high-pressure rotors) for assembly-level energy tracking; damping dissipation-energy output; per-component result recovery from single merged output file; post-processing-ready for focused perf...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [What's new in Simcenter 3D Engineering Desktop | CAD - Idealized Geometry #WhatsNewSimcenter](https://www.youtube.com/watch?v=yzxZI3iOCr8) (2026-09-02 08:45)
+  Summary: Idealized FEM workflow (Simcenter 3D 2606) procedural how-to reference for creating idealized finite-element models directly from CAD; use new Idealized Geometry command to select bodies, faces, features to keep or remove, auto-generate idealized geometry in seconds, then select part with CAD body attribute to create new FEM file and auto-generate FEM model, reducing prep time compared with manual abstraction and streamlines downstream simulation setup and saves engineering time. 📃 Blog artic...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [Stop building tech. Start building clarity.](https://www.youtube.com/watch?v=i6lR6LWsF-k) (2026-09-01 10:35)
+  Summary: Clarity is the ultimate game-changer. In this video, Formways founder Andreas Hahn shares the mission behind the company: bringing clarity and agility to an increasingly complex industrial landscape. We aren’t just another system integrator—we are a dynamic industrial ecosystem. Discover how our "Swarm" core team orchestrates a network of specialized partners to solve real-world business challenges, not just technical ones. From our strategic alliance with Siemens to our "Working Backwards" p...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
 ### Visual Components
 
 - [Visual Components: Automation to Optimize Manufacturing Cost - cioreview.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXdEtlQ281NnZLOVNJcGtWRzNENnZsbkJrT3Nvc1NISGFDOE5YOE11MGpJQzVZU1NpVFNOQk42N2V5djVTRVBoR2w4WEx4TGtJV09xMjVGSFE3YW82?oc=5) (2026-08-18 08:24) _(last seen)_

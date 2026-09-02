@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Parametrizaci\u00f3n G220 v\u00eda TIA Portal",
-    "summary": ": \u00a1Bienvenidos al EP. 03 de la serie \u201cMotion en 1 minuto\u201d! En este episodio, ver\u00e1 el paso a paso para configurar el SINAMICS G220 en TIA Portal. \u00a1Dele al play y desc\u00fabralo en solo 1 minuto! \u00bfQuiere saber m\u00e1s? Acceda a: https://sie.ag/bYXYr",
-    "link": "https://www.youtube.com/watch?v=v454FoTdYE0",
-    "published": "2026-09-01 08:43",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
+    "title": "What's new in Simcenter 3D Motion | Graphical topology mapping updates #WhatsNewSimcenter",
+    "summary": "Graphical topology map update for Simcenter 3D Motion 2606 \u2014 reference for rapid topology inspection and in-2D editing; visualize connectivity of motion bodies and connection types (joints, forces, constraints), filter views to show only bodies, elements or subgroups, step through subgroup sequences, directly edit motion entities in 2D, and identify redundant constraints to reduce modeling errors. Accelerates debugging and model-validation workflows for simulation teams with customizable filt...",
+    "link": "https://www.youtube.com/watch?v=c-Rpvi8ZQjg",
+    "published": "2026-09-02 09:29",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
   },
   "competitors:Visual Components": {
     "section": "competitors",
