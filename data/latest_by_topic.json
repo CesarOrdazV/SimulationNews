@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "From Robotaxis to L4 Autonomy: A Deep Dive Into NVIDIA Alpamayo 2 Super",
-    "summary": "Join us for a deep dive into Alpamayo 2 Super \u2014 our most capable model yet \u2014 as we walk through the release notebooks and show how it can power robotaxi and L4 autonomous vehicle pipelines at a fraction of the cost of existing solutions. We'll also share the latest AlpaSim updates, including new controller improvements, and give a full rundown of our two ongoing challenges \u2014 including how we've incorporated your feedback since the initial release. Attendees will learn: - How to use Alpamayo 2...",
-    "link": "https://www.youtube.com/watch?v=KtKXKgT_xBU",
-    "published": "2026-08-28 22:15",
+    "title": "Accelerate Computational Engineering and Robotics With NVIDIA Warp",
+    "summary": "Learn how NVIDIA Warp, an open-source CUDA-X library for accelerating computational engineering, simulation, and robotics workflows, is leveraged by developers and lead to 10M downloads. In this livestream, we\u2019ll introduce NVIDIA Warp, why developers are using it, and how it accelerates engineering and robotics applications. We\u2019ll walk through practical use cases, including an industrial engineering example and a robotics workflow, to showcase how Warp can help teams build and test high-perfo...",
+    "link": "https://www.youtube.com/watch?v=W9Z0uae0YNk",
+    "published": "2026-09-03 01:43",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -38,19 +38,19 @@
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "FactoryTalk Analytics PavilionX Runtime Spray Dryer Video",
-    "summary": "Watch this demonstration of FactoryTalk Analytics PavilionX optimizing a spray drying process. Using predictive models and advanced process control, FactoryTalk Analytics PavilionX helps reduce variability, improve product quality, and increase throughput. Learn more: https://rok.auto/3SDPv9T",
-    "link": "https://www.youtube.com/watch?v=npfnCqW_2CQ",
-    "published": "2026-08-28 11:13",
+    "title": "How Stronger Partnerships Help EPCs Win More and Deliver with Confidence",
+    "summary": "What does it take for engineering, procurement, and construction (EPC) companies to win more work and deliver projects with greater certainty? In this ROKStudios interview, Regional President for Global Industry Accounts, Paolo Butti, shares how the Rockwell Automation EPC Partner Program helps EPCs reduce risk, accelerate execution, and drive better project outcomes. For more ROKStudios sessions: https://rok.auto/44ye5cn",
+    "link": "https://www.youtube.com/watch?v=P1risfaJ9ho",
+    "published": "2026-09-03 10:01",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {
     "section": "competitors",
     "topic": "AnyLogic",
-    "title": "Webinar | How Quick-Service Restaurants Use Simulation to Improve Performance",
-    "summary": "Small operational decisions can have a major impact on customer experience, labor utilization, throughput, and profitability. In this webinar, discover how simulation modeling and digital twin technology help quick service restaurant (QSR) leaders test operational changes before investing in new staff, equipment, restaurant layouts, kiosks, or menu updates. What you'll learn: \u2705 How simulation helps evaluate operational changes before implementation. \u2705 How digital twins represent real restaura...",
-    "link": "https://www.youtube.com/watch?v=EbdvjiM_vHE",
-    "published": "2026-08-31 06:16",
+    "title": "Register for the AnyLogic Conference 2026!",
+    "summary": "The program for the AnyLogic Conference is confirmed! 24 companies will take the stage to share how they actually use simulation: their projects, challenges, lessons learned, and results. The lineup includes Mahindra, Mercedes-Benz, Novelis, GE Vernova, Mercado Libre! Check the full agenda and register now. Link in bio!",
+    "link": "https://www.youtube.com/shorts/fcHCLpXA9ww",
+    "published": "2026-09-03 08:18",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdH-e29FvfphfWmI2EMZPhg"
   },
   "competitors:F.EE / fescreen-sim": {
@@ -65,10 +65,10 @@
   "business:Virtual Commissioning": {
     "section": "business",
     "topic": "Virtual Commissioning",
-    "title": "Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery - Control Design",
-    "summary": "Rockwell Automation shares how decentralized drives and digital twins are redefining manufacturing machinery Control Design",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTVROWWFCejgyRnZEREVnWW5VS1lRN3pJbldobFZwV3A0a1VpNmRKOXFfc3UtMU83Z2NSNVNHZmRMeTEyRGl0dUxOZnNRX2xVSExtUDA0VENhdWVaWTZ4clc0akdKZXRHWXMzcnk1a09sSnB3aGN3YVlZckN2RkhFb1c1YS1oOTIzalFGUC1JR0xQQ1BnbHdCb2xOWmh4Mkcza2t2RURjLUhkZTZYUGhGUTRPOXZrM2JqM1FqZXlzek9vQU1XMmlOcjVyTzJYOVVpcUFBWjdjMWVOV1ZYcE5XYlE4akFYQ1JoNkpibDlYTkw1ZjZDUUhhTEl0MVhoQQ?oc=5",
-    "published": "2026-08-17 20:17",
+    "title": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Morningstar",
+    "summary": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Morningstar",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVE5KQzZGSFF3RVdjUVNteWlBYlhCVWF3eXo3N2JMMEdWaDN2aXlUSDlIS01hTXBuZXpoMXJhRXRCNWotOU9IOHljVlB1WFVIWXpWQzR2NkVSWUtSNEwwZHN5dUZZek9DSEdoSjBCUUpQRnZFVzFGY2R4ZHBVWVhGbGFnUHBOVkNSNHVYMFdUTzFIOU1qNUhKTXhDWnBqZE5pcWhWSmZodVMzd0pjOEdiRzJfREJ2WUcwcEI5MF9oQVgyRjg2cFVRODQ2dTJjYnRDOVU2S1ZLeHVMMzQxZVE?oc=5",
+    "published": "2026-09-03 09:19",
     "source_url": "https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Digital Twin Manufacturing": {
@@ -83,19 +83,19 @@
   "business:PLC Simulation": {
     "section": "business",
     "topic": "PLC Simulation",
-    "title": "Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom",
-    "summary": "Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering Siemens Newsroom",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hOXJZTnhEb3JVX0VHZ2Q2dV9RQlo3Y25yOHE1N3VOUVdpaHZhRnJjeTJnV0dhZzVVVVc0VkxzWUJTTVRycnJnNmxwNlN5RWRtOTlpMHR5V2lCZWc5dFNXanJoSQ?oc=5",
-    "published": "2026-08-28 02:27",
+    "title": "Siemens Launches Eigen Engineering Agent in Thailand, Bringing Purpose-built Industrial AI to Automation Engineering - Software - Siemens AG - NewswireToday",
+    "summary": "Siemens Launches Eigen Engineering Agent in Thailand, Bringing Purpose-built Industrial AI to Automation Engineering - Software - Siemens AG NewswireToday",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaUZiQjhuZ2xiZ09ERXZENmZJX3FHdDdhWnJpelhXend0dFZoaEUxY1N2V0ZIRmxXYXBoSTlmZVhNWUc0RWVFOVROWGZpT29JM0xjbGRCTmctSEkyb2NYVTdiYW5FQkY1ZmdQMHZCWnpRSTlzZ28wNnZfZ2s5d1ZQVWZBQ2hzeDBmNEFsSjNtbVdPZDhBc3NsMDNPNkYzTW1NTk1tWE41V256WjdLczJuQXlPa2pOT3ZKVTktYVJQZ2ZHMTR5TE5rcmtnOUtWeHZSeTI1V3pOMDlXSW1GaWU2X2NJeUlYUFFmSWptZ2ljMA?oc=5",
+    "published": "2026-08-28 10:26",
     "source_url": "https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Robot Simulation": {
     "section": "business",
     "topic": "Robot Simulation",
-    "title": "KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 - Automation.com",
-    "summary": "KUKA to Demonstrate the Future of Automated Packaging and Food Manufacturing at Pack Expo 2026 Automation.com",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTJrNUMzSWZjR0ZIYUtNcURGaVJONldMRXZ5b0hYZWhhNEluVC1GNzBIeTBBaVJ1RzlCZmdvMlJHYVYzZ1pXY3p0UmFoVjFhM2ZwMHdtbDlRUTd2OWdESGpkaEgyNXBmdGJnS1hhVUxqNVdldGtiZDF4SGFWa01vaDJGV3c5NU0wdy1XQm55LU5GSU1nNXRYVU5MRlB3Y0RKQXpxLUFlNERDSVpkeUVLWkRn?oc=5",
-    "published": "2026-08-19 13:44",
+    "title": "How Long Does It Take to Program a Manufacturing Robot In 2026? - GlobeNewswire",
+    "summary": "How Long Does It Take to Program a Manufacturing Robot In 2026? GlobeNewswire",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMDJWbmhxRDhtYUFhdEt6TFM2c2dWUTZlbEVkZGxtUXBNTkdfN0E0RjVkUGNCREs5dlM1b21JNHhJSXdpekF1OVJNMXZDOW1DYmo0MnRTc3pUVG90dTdfNC1ZUF83a3hEcnBPLTVOV3FHU0JYR0xJczZQRlJsYmZSUmdaUzVVLU1oQW1TUVBzSDBjZEo5VEhWVTVkVkFZTVhkbXlYNWNkSXpBU0xDQUtUS1pqanVOeG41WUs1S2p2emRqRk9oNlA5OHdVb0otQTQ?oc=5",
+    "published": "2026-09-03 09:00",
     "source_url": "https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en"
   },
   "business:Intralogistics Simulation": {
