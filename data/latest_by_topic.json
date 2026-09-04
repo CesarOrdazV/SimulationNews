@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "What's new in Simcenter 3D Motion | Graphical topology mapping updates #WhatsNewSimcenter",
-    "summary": "Graphical topology map update for Simcenter 3D Motion 2606 \u2014 reference for rapid topology inspection and in-2D editing; visualize connectivity of motion bodies and connection types (joints, forces, constraints), filter views to show only bodies, elements or subgroups, step through subgroup sequences, directly edit motion entities in 2D, and identify redundant constraints to reduce modeling errors. Accelerates debugging and model-validation workflows for simulation teams with customizable filt...",
-    "link": "https://www.youtube.com/watch?v=c-Rpvi8ZQjg",
-    "published": "2026-09-02 09:29",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
+    "title": "Driving Manufacturing Excellence through Digitalization for Sustainable Mobility",
+    "summary": "At our Chhatrapati Sambhajinagar (CSN) bogie factory, digital manufacturing is enabling better visibility, data-driven decision-making, and improved collaboration across operations. The impact: \u2022 ~15% higher production efficiency \u2022 ~20% lower idle time \u2022 ~15% better process accuracy \u2022 100 kg of paper saved every year Now, we are scaling this proven digital manufacturing approach to our Nashik factory, strengthening a connected manufacturing network. #SiemensMobility #DigitalManufacturing #Man...",
+    "link": "https://www.youtube.com/watch?v=jtLzKoxruYo",
+    "published": "2026-09-04 00:34",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
   },
   "competitors:Visual Components": {
     "section": "competitors",
@@ -65,28 +65,28 @@
   "business:Virtual Commissioning": {
     "section": "business",
     "topic": "Virtual Commissioning",
-    "title": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Morningstar",
-    "summary": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Morningstar",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVE5KQzZGSFF3RVdjUVNteWlBYlhCVWF3eXo3N2JMMEdWaDN2aXlUSDlIS01hTXBuZXpoMXJhRXRCNWotOU9IOHljVlB1WFVIWXpWQzR2NkVSWUtSNEwwZHN5dUZZek9DSEdoSjBCUUpQRnZFVzFGY2R4ZHBVWVhGbGFnUHBOVkNSNHVYMFdUTzFIOU1qNUhKTXhDWnBqZE5pcWhWSmZodVMzd0pjOEdiRzJfREJ2WUcwcEI5MF9oQVgyRjg2cFVRODQ2dTJjYnRDOVU2S1ZLeHVMMzQxZVE?oc=5",
-    "published": "2026-09-03 09:19",
+    "title": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - lelezard.com",
+    "summary": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 lelezard.com",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMVlQVmRvYTZHbE1peG9MMDFXVXZfQVFfMEZwQzRoQlZVcVRKcUVzZ2Y3Z2NEWDgxMkpsWFg0UG8tWWlSLWk0bU1uX2RpTWQ1SFZDaU4tcG5pZw?oc=5",
+    "published": "2026-09-03 10:11",
     "source_url": "https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Digital Twin Manufacturing": {
     "section": "business",
     "topic": "Digital Twin Manufacturing",
-    "title": "Industrial AI Companions: Dassault Syst\u00e8mes Deploys Specialized AI Across Industrial\u2026 - Trend Hunter",
-    "summary": "Industrial AI Companions: Dassault Syst\u00e8mes Deploys Specialized AI Across Industrial\u2026 Trend Hunter",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SUDV1aEJDaFlnLWx3U2ViaDFRLWs3UUhIYk5pT01DRlZNRjFJcG16NEc1bUg2b3Z0MHQ0MC0wOFpEZldCRWpPT2pxVG8yMXpxeWNpTVU0em5YY29RRHN2dmZrZEZDN1ZaaTlv?oc=5",
-    "published": "2026-08-28 18:47",
+    "title": "PELF Infotech launches Digital Twin and Engineering Intelligence practice in its 25th year - Express Computer",
+    "summary": "PELF Infotech launches Digital Twin and Engineering Intelligence practice in its 25th year Express Computer",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbi1aVFVJZ3VMUEUxQllsZkdmMEExaGxVUGlneVNlNE9qSTlTTzExWEQ0Qy1PbzNLOGk5alJnOFM1X2tCMzlGRFZHZEZfVFc2eFBIdGNIalllVHliMXR5Sl9BV3IwcDVFV29pNExrcHkzS1IzSE82RXdyWlkxSEhHeGVJdm4wTlk0WkNRUnE5eTBzbWF6a3BVX2p2bjVMRE9oMTVNbDVCZDcxU2ZiaTZjUXQwSjZNVGdfVkR2bzRBek5pa1ZlajJnaGItdG03YjAwRld4MA?oc=5",
+    "published": "2026-09-03 07:13",
     "source_url": "https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en"
   },
   "business:PLC Simulation": {
     "section": "business",
     "topic": "PLC Simulation",
-    "title": "Siemens Launches Eigen Engineering Agent in Thailand, Bringing Purpose-built Industrial AI to Automation Engineering - Software - Siemens AG - NewswireToday",
-    "summary": "Siemens Launches Eigen Engineering Agent in Thailand, Bringing Purpose-built Industrial AI to Automation Engineering - Software - Siemens AG NewswireToday",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaUZiQjhuZ2xiZ09ERXZENmZJX3FHdDdhWnJpelhXend0dFZoaEUxY1N2V0ZIRmxXYXBoSTlmZVhNWUc0RWVFOVROWGZpT29JM0xjbGRCTmctSEkyb2NYVTdiYW5FQkY1ZmdQMHZCWnpRSTlzZ28wNnZfZ2s5d1ZQVWZBQ2hzeDBmNEFsSjNtbVdPZDhBc3NsMDNPNkYzTW1NTk1tWE41V256WjdLczJuQXlPa2pOT3ZKVTktYVJQZ2ZHMTR5TE5rcmtnOUtWeHZSeTI1V3pOMDlXSW1GaWU2X2NJeUlYUFFmSWptZ2ljMA?oc=5",
-    "published": "2026-08-28 10:26",
+    "title": "KBC Digital Twin Platform Aims To Advance Process Simulation With AI/ML-Enabled Hybrid Modeling - Automation World",
+    "summary": "KBC Digital Twin Platform Aims To Advance Process Simulation With AI/ML-Enabled Hybrid Modeling Automation World",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ3pwVUhoX3JCSjFJQ3ZsVFZmSTZsN1pnZ3JaY3IyWllfRTR6bzNtOGxwWU9jczBNWVN4cXJlQm9RV2JfdHQyY3JfNjliR05oWk40SWtKX2I0cEcxcEFVcjZra3IyWFZ1di1wV21KTUptOHNkV3lhcHVUQWVBNlBVYzVPYXpYaDJLVkNEaEJNZVlQMVV3S3RUR2hsVnpCRTZYc09pOENSTXBERHZoMzdpT1RqV1NFQnlGQkVSbVBNaEJLRHhzM2Q4UG5oTW9Ncy1hWDJPTnFReVllaWpsNk9iTjRES0NDT1d1XzhEdHZFWS1VZzhKMVI3bkZJU3p1ZkkxT3c?oc=5",
+    "published": "2026-09-01 13:03",
     "source_url": "https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Robot Simulation": {
