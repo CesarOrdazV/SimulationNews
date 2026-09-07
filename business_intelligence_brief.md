@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-06 09:20 (Mexico City)
+Generated: 2026-09-07 11:40 (Mexico City)
 
 ## Business Keywords
 
@@ -11,21 +11,18 @@ Generated: 2026-09-06 09:20 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Digital Twin in Semiconductor Market to Reach USD 41.83 Billion by 2035, Growing at 36.2% CAGR - TimesTech](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHFIZ2p4VEJhVkxlREZ3ZFAxV2FHMEp2NGJSc1E5dDA3V3k0ejZGcW5PZUR1akF5bmZNTE8wdFg5aDE4MjZVZzVvMk5kMmlEYm9aVkg5X2pQRTliN1NVbU5wa1ZDelJkRkpNbE9QdzBrS0N0cER4V0xMSmtIc003WEwzNlEwZEFDRmZDVWZQaEVuQkpxa2ZjRXg0VU52MklXNy1DNDJjNS1iRDc5SFk5VFFRS2U?oc=5) (2026-09-03 00:38)
-  Summary: Digital Twin in Semiconductor Market to Reach USD 41.83 Billion by 2035, Growing at 36.2% CAGR TimesTech
-  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
-- [Digital twin: a game-changing technology - Manufacturing Chemist](https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHFJTWlKMy1LeWp6WlFrLUtma0tlUzdFTzJNNWVVVENUOHBKTDhtXy1heHNEclJCX1FzcHZZc0p2dE5nY0lROUNoUnZjYURBWjB5Tk91UFJtTVliRkR1WXFaZ0xEdVVjM3lGUEJobW5PcndlR2J0V2hLc0E4cTZkOUJGOGtOUQ?oc=5) (2020-11-25 02:00)
-  Summary: Digital twin: a game-changing technology Manufacturing Chemist
+- [The Digital Twin Age: Using simulations to boost real-world business - WP Intelligence](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXlkRDlHWWV2RlIyVDUxU0o1WFgxaXpmbjZ3Q0JmalVJU2hqUE84N1dzUjkwTzA3MExva3FoR012Q3B1bUpSaEFWZGh2aVBaaERSZGI0VC01SFJfRnpOd2dPRzhwM0swVUV3OG12R2s3UVlYcld2alI2d3NuN3JNWGQ1WWMwLUVSUGdlT3RJZ0xXVHFWekxWcUVzXzM2VjRwS3hWYWpCMXZycW96WC1FM1VsZ0E2NXRzd21UUzhvSW5aS1BLT3FVUg?oc=5) (2025-12-09 02:00)
+  Summary: The Digital Twin Age: Using simulations to boost real-world business WP Intelligence
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [KBC Digital Twin Platform Aims To Advance Process Simulation With AI/ML-Enabled Hybrid Modeling - Automation World](https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ3pwVUhoX3JCSjFJQ3ZsVFZmSTZsN1pnZ3JaY3IyWllfRTR6bzNtOGxwWU9jczBNWVN4cXJlQm9RV2JfdHQyY3JfNjliR05oWk40SWtKX2I0cEcxcEFVcjZra3IyWFZ1di1wV21KTUptOHNkV3lhcHVUQWVBNlBVYzVPYXpYaDJLVkNEaEJNZVlQMVV3S3RUR2hsVnpCRTZYc09pOENSTXBERHZoMzdpT1RqV1NFQnlGQkVSbVBNaEJLRHhzM2Q4UG5oTW9Ncy1hWDJPTnFReVllaWpsNk9iTjRES0NDT1d1XzhEdHZFWS1VZzhKMVI3bkZJU3p1ZkkxT3c?oc=5) (2026-09-01 13:03) _(last seen)_
-  Summary: KBC Digital Twin Platform Aims To Advance Process Simulation With AI/ML-Enabled Hybrid Modeling Automation World
+- [Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YZHVxWkdVREF6WmFydUJLODZlVXZSdEpidFNXV2dtZDVQamUzRFR1Tk0xOV8wY2pNTmd1dl9Qa2IzcGxWY0VyOTZqUHJ6T3RqWW1JWjlEUGZvVUxRaElUZWMxdw?oc=5) (2026-08-27 01:00)
+  Summary: Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering Siemens Newsroom
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [How Long Does It Take to Program a Manufacturing Robot In 2026? - GlobeNewswire](https://news.google.com/rss/articles/CBMizwFBVV95cUxOMDJWbmhxRDhtYUFhdEt6TFM2c2dWUTZlbEVkZGxtUXBNTkdfN0E0RjVkUGNCREs5dlM1b21JNHhJSXdpekF1OVJNMXZDOW1DYmo0MnRTc3pUVG90dTdfNC1ZUF83a3hEcnBPLTVOV3FHU0JYR0xJczZQRlJsYmZSUmdaUzVVLU1oQW1TUVBzSDBjZEo5VEhWVTVkVkFZTVhkbXlYNWNkSXpBU0xDQUtUS1pqanVOeG41WUs1S2p2emRqRk9oNlA5OHdVb0otQTQ?oc=5) (2026-09-03 09:00) _(last seen)_
-  Summary: How Long Does It Take to Program a Manufacturing Robot In 2026? GlobeNewswire
+- [5 Critical Factors When Choosing Robot Programming Software for Manufacturing | Más Colombia - mascolombia.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOREtsdUZ2WnJJSUU4NENkb1dWZFhQYVczenN6dVNsSlhPOG9IbUpSQ1JGZXE5ZEZIejBzX08wVFI5U1lCVkJnVDhBbDU2NU9vWFFaR3gzc1pxejdqWTIxNEtIQVdsM0plQ000aE9NUzZ6X2JXdC1KTHMtMDhtck5kNnFRbm9tNmRRdlVTOWlqZnM2WkJJaWRZZEhRclpuVXNwUEI1TNIBrgFBVV95cUxON1MzZnZ2UjNpUENybnc2MHdhUFpiTjNteXplaHRIYm44R0hwXzBZemxlRUd0TEJuMlNYQXJCYTljWDVJclJUSmFZOG1Pdm5HZzNBQ1RRLTdrRXZKaG1DVjh1T0VQMEJpOXQ4eHVuV0hIV2poTmljaGt6VUkzX0FOR2ZnakN3cVozYnpEelBLNlNOdTUyYzVxQk9xN2RhbnVZQk02dDA0Z0tXWXF6V1E?oc=5) (2025-12-08 02:00)
+  Summary: 5 Critical Factors When Choosing Robot Programming Software for Manufacturing | Más Colombia mascolombia.com
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
@@ -47,19 +44,13 @@ Generated: 2026-09-06 09:20 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Industrial AI: From "Storytelling" to "Crunching the Numbers" - Gasgoo](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcTRMSkRHbWFzM1NMVlBTaWI0aUFTU1RvVUFYTGNHcV9xdXV3Z2RkcUtyQ3duWWhFYlhDc1RKZEQ5M2xVT0hUQWc1a1BJN2Z6eDZOVWpSdGpiUEVicUQ3V0VRYWZwQkNfcGpTUEZEYzR5cGUtRGdvQVlvWk9yV2JtV1VhSlZkTWZCZE5pSUk0SEsyWnd2MlBWTG9KdDVGdXBxRjk3d1BTSEo3Y3NCLVBCcjA0R1RXWDRXWUZv?oc=5) (2026-08-26 01:00)
-  Summary: Industrial AI: From "Storytelling" to "Crunching the Numbers" Gasgoo
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Siemens to offer industrial AI-powered simulation software for the UK and Ireland - The Manufacturer](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjdYWTJXM0QzZGp3TUxfNl9wNi0yOGRsbkxkeFBScVRnbDY3VURDbHEwWnpGeWk5XzJYWnYyby1ZVy1qWkRFXzA3bmZjTG4tM2pWRVd6RC1EVTVtZEZyVWl0dlZzZVpiWU1mQWU2WUwtVDJaLWR1bGJDYmNDWFBmY3dpZ1cxdlh1dTYxVnd6R1BaemNoR29zbTVWa1RvZWxobTk0VTVyWVBBNnppemNnMC1vV2xhUlZYeGszVWp1Nms?oc=5) (2026-07-15 01:00)
-  Summary: Siemens to offer industrial AI-powered simulation software for the UK and Ireland The Manufacturer
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [PepsiCo: Boosting Efficiency with Siemens Digital Twin Tech - Food and Drink Digital](https://news.google.com/rss/articles/CBMikAFBVV95cUxPUURHanZGTzJ1bVJHSUJrQUNRNmxsQmtCTFFTUlJwaWw2S1VBejdtZ01uUnFHakVDSGhuMEhfdWNkMllCTG9tNEI3cDJpdmRuZHBqa2RxZGt4WkZlMjJCb1I5M1U3N0k4SE1heElBRkdOdEkyb29yQ2hxbkwyNzVONUxkLWd0c3czd0ZObjRUNlE?oc=5) (2026-01-13 02:00)
-  Summary: PepsiCo: Boosting Efficiency with Siemens Digital Twin Tech Food and Drink Digital
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Inteligentne rozwiązania z Industrial Edge](https://www.youtube.com/watch?v=t9qno5W8m4k) (2026-09-07 06:35)
+  Summary: Wykorzystaj pełny potencjał swojego zakładu dzięki Siemens Industrial Edge. To wszechstronna platforma i otwarte środowisko, które pozwala analizować dane w czasie rzeczywistym bezpośrednio w zakładzie produkcyjnym.
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
-- [Visual Components: Automation to Optimize Manufacturing Cost - cioreview.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXdEtlQ281NnZLOVNJcGtWRzNENnZsbkJrT3Nvc1NISGFDOE5YOE11MGpJQzVZU1NpVFNOQk42N2V5djVTRVBoR2w4WEx4TGtJV09xMjVGSFE3YW82?oc=5) (2026-08-18 08:24) _(last seen)_
-  Summary: Visual Components: Automation to Optimize Manufacturing Cost cioreview.com
+- [Increased efficiency through simulation software: Assembly lines optimized for automotive displays - industrial-production.de](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRjRMZlB2amVfZ3d6TnJBVlY4TmowdUtqZDdTRmpNMmV6SHNGQzZBeUpKaHJXdmpUcnU3ZnRaZ2lLTFVOMnRWTnZjUWplRDZfUVBiQjZwU0JkUjlxcEI4VUhqZWJJOThfX0xNUVNEdWdEVXlMZXJzb1p3elh4WEVDYUNMclpiNk1EYTNvNURPMWNsVU14bXlaXzlaRWZfTHVVOHFPVkRnd3hFM2Y4Y2xGUVpFY09ZQUN1NW5EN01iT2pOZW4yQ1g0aGhtWnJYdllkbnM1MlR1ekREMFpESjJvVGZBNGk?oc=5) (2026-02-18 02:00)
+  Summary: Increased efficiency through simulation software: Assembly lines optimized for automotive displays industrial-production.de
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 
