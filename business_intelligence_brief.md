@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-07 11:40 (Mexico City)
+Generated: 2026-09-08 10:29 (Mexico City)
 
 ## Business Keywords
 
@@ -11,23 +11,23 @@ Generated: 2026-09-07 11:40 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [The Digital Twin Age: Using simulations to boost real-world business - WP Intelligence](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXlkRDlHWWV2RlIyVDUxU0o1WFgxaXpmbjZ3Q0JmalVJU2hqUE84N1dzUjkwTzA3MExva3FoR012Q3B1bUpSaEFWZGh2aVBaaERSZGI0VC01SFJfRnpOd2dPRzhwM0swVUV3OG12R2s3UVlYcld2alI2d3NuN3JNWGQ1WWMwLUVSUGdlT3RJZ0xXVHFWekxWcUVzXzM2VjRwS3hWYWpCMXZycW96WC1FM1VsZ0E2NXRzd21UUzhvSW5aS1BLT3FVUg?oc=5) (2025-12-09 02:00)
-  Summary: The Digital Twin Age: Using simulations to boost real-world business WP Intelligence
+- [Automating catheter manufacturing: A digital twin approach to precision, compliance and scalability - engineersireland.ie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOThXU05EaUxhMGprR2JscFBlTnBNZ0EzWDh0M0IwWDF4SFVkbW11akNxd2VtbmJFNXVKN0Z2ak1BMVVMZXhSdW1iMHJsS1JxWHBPblc3QWFfbEhHOXF3aWpXeEUzdFNReWw1Q1gxQnhLZnJVVDB0TzdZUmFhTngzVDhCZm5SWGlvb3dKOG9RNVZGT1VXQlNuTnRoNm9Fd1lXck1abDFwaEh4MnNTVnVYNjRKRlg4MUc2M19EcmgzemwwNTRnQ1BfcFhuenlSVGR2bmJEU21IZ0tidUwzdTdPVzlQQzJITUU?oc=5) (2026-01-21 02:00)
+  Summary: Automating catheter manufacturing: A digital twin approach to precision, compliance and scalability engineersireland.ie
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YZHVxWkdVREF6WmFydUJLODZlVXZSdEpidFNXV2dtZDVQamUzRFR1Tk0xOV8wY2pNTmd1dl9Qa2IzcGxWY0VyOTZqUHJ6T3RqWW1JWjlEUGZvVUxRaElUZWMxdw?oc=5) (2026-08-27 01:00)
-  Summary: Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering Siemens Newsroom
+- [Industrial AI for adaptive packaging - Siemens](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSks2bnNVcG1aOWNLY1EtOXFuTlV2S0FibzN4ZGE5dVJ6RTd4aVlUcnBRTVBmNlJObjBlWmI4TnVSYnJOZFRJVklwWUt1dU9EZ3JyNUNOeHJqekZTOG9EUm0zdDJTREpyRkNteE44czFZUE5faHhweFd3MktPNDdlMzRXczF0T2dER1BZMjRDUmpiemhWMVZoQjRndHdLNldLQUE?oc=5) (2026-06-23 06:15)
+  Summary: Industrial AI for adaptive packaging Siemens
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [5 Critical Factors When Choosing Robot Programming Software for Manufacturing | Más Colombia - mascolombia.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxOREtsdUZ2WnJJSUU4NENkb1dWZFhQYVczenN6dVNsSlhPOG9IbUpSQ1JGZXE5ZEZIejBzX08wVFI5U1lCVkJnVDhBbDU2NU9vWFFaR3gzc1pxejdqWTIxNEtIQVdsM0plQ000aE9NUzZ6X2JXdC1KTHMtMDhtck5kNnFRbm9tNmRRdlVTOWlqZnM2WkJJaWRZZEhRclpuVXNwUEI1TNIBrgFBVV95cUxON1MzZnZ2UjNpUENybnc2MHdhUFpiTjNteXplaHRIYm44R0hwXzBZemxlRUd0TEJuMlNYQXJCYTljWDVJclJUSmFZOG1Pdm5HZzNBQ1RRLTdrRXZKaG1DVjh1T0VQMEJpOXQ4eHVuV0hIV2poTmljaGt6VUkzX0FOR2ZnakN3cVozYnpEelBLNlNOdTUyYzVxQk9xN2RhbnVZQk02dDA0Z0tXWXF6V1E?oc=5) (2025-12-08 02:00)
-  Summary: 5 Critical Factors When Choosing Robot Programming Software for Manufacturing | Más Colombia mascolombia.com
+- [How Long Does It Take to Program a Manufacturing Robot In 2026? - GlobeNewswire](https://news.google.com/rss/articles/CBMizwFBVV95cUxOMDJWbmhxRDhtYUFhdEt6TFM2c2dWUTZlbEVkZGxtUXBNTkdfN0E0RjVkUGNCREs5dlM1b21JNHhJSXdpekF1OVJNMXZDOW1DYmo0MnRTc3pUVG90dTdfNC1ZUF83a3hEcnBPLTVOV3FHU0JYR0xJczZQRlJsYmZSUmdaUzVVLU1oQW1TUVBzSDBjZEo5VEhWVTVkVkFZTVhkbXlYNWNkSXpBU0xDQUtUS1pqanVOeG41WUs1S2p2emRqRk9oNlA5OHdVb0otQTQ?oc=5) (2026-09-03 09:00) _(last seen)_
+  Summary: How Long Does It Take to Program a Manufacturing Robot In 2026? GlobeNewswire
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Getting warehouse automation design right from day one - Medianet News Hub](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0ctTkhTUnZFQ2pub1FBTGlacFRuRy1nWkZiaUpUb3JIWDhWRzhILVp6d0x6enpaZllUSEtMdnc2Q2ZkZ05FRGdrLW53T2pXc0FPMENjelhxVTgzRjhrYVVGQ0tkRWIxaFkwUXlmR3pPWFZRdDNOSU96OWs5UkRqYjQ5VjBrWFYwMEZYQVBWWDZMWHhUbjRWSVAwQmRJUVZrQXVtbQ?oc=5) (2026-08-25 18:14) _(last seen)_
-  Summary: Getting warehouse automation design right from day one Medianet News Hub
+- [AGV simulation: Fabmatics validates AGV use with 3D simulation - Materialfluss](https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWFCTWZySXZtYnpXejN0QUNYXy1JMTF5c2k1WDd2b25QWWdXTkhSRUdwT0xiN3RJUUtHMl8tVlNnTDFhMlVzem55Zjg2dVNKRFBVczZULWJKU2tQV1JCby13MmRpazV5bFdUTFNZYTJxNFNqMDdEM1ZXT0JqVFVRWnNWSWY2cmRwYlMtbk9oOG0xUEpWVDVob3ViUXF2WkdrRTMzZmlfREpPYnAzS21KOWFn?oc=5) (2024-03-06 02:00)
+  Summary: AGV simulation: Fabmatics validates AGV use with 3D simulation Materialfluss
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
@@ -44,13 +44,16 @@ Generated: 2026-09-07 11:40 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Inteligentne rozwiązania z Industrial Edge](https://www.youtube.com/watch?v=t9qno5W8m4k) (2026-09-07 06:35)
-  Summary: Wykorzystaj pełny potencjał swojego zakładu dzięki Siemens Industrial Edge. To wszechstronna platforma i otwarte środowisko, które pozwala analizować dane w czasie rzeczywistym bezpośrednio w zakładzie produkcyjnym.
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [Siemens presents €2 billion investment strategy to boost future growth, innovation and resilience including around €200 million for a high-tech factory in Singapore - Singapore Economic Development Board (EDB)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWXFWbGNER29HQ01oSS1GcGlURndRU2txS1ViQ2EwZ1l1dng1ME1NaTJMV0EwSGFWam9PNTlGYkJ6YnQxSnBnRzZtT3htd28zbzl5Y2swbVVMUGtxRm4zSFBKaFVlbkNKd3lJWmpDUlRGTXRwV2QyVUE3UGR4dmJJNDJKWElKOWtPZ01ZX2l0cGdyYl9tOUdoWmhGaGE3YUpFM2ZabjM4cGVHeE1jOFEwMzNpS0c2RVFDTWYxUmloeldFdzduY3FhYmd0QktxcXRlcEZj?oc=5) (2026-09-06 01:00)
+  Summary: Siemens presents €2 billion investment strategy to boost future growth, innovation and resilience including around €200 million for a high-tech factory in Singapore Singapore Economic Development Board (EDB)
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [How an MBSE digital twin improves reliability analysis for Skypath Analytics](https://www.youtube.com/watch?v=JuijpS8eIiw) (2026-09-08 05:07)
+  Summary: Learn how an MBSE digital twin can improve reliability analysis by connecting system models, product structures, and configuration data with reliability engineering workflows. 📖 Read the companion blog: https://sie.ag/26DHhS In this customer interview, James Hill, CEO of Skypath Analytics, explains how aerospace and defense organizations can leverage an MBSE digital twin managed in Teamcenter and connect it with Simcenter MADE reliability models. Rather than recreating reliability models from...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
 ### Visual Components
 
-- [Increased efficiency through simulation software: Assembly lines optimized for automotive displays - industrial-production.de](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRjRMZlB2amVfZ3d6TnJBVlY4TmowdUtqZDdTRmpNMmV6SHNGQzZBeUpKaHJXdmpUcnU3ZnRaZ2lLTFVOMnRWTnZjUWplRDZfUVBiQjZwU0JkUjlxcEI4VUhqZWJJOThfX0xNUVNEdWdEVXlMZXJzb1p3elh4WEVDYUNMclpiNk1EYTNvNURPMWNsVU14bXlaXzlaRWZfTHVVOHFPVkRnd3hFM2Y4Y2xGUVpFY09ZQUN1NW5EN01iT2pOZW4yQ1g0aGhtWnJYdllkbnM1MlR1ekREMFpESjJvVGZBNGk?oc=5) (2026-02-18 02:00)
-  Summary: Increased efficiency through simulation software: Assembly lines optimized for automotive displays industrial-production.de
+- [Visual Components: Automation to Optimize Manufacturing Cost - cioreview.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXdEtlQ281NnZLOVNJcGtWRzNENnZsbkJrT3Nvc1NISGFDOE5YOE11MGpJQzVZU1NpVFNOQk42N2V5djVTRVBoR2w4WEx4TGtJV09xMjVGSFE3YW82?oc=5) (2026-08-18 08:24) _(last seen)_
+  Summary: Visual Components: Automation to Optimize Manufacturing Cost cioreview.com
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 
@@ -59,9 +62,9 @@ Generated: 2026-09-07 11:40 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
-- [Rehearse the Future: Simulation with AnyLogic for High-Stakes Decisions](https://www.youtube.com/watch?v=x-ArkvuHM_s) (2026-09-04 10:43) _(last seen)_
-  Summary: High-impact decisions shouldn’t rely on assumptions alone. AnyLogic simulation helps organizations test strategic and operational choices before committing capital, changing live operations, or taking on long-term risk. With AnyLogic, you can: - Compare strategic alternatives - Stress-test plans against disruption - Identify risks, bottlenecks, and unintended consequences - Evaluate the impact on cost, service levels, throughput, and utilization - Validate major investments before implementat...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCdH-e29FvfphfWmI2EMZPhg
+- [Digital Twin in Logistics Market Size, Forecasts Report 2024-2032 - Global Market Insights Inc.](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbVhWd2FXaDR2b3RSTWFQWGVpVlVvQTE5Slc3UG44NDVWRjktU05qdjVPbElIODdWTi02enVFTm90LVJ5bktLU0gzT005ai1ZcmhfRnFwVnd3N2RQbUpkNWdYRG1ROWVwalEyTjFvbExtYm5iT2pwTWozQzBjM01TRjFXSQ?oc=5) (2024-08-05 04:51)
+  Summary: Digital Twin in Logistics Market Size, Forecasts Report 2024-2032 Global Market Insights Inc.
+  Feed source: https://news.google.com/rss/search?q=anylogic+simulation+digital+twin&hl=en&gl=US&ceid=US:en
 ### F.EE / fescreen-sim
 
 - [Wenn der Standard-Arbeitsraum nicht mehr ausreicht – Linearachsen für Roboter von F.EE](https://www.youtube.com/watch?v=P_BqFAwJCB8) (2026-04-08 06:25) _(last seen)_
