@@ -1,33 +1,36 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-08 10:29 (Mexico City)
+Generated: 2026-09-09 10:26 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - lelezard.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMVlQVmRvYTZHbE1peG9MMDFXVXZfQVFfMEZwQzRoQlZVcVRKcUVzZ2Y3Z2NEWDgxMkpsWFg0UG8tWWlSLWk0bU1uX2RpTWQ1SFZDaU4tcG5pZw?oc=5) (2026-09-03 10:11) _(last seen)_
-  Summary: FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 lelezard.com
+- [2012 Robotics & Automation Special: Interview - Bhaskar Mandal - Autocar Professional](https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjZ1cVdaRzV3eS1jT3JiYktsTnpxd0V5R1B6X1FEWlVSNHdNMlZKWksyenh4X0hpUk5WaVBZODhENXYtdHFJNlo2RWxpQ2ZBdW9CRWZJUFJzNGZQc0V1T1VkWkpvZmdfbnF3TWR5M3FnT2JlYmItV2JiSWJKbl9ackdQVFZSQThORk43TVFuMWU0X09wTzl2eTNkR2PSAaQBQVVfeXFMTmtxNFMzVi1UZERiNWJITXBNNW9SLVZka1doa2Y3aGV0c3VmWkdhMlc1Z1ZuTGlURG04cmN4QTZEOGNHbHhKMWQyYmVqWkphQ3RmbnUzSnBsRDlZNjhfRlAtS3FPSkNyQ0pyMUJaMGNuX2I2dlRPUGxmaENKeWNOa3RQd191NjBLdFhKQnRicklTa01ubnF1X0hWbGZNVURrd1hhZk0?oc=5) (2019-03-30 02:21)
+  Summary: 2012 Robotics & Automation Special: Interview - Bhaskar Mandal Autocar Professional
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Automating catheter manufacturing: A digital twin approach to precision, compliance and scalability - engineersireland.ie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOThXU05EaUxhMGprR2JscFBlTnBNZ0EzWDh0M0IwWDF4SFVkbW11akNxd2VtbmJFNXVKN0Z2ak1BMVVMZXhSdW1iMHJsS1JxWHBPblc3QWFfbEhHOXF3aWpXeEUzdFNReWw1Q1gxQnhLZnJVVDB0TzdZUmFhTngzVDhCZm5SWGlvb3dKOG9RNVZGT1VXQlNuTnRoNm9Fd1lXck1abDFwaEh4MnNTVnVYNjRKRlg4MUc2M19EcmgzemwwNTRnQ1BfcFhuenlSVGR2bmJEU21IZ0tidUwzdTdPVzlQQzJITUU?oc=5) (2026-01-21 02:00)
-  Summary: Automating catheter manufacturing: A digital twin approach to precision, compliance and scalability engineersireland.ie
+- [How a Global Automotive Supplier Uses Digital Twins to Solve Production Problems Before They Reach the Factory Floor - industryweek.com](https://news.google.com/rss/articles/CBMiggJBVV95cUxQbHFGcjVib21qVVBGNVczaUFjN05nTGpYRWdaQ2Y3OWx1cE1raUlVNFZGMHo0d3VxS1p5NEZDZDVWZkNZWTRKd1pVQU5NRHM5MFdDY3dPMUVrZTBrbU4zaHhQVmY0SW1nRXduTDhUaFp3RzAzcHdFMXpmREhCbU11Zk9DdjBaVWh0NzhnWmRTLUJ5c3dPSUdSU051b0RENldzdmtHQTFaMmdKUVRvTlB2MTBUT3RKZEJ5TzU5YXZ1cFg0OVM2aGR4VVVhbElzVHhfbGcyY1c5ZHZEWHdvQVMxa3h6bEJYblA0MW1fbllCYXNISl9jWk9ZWGRwb1hMMkJLQkE?oc=5) (2026-08-16 01:00)
+  Summary: How a Global Automotive Supplier Uses Digital Twins to Solve Production Problems Before They Reach the Factory Floor industryweek.com
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Industrial AI for adaptive packaging - Siemens](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSks2bnNVcG1aOWNLY1EtOXFuTlV2S0FibzN4ZGE5dVJ6RTd4aVlUcnBRTVBmNlJObjBlWmI4TnVSYnJOZFRJVklwWUt1dU9EZ3JyNUNOeHJqekZTOG9EUm0zdDJTREpyRkNteE44czFZUE5faHhweFd3MktPNDdlMzRXczF0T2dER1BZMjRDUmpiemhWMVZoQjRndHdLNldLQUE?oc=5) (2026-06-23 06:15)
-  Summary: Industrial AI for adaptive packaging Siemens
+- [KBC Digital Twin Platform Aims To Advance Process Simulation With AI/ML-Enabled Hybrid Modeling - Automation World](https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ3pwVUhoX3JCSjFJQ3ZsVFZmSTZsN1pnZ3JaY3IyWllfRTR6bzNtOGxwWU9jczBNWVN4cXJlQm9RV2JfdHQyY3JfNjliR05oWk40SWtKX2I0cEcxcEFVcjZra3IyWFZ1di1wV21KTUptOHNkV3lhcHVUQWVBNlBVYzVPYXpYaDJLVkNEaEJNZVlQMVV3S3RUR2hsVnpCRTZYc09pOENSTXBERHZoMzdpT1RqV1NFQnlGQkVSbVBNaEJLRHhzM2Q4UG5oTW9Ncy1hWDJPTnFReVllaWpsNk9iTjRES0NDT1d1XzhEdHZFWS1VZzhKMVI3bkZJU3p1ZkkxT3c?oc=5) (2026-09-01 13:03) _(last seen)_
+  Summary: KBC Digital Twin Platform Aims To Advance Process Simulation With AI/ML-Enabled Hybrid Modeling Automation World
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [How Long Does It Take to Program a Manufacturing Robot In 2026? - GlobeNewswire](https://news.google.com/rss/articles/CBMizwFBVV95cUxOMDJWbmhxRDhtYUFhdEt6TFM2c2dWUTZlbEVkZGxtUXBNTkdfN0E0RjVkUGNCREs5dlM1b21JNHhJSXdpekF1OVJNMXZDOW1DYmo0MnRTc3pUVG90dTdfNC1ZUF83a3hEcnBPLTVOV3FHU0JYR0xJczZQRlJsYmZSUmdaUzVVLU1oQW1TUVBzSDBjZEo5VEhWVTVkVkFZTVhkbXlYNWNkSXpBU0xDQUtUS1pqanVOeG41WUs1S2p2emRqRk9oNlA5OHdVb0otQTQ?oc=5) (2026-09-03 09:00) _(last seen)_
-  Summary: How Long Does It Take to Program a Manufacturing Robot In 2026? GlobeNewswire
+- [Closing the ‘Sim-to-Real’ gap: How ABB’s RobotStudio® HyperReality enables industrial-scale Physical AI - ABB](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2lBaS01NG5Vak4xLTl4NlZpVGk2Q2tiMFgwQ2YxZ1JHRjNraDZWWGhrYXoycnRGMU5JMG1wcmhWWW5WMFF6WnlYMzExOHpvZm5yZ2xDci1vaXRYbHQ0V2tuajNDYjBQeUpkMURGUlVRTW1qVkVadUE2OS0xM08wNkdyS0tGQXZjRXk5Rnk4bmRDRmdLaDZEZUVuRk1iRm40M0tlX0kwX05NTXRhZGdxdFdQVVctOXdaS0tWaTk0ZUtvZzY5aFFkYWNmbURRWVBZdHpoTVFhU3lRQXA4eFRqRQ?oc=5) (2026-03-13 01:00)
+  Summary: Closing the ‘Sim-to-Real’ gap: How ABB’s RobotStudio® HyperReality enables industrial-scale Physical AI ABB
+  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
+- [New ABB Robotics Software enables 3D Printing without manual Programming - foundry-planet.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXNSWGFoT19IQTNORmFydnpERVVzTUVPVVBvS2Q0a1JsZlJ1YXN3ZEdMR2F4eEJRdi1YZzBfa0pXeFBHOFBqNjBPLTBQb0llX0RUU1ZWeTlyVG1kQzdGRmVoRGhsRkRYRTBFcGNTMzlTdkNHbHVvMW5pYmE3WGpEX0N1cUFYOUdocEozT2R3QWswTUNBODNoY0l3Y3ZrclF5Wjl2eTlnenNxQQ?oc=5) (2020-01-22 02:00)
+  Summary: New ABB Robotics Software enables 3D Printing without manual Programming foundry-planet.com
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [AGV simulation: Fabmatics validates AGV use with 3D simulation - Materialfluss](https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWFCTWZySXZtYnpXejN0QUNYXy1JMTF5c2k1WDd2b25QWWdXTkhSRUdwT0xiN3RJUUtHMl8tVlNnTDFhMlVzem55Zjg2dVNKRFBVczZULWJKU2tQV1JCby13MmRpazV5bFdUTFNZYTJxNFNqMDdEM1ZXT0JqVFVRWnNWSWY2cmRwYlMtbk9oOG0xUEpWVDVob3ViUXF2WkdrRTMzZmlfREpPYnAzS21KOWFn?oc=5) (2024-03-06 02:00)
-  Summary: AGV simulation: Fabmatics validates AGV use with 3D simulation Materialfluss
+- [Warehouse Digital Twin Simulation and Optimization Market - Future Market Insights](https://news.google.com/rss/articles/CBMipAFBVV95cUxOazVOWXNRcHUtbWVfbW0xUFgwNktLQXowLWJOb0lyM2tmYjdkWXdEWHhNOFkxc2RhenlSbDlXRnVHZFJjc3R6ZWpBMFlzSUluS2pPdE5COGN6SkZXeFY5dXlHclI3RU15aGc3RE9adFFtRFBSdXFIdDJEdkZXMWN4eGZ1M1hwUXZwR1VOdWphZTBFZTF2c2RXLVNud3QxRm5fLVJRUg?oc=5) (2026-03-28 01:00)
+  Summary: Warehouse Digital Twin Simulation and Optimization Market Future Market Insights
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
@@ -44,12 +47,15 @@ Generated: 2026-09-08 10:29 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens presents €2 billion investment strategy to boost future growth, innovation and resilience including around €200 million for a high-tech factory in Singapore - Singapore Economic Development Board (EDB)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWXFWbGNER29HQ01oSS1GcGlURndRU2txS1ViQ2EwZ1l1dng1ME1NaTJMV0EwSGFWam9PNTlGYkJ6YnQxSnBnRzZtT3htd28zbzl5Y2swbVVMUGtxRm4zSFBKaFVlbkNKd3lJWmpDUlRGTXRwV2QyVUE3UGR4dmJJNDJKWElKOWtPZ01ZX2l0cGdyYl9tOUdoWmhGaGE3YUpFM2ZabjM4cGVHeE1jOFEwMzNpS0c2RVFDTWYxUmloeldFdzduY3FhYmd0QktxcXRlcEZj?oc=5) (2026-09-06 01:00)
-  Summary: Siemens presents €2 billion investment strategy to boost future growth, innovation and resilience including around €200 million for a high-tech factory in Singapore Singapore Economic Development Board (EDB)
+- [Siemens and KION partner to digitalize intralogistics - Engineering.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkNMbUVYdHhOWmtwQXMwWFdXVlhYdmVkelN0SWtZS05xd3UzQkU3amZXTHNBek5KTzYwamxmaDJGSUVVSlNOWkxMdWUwZFBPZE1fT1A2Z1BEeDNleFMyUTVLUkVQSzJ6dk5ycHk3WnNreG5OZjFYTldHSW00Y2RBVmlwdE95bFhYdnc?oc=5) (2026-04-16 01:00)
+  Summary: Siemens and KION partner to digitalize intralogistics Engineering.com
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [How an MBSE digital twin improves reliability analysis for Skypath Analytics](https://www.youtube.com/watch?v=JuijpS8eIiw) (2026-09-08 05:07)
-  Summary: Learn how an MBSE digital twin can improve reliability analysis by connecting system models, product structures, and configuration data with reliability engineering workflows. 📖 Read the companion blog: https://sie.ag/26DHhS In this customer interview, James Hill, CEO of Skypath Analytics, explains how aerospace and defense organizations can leverage an MBSE digital twin managed in Teamcenter and connect it with Simcenter MADE reliability models. Rather than recreating reliability models from...
+- [The future of engineering starts with Simcenter](https://www.youtube.com/watch?v=LK0TBt38IjY) (2026-09-09 08:11)
+  Summary: Engineering is moving faster than ever. The teams that can simulate, test and optimize at speed will define what comes next. Simcenter is Siemens' AI-powered simulation and testing solution designed to help engineers deliver high-quality outcomes. With more than 15 integrated physics domains, this solution brings together advanced simulation, testing and integrated workflows to accelerate product development and improve decision-making. Whether you're focused on performance, sustainability or...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [Technoszorty: szybka pomoc – Industrial Edge Management: jak uruchomić i skonfigurować system?](https://www.youtube.com/watch?v=36A_qDaB7zc) (2026-09-09 01:01)
+  Summary: Siemens Industrial Edge to cyfrowa platforma przetwarzania brzegowego zaprojektowana, by usprawnić codzienną pracę w zakładzie przemysłowym. Łączy aplikacje, ułatwia wymianę danych z systemów operacyjnych i informatycznych oraz pozwala centralnie zarządzać urządzeniami. Dzięki temu w efektywny sposób pomaga producentom w wykorzystaniu ich pełnego potencjału. Obejrzyj Technoszorty: szybka pomoc, aby dowiedzieć się, jak uruchomić i skonfigurować system Industrial Edge Management w celu rozpoczę...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
 - [Visual Components: Automation to Optimize Manufacturing Cost - cioreview.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXdEtlQ281NnZLOVNJcGtWRzNENnZsbkJrT3Nvc1NISGFDOE5YOE11MGpJQzVZU1NpVFNOQk42N2V5djVTRVBoR2w4WEx4TGtJV09xMjVGSFE3YW82?oc=5) (2026-08-18 08:24) _(last seen)_
@@ -62,8 +68,8 @@ Generated: 2026-09-08 10:29 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
-- [Digital Twin in Logistics Market Size, Forecasts Report 2024-2032 - Global Market Insights Inc.](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbVhWd2FXaDR2b3RSTWFQWGVpVlVvQTE5Slc3UG44NDVWRjktU05qdjVPbElIODdWTi02enVFTm90LVJ5bktLU0gzT005ai1ZcmhfRnFwVnd3N2RQbUpkNWdYRG1ROWVwalEyTjFvbExtYm5iT2pwTWozQzBjM01TRjFXSQ?oc=5) (2024-08-05 04:51)
-  Summary: Digital Twin in Logistics Market Size, Forecasts Report 2024-2032 Global Market Insights Inc.
+- [Warehouse Digital Twin Simulation and Optimization Market - Future Market Insights](https://news.google.com/rss/articles/CBMipAFBVV95cUxOazVOWXNRcHUtbWVfbW0xUFgwNktLQXowLWJOb0lyM2tmYjdkWXdEWHhNOFkxc2RhenlSbDlXRnVHZFJjc3R6ZWpBMFlzSUluS2pPdE5COGN6SkZXeFY5dXlHclI3RU15aGc3RE9adFFtRFBSdXFIdDJEdkZXMWN4eGZ1M1hwUXZwR1VOdWphZTBFZTF2c2RXLVNud3QxRm5fLVJRUg?oc=5) (2026-03-28 01:00)
+  Summary: Warehouse Digital Twin Simulation and Optimization Market Future Market Insights
   Feed source: https://news.google.com/rss/search?q=anylogic+simulation+digital+twin&hl=en&gl=US&ceid=US:en
 ### F.EE / fescreen-sim
 
