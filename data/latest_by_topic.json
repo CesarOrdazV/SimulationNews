@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Accelerate Computational Engineering and Robotics With NVIDIA Warp",
-    "summary": "Learn how NVIDIA Warp, an open-source CUDA-X library for accelerating computational engineering, simulation, and robotics workflows, is leveraged by developers and lead to 10M downloads. In this livestream, we\u2019ll introduce NVIDIA Warp, why developers are using it, and how it accelerates engineering and robotics applications. We\u2019ll walk through practical use cases, including an industrial engineering example and a robotics workflow, to showcase how Warp can help teams build and test high-perfo...",
-    "link": "https://www.youtube.com/watch?v=W9Z0uae0YNk",
-    "published": "2026-09-03 01:43",
+    "title": "What's New in Isaac Lab-Arena | Robotics Office Hours",
+    "summary": "Join NVIDIA Robotics Office Hours for a closer look at the latest NVIDIA Isaac Lab-Arena release and how it helps developers and researchers benchmark and evaluate robot policies in simulation at scale. Through technical walkthroughs and demos, NVIDIA experts Sangeeta Subramanian, Asawaree Bhide, and Tuur Stuyck will explore new Isaac Lab-Arena capabilities and show how to author scalable, agentic benchmarks. Learn how to evaluate policies across robotics tasks and environments, measure robus...",
+    "link": "https://www.youtube.com/watch?v=jb1jr3mYZjs",
+    "published": "2026-09-10 01:35",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "The future of engineering starts with Simcenter",
-    "summary": "Engineering is moving faster than ever. The teams that can simulate, test and optimize at speed will define what comes next. Simcenter is Siemens' AI-powered simulation and testing solution designed to help engineers deliver high-quality outcomes. With more than 15 integrated physics domains, this solution brings together advanced simulation, testing and integrated workflows to accelerate product development and improve decision-making. Whether you're focused on performance, sustainability or...",
-    "link": "https://www.youtube.com/watch?v=LK0TBt38IjY",
-    "published": "2026-09-09 08:11",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
+    "title": "Siemens collaborates with Redington to unlock industrial AI innovation in African markets - Business Standard",
+    "summary": "Siemens collaborates with Redington to unlock industrial AI innovation in African markets Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdmNSUV9zUFQ0a3JXR1o3c2tQX3dfWVlsOUNNVDlOdFhkNDRwQU5PUURwNHVGYjdqQks2QzBBM2FmLXV6MlZDWUN1dVpuRzQ4QUNudFliYktmSTFjUjFvdVJhTzE2d1NOR2tjX0xjTlVRb1pmT19JNDBJZmI5dS1zaUJSODZuSmFnZnJNdF95a1dzRHJLQmlvQ29FdmJHUzZPeHpDQzNKU1N3eTEyYTgxbHM5Z1ZLRlpXR3hLUEUxakNHVzViZHBnVG5YdUxBTGgwTFZHZGUyWm9ZZzJheGVMV3h5X3ZEUGRNc3pvRWl0M3hzYmc0SWNqNU5qOHFwOHR6eEpYZmV30gGGAkFVX3lxTFB2Y1JRX3NQVDRrcldHWjdza1Bfd19ZWWw5Q01UOU50WGQ0NHBBTk9RRHA0dUZiN2pCSzZDMEEzYWYtdXoyVkNZQ3V1Wm5HNDhBQ250WWJiS2ZJMWNSMW91UmFPMTZ3U05Ha2NfTGNOVVFvWmZPX0k0MElmYjl1LXNpQlI4Nm5KYWdmck10X3lrV3NEcktCaW9Db0V2YkdTNk94ekNDM0pTU3d5MTJhODFsczlnVktGWldHeEtQRTFqQ0dXNWJkcGdUblh1TEFMaDBMVkdkZTJab1lnMmF4ZUxXeHlfdkRQZE1zem9FaXQzeHNiZzRJY2o1Tmo4cXA4dHp4SlhmZXc?oc=5",
+    "published": "2026-09-10 08:01",
+    "source_url": "https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en"
   },
   "competitors:Visual Components": {
     "section": "competitors",

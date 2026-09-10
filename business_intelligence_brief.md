@@ -1,18 +1,18 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-09 10:26 (Mexico City)
+Generated: 2026-09-10 10:15 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [2012 Robotics & Automation Special: Interview - Bhaskar Mandal - Autocar Professional](https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjZ1cVdaRzV3eS1jT3JiYktsTnpxd0V5R1B6X1FEWlVSNHdNMlZKWksyenh4X0hpUk5WaVBZODhENXYtdHFJNlo2RWxpQ2ZBdW9CRWZJUFJzNGZQc0V1T1VkWkpvZmdfbnF3TWR5M3FnT2JlYmItV2JiSWJKbl9ackdQVFZSQThORk43TVFuMWU0X09wTzl2eTNkR2PSAaQBQVVfeXFMTmtxNFMzVi1UZERiNWJITXBNNW9SLVZka1doa2Y3aGV0c3VmWkdhMlc1Z1ZuTGlURG04cmN4QTZEOGNHbHhKMWQyYmVqWkphQ3RmbnUzSnBsRDlZNjhfRlAtS3FPSkNyQ0pyMUJaMGNuX2I2dlRPUGxmaENKeWNOa3RQd191NjBLdFhKQnRicklTa01ubnF1X0hWbGZNVURrd1hhZk0?oc=5) (2019-03-30 02:21)
-  Summary: 2012 Robotics & Automation Special: Interview - Bhaskar Mandal Autocar Professional
+- [FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - lelezard.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMVlQVmRvYTZHbE1peG9MMDFXVXZfQVFfMEZwQzRoQlZVcVRKcUVzZ2Y3Z2NEWDgxMkpsWFg0UG8tWWlSLWk0bU1uX2RpTWQ1SFZDaU4tcG5pZw?oc=5) (2026-09-03 10:11) _(last seen)_
+  Summary: FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 lelezard.com
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [How a Global Automotive Supplier Uses Digital Twins to Solve Production Problems Before They Reach the Factory Floor - industryweek.com](https://news.google.com/rss/articles/CBMiggJBVV95cUxQbHFGcjVib21qVVBGNVczaUFjN05nTGpYRWdaQ2Y3OWx1cE1raUlVNFZGMHo0d3VxS1p5NEZDZDVWZkNZWTRKd1pVQU5NRHM5MFdDY3dPMUVrZTBrbU4zaHhQVmY0SW1nRXduTDhUaFp3RzAzcHdFMXpmREhCbU11Zk9DdjBaVWh0NzhnWmRTLUJ5c3dPSUdSU051b0RENldzdmtHQTFaMmdKUVRvTlB2MTBUT3RKZEJ5TzU5YXZ1cFg0OVM2aGR4VVVhbElzVHhfbGcyY1c5ZHZEWHdvQVMxa3h6bEJYblA0MW1fbllCYXNISl9jWk9ZWGRwb1hMMkJLQkE?oc=5) (2026-08-16 01:00)
-  Summary: How a Global Automotive Supplier Uses Digital Twins to Solve Production Problems Before They Reach the Factory Floor industryweek.com
+- [Digital Twin Initiative Could Reduce Geothermal Production Uncertainties - JPT Homepage](https://news.google.com/rss/articles/CBMilwFBVV95cUxPelZTVm1PWHZDeVRFcHk4Y0dhYlJId2wxSFY2Smx0MkpHUFVUUFQzVU5wR19pUERkNDVncnVqcUxZOTdaVmtIMGJTN21VNXU5aTgwVUsxWkhBRU1zY2EyWXBMYWRjQkNJbUVTNjd5M2FIU0ptbTQ4M05IODNObDZabHdCVE5HM2Z5aTJ6MFJuYmhfR0sxT1dj?oc=5) (2026-08-18 23:06)
+  Summary: Digital Twin Initiative Could Reduce Geothermal Production Uncertainties JPT Homepage
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
@@ -21,24 +21,21 @@ Generated: 2026-09-09 10:26 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [Closing the ‘Sim-to-Real’ gap: How ABB’s RobotStudio® HyperReality enables industrial-scale Physical AI - ABB](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2lBaS01NG5Vak4xLTl4NlZpVGk2Q2tiMFgwQ2YxZ1JHRjNraDZWWGhrYXoycnRGMU5JMG1wcmhWWW5WMFF6WnlYMzExOHpvZm5yZ2xDci1vaXRYbHQ0V2tuajNDYjBQeUpkMURGUlVRTW1qVkVadUE2OS0xM08wNkdyS0tGQXZjRXk5Rnk4bmRDRmdLaDZEZUVuRk1iRm40M0tlX0kwX05NTXRhZGdxdFdQVVctOXdaS0tWaTk0ZUtvZzY5aFFkYWNmbURRWVBZdHpoTVFhU3lRQXA4eFRqRQ?oc=5) (2026-03-13 01:00)
-  Summary: Closing the ‘Sim-to-Real’ gap: How ABB’s RobotStudio® HyperReality enables industrial-scale Physical AI ABB
-  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
-- [New ABB Robotics Software enables 3D Printing without manual Programming - foundry-planet.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXNSWGFoT19IQTNORmFydnpERVVzTUVPVVBvS2Q0a1JsZlJ1YXN3ZEdMR2F4eEJRdi1YZzBfa0pXeFBHOFBqNjBPLTBQb0llX0RUU1ZWeTlyVG1kQzdGRmVoRGhsRkRYRTBFcGNTMzlTdkNHbHVvMW5pYmE3WGpEX0N1cUFYOUdocEozT2R3QWswTUNBODNoY0l3Y3ZrclF5Wjl2eTlnenNxQQ?oc=5) (2020-01-22 02:00)
-  Summary: New ABB Robotics Software enables 3D Printing without manual Programming foundry-planet.com
+- [Automation, robotics, and the factory of the future - McKinsey & Company](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRlNndkYzYlM5TzVqXy1TYTc0SWc3VXpaYl9RU1lUamxjUnJsbHRaTXJyV2k4X1hWZUdGbDlrazV1X3FmVmUxNktQYWhOeEVmcW9FM0RvNzFRY3RnMTRFdGpvck03RmpoQVJQZEptb3NfQUREWFoyMUFkVWphcmg2UFJlZHVveHJRckRwZHZLM2o1RExlSUlrWF9uY3U2UEh2YkhSWjdqREtoMXhWMVpkcA?oc=5) (2017-09-07 02:00)
+  Summary: Automation, robotics, and the factory of the future McKinsey & Company
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Warehouse Digital Twin Simulation and Optimization Market - Future Market Insights](https://news.google.com/rss/articles/CBMipAFBVV95cUxOazVOWXNRcHUtbWVfbW0xUFgwNktLQXowLWJOb0lyM2tmYjdkWXdEWHhNOFkxc2RhenlSbDlXRnVHZFJjc3R6ZWpBMFlzSUluS2pPdE5COGN6SkZXeFY5dXlHclI3RU15aGc3RE9adFFtRFBSdXFIdDJEdkZXMWN4eGZ1M1hwUXZwR1VOdWphZTBFZTF2c2RXLVNud3QxRm5fLVJRUg?oc=5) (2026-03-28 01:00)
-  Summary: Warehouse Digital Twin Simulation and Optimization Market Future Market Insights
+- [Getting warehouse automation design right from day one - Medianet News Hub](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0ctTkhTUnZFQ2pub1FBTGlacFRuRy1nWkZiaUpUb3JIWDhWRzhILVp6d0x6enpaZllUSEtMdnc2Q2ZkZ05FRGdrLW53T2pXc0FPMENjelhxVTgzRjhrYVVGQ0tkRWIxaFkwUXlmR3pPWFZRdDNOSU96OWs5UkRqYjQ5VjBrWFYwMEZYQVBWWDZMWHhUbjRWSVAwQmRJUVZrQXVtbQ?oc=5) (2026-08-25 18:14) _(last seen)_
+  Summary: Getting warehouse automation design right from day one Medianet News Hub
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
 
 ### NVIDIA
 
-- [Accelerate Computational Engineering and Robotics With NVIDIA Warp](https://www.youtube.com/watch?v=W9Z0uae0YNk) (2026-09-03 01:43) _(last seen)_
-  Summary: Learn how NVIDIA Warp, an open-source CUDA-X library for accelerating computational engineering, simulation, and robotics workflows, is leveraged by developers and lead to 10M downloads. In this livestream, we’ll introduce NVIDIA Warp, why developers are using it, and how it accelerates engineering and robotics applications. We’ll walk through practical use cases, including an industrial engineering example and a robotics workflow, to showcase how Warp can help teams build and test high-perfo...
+- [What's New in Isaac Lab-Arena | Robotics Office Hours](https://www.youtube.com/watch?v=jb1jr3mYZjs) (2026-09-10 01:35) _(last seen)_
+  Summary: Join NVIDIA Robotics Office Hours for a closer look at the latest NVIDIA Isaac Lab-Arena release and how it helps developers and researchers benchmark and evaluate robot policies in simulation at scale. Through technical walkthroughs and demos, NVIDIA experts Sangeeta Subramanian, Asawaree Bhide, and Tuur Stuyck will explore new Isaac Lab-Arena capabilities and show how to author scalable, agentic benchmarks. Learn how to evaluate policies across robotics tasks and environments, measure robus...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
@@ -47,14 +44,14 @@ Generated: 2026-09-09 10:26 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens and KION partner to digitalize intralogistics - Engineering.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkNMbUVYdHhOWmtwQXMwWFdXVlhYdmVkelN0SWtZS05xd3UzQkU3amZXTHNBek5KTzYwamxmaDJGSUVVSlNOWkxMdWUwZFBPZE1fT1A2Z1BEeDNleFMyUTVLUkVQSzJ6dk5ycHk3WnNreG5OZjFYTldHSW00Y2RBVmlwdE95bFhYdnc?oc=5) (2026-04-16 01:00)
-  Summary: Siemens and KION partner to digitalize intralogistics Engineering.com
+- [Siemens collaborates with Redington to unlock industrial AI innovation in African markets - Business Standard](https://news.google.com/rss/articles/CBMihgJBVV95cUxQdmNSUV9zUFQ0a3JXR1o3c2tQX3dfWVlsOUNNVDlOdFhkNDRwQU5PUURwNHVGYjdqQks2QzBBM2FmLXV6MlZDWUN1dVpuRzQ4QUNudFliYktmSTFjUjFvdVJhTzE2d1NOR2tjX0xjTlVRb1pmT19JNDBJZmI5dS1zaUJSODZuSmFnZnJNdF95a1dzRHJLQmlvQ29FdmJHUzZPeHpDQzNKU1N3eTEyYTgxbHM5Z1ZLRlpXR3hLUEUxakNHVzViZHBnVG5YdUxBTGgwTFZHZGUyWm9ZZzJheGVMV3h5X3ZEUGRNc3pvRWl0M3hzYmc0SWNqNU5qOHFwOHR6eEpYZmV30gGGAkFVX3lxTFB2Y1JRX3NQVDRrcldHWjdza1Bfd19ZWWw5Q01UOU50WGQ0NHBBTk9RRHA0dUZiN2pCSzZDMEEzYWYtdXoyVkNZQ3V1Wm5HNDhBQ250WWJiS2ZJMWNSMW91UmFPMTZ3U05Ha2NfTGNOVVFvWmZPX0k0MElmYjl1LXNpQlI4Nm5KYWdmck10X3lrV3NEcktCaW9Db0V2YkdTNk94ekNDM0pTU3d5MTJhODFsczlnVktGWldHeEtQRTFqQ0dXNWJkcGdUblh1TEFMaDBMVkdkZTJab1lnMmF4ZUxXeHlfdkRQZE1zem9FaXQzeHNiZzRJY2o1Tmo4cXA4dHp4SlhmZXc?oc=5) (2026-09-10 08:01)
+  Summary: Siemens collaborates with Redington to unlock industrial AI innovation in African markets Business Standard
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [The future of engineering starts with Simcenter](https://www.youtube.com/watch?v=LK0TBt38IjY) (2026-09-09 08:11)
-  Summary: Engineering is moving faster than ever. The teams that can simulate, test and optimize at speed will define what comes next. Simcenter is Siemens' AI-powered simulation and testing solution designed to help engineers deliver high-quality outcomes. With more than 15 integrated physics domains, this solution brings together advanced simulation, testing and integrated workflows to accelerate product development and improve decision-making. Whether you're focused on performance, sustainability or...
+- [Tony Hemmelgarn @ #RealizeLIVE 2026 | Industrial intelligence, delivered](https://www.youtube.com/watch?v=zFegzw0vVT0) (2026-09-09 14:47)
+  Summary: Tony Hemmelgarn, CEO of Siemens Digital Industries Software, at Realize LIVE 2026 in Detroit, on the company's vision for Industrial Intelligence — where physics, AI, and real-world data converge to transform how products are designed, built, and operated. --- 0:00 Welcome & introduction 0:53 What Is industrial intelligence? 4:00 The comprehensive digital twin 7:00 AI: Faster engines, smarter execution, trusted outcomes 9:08 NVIDIA 11:55 Deterministic AI 13:21 SimSolid: eliminating the meshin...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [Technoszorty: szybka pomoc – Industrial Edge Management: jak uruchomić i skonfigurować system?](https://www.youtube.com/watch?v=36A_qDaB7zc) (2026-09-09 01:01)
-  Summary: Siemens Industrial Edge to cyfrowa platforma przetwarzania brzegowego zaprojektowana, by usprawnić codzienną pracę w zakładzie przemysłowym. Łączy aplikacje, ułatwia wymianę danych z systemów operacyjnych i informatycznych oraz pozwala centralnie zarządzać urządzeniami. Dzięki temu w efektywny sposób pomaga producentom w wykorzystaniu ich pełnego potencjału. Obejrzyj Technoszorty: szybka pomoc, aby dowiedzieć się, jak uruchomić i skonfigurować system Industrial Edge Management w celu rozpoczę...
+- [In Five: When AI Goes to Work - Transforming Factory Automation](https://www.youtube.com/watch?v=2Tq5NyD9tvs) (2026-09-09 11:47)
+  Summary: The future of AI isn’t just about smarter models—it’s about putting AI to work in the real world. In this episode of Optimistic Outlook In Five, Lauren Espin explores how Industrial AI could help manufacturers tackle one of the industry’s biggest challenges: a shortage of skilled engineering talent. As the United States works to expand and modernize its manufacturing capacity, AI is emerging as a powerful tool for helping engineers, operators and technicians become more productive. The episod...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
@@ -68,8 +65,8 @@ Generated: 2026-09-09 10:26 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
-- [Warehouse Digital Twin Simulation and Optimization Market - Future Market Insights](https://news.google.com/rss/articles/CBMipAFBVV95cUxOazVOWXNRcHUtbWVfbW0xUFgwNktLQXowLWJOb0lyM2tmYjdkWXdEWHhNOFkxc2RhenlSbDlXRnVHZFJjc3R6ZWpBMFlzSUluS2pPdE5COGN6SkZXeFY5dXlHclI3RU15aGc3RE9adFFtRFBSdXFIdDJEdkZXMWN4eGZ1M1hwUXZwR1VOdWphZTBFZTF2c2RXLVNud3QxRm5fLVJRUg?oc=5) (2026-03-28 01:00)
-  Summary: Warehouse Digital Twin Simulation and Optimization Market Future Market Insights
+- [Georgia Southern University uses innovative simulation technology to help revolutionize logistics in the region - griceconnect.com](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTFlFS0JqQTRDcnE3ZlhHUERQeUtBSDZ1dkNkSGFvZGEwT3VfYl9GWnd0TnlvV0VNc00xYWVOMGlGR2RpUUpwbVNGa3pPMGtyMnJfLWdGY3hKb1Nab1FsaEZTbjlaMFlLZWFudzh3TEJDLWgteFp5aFBQNUl5ZE1NcWdOcl9VSVp2X0wwUzVMV3dTd01ZUV9Nc1UtaV9vdjlTZnduM1lSM1FtclRkelZQblR1R2ZMaHRPdFB5cHdlcVdJV3hiNU5GUmc2YnFMbm5zMTlhVFpJRVo4SlVJLWZPN0FYQmpBc1ZGWWFjdWtpVkXSAfYBQVVfeXFMUEg3Tm82SmJIMFJycjAtRHRwVnFTdUwwQWtzSDI3WWNnWHFHMmMxY3plc183Q3BVQnpLUm8ydWFpY2xKbV96ejBlRW5XNmV1OVljWVlmN19RbWVJSGNwSjA5UTREbFZRelFRRWVucjhJZVI4NkUzaVh5ZFZxU3NQUEhnckRUTlhpSnM1Q0tiQ1haeHNIRlhYQ3JkdTFiWXJRcnp5eHJRWmRGNDhYSzBxTWpHeTg1WEhqNzVMMEk1VktFNkc5TUtFU2lHWXpGM3V1SWx5R1RMdEQ3N1hBYm9qR0Zzb2JFSFFfWWJoc2V4S05fYlJoazNB?oc=5) (2025-12-07 02:00)
+  Summary: Georgia Southern University uses innovative simulation technology to help revolutionize logistics in the region griceconnect.com
   Feed source: https://news.google.com/rss/search?q=anylogic+simulation+digital+twin&hl=en&gl=US&ceid=US:en
 ### F.EE / fescreen-sim
 
