@@ -2,11 +2,11 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "What's New in Isaac Lab-Arena | Robotics Office Hours",
-    "summary": "Join NVIDIA Robotics Office Hours for a closer look at the latest NVIDIA Isaac Lab-Arena release and how it helps developers and researchers benchmark and evaluate robot policies in simulation at scale. Through technical walkthroughs and demos, NVIDIA experts Sangeeta Subramanian, Asawaree Bhide, and Tuur Stuyck will explore new Isaac Lab-Arena capabilities and show how to author scalable, agentic benchmarks. Learn how to evaluate policies across robotics tasks and environments, measure robus...",
-    "link": "https://www.youtube.com/watch?v=jb1jr3mYZjs",
-    "published": "2026-09-10 01:35",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
+    "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
+    "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed \u2014 tasks change, layouts shift and new products arrive, and most robots can\u2019t keep up without significant reprogramming. Skild AI\u2019s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses video as input to understand and execute the task without updating its weights or undergoing task-specific post-train...",
+    "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
+    "published": "2026-09-10 10:30",
+    "source_url": "https://blogs.nvidia.com/feed/"
   },
   "competitors:RoboDK": {
     "section": "competitors",
@@ -20,10 +20,10 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Siemens collaborates with Redington to unlock industrial AI innovation in African markets - Business Standard",
-    "summary": "Siemens collaborates with Redington to unlock industrial AI innovation in African markets Business Standard",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdmNSUV9zUFQ0a3JXR1o3c2tQX3dfWVlsOUNNVDlOdFhkNDRwQU5PUURwNHVGYjdqQks2QzBBM2FmLXV6MlZDWUN1dVpuRzQ4QUNudFliYktmSTFjUjFvdVJhTzE2d1NOR2tjX0xjTlVRb1pmT19JNDBJZmI5dS1zaUJSODZuSmFnZnJNdF95a1dzRHJLQmlvQ29FdmJHUzZPeHpDQzNKU1N3eTEyYTgxbHM5Z1ZLRlpXR3hLUEUxakNHVzViZHBnVG5YdUxBTGgwTFZHZGUyWm9ZZzJheGVMV3h5X3ZEUGRNc3pvRWl0M3hzYmc0SWNqNU5qOHFwOHR6eEpYZmV30gGGAkFVX3lxTFB2Y1JRX3NQVDRrcldHWjdza1Bfd19ZWWw5Q01UOU50WGQ0NHBBTk9RRHA0dUZiN2pCSzZDMEEzYWYtdXoyVkNZQ3V1Wm5HNDhBQ250WWJiS2ZJMWNSMW91UmFPMTZ3U05Ha2NfTGNOVVFvWmZPX0k0MElmYjl1LXNpQlI4Nm5KYWdmck10X3lrV3NEcktCaW9Db0V2YkdTNk94ekNDM0pTU3d5MTJhODFsczlnVktGWldHeEtQRTFqQ0dXNWJkcGdUblh1TEFMaDBMVkdkZTJab1lnMmF4ZUxXeHlfdkRQZE1zem9FaXQzeHNiZzRJY2o1Tmo4cXA4dHp4SlhmZXc?oc=5",
-    "published": "2026-09-10 08:01",
+    "title": "Siemens expands industrial software access across six African markets - techtrendske.co.ke",
+    "summary": "Siemens expands industrial software access across six African markets techtrendske.co.ke",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNC1KaVU4WTVVbklwbkpUTG1DQ2hKY1B3VEcyLW1DOThoSFEycUZ1MFQ4RGY3M0xzc2lfakFNYlU5Yy0xUklLMWFBT2FDTHVQZG12WVdtSlNRSEltZFQ0dGdXazN6X0taYnpOME5tcXVGV1h2OVlqdFAzVy1qTUpSazh6NTAxTGZXemhF?oc=5",
+    "published": "2026-09-11 07:42",
     "source_url": "https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en"
   },
   "competitors:Visual Components": {
@@ -47,11 +47,11 @@
   "competitors:AnyLogic": {
     "section": "competitors",
     "topic": "AnyLogic",
-    "title": "Rehearse the Future: Simulation with AnyLogic for High-Stakes Decisions",
-    "summary": "High-impact decisions shouldn\u2019t rely on assumptions alone. AnyLogic simulation helps organizations test strategic and operational choices before committing capital, changing live operations, or taking on long-term risk. With AnyLogic, you can: - Compare strategic alternatives - Stress-test plans against disruption - Identify risks, bottlenecks, and unintended consequences - Evaluate the impact on cost, service levels, throughput, and utilization - Validate major investments before implementat...",
-    "link": "https://www.youtube.com/watch?v=x-ArkvuHM_s",
-    "published": "2026-09-04 10:43",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdH-e29FvfphfWmI2EMZPhg"
+    "title": "Warehouse Digital Twin Simulation and Optimization Market - openPR.com",
+    "summary": "Warehouse Digital Twin Simulation and Optimization Market openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRnRLZmUwSXdyQ25oWkZ3aWF2aGpRcEd1ZXY1N3B6OTVSa0pmQXF5VWhMeWRreVZxYTVEeWlrckdoQ2xiV1VtOGpGLTZfY2x1czJQbklvUjEyaGF5STlYSGpXM1BFVXZDNmlDVEt3SjFEd09yNGV1aGY5QzlBYzRjUEtBSXFwTUNGZGFLbnZDa1NYclFwR0dGXw?oc=5",
+    "published": "2026-09-11 00:47",
+    "source_url": "https://news.google.com/rss/search?q=anylogic+simulation+digital+twin&hl=en&gl=US&ceid=US:en"
   },
   "competitors:F.EE / fescreen-sim": {
     "section": "competitors",
@@ -65,10 +65,10 @@
   "business:Virtual Commissioning": {
     "section": "business",
     "topic": "Virtual Commissioning",
-    "title": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - lelezard.com",
-    "summary": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 lelezard.com",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtMVlQVmRvYTZHbE1peG9MMDFXVXZfQVFfMEZwQzRoQlZVcVRKcUVzZ2Y3Z2NEWDgxMkpsWFg0UG8tWWlSLWk0bU1uX2RpTWQ1SFZDaU4tcG5pZw?oc=5",
-    "published": "2026-09-03 10:11",
+    "title": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow",
+    "summary": "FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnpoT2lyMHgwOUo5c3JVVjFubWlmOHhXbWNjZUJQdzAwaHJWRE1Cc0RhYnZBWTMwZ3VUOEpFUUhfNGJrY3pJaXAtZm1TM2lrbC1ndUMteldFTUFhLTRsZUZYaWdFYWFtOXJfci1RODk5UlVwaWtlRDVIal9hRWN0Wml3NFcwaHZ2R1lVUjUtOWFqbXYtMmR6VXJ0c1lYQV9uX1lQX2NFaXFjV2FxNjJxWjBNbnFlVkNobGR2QkxvVENKU25mcjh0a3lIM3JqWHlWMVI3Zi11QQ?oc=5",
+    "published": "2026-09-04 07:15",
     "source_url": "https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Digital Twin Manufacturing": {
@@ -92,10 +92,10 @@
   "business:Robot Simulation": {
     "section": "business",
     "topic": "Robot Simulation",
-    "title": "How Long Does It Take to Program a Manufacturing Robot In 2026? - GlobeNewswire",
-    "summary": "How Long Does It Take to Program a Manufacturing Robot In 2026? GlobeNewswire",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMDJWbmhxRDhtYUFhdEt6TFM2c2dWUTZlbEVkZGxtUXBNTkdfN0E0RjVkUGNCREs5dlM1b21JNHhJSXdpekF1OVJNMXZDOW1DYmo0MnRTc3pUVG90dTdfNC1ZUF83a3hEcnBPLTVOV3FHU0JYR0xJczZQRlJsYmZSUmdaUzVVLU1oQW1TUVBzSDBjZEo5VEhWVTVkVkFZTVhkbXlYNWNkSXpBU0xDQUtUS1pqanVOeG41WUs1S2p2emRqRk9oNlA5OHdVb0otQTQ?oc=5",
-    "published": "2026-09-03 09:00",
+    "title": "IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation - Today's Medical Developments",
+    "summary": "IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation Today's Medical Developments",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV1l3Wm41RFE3cGhxemVEamVMQmdfN09PU0djLTJrMDRfSXNzWWlKRmRkR09IUmpuODQzQ2prS1JoSmZxdUU3OXZkdjg4NWw2cEEtX1FiZzQxOVNVY2JBZmhxSlRQZlppQVlyT1dHMWNrWnk2YTNnaEtQaXhYbkJJRzhWT1BHaHRtWWY4Q3VJb0trQkN0U1Foa3NiUk1mcTFwcndYUzJGTVAwVnJsT3ZNeW1UQXFyLVFGMldmeXAyYXFoQ0hpNkQ4RmdPWUtNN2dRSjctdzRlS3RfYUFiTS1qTg?oc=5",
+    "published": "2026-09-10 23:30",
     "source_url": "https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en"
   },
   "business:Intralogistics Simulation": {
