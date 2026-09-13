@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-12 09:25 (Mexico City)
+Generated: 2026-09-13 10:04 (Mexico City)
 
 ## Business Keywords
 
@@ -11,26 +11,23 @@ Generated: 2026-09-12 09:25 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Digital Twins for CNC Machining Centers Market Size, Share & Forecast to 2036 - Fact.MR](https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1RGM3FDNjVYY1EwMGF2U2I5YzRyenk3OHFYRldXbllCYzFuNTc3QTVjeVZlX1VjSHphdWhma0ZSYVZBWGpQa3VaNlBlVWhGOC1oNHJHS1ZmT3V5NTk0elFqakxVcmhqemVmSFR4QzhGTlZKVndzVTAzMjA2MTE4SHh3?oc=5) (2026-04-11 01:00)
-  Summary: Digital Twins for CNC Machining Centers Market Size, Share & Forecast to 2036 Fact.MR
-  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
-- [What is a digital twin? - TechTarget](https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnFRYl9TTmZHWGxvZlNsR2NJS19sd0FmNG5qZi1qRm96TElfU3NlQTBnaERJWnN3NlhKMUhtamV4d0hBeTNaamVMdW14ZTRyRk1GaDVrRTNuSEpVem9PTV9pVlRaczVuWmFBb3FwZ0EzZjFvank1MlV2aHlLTHRvUjcyZEhtSlU?oc=5) (2025-04-09 01:00)
-  Summary: What is a digital twin? TechTarget
+- [Germany Digital Twin Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaHBncWNOWW9wWnlua0YxTkZURWFpU185ZXFlUDhVZF9La1JDTG56Q3MwazNYZ21Zc1plU2N5VDV1anhyU0dOTEZZamQtWVZuZGtuNG1hRmZtTHF5VmpBMHRKNmNoUFNMaUtBNVlqVlFzbklYd0ZlMXZTS1RLOGlfazUyeWdBaGtMb1lBb0U4QQ?oc=5) (2026-09-02 14:39)
+  Summary: Germany Digital Twin Market Size, Share,Trends, Growth Analysis Report, 2030 MarketsandMarkets
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWMGFIVXdYemdTN0hRcXZ0eTBDWG9PUDI4c01Yb1U1b05ZbDBvZW1KbGZxMUI2TFVSUnJNVktVcTQ4RGVVQlBwOXUxV2VvSTNNR2FTNDJCQnV0enY1NEZZUHFEbw?oc=5) (2026-08-28 01:07)
+- [Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCQ2ltQ1dfbTIzTTctbEhSeGpWLTZNZklHeUNRVzBaajRncjJHdlp1eVRWWFIzemxVRVZuU0dxYjdzQ1F2VXB4ZkdNVzFYM1ExQzFNSWh4UGFsUk1YOUJoYmZnSQ?oc=5) (2026-08-27 23:04)
   Summary: Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering Siemens Newsroom
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation - Today's Medical Developments](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV1l3Wm41RFE3cGhxemVEamVMQmdfN09PU0djLTJrMDRfSXNzWWlKRmRkR09IUmpuODQzQ2prS1JoSmZxdUU3OXZkdjg4NWw2cEEtX1FiZzQxOVNVY2JBZmhxSlRQZlppQVlyT1dHMWNrWnk2YTNnaEtQaXhYbkJJRzhWT1BHaHRtWWY4Q3VJb0trQkN0U1Foa3NiUk1mcTFwcndYUzJGTVAwVnJsT3ZNeW1UQXFyLVFGMldmeXAyYXFoQ0hpNkQ4RmdPWUtNN2dRSjctdzRlS3RfYUFiTS1qTg?oc=5) (2026-09-10 23:30) _(last seen)_
-  Summary: IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation Today's Medical Developments
+- [IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation - Aerospace Manufacturing and Design](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRVp6NmhMbnhpZjFtNjg3blZPYVZqbXB4alkwaktYSEJYMmdCV1F6NlFVeWhpUU5mWUlIU0ZJd05yaHF3eV9CdW5ycTdYbnpPQl9sSXV2ZkZaeXVVWFF4alFkYjI4alZlU1Rja05XcVJoRDcwUl9WczdHUWtqVlcwT2U3MkJOZlZta1BzdVFnbV9ha0xDaThSanAzTWVHWVF3eEVaR3hWeVEtazhrQ1FMTFBNNUtKRWg0bDNiY3hBNDdBandNZXY3NFlYVEhndl8ycGFOeDR6VGNUdnc0aTRDN2tHN0NEd1l2?oc=5) (2026-09-12 23:30)
+  Summary: IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation Aerospace Manufacturing and Design
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Hy-Tek Intralogistics and Movu Robotics partner to offer robotics solutions in North America - Modern Materials Handling](https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1dac1dNMDN5VkxvRlZCYjBHR2wzNml3UFVrTUprMXBqVHcyMzlhZ09FU2Rhb3ZwOXQxR0RaVVRQcnlPWUxhWDVyLVR1a1dsY0pjSUk4MzBiTUtDVUZFRXc5ako2NjdCMS15VWlHUUFya3oxRXEzbHVLT3pDSHRFR201WG5JMHNRX3daTktPUnV5N25CYkxNXzk0UFAwTUtsQ2xMaXRXX3ZiVVI3OXF1bnBmSWFTX3J0NG9xeF9BLXVJZnAzNE83NnZPSlg?oc=5) (2025-03-12 01:00)
-  Summary: Hy-Tek Intralogistics and Movu Robotics partner to offer robotics solutions in North America Modern Materials Handling
+- [Gartner Predicts Half of New Warehouses Built in Developed Markets Will be Human-Optional Facilities by 2030 - Robotics Tomorrow](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY0dta0ZWNDJEMzBJSUsyYktCaEUyUUNBeFJ3XzczdzBuX1BadGhZOVJHU1E1QUhWZ2lpRS12Wk9uWnJzdERJWHlpYnQ5M19RS040a2RVYnFZMlhhY09NaXBxSWxwT092VlNEREpsalVfNXlMTmhUNllmVHo4ZEphS0VnNkhoUHV0dDZaV0tydWIyMWJEWTV4X19OV2dWeGhwaXZxUHY5TV9rVjQ5NkZVX1M0QzdqY0RmeURzTWFMZ09Pa25IQ2JMY1BDZnNLUEx0SDRPQ0ZVX3hISFR0U1RvTFpmRzdLRWdyMTA4eFVyYkF6bVZOY2c?oc=5) (2026-04-13 01:00)
+  Summary: Gartner Predicts Half of New Warehouses Built in Developed Markets Will be Human-Optional Facilities by 2030 Robotics Tomorrow
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
@@ -47,11 +44,8 @@ Generated: 2026-09-12 09:25 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens, Redington Expand Industrial Software Access In Africa - cioafrica.co](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQWxnbHJGZHFEQ3M0amduUWktb091TWUtdzg4R3o2Tk8teDF2Rlc3eWgwMGt4TDVTRGF6clJyYjAzVG0zNEhFclBPT3VrLXhNWmFnZkZwaFZWSGItMEpzYjB0dWdjVmViS21kMVFiTXdTZHI1YnQ3Ym9DOTJLUkp2dllDMzVrWEM0aVRB?oc=5) (2026-09-11 03:28)
-  Summary: Siemens, Redington Expand Industrial Software Access In Africa cioafrica.co
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Digital Twins for CNC Machining Centers Market Size, Share & Forecast to 2036 - Fact.MR](https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1RGM3FDNjVYY1EwMGF2U2I5YzRyenk3OHFYRldXbllCYzFuNTc3QTVjeVZlX1VjSHphdWhma0ZSYVZBWGpQa3VaNlBlVWhGOC1oNHJHS1ZmT3V5NTk0elFqakxVcmhqemVmSFR4QzhGTlZKVndzVTAzMjA2MTE4SHh3?oc=5) (2026-04-11 01:00)
-  Summary: Digital Twins for CNC Machining Centers Market Size, Share & Forecast to 2036 Fact.MR
+- [Why AI and Digital Twins Matter as Humanoids Enter Industrial Operations - CDOTrends](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGlsWXVNU25sVU9Td2xnTkNJYmlmN2w0dnNvUDA4LTF1YjFmelYybm9UdHg5b0tLZlc3d1Rka21uQlNBUFkyWlJpTkZQdU0yQk5uczFmN1V5U09FSlYweG95R0MwREprZ3ltN0FfbC1SdW1RT3ZlNS13MmZzTzh1bjRoUlQ4WXM4cGlUdWdmVHFycmdhb1k3WGp3SmREVWhscl9sdlRpSENwZw?oc=5) (2026-09-12 23:36)
+  Summary: Why AI and Digital Twins Matter as Humanoids Enter Industrial Operations CDOTrends
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
 ### Visual Components
 
@@ -60,14 +54,14 @@ Generated: 2026-09-12 09:25 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 
-- [Inside TechConnectIQ: Smarter Support for Manufacturers](https://www.youtube.com/watch?v=tW6DAfjPJJQ) (2026-09-11 14:42)
+- [Inside TechConnectIQ: Smarter Support for Manufacturers](https://www.youtube.com/watch?v=tW6DAfjPJJQ) (2026-09-11 14:42) _(last seen)_
   Summary: Tune in as Rockwell Automation experts discuss how TechConnectIQ is simplifying support with AI-enabled tools, digital self-service and direct access to technical expertise. Learn more about TechConnectIQ Support, available now for North American customers. https://rok.auto/4iWBM8T #NewProductsROK
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
-- [Warehouse Digital Twin Simulation and Optimization Market - openPR.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNRnRLZmUwSXdyQ25oWkZ3aWF2aGpRcEd1ZXY1N3B6OTVSa0pmQXF5VWhMeWRreVZxYTVEeWlrckdoQ2xiV1VtOGpGLTZfY2x1czJQbklvUjEyaGF5STlYSGpXM1BFVXZDNmlDVEt3SjFEd09yNGV1aGY5QzlBYzRjUEtBSXFwTUNGZGFLbnZDa1NYclFwR0dGXw?oc=5) (2026-09-11 00:47) _(last seen)_
-  Summary: Warehouse Digital Twin Simulation and Optimization Market openPR.com
-  Feed source: https://news.google.com/rss/search?q=anylogic+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Register for the AnyLogic Conference 2026! #simulationmodeling #simulation #AI #digitaltwins](https://www.youtube.com/shorts/q54twVHEvws) (2026-09-12 10:00)
+  Summary: The AnyLogic Conference 2026 is coming! There are many reasons why you should join! Check the full agenda and secure your place now! Link in bio!
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCdH-e29FvfphfWmI2EMZPhg
 ### F.EE / fescreen-sim
 
 - [Wenn der Standard-Arbeitsraum nicht mehr ausreicht – Linearachsen für Roboter von F.EE](https://www.youtube.com/watch?v=P_BqFAwJCB8) (2026-04-08 06:25) _(last seen)_
