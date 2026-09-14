@@ -1,33 +1,33 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-13 10:04 (Mexico City)
+Generated: 2026-09-14 12:00 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnpoT2lyMHgwOUo5c3JVVjFubWlmOHhXbWNjZUJQdzAwaHJWRE1Cc0RhYnZBWTMwZ3VUOEpFUUhfNGJrY3pJaXAtZm1TM2lrbC1ndUMteldFTUFhLTRsZUZYaWdFYWFtOXJfci1RODk5UlVwaWtlRDVIal9hRWN0Wml3NFcwaHZ2R1lVUjUtOWFqbXYtMmR6VXJ0c1lYQV9uX1lQX2NFaXFjV2FxNjJxWjBNbnFlVkNobGR2QkxvVENKU25mcjh0a3lIM3JqWHlWMVI3Zi11QQ?oc=5) (2026-09-04 07:15) _(last seen)_
-  Summary: FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow
+- [Autodesk and Rockwell Automation Extend Value of Factory Layout Tools, Strengthening Foundation for Digital Twins - Autodesk News](https://news.google.com/rss/articles/CBMib0FVX3lxTFBHUk1OSkc2TWdzcnBPSW5RWjh2UWphRW5LdjJWRDhIVDc3dVJUTUUxMG1BaEt4ZlNIYkFoVXJ4UC1GSGNKR21pX0U3N0dMZmtlZ3FfWG1zWmI5LVh5Z1dqbDZOTjh2bkxCV0NHUVF0dw?oc=5) (2020-11-17 02:00)
+  Summary: Autodesk and Rockwell Automation Extend Value of Factory Layout Tools, Strengthening Foundation for Digital Twins Autodesk News
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Germany Digital Twin Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets](https://news.google.com/rss/articles/CBMijwFBVV95cUxPaHBncWNOWW9wWnlua0YxTkZURWFpU185ZXFlUDhVZF9La1JDTG56Q3MwazNYZ21Zc1plU2N5VDV1anhyU0dOTEZZamQtWVZuZGtuNG1hRmZtTHF5VmpBMHRKNmNoUFNMaUtBNVlqVlFzbklYd0ZlMXZTS1RLOGlfazUyeWdBaGtMb1lBb0U4QQ?oc=5) (2026-09-02 14:39)
-  Summary: Germany Digital Twin Market Size, Share,Trends, Growth Analysis Report, 2030 MarketsandMarkets
+- [Australia Digital Twin Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcFVfdUVMU2dvMldoc3llSG03ZXkzVENjYlA4bk90c3NQcFBzSWpZQjJmbGQ2S3F1NE5yRUVEX2JJNC1hUHg2ZXpWUTZKV2JkMl9KcGZSUDBNU3V1TlVMeVFjckdMQTBjM19JUFhnRVYyUDNvT2pNUDROUzRjZE9XdERJZThSNmdzbF81c0RFVlpxQQ?oc=5) (2026-08-22 07:14)
+  Summary: Australia Digital Twin Market Size, Share,Trends, Growth Analysis Report, 2030 MarketsandMarkets
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCQ2ltQ1dfbTIzTTctbEhSeGpWLTZNZklHeUNRVzBaajRncjJHdlp1eVRWWFIzemxVRVZuU0dxYjdzQ1F2VXB4ZkdNVzFYM1ExQzFNSWh4UGFsUk1YOUJoYmZnSQ?oc=5) (2026-08-27 23:04)
-  Summary: Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering Siemens Newsroom
+- [KBC Digital Twin Platform Aims To Advance Process Simulation With AI/ML-Enabled Hybrid Modeling - Automation World](https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ3pwVUhoX3JCSjFJQ3ZsVFZmSTZsN1pnZ3JaY3IyWllfRTR6bzNtOGxwWU9jczBNWVN4cXJlQm9RV2JfdHQyY3JfNjliR05oWk40SWtKX2I0cEcxcEFVcjZra3IyWFZ1di1wV21KTUptOHNkV3lhcHVUQWVBNlBVYzVPYXpYaDJLVkNEaEJNZVlQMVV3S3RUR2hsVnpCRTZYc09pOENSTXBERHZoMzdpT1RqV1NFQnlGQkVSbVBNaEJLRHhzM2Q4UG5oTW9Ncy1hWDJPTnFReVllaWpsNk9iTjRES0NDT1d1XzhEdHZFWS1VZzhKMVI3bkZJU3p1ZkkxT3c?oc=5) (2026-09-01 13:03) _(last seen)_
+  Summary: KBC Digital Twin Platform Aims To Advance Process Simulation With AI/ML-Enabled Hybrid Modeling Automation World
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation - Aerospace Manufacturing and Design](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRVp6NmhMbnhpZjFtNjg3blZPYVZqbXB4alkwaktYSEJYMmdCV1F6NlFVeWhpUU5mWUlIU0ZJd05yaHF3eV9CdW5ycTdYbnpPQl9sSXV2ZkZaeXVVWFF4alFkYjI4alZlU1Rja05XcVJoRDcwUl9WczdHUWtqVlcwT2U3MkJOZlZta1BzdVFnbV9ha0xDaThSanAzTWVHWVF3eEVaR3hWeVEtazhrQ1FMTFBNNUtKRWg0bDNiY3hBNDdBandNZXY3NFlYVEhndl8ycGFOeDR6VGNUdnc0aTRDN2tHN0NEd1l2?oc=5) (2026-09-12 23:30)
+- [IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation - Aerospace Manufacturing and Design](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRVp6NmhMbnhpZjFtNjg3blZPYVZqbXB4alkwaktYSEJYMmdCV1F6NlFVeWhpUU5mWUlIU0ZJd05yaHF3eV9CdW5ycTdYbnpPQl9sSXV2ZkZaeXVVWFF4alFkYjI4alZlU1Rja05XcVJoRDcwUl9WczdHUWtqVlcwT2U3MkJOZlZta1BzdVFnbV9ha0xDaThSanAzTWVHWVF3eEVaR3hWeVEtazhrQ1FMTFBNNUtKRWg0bDNiY3hBNDdBandNZXY3NFlYVEhndl8ycGFOeDR6VGNUdnc0aTRDN2tHN0NEd1l2?oc=5) (2026-09-12 23:30) _(last seen)_
   Summary: IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation Aerospace Manufacturing and Design
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Gartner Predicts Half of New Warehouses Built in Developed Markets Will be Human-Optional Facilities by 2030 - Robotics Tomorrow](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY0dta0ZWNDJEMzBJSUsyYktCaEUyUUNBeFJ3XzczdzBuX1BadGhZOVJHU1E1QUhWZ2lpRS12Wk9uWnJzdERJWHlpYnQ5M19RS040a2RVYnFZMlhhY09NaXBxSWxwT092VlNEREpsalVfNXlMTmhUNllmVHo4ZEphS0VnNkhoUHV0dDZaV0tydWIyMWJEWTV4X19OV2dWeGhwaXZxUHY5TV9rVjQ5NkZVX1M0QzdqY0RmeURzTWFMZ09Pa25IQ2JMY1BDZnNLUEx0SDRPQ0ZVX3hISFR0U1RvTFpmRzdLRWdyMTA4eFVyYkF6bVZOY2c?oc=5) (2026-04-13 01:00)
-  Summary: Gartner Predicts Half of New Warehouses Built in Developed Markets Will be Human-Optional Facilities by 2030 Robotics Tomorrow
+- [Getting warehouse automation design right from day one - Medianet News Hub](https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0ctTkhTUnZFQ2pub1FBTGlacFRuRy1nWkZiaUpUb3JIWDhWRzhILVp6d0x6enpaZllUSEtMdnc2Q2ZkZ05FRGdrLW53T2pXc0FPMENjelhxVTgzRjhrYVVGQ0tkRWIxaFkwUXlmR3pPWFZRdDNOSU96OWs5UkRqYjQ5VjBrWFYwMEZYQVBWWDZMWHhUbjRWSVAwQmRJUVZrQXVtbQ?oc=5) (2026-08-25 18:14) _(last seen)_
+  Summary: Getting warehouse automation design right from day one Medianet News Hub
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
@@ -44,9 +44,15 @@ Generated: 2026-09-13 10:04 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Why AI and Digital Twins Matter as Humanoids Enter Industrial Operations - CDOTrends](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdGlsWXVNU25sVU9Td2xnTkNJYmlmN2w0dnNvUDA4LTF1YjFmelYybm9UdHg5b0tLZlc3d1Rka21uQlNBUFkyWlJpTkZQdU0yQk5uczFmN1V5U09FSlYweG95R0MwREprZ3ltN0FfbC1SdW1RT3ZlNS13MmZzTzh1bjRoUlQ4WXM4cGlUdWdmVHFycmdhb1k3WGp3SmREVWhscl9sdlRpSENwZw?oc=5) (2026-09-12 23:36)
-  Summary: Why AI and Digital Twins Matter as Humanoids Enter Industrial Operations CDOTrends
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Centralize semiconductor shop‑floor orchestration: MJAC for Opcenter Execution Semiconductor](https://www.youtube.com/watch?v=r_t-ZGCsWlA) (2026-09-14 11:17)
+  Summary: MJAC, ZNT' Manufacturing Job Automation Controller, part of our Opcenter MES Semiconductor solution, centralizes semiconductor shop‑floor orchestration, integrating with MES/EAP/AMHS to provide real‑time dashboards, drag‑and‑drop workflow design, event‑driven recovery, hot‑standby high availability, 100% job traceability and analytics to optimize throughput, reduce management effort and ensure compliance. Book a demo. Learn more about Opcetner Execution Semiconductor: https://sie.ag/8NVgN
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [What's New in Simcenter Testlab 2606 | Turn test data into AI-ready assets #WhatsNewSimcenter](https://www.youtube.com/watch?v=AqWybm7MzR0) (2026-09-14 09:14)
+  Summary: Discover how Simcenter Testlab 2606 helps engineering teams transform test data into AI-ready assets. Agnieszka Oltarzewska, Product Management Manager, Platform and Process Automation, demonstrates how connected data workflows, automated data preparation, and improved data management help eliminate manual effort and improve data quality. Create structured, trusted, and reusable test data that accelerates AI adoption, supports advanced analytics, and enables faster engineering decisions acros...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [The Tech Behind Cherries](https://www.youtube.com/shorts/jcKQ83cZ32c) (2026-09-14 09:00)
+  Summary: You probably don't think about automation when you buy cherries. 🍒 But behind the scenes, harvest season depends on technology working at speed. Siemens automation provides the connectivity and control behind the technology that keeps Precision Weighing Systems running during harvest season.
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
 - [Visual Components: Automation to Optimize Manufacturing Cost - cioreview.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXdEtlQ281NnZLOVNJcGtWRzNENnZsbkJrT3Nvc1NISGFDOE5YOE11MGpJQzVZU1NpVFNOQk42N2V5djVTRVBoR2w4WEx4TGtJV09xMjVGSFE3YW82?oc=5) (2026-08-18 08:24) _(last seen)_
@@ -54,12 +60,12 @@ Generated: 2026-09-13 10:04 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 
-- [Inside TechConnectIQ: Smarter Support for Manufacturers](https://www.youtube.com/watch?v=tW6DAfjPJJQ) (2026-09-11 14:42) _(last seen)_
-  Summary: Tune in as Rockwell Automation experts discuss how TechConnectIQ is simplifying support with AI-enabled tools, digital self-service and direct access to technical expertise. Learn more about TechConnectIQ Support, available now for North American customers. https://rok.auto/4iWBM8T #NewProductsROK
-  Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
+- [Autodesk and Rockwell Automation Extend Value of Factory Layout Tools, Strengthening Foundation for Digital Twins - Autodesk News](https://news.google.com/rss/articles/CBMib0FVX3lxTFBHUk1OSkc2TWdzcnBPSW5RWjh2UWphRW5LdjJWRDhIVDc3dVJUTUUxMG1BaEt4ZlNIYkFoVXJ4UC1GSGNKR21pX0U3N0dMZmtlZ3FfWG1zWmI5LVh5Z1dqbDZOTjh2bkxCV0NHUVF0dw?oc=5) (2020-11-17 02:00)
+  Summary: Autodesk and Rockwell Automation Extend Value of Factory Layout Tools, Strengthening Foundation for Digital Twins Autodesk News
+  Feed source: https://news.google.com/rss/search?q=rockwell+automation+emulate3d+digital+twin&hl=en&gl=US&ceid=US:en
 ### AnyLogic
 
-- [Register for the AnyLogic Conference 2026! #simulationmodeling #simulation #AI #digitaltwins](https://www.youtube.com/shorts/q54twVHEvws) (2026-09-12 10:00)
+- [Register for the AnyLogic Conference 2026! #simulationmodeling #simulation #AI #digitaltwins](https://www.youtube.com/shorts/q54twVHEvws) (2026-09-12 10:00) _(last seen)_
   Summary: The AnyLogic Conference 2026 is coming! There are many reasons why you should join! Check the full agenda and secure your place now! Link in bio!
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCdH-e29FvfphfWmI2EMZPhg
 ### F.EE / fescreen-sim
