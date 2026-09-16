@@ -2,46 +2,46 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
-    "summary": "Manufacturing floors, warehouses and production lines rarely stay fixed \u2014 tasks change, layouts shift and new products arrive, and most robots can\u2019t keep up without significant reprogramming. Skild AI\u2019s new S1 robot foundation model helps address this, designed to learn previously unseen, long-horizon tasks from a single video demonstration. The model, launched last week, uses video as input to understand and execute the task without updating its weights or undergoing task-specific post-train...",
-    "link": "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-    "published": "2026-09-10 10:30",
+    "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+    "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked , Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others \u2014 his team at Emerald AI in their San Francisco conference room, engineers at the data center and people from the utility itself. Nobody touched anything. Emerald AI\u2019 s Conductor platform \u2014 a grid-orchestration platform from NVIDIA partner Emerald...",
+    "link": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+    "published": "2026-09-15 10:55",
     "source_url": "https://blogs.nvidia.com/feed/"
   },
   "competitors:RoboDK": {
     "section": "competitors",
     "topic": "RoboDK",
-    "title": "Climb vs Conventional Milling: Which Is Better for Robotic Machining?",
-    "summary": "Which is better, climb milling or conventional milling? This classic question becomes even more important when we\u2019re talking about robotic machining. The debate of climb vs conventional milling has been going on for a long time between machinists. Climb milling generally produces a better surface finish, while conventional milling can offer more stability. For robotic machining, the question becomes a lot more interesting! Unlike conventional CNC machines, robot arms tend to be less rigid, us...",
-    "link": "https://robodk.com/blog/climb-conventional-milling-better-robotic-machining/",
-    "published": "2026-08-24 02:44",
+    "title": "How Access e.V. Cut Aerospace Inspection Documentation Time by a Third Using RoboDK",
+    "summary": "Aerospace components must meet exacting industry standards. Investment-cast parts, including turbine blades and structural components, must be inspected for even microscopic imperfections before they can be approved for use. To help automate this demanding and time-consuming manual task, Access e.V. , a German research institute specializing in materials and process development, created a robotic system for documenting fluorescent penetrant inspections (FPI). Developed within the publicly fun...",
+    "link": "https://robodk.com/blog/access-cut-aerospace-inspection-documentation-using-robodk/",
+    "published": "2026-09-16 06:56",
     "source_url": "https://robodk.com/blog/feed/"
   },
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Centralize semiconductor shop\u2011floor orchestration: MJAC for Opcenter Execution Semiconductor",
-    "summary": "MJAC, ZNT' Manufacturing Job Automation Controller, part of our Opcenter MES Semiconductor solution, centralizes semiconductor shop\u2011floor orchestration, integrating with MES/EAP/AMHS to provide real\u2011time dashboards, drag\u2011and\u2011drop workflow design, event\u2011driven recovery, hot\u2011standby high availability, 100% job traceability and analytics to optimize throughput, reduce management effort and ensure compliance. Book a demo. Learn more about Opcetner Execution Semiconductor: https://sie.ag/8NVgN",
-    "link": "https://www.youtube.com/watch?v=r_t-ZGCsWlA",
-    "published": "2026-09-14 11:17",
+    "title": "Tony Hemmelgarn: On the need for AI to narrow the variation space in GPU verification",
+    "summary": "From Realize LIVE 2026 in Detroit. Here's Siemens Digital Industries Software CEO Tony Hemmelgarn, setting up the use case for Solido \u2014 variation-aware design, IP validation, library characterization and simulation solutions, used by 1000s of designers at the top semiconductor companies worldwide. More from the main stage: \"We use AI to narrow the variation space, focusing compute where it matters. Even though we must account for tens of thousands of unique operating condition combinations \u2014...",
+    "link": "https://www.youtube.com/shorts/bmbVG5B2PIo",
+    "published": "2026-09-16 09:55",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
   },
   "competitors:Visual Components": {
     "section": "competitors",
     "topic": "Visual Components",
-    "title": "Visual Components: Automation to Optimize Manufacturing Cost - cioreview.com",
-    "summary": "Visual Components: Automation to Optimize Manufacturing Cost cioreview.com",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXdEtlQ281NnZLOVNJcGtWRzNENnZsbkJrT3Nvc1NISGFDOE5YOE11MGpJQzVZU1NpVFNOQk42N2V5djVTRVBoR2w4WEx4TGtJV09xMjVGSFE3YW82?oc=5",
-    "published": "2026-08-18 08:24",
-    "source_url": "https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en"
+    "title": "Bucher Municipal: accelerating robot welding with Visual Components",
+    "summary": "Facing growing demand and limited robot availability, Bucher Municipal transformed its welding operations with offline robot programming. By validating programs virtually before deployment, the company reduced programming time by up to 70%, minimized production interruptions, and improved welding consistency, creating a more efficient path to automation. Read the full customer case: https://www.visualcomponents.com/case-studies/bucher-municipal-accelerating-robot-welding-with-visual-components/",
+    "link": "https://www.youtube.com/watch?v=QBVdtGXe9xw",
+    "published": "2026-09-16 02:08",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg"
   },
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "Inside TechConnectIQ: Smarter Support for Manufacturers",
-    "summary": "Tune in as Rockwell Automation experts discuss how TechConnectIQ is simplifying support with AI-enabled tools, digital self-service and direct access to technical expertise. Learn more about TechConnectIQ Support, available now for North American customers. https://rok.auto/4iWBM8T #NewProductsROK",
-    "link": "https://www.youtube.com/watch?v=tW6DAfjPJJQ",
-    "published": "2026-09-15 09:40",
+    "title": "Advantages of smart VFDs in manufacturing and industrial automation: PowerFlex 6000T Drives",
+    "summary": "Discover how smart VFDs deliver superior motor control in industrial applications. The high-performance PowerFlex 6000T medium voltage VFD is engineered for new and retrofit constant and variable-torque motor control applications: pumps, conveyors, mixers and chillers. Talk about smart - the VFD helps reduce downtime by seeing problems before they happen with real-time data and predictive analytics.",
+    "link": "https://www.youtube.com/watch?v=w7X-ZCjKqFI",
+    "published": "2026-09-16 10:20",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {

@@ -47,7 +47,11 @@
     "https://www.youtube.com/watch?v=KtKXKgT_xBU",
     "https://www.youtube.com/watch?v=jb1jr3mYZjs",
     "https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/",
-    "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/"
+    "https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/",
+    "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+    "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+    "https://www.youtube.com/watch?v=tP_nNXsDE80",
+    "https://www.youtube.com/watch?v=zW0wzeAWLvo"
   ],
   "competitors:RoboDK": [
     "https://robodk.com/blog/robot-3d-printing/",
@@ -69,7 +73,8 @@
     "https://robodk.com/blog/high-efficiency-machining-robots/",
     "https://robodk.com/blog/real-time-collision-checking-for-physical-ai-applications-robodk-6/",
     "https://robodk.com/blog/surface-finishing-strategies-improve-robotic-machining/",
-    "https://robodk.com/blog/climb-conventional-milling-better-robotic-machining/"
+    "https://robodk.com/blog/climb-conventional-milling-better-robotic-machining/",
+    "https://robodk.com/blog/access-cut-aerospace-inspection-documentation-using-robodk/"
   ],
   "competitors:Siemens Digital Industries": [
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SanZGN3lJWVhhZjNCa25KUm1oRHlNSlJxdWVYMTBJTU5qTjhfX0RMXzYxamFKN2t0aDJLSDFGU2lpRTVsTUUwbFlFYUFpOTkxNU5iRW5RX2VWZjJUMFpERjIwV3lJMWJWdTVENnV6OA?oc=5",
@@ -308,7 +313,14 @@
     "https://www.youtube.com/watch?v=r_t-ZGCsWlA",
     "https://www.youtube.com/watch?v=AqWybm7MzR0",
     "https://www.youtube.com/shorts/jcKQ83cZ32c",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPekVYeWVLcFFxNWt6MEp0SDNxNWFvaWtaQ2tDR3VOZEt0Z1Yxc2ZueHhIeXN3V3Z0dTR4c2RLZS1XdElMTnNUc0s4TW1kanVfU0RLVnU1SVg2a3NKcGZjc05GVHJaU1F6bGNvSlpUdkFlMGVUQ1NxTlJqMjR1eks1NHlxbmpCM21vNEQ0ZS1tTkRuSmtkcGx3MFdYUHNzNlFXMmNVOXdHUjBHNjQ5dk1oNFZaeXM1dVBlc2RPLXRtamxmbmhJM2ExOFBxdkVIVHBFSFRTTF9ybw?oc=5"
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPekVYeWVLcFFxNWt6MEp0SDNxNWFvaWtaQ2tDR3VOZEt0Z1Yxc2ZueHhIeXN3V3Z0dTR4c2RLZS1XdElMTnNUc0s4TW1kanVfU0RLVnU1SVg2a3NKcGZjc05GVHJaU1F6bGNvSlpUdkFlMGVUQ1NxTlJqMjR1eks1NHlxbmpCM21vNEQ0ZS1tTkRuSmtkcGx3MFdYUHNzNlFXMmNVOXdHUjBHNjQ5dk1oNFZaeXM1dVBlc2RPLXRtamxmbmhJM2ExOFBxdkVIVHBFSFRTTF9ybw?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2hIakdoUEVOTjBkcExDaElZMDhyUlRlbkc5ZlRBWk1YSFdwMkJlZ2dwaHZlbFZ2ZTg2OTg0R2hKODNqYTVkZ2VXZC05eE5RbVdjVi1aTnU3NHV1NHlqdTlpdWtkQThwczVMNjJfelAtNjFnNTluMXZXOUN0SjVObGM1MmhEQ0lBZ0ZFTWN3ajhtTFdLWWhQSVlyaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbHFGcjVib21qVVBGNVczaUFjN05nTGpYRWdaQ2Y3OWx1cE1raUlVNFZGMHo0d3VxS1p5NEZDZDVWZkNZWTRKd1pVQU5NRHM5MFdDY3dPMUVrZTBrbU4zaHhQVmY0SW1nRXduTDhUaFp3RzAzcHdFMXpmREhCbU11Zk9DdjBaVWh0NzhnWmRTLUJ5c3dPSUdSU051b0RENldzdmtHQTFaMmdKUVRvTlB2MTBUT3RKZEJ5TzU5YXZ1cFg0OVM2aGR4VVVhbElzVHhfbGcyY1c5ZHZEWHdvQVMxa3h6bEJYblA0MW1fbllCYXNISl9jWk9ZWGRwb1hMMkJLQkE?oc=5",
+    "https://www.youtube.com/shorts/bmbVG5B2PIo",
+    "https://www.youtube.com/watch?v=TwtkxKcRO_w",
+    "https://www.youtube.com/watch?v=5wN2KT99DcI",
+    "https://www.youtube.com/watch?v=lKRhPgKlEd4",
+    "https://www.youtube.com/watch?v=nbpm5mhnF-k"
   ],
   "competitors:Visual Components": [
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSENXbC1BZkR3Njk5R1drWERzYkxfa2FKQWVBNWFOSDdwc3FMekZUYmFFeEVCWTVQWFRvMTY1bTA0MkpETFdnMzAtc0luRGFDRU41SFpzT25fRmxlNEhYSkkzdF81ZWpvcjltQUlOYzVUclNlMEF2Q01IOFNuQ1NCVnNGRWdRMVpmOTdZb0IwVGRRd1g3all2RXFVUjB2WklDUEI3TFNWaS10anFZNjM3VkF5QnRuYW5qc3JQeE9uM2tXdEhoMnhCQlJn?oc=5",
@@ -350,7 +362,8 @@
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZS1UYzVUeFVJMzhrZno2WFdObEJPTDBxd2FJc0d3QURoTnRJRzZLWlJiY21tWExXOHpuemhiVC1rQXBhTXlLS25CZTMzajRtSEFnWEhDZFc2eWxyY1NER3BVSlNlaGhLVkZEVEMyUElZa0VlMWdwUjNvc0xrMWxmVDhBeEc0bF9LbWxZM2lPcm5HVVJUMmoxc3JXV1N4VzA0clg0?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2p4LXpEVFBtUnlwdUdRVm5xNHV4TXJJSVVKY0EyckhTaEs3LUZ1WmtMcWpBMFhNQndwdm50ZmFyTnJiejhERmhMRVB6d01vdG00VHg3VmNtUm5HczR6UUYzMEpobmw0Q0gtMkVPWXdHZlVNejQ3S1pndTNGbXZKeXI2ZThUaFRVcTluam80bzUtYTViSjdCejVxaldEc1pZc20zOWgtRklyU3lMVTVvbGxIbzZSWElsTUktYk5yWklxUHgwOU9nTEFkZzhXUQ?oc=5",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORHJfRVU4WFU2ekl4eUY3ZWQtdW1WTC1zNl91d0Z1aVh6VUFQdnRKU2diR0k2SkJWMnhTZVFoWTBDZmRrZTJRby1vbTFWNUQ2OVZ2Vi1lN0ttU01SSDg0TTFLV3RGcERDMTV1YUIxUmd0cmh4aHAtUXFZRzFGLU01TklTcFprbnc3ejhaR2J0MDh0VzVxeW14X0llajhXZ3dhb0JzVUJ0ZXFRZl8xdVBUMTdfZm8wSzY5WU9acHhqNHUxMEJPQmg1bGpIeUkwenVuUEdVejZ6aFlrQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRjRMZlB2amVfZ3d6TnJBVlY4TmowdUtqZDdTRmpNMmV6SHNGQzZBeUpKaHJXdmpUcnU3ZnRaZ2lLTFVOMnRWTnZjUWplRDZfUVBiQjZwU0JkUjlxcEI4VUhqZWJJOThfX0xNUVNEdWdEVXlMZXJzb1p3elh4WEVDYUNMclpiNk1EYTNvNURPMWNsVU14bXlaXzlaRWZfTHVVOHFPVkRnd3hFM2Y4Y2xGUVpFY09ZQUN1NW5EN01iT2pOZW4yQ1g0aGhtWnJYdllkbnM1MlR1ekREMFpESjJvVGZBNGk?oc=5"
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRjRMZlB2amVfZ3d6TnJBVlY4TmowdUtqZDdTRmpNMmV6SHNGQzZBeUpKaHJXdmpUcnU3ZnRaZ2lLTFVOMnRWTnZjUWplRDZfUVBiQjZwU0JkUjlxcEI4VUhqZWJJOThfX0xNUVNEdWdEVXlMZXJzb1p3elh4WEVDYUNMclpiNk1EYTNvNURPMWNsVU14bXlaXzlaRWZfTHVVOHFPVkRnd3hFM2Y4Y2xGUVpFY09ZQUN1NW5EN01iT2pOZW4yQ1g0aGhtWnJYdllkbnM1MlR1ekREMFpESjJvVGZBNGk?oc=5",
+    "https://www.youtube.com/watch?v=QBVdtGXe9xw"
   ],
   "competitors:Rockwell Automation": [
     "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcHpLbWtEWUtkV3ZnMzBvVk0tdlVwRkFLM2lHU1M4SlB6V2MySnVlWUVvdDVzV3A0ZGdScDZ3YmgzYnNfX3lOYkhPNk8xbG1iWkZBYWthNDBxUm9JRFRrbzVLaU9OTWYxeDhPRmVfRnhZeXZTenEwRGZTWG5zTVU1M05MZDJZNUtkd2Y1T05uTDlHOHFuYnBJTENSWTlQd05WZ1Y4NUFqRkdwU1o4QnFYR28yY0FJUEpIbWR2WTR6TGlkMXZ6VVllbTE4MU55cnVLSXFjWUIwZTdPT3pxZlFPa1BEaTZIV2ZzOWw5UlZBQWc0Y0F3ZE9vN3dsQWdGWFVSZE9kaFpXMkx5UQ?oc=5",
@@ -422,7 +435,11 @@
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlJzeEI4OHZ2ZUR2MkRBV1o2TFZ5YlpvSS1kaklGT0JNRWtpNmhvNmlXLTJiT1dFS1IwdWpHS2V1M0VBaU1LX3ZpMVVvUGlTa3hFQjFTRDIxREZnUng4enlxMlRUeG5Ubl9JOXAtdEl1WHFmTTNTYXNsZ2lkYmZGLTJQRTdCejJpanFXMkNmUEE5X3p3UEI2anV6RnoycjRkUFVBWEZmNDZVdHBGNURGM0JUOWI4RjNqcnh2NVZPLXFKT0gxWldRVDZ6YTU?oc=5",
     "https://www.youtube.com/watch?v=tW6DAfjPJJQ",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHUk1OSkc2TWdzcnBPSW5RWjh2UWphRW5LdjJWRDhIVDc3dVJUTUUxMG1BaEt4ZlNIYkFoVXJ4UC1GSGNKR21pX0U3N0dMZmtlZ3FfWG1zWmI5LVh5Z1dqbDZOTjh2bkxCV0NHUVF0dw?oc=5",
-    "https://www.youtube.com/watch?v=wEcFtSpvI74"
+    "https://www.youtube.com/watch?v=wEcFtSpvI74",
+    "https://www.youtube.com/watch?v=w7X-ZCjKqFI",
+    "https://www.youtube.com/watch?v=sL4ieqNVmpU",
+    "https://www.youtube.com/watch?v=UctRqyt4Bbo",
+    "https://www.youtube.com/watch?v=0WHZi4HpMvw"
   ],
   "competitors:AnyLogic": [
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLXpZQUJaVTJjOXMzZFQyTmNQemhuemhvLWRLSzJoU2FwZlpqUF9SdmJXcUstR1QxTmowekFGUld4MjIzU0xja1d0d2dIN0Q0NnpjM3h4QW55ZE9VVjdJOGRyWTFqUFlLS1Y2TXc3Nk5jLVRrMDd3bHNhRDRPUjU4OTgwYk9rZ1VQU1HSAZoBQVVfeXFMUFQwMGF5SEhZRGZMTnVXcGIwNDFfVnlZcGVsVEtERjhHM1lMV2c4STU4LUtYV3dWWnNJd0FsanVVMXhVc0E2SE55R20tYWVEM0YyRXc2RC1yVzdmZTZ4NTV1bU5OY2VuYVBhSWpMd2dfaGpleDc5WGVwUHJqajg3NXpqbE9UTm5oNGJfb0tPMDhBeU5US0xSSVlBZw?oc=5",
@@ -532,7 +549,8 @@
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjZ1cVdaRzV3eS1jT3JiYktsTnpxd0V5R1B6X1FEWlVSNHdNMlZKWksyenh4X0hpUk5WaVBZODhENXYtdHFJNlo2RWxpQ2ZBdW9CRWZJUFJzNGZQc0V1T1VkWkpvZmdfbnF3TWR5M3FnT2JlYmItV2JiSWJKbl9ackdQVFZSQThORk43TVFuMWU0X09wTzl2eTNkR2PSAaQBQVVfeXFMTmtxNFMzVi1UZERiNWJITXBNNW9SLVZka1doa2Y3aGV0c3VmWkdhMlc1Z1ZuTGlURG04cmN4QTZEOGNHbHhKMWQyYmVqWkphQ3RmbnUzSnBsRDlZNjhfRlAtS3FPSkNyQ0pyMUJaMGNuX2I2dlRPUGxmaENKeWNOa3RQd191NjBLdFhKQnRicklTa01ubnF1X0hWbGZNVURrd1hhZk0?oc=5",
     "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnpoT2lyMHgwOUo5c3JVVjFubWlmOHhXbWNjZUJQdzAwaHJWRE1Cc0RhYnZBWTMwZ3VUOEpFUUhfNGJrY3pJaXAtZm1TM2lrbC1ndUMteldFTUFhLTRsZUZYaWdFYWFtOXJfci1RODk5UlVwaWtlRDVIal9hRWN0Wml3NFcwaHZ2R1lVUjUtOWFqbXYtMmR6VXJ0c1lYQV9uX1lQX2NFaXFjV2FxNjJxWjBNbnFlVkNobGR2QkxvVENKU25mcjh0a3lIM3JqWHlWMVI3Zi11QQ?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWxNNDRVX3lBdzJ2N0Z6dW90dllMUmlyc3llcUdCSnRFS0RsWFlTS1J2ZzV2ZlFRT2pXYXM5cmNfeDJ4RjZhVlFKZjFlRjBvZUpRenBRZzhCaTdFTjBDR0p1YlpxTjd0U2tVZzhod3FTWGpUaV9NM1dRaG5UdXEyTUJ2S041akxiUndmS3F5SDlvMmhydFBNcWhVNE1Ec0J1Um5JUC1HTTVzc0xlSHFNTGJ3R00?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHUk1OSkc2TWdzcnBPSW5RWjh2UWphRW5LdjJWRDhIVDc3dVJUTUUxMG1BaEt4ZlNIYkFoVXJ4UC1GSGNKR21pX0U3N0dMZmtlZ3FfWG1zWmI5LVh5Z1dqbDZOTjh2bkxCV0NHUVF0dw?oc=5"
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHUk1OSkc2TWdzcnBPSW5RWjh2UWphRW5LdjJWRDhIVDc3dVJUTUUxMG1BaEt4ZlNIYkFoVXJ4UC1GSGNKR21pX0U3N0dMZmtlZ3FfWG1zWmI5LVh5Z1dqbDZOTjh2bkxCV0NHUVF0dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1FyQ0ZHMkdiNDh3MFpTUXo0RGQ4SzZoN1JyWFNWWHJDRml5Q1F6U2JBRGFCRnBZS0MwZElMU0xkdHUweVl6OFJDVmQySldFQmVtTXhLeU5RX1Y1QklvSDZmdnRIREJaZGVaMlM0eVlxaWhYZlNTczV3TUFiTTYwNmlkTDNkU0hnVEZQUi05VEQ2eWlEWXE3cng4bExLcmJnU3dv?oc=5"
   ],
   "business:Digital Twin Manufacturing": [
     "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSWWUxNFVBdlE0VEVGNlJtU2RFa1hna3NvV2dscU5ZaVZhX3VyQXRVWDBzcVZkNlVXNmRZY3VpVE5kejVnTWhIS1gwWnpIQVgwbzdHRGd5RFVFRXdNNHhZ?oc=5",
@@ -712,7 +730,8 @@
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM1RGM3FDNjVYY1EwMGF2U2I5YzRyenk3OHFYRldXbllCYzFuNTc3QTVjeVZlX1VjSHphdWhma0ZSYVZBWGpQa3VaNlBlVWhGOC1oNHJHS1ZmT3V5NTk0elFqakxVcmhqemVmSFR4QzhGTlZKVndzVTAzMjA2MTE4SHh3?oc=5",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnFRYl9TTmZHWGxvZlNsR2NJS19sd0FmNG5qZi1qRm96TElfU3NlQTBnaERJWnN3NlhKMUhtamV4d0hBeTNaamVMdW14ZTRyRk1GaDVrRTNuSEpVem9PTV9pVlRaczVuWmFBb3FwZ0EzZjFvank1MlV2aHlLTHRvUjcyZEhtSlU?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaHBncWNOWW9wWnlua0YxTkZURWFpU185ZXFlUDhVZF9La1JDTG56Q3MwazNYZ21Zc1plU2N5VDV1anhyU0dOTEZZamQtWVZuZGtuNG1hRmZtTHF5VmpBMHRKNmNoUFNMaUtBNVlqVlFzbklYd0ZlMXZTS1RLOGlfazUyeWdBaGtMb1lBb0U4QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcFVfdUVMU2dvMldoc3llSG03ZXkzVENjYlA4bk90c3NQcFBzSWpZQjJmbGQ2S3F1NE5yRUVEX2JJNC1hUHg2ZXpWUTZKV2JkMl9KcGZSUDBNU3V1TlVMeVFjckdMQTBjM19JUFhnRVYyUDNvT2pNUDROUzRjZE9XdERJZThSNmdzbF81c0RFVlpxQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcFVfdUVMU2dvMldoc3llSG03ZXkzVENjYlA4bk90c3NQcFBzSWpZQjJmbGQ2S3F1NE5yRUVEX2JJNC1hUHg2ZXpWUTZKV2JkMl9KcGZSUDBNU3V1TlVMeVFjckdMQTBjM19JUFhnRVYyUDNvT2pNUDROUzRjZE9XdERJZThSNmdzbF81c0RFVlpxQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGZJUV9KX0ZpbGhiZG1VelpVOTQwSnlQU05lRmlkaGpUYUtvTng0ZmlXTmw3RTJDWXZpU3ZaNXZqNjV1cVB2Z0N4clR6OS1BVG9yV0sxOWNxbEp3LU9JU051cG5kQ296OHVTaFdQeUZYNVpNdU84M3FQNExtVnRtSnRFXzJpSXhxYVRwdFk3SFV4YzlEdGlZ?oc=5"
   ],
   "business:PLC Simulation": [
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUVhSGV4aW41WF9ndGxJVGFadmdRVlFaU0REbTFaSFlHejF5LUxDQUU2SV9mMXZ6OFNvSWhyM21sUHIzb2lQeno4S3NicEcyLXc5c3dodjRrajl1SWc2ZEhXaUQwRUowNU5KYmVGc2pzSkU5bjc2S2dMMXlTY1RTZmdUWE5mRjViWExoY09LdUNVWnRRTUZwWWYtX1kxWjNmTzhv?oc=5",
