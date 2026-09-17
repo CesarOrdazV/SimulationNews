@@ -2,11 +2,11 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-    "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked , Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others \u2014 his team at Emerald AI in their San Francisco conference room, engineers at the data center and people from the utility itself. Nobody touched anything. Emerald AI\u2019 s Conductor platform \u2014 a grid-orchestration platform from NVIDIA partner Emerald...",
-    "link": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
-    "published": "2026-09-15 10:55",
-    "source_url": "https://blogs.nvidia.com/feed/"
+    "title": "Scale Autonomous Vehicle Perception with NVIDIA Omniverse NuRec",
+    "summary": "Explore how NVIDIA Omniverse NuRec helps adapt autonomous-vehicle perception when sensor placement, calibration, field of view, and vehicle geometry change. See how neural reconstruction generates target-vehicle camera views from recorded drives to identify coverage gaps and accelerate perception development. Attendees will learn how to: - Use NuRec containers and the Physical AI NuRec data set to render new viewpoints - Leverage NuRec Skills to execute the above workflow - Bring your own dat...",
+    "link": "https://www.youtube.com/watch?v=tP_nNXsDE80",
+    "published": "2026-09-16 23:23",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
     "section": "competitors",
@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Tony Hemmelgarn: On the need for AI to narrow the variation space in GPU verification",
-    "summary": "From Realize LIVE 2026 in Detroit. Here's Siemens Digital Industries Software CEO Tony Hemmelgarn, setting up the use case for Solido \u2014 variation-aware design, IP validation, library characterization and simulation solutions, used by 1000s of designers at the top semiconductor companies worldwide. More from the main stage: \"We use AI to narrow the variation space, focusing compute where it matters. Even though we must account for tens of thousands of unique operating condition combinations \u2014...",
-    "link": "https://www.youtube.com/shorts/bmbVG5B2PIo",
-    "published": "2026-09-16 09:55",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
+    "title": "What's New in the Siemens Industrial Edge Ecosystem 09/26",
+    "summary": "Florian from the Siemens Industrial Edge team presents the latest updates included in the September 2026 Industrial Edge release. This edition highlights simplified Industrial Edge Management (IEM) onboarding, new mass operations support for device deployment, and the transition to IEM Version 2 across IEM Cloud and IEM Virtual environments. He also showcases new capabilities in Industrial Information Hub, Performance Insight, Energy Manager, and WinCC Unified for Industrial Edge, along with...",
+    "link": "https://www.youtube.com/watch?v=hZV4wD_ul6U",
+    "published": "2026-09-17 03:39",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
   },
   "competitors:Visual Components": {
     "section": "competitors",
