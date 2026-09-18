@@ -20,10 +20,10 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "What's New in the Siemens Industrial Edge Ecosystem 09/26",
-    "summary": "Florian from the Siemens Industrial Edge team presents the latest updates included in the September 2026 Industrial Edge release. This edition highlights simplified Industrial Edge Management (IEM) onboarding, new mass operations support for device deployment, and the transition to IEM Version 2 across IEM Cloud and IEM Virtual environments. He also showcases new capabilities in Industrial Information Hub, Performance Insight, Energy Manager, and WinCC Unified for Industrial Edge, along with...",
-    "link": "https://www.youtube.com/watch?v=hZV4wD_ul6U",
-    "published": "2026-09-17 03:39",
+    "title": "Deploying Industrial AI on the Shop Floor",
+    "summary": "How can manufacturers create value with Industrial AI? What does it take to move towards an AI-powered autonomous production? In this episode of the Future Ready Podcast, Spencer Acain and Dr. Matthias Loskyll explore how Siemens is bringing AI capabilities from predictive, generative, and physical AI into real industrial environments to solve the challenges of modern manufacturing. They also explore the role of AI in quality inspection, process optimization, predictive maintenance, and engin...",
+    "link": "https://www.youtube.com/watch?v=K70MoJhsMAc",
+    "published": "2026-09-17 14:55",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
   },
   "competitors:Visual Components": {
@@ -38,10 +38,10 @@
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "Advantages of smart VFDs in manufacturing and industrial automation: PowerFlex 6000T Drives",
-    "summary": "Discover how smart VFDs deliver superior motor control in industrial applications. The high-performance PowerFlex 6000T medium voltage VFD is engineered for new and retrofit constant and variable-torque motor control applications: pumps, conveyors, mixers and chillers. Talk about smart - the VFD helps reduce downtime by seeing problems before they happen with real-time data and predictive analytics.",
-    "link": "https://www.youtube.com/watch?v=w7X-ZCjKqFI",
-    "published": "2026-09-16 10:20",
+    "title": "Expert Insights on the State of Smart Manufacturing",
+    "summary": "Manufacturers are navigating a landscape defined by constant change. AI, workforce challenges, cybersecurity concerns, and evolving business priorities demand that manufacturing leaders move from the planning stages of digital transformation to full execution in order to stay competitive. Join influencer Antonio Grasso and Barry Elliott, Vice President, Global Industrial Software & Control at Rockwell Automation, for a discussion on key findings from the latest State of Smart Manufacturing Re...",
+    "link": "https://www.youtube.com/watch?v=wEcFtSpvI74",
+    "published": "2026-09-17 21:52",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {
