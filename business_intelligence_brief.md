@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-18 10:15 (Mexico City)
+Generated: 2026-09-19 09:46 (Mexico City)
 
 ## Business Keywords
 
@@ -11,11 +11,8 @@ Generated: 2026-09-18 10:15 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Hexagon Collaborates With NVIDIA To Transform Industrial Digital Twin Solution - Metrology and Quality News](https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUhIMkR5Q3R2RXRKYk5QN0tKclBJdGlLdS05ckhCeHlTcjluMjlsbXMySmU3TU1rdHhETHhvTGw2d29yc3dydEJNMHdpTG1IWGg1bWFzZVFFWlhEN01QVzF0ZkxfcmZkMTVSaVJxbjVjdWpEN21Qa2NuN2tXWDV1YmZRRFVzYk5aUjB6QWJRNTNMS1hpR1dvZy1kSVZVZmctUEktVw?oc=5) (2023-06-13 01:00)
-  Summary: Hexagon Collaborates With NVIDIA To Transform Industrial Digital Twin Solution Metrology and Quality News
-  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
-- [Using Plant Simulation IoT data analytics for root cause analysis - Manufacturing Today India](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnpyTEs4UlhZUmg0ckNHYTk0QV9JMC1tUHJidXptY3I4Qi1aYzhKWjFjR0N6bTEwYkl0eGtyWFVORWZYYURrb1BHd3YzNWRqc1lteVp5VENwU2FzVkxDUklIcmZRejVUT3B3TWQ5M3NqR1I5eWlSRG9PZkctTE5ycTlfdXlmUFVndkItZ2R4Y0xmV3pGM1B2cEN4eV9SVEE1SDZGcVNTMk0?oc=5) (2023-04-08 01:00)
-  Summary: Using Plant Simulation IoT data analytics for root cause analysis Manufacturing Today India
+- [PELF Infotech launches Digital Twin and Engineering Intelligence practice in its 25th year - Express Computer](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbi1aVFVJZ3VMUEUxQllsZkdmMEExaGxVUGlneVNlNE9qSTlTTzExWEQ0Qy1PbzNLOGk5alJnOFM1X2tCMzlGRFZHZEZfVFc2eFBIdGNIalllVHliMXR5Sl9BV3IwcDVFV29pNExrcHkzS1IzSE82RXdyWlkxSEhHeGVJdm4wTlk0WkNRUnE5eTBzbWF6a3BVX2p2bjVMRE9oMTVNbDVCZDcxU2ZiaTZjUXQwSjZNVGdfVkR2bzRBek5pa1ZlajJnaGItdG03YjAwRld4MA?oc=5) (2026-09-03 07:13) _(last seen)_
+  Summary: PELF Infotech launches Digital Twin and Engineering Intelligence practice in its 25th year Express Computer
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
@@ -47,7 +44,7 @@ Generated: 2026-09-18 10:15 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Deploying Industrial AI on the Shop Floor](https://www.youtube.com/watch?v=K70MoJhsMAc) (2026-09-17 14:55)
+- [Deploying Industrial AI on the Shop Floor](https://www.youtube.com/watch?v=K70MoJhsMAc) (2026-09-17 14:55) _(last seen)_
   Summary: How can manufacturers create value with Industrial AI? What does it take to move towards an AI-powered autonomous production? In this episode of the Future Ready Podcast, Spencer Acain and Dr. Matthias Loskyll explore how Siemens is bringing AI capabilities from predictive, generative, and physical AI into real industrial environments to solve the challenges of modern manufacturing. They also explore the role of AI in quality inspection, process optimization, predictive maintenance, and engin...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
@@ -57,8 +54,8 @@ Generated: 2026-09-18 10:15 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
-- [Expert Insights on the State of Smart Manufacturing](https://www.youtube.com/watch?v=wEcFtSpvI74) (2026-09-17 21:52) _(last seen)_
-  Summary: Manufacturers are navigating a landscape defined by constant change. AI, workforce challenges, cybersecurity concerns, and evolving business priorities demand that manufacturing leaders move from the planning stages of digital transformation to full execution in order to stay competitive. Join influencer Antonio Grasso and Barry Elliott, Vice President, Global Industrial Software & Control at Rockwell Automation, for a discussion on key findings from the latest State of Smart Manufacturing Re...
+- [Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork](https://www.youtube.com/watch?v=CStXllt3wac) (2026-09-18 16:00)
+  Summary: Curious about what’s coming to Automation Fair? We’re giving you an inside look at what you can expect to see on the Expo show floor plus insights from our Partner Network. Learn more and register today! https://rok.auto/3I7y0K0 #ROKevents
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
