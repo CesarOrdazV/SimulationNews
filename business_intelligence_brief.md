@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-19 09:46 (Mexico City)
+Generated: 2026-09-20 09:54 (Mexico City)
 
 ## Business Keywords
 
@@ -16,8 +16,11 @@ Generated: 2026-09-19 09:46 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [KBC Digital Twin Platform Aims To Advance Process Simulation With AI/ML-Enabled Hybrid Modeling - Automation World](https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ3pwVUhoX3JCSjFJQ3ZsVFZmSTZsN1pnZ3JaY3IyWllfRTR6bzNtOGxwWU9jczBNWVN4cXJlQm9RV2JfdHQyY3JfNjliR05oWk40SWtKX2I0cEcxcEFVcjZra3IyWFZ1di1wV21KTUptOHNkV3lhcHVUQWVBNlBVYzVPYXpYaDJLVkNEaEJNZVlQMVV3S3RUR2hsVnpCRTZYc09pOENSTXBERHZoMzdpT1RqV1NFQnlGQkVSbVBNaEJLRHhzM2Q4UG5oTW9Ncy1hWDJPTnFReVllaWpsNk9iTjRES0NDT1d1XzhEdHZFWS1VZzhKMVI3bkZJU3p1ZkkxT3c?oc=5) (2026-09-01 13:03) _(last seen)_
-  Summary: KBC Digital Twin Platform Aims To Advance Process Simulation With AI/ML-Enabled Hybrid Modeling Automation World
+- [Dassault Systèmes’ DELMIA Improves Factory Automation Production Line Efficiency - Dassault Systèmes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHdrN3BmeFE4M3M5NDQzRVQ5ZWdSYjBaVF81TjF4RW8ybUs5d0UyTUhFTHRtWGRSVjhJbnRVVTAzVEl6bUYwOWQ4dk9QRkFVZ3p3b29fYkJNYkxfYlNBRU8yVnc1OGFJZ0h3SzU2blREdFRxbXhFcG03YWh3Y1I3TGVTSHBITjMxMTVpajJTN1c2OEpXejJQTi1lTjkzaE9jQTVMbEw3VDkzVmJiTVJQbjFMTHVrRnpZQWQxUm9rcGI?oc=5) (2010-06-07 02:00)
+  Summary: Dassault Systèmes’ DELMIA Improves Factory Automation Production Line Efficiency Dassault Systèmes
+  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
+- [Industrial Automation & Control Systems Market Report, 2026-2033 - Grand View Research](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXJFWm8yWVRVUVFfTzVEaTBTdnVQQUd4RTBFdDM3LTFGZkU1Wm5JT2kzYjlGZ3gwR185M1FCQXIzU3A0UFRvZEJ3TXU4dTVvWHpsS3Y4ODdkR3E2VVdFRFdMVm9ydXROb2FpWnZsbENIYTVkRE1JeG1Kamd4MUxBSGZ1X25hVEk?oc=5) (2016-03-05 23:35)
+  Summary: Industrial Automation & Control Systems Market Report, 2026-2033 Grand View Research
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
@@ -54,7 +57,7 @@ Generated: 2026-09-19 09:46 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
-- [Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork](https://www.youtube.com/watch?v=CStXllt3wac) (2026-09-18 16:00)
+- [Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork](https://www.youtube.com/watch?v=CStXllt3wac) (2026-09-18 16:00) _(last seen)_
   Summary: Curious about what’s coming to Automation Fair? We’re giving you an inside look at what you can expect to see on the Expo show floor plus insights from our Partner Network. Learn more and register today! https://rok.auto/3I7y0K0 #ROKevents
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
