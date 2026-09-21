@@ -51,7 +51,9 @@
     "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
     "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
     "https://www.youtube.com/watch?v=tP_nNXsDE80",
-    "https://www.youtube.com/watch?v=zW0wzeAWLvo"
+    "https://www.youtube.com/watch?v=zW0wzeAWLvo",
+    "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+    "https://blogs.nvidia.com/blog/physical-ai-halos-safety/"
   ],
   "competitors:RoboDK": [
     "https://robodk.com/blog/robot-3d-printing/",
@@ -324,7 +326,14 @@
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXQzNXVJenk3dEFVQW1uNzR4VU1BejJmbTg4UDBuWWlwSERnRmVSNHZicFE4ckRJNHNrUk9sV3JwelhIQWtWVGlzY2xhVnNrcTZ4QVNVTVFqOGJDU3daazBtU2VQRFdOODN4cmhhVTIzRHk3OEZzenlQNGJOaXZVRzVyaDhBV3dwVGdabV96NlotNkRjOFhZOWVJbTdWekd1R01aTE5INmJOTXJCRnZNbHZYV2FuZw?oc=5",
     "https://www.youtube.com/watch?v=8ztt9cw7jJo",
     "https://www.youtube.com/watch?v=hZV4wD_ul6U",
-    "https://www.youtube.com/watch?v=K70MoJhsMAc"
+    "https://www.youtube.com/watch?v=K70MoJhsMAc",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWF9VMWNpN3pQbEMzTzE2T2xVTWpySDd4bWUxcTNrUjFhUUE1SFYyXzROT281NEE5cmcwRHhzWEZueXdHci1qdU00RXN4S25qR1RRSGlCb0VPLXR0UnV5dmlnRmJkeFhXTFZmeVNydVV5alhYZ0FfN0laR0g0NjRSVS1abXhlUFlnWXc?oc=5",
+    "https://www.youtube.com/watch?v=7Oh4Q7OTOg4",
+    "https://www.youtube.com/watch?v=2m2lvBdr0ps",
+    "https://www.youtube.com/watch?v=hD8EC4tB7NU",
+    "https://www.youtube.com/watch?v=b4c79pyW_nY",
+    "https://www.youtube.com/watch?v=WSh9ZuuRv00",
+    "https://www.youtube.com/watch?v=6l8UXNt7yhs"
   ],
   "competitors:Visual Components": [
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSENXbC1BZkR3Njk5R1drWERzYkxfa2FKQWVBNWFOSDdwc3FMekZUYmFFeEVCWTVQWFRvMTY1bTA0MkpETFdnMzAtc0luRGFDRU41SFpzT25fRmxlNEhYSkkzdF81ZWpvcjltQUlOYzVUclNlMEF2Q01IOFNuQ1NCVnNGRWdRMVpmOTdZb0IwVGRRd1g3all2RXFVUjB2WklDUEI3TFNWaS10anFZNjM3VkF5QnRuYW5qc3JQeE9uM2tXdEhoMnhCQlJn?oc=5",
@@ -444,7 +453,9 @@
     "https://www.youtube.com/watch?v=sL4ieqNVmpU",
     "https://www.youtube.com/watch?v=UctRqyt4Bbo",
     "https://www.youtube.com/watch?v=0WHZi4HpMvw",
-    "https://www.youtube.com/watch?v=CStXllt3wac"
+    "https://www.youtube.com/watch?v=CStXllt3wac",
+    "https://www.youtube.com/watch?v=0cxPoS-MUu4",
+    "https://www.youtube.com/watch?v=I7xl7n3Z9nU"
   ],
   "competitors:AnyLogic": [
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLXpZQUJaVTJjOXMzZFQyTmNQemhuemhvLWRLSzJoU2FwZlpqUF9SdmJXcUstR1QxTmowekFGUld4MjIzU0xja1d0d2dIN0Q0NnpjM3h4QW55ZE9VVjdJOGRyWTFqUFlLS1Y2TXc3Nk5jLVRrMDd3bHNhRDRPUjU4OTgwYk9rZ1VQU1HSAZoBQVVfeXFMUFQwMGF5SEhZRGZMTnVXcGIwNDFfVnlZcGVsVEtERjhHM1lMV2c4STU4LUtYV3dWWnNJd0FsanVVMXhVc0E2SE55R20tYWVEM0YyRXc2RC1yVzdmZTZ4NTV1bU5OY2VuYVBhSWpMd2dfaGpleDc5WGVwUHJqajg3NXpqbE9UTm5oNGJfb0tPMDhBeU5US0xSSVlBZw?oc=5",
@@ -751,7 +762,9 @@
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2lBaS01NG5Vak4xLTl4NlZpVGk2Q2tiMFgwQ2YxZ1JHRjNraDZWWGhrYXoycnRGMU5JMG1wcmhWWW5WMFF6WnlYMzExOHpvZm5yZ2xDci1vaXRYbHQ0V2tuajNDYjBQeUpkMURGUlVRTW1qVkVadUE2OS0xM08wNkdyS0tGQXZjRXk5Rnk4bmRDRmdLaDZEZUVuRk1iRm40M0tlX0kwX05NTXRhZGdxdFdQVVctOXdaS0tWaTk0ZUtvZzY5aFFkYWNmbURRWVBZdHpoTVFhU3lRQXA4eFRqRQ?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlJzeEI4OHZ2ZUR2MkRBV1o2TFZ5YlpvSS1kaklGT0JNRWtpNmhvNmlXLTJiT1dFS1IwdWpHS2V1M0VBaU1LX3ZpMVVvUGlTa3hFQjFTRDIxREZnUng4enlxMlRUeG5Ubl9JOXAtdEl1WHFmTTNTYXNsZ2lkYmZGLTJQRTdCejJpanFXMkNmUEE5X3p3UEI2anV6RnoycjRkUFVBWEZmNDZVdHBGNURGM0JUOWI4RjNqcnh2NVZPLXFKT0gxWldRVDZ6YTU?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaUhIMkR5Q3R2RXRKYk5QN0tKclBJdGlLdS05ckhCeHlTcjluMjlsbXMySmU3TU1rdHhETHhvTGw2d29yc3dydEJNMHdpTG1IWGg1bWFzZVFFWlhEN01QVzF0ZkxfcmZkMTVSaVJxbjVjdWpEN21Qa2NuN2tXWDV1YmZRRFVzYk5aUjB6QWJRNTNMS1hpR1dvZy1kSVZVZmctUEktVw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnpyTEs4UlhZUmg0ckNHYTk0QV9JMC1tUHJidXptY3I4Qi1aYzhKWjFjR0N6bTEwYkl0eGtyWFVORWZYYURrb1BHd3YzNWRqc1lteVp5VENwU2FzVkxDUklIcmZRejVUT3B3TWQ5M3NqR1I5eWlSRG9PZkctTE5ycTlfdXlmUFVndkItZ2R4Y0xmV3pGM1B2cEN4eV9SVEE1SDZGcVNTMk0?oc=5"
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnpyTEs4UlhZUmg0ckNHYTk0QV9JMC1tUHJidXptY3I4Qi1aYzhKWjFjR0N6bTEwYkl0eGtyWFVORWZYYURrb1BHd3YzNWRqc1lteVp5VENwU2FzVkxDUklIcmZRejVUT3B3TWQ5M3NqR1I5eWlSRG9PZkctTE5ycTlfdXlmUFVndkItZ2R4Y0xmV3pGM1B2cEN4eV9SVEE1SDZGcVNTMk0?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DMWJhRFpRSGY4blFqQ2xfeHFqV2w4SFR2LXphRzFSajlpRzF2RnJyMmdPanZfbnBiYldfZF9NSXNiSG1jLXREWmlkVVZVZ2dUZGVtdnc4MlppUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRU1aUU1pRVppV2NNZjJoalRjWUtoSFdhOGVmdHRJU1l3OGYyakV3SlZRT0JINmttY1ZoOVRJNkFFa0pwZEJwcEJpbjZZWmlWMkJJNVZBY2FIbkpzVWt5UzVlYnRpY2hqUTNrUUdwei1raWkySWhOUEdLLW1kNklUMHR6a0ctQkVCQTZVUw?oc=5"
   ],
   "business:PLC Simulation": [
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUVhSGV4aW41WF9ndGxJVGFadmdRVlFaU0REbTFaSFlHejF5LUxDQUU2SV9mMXZ6OFNvSWhyM21sUHIzb2lQeno4S3NicEcyLXc5c3dodjRrajl1SWc2ZEhXaUQwRUowNU5KYmVGc2pzSkU5bjc2S2dMMXlTY1RTZmdUWE5mRjViWExoY09LdUNVWnRRTUZwWWYtX1kxWjNmTzhv?oc=5",
@@ -888,7 +901,8 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTVFX1F0LVpaNGtJakpfTS1yR2JXdTJpRUk0TWN0N3U5eXo3ZFAyRmJuNFIyRk55dEFQUkRvcHRyb1JITHI0SFpLV18wLWNHTk5sNFZ3SmNGTlZKeEFQbjF2LTBQZE1pRFEzd3oxdnpfMG9nTElTWVhQWnRtMm82WEhRN2VCZXNuRW9zSm9JcHlUYjFUdmZv?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUFvT28ta1QtY1Q4aWs1N3FDWXEtWGdpQ1NEcG9KQjczekVUd3U1ankteGdZUzhTNVRJOUFPTWt3amlNdE5uM3FBS1NvY0U0TFRSVmRfU1BGc1RzaGdrS2RVM0EteFpRT0ZXZFg2bERNMDhQaUxRdHk3bWFOMGt6MjRtUFNpMUZXQlJyMVpsVnpqeVcxYldoVlBRLTZheWRYLWpjYXVRNXBkUThPS2FjTDJlTkJRbUw0?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHdrN3BmeFE4M3M5NDQzRVQ5ZWdSYjBaVF81TjF4RW8ybUs5d0UyTUhFTHRtWGRSVjhJbnRVVTAzVEl6bUYwOWQ4dk9QRkFVZ3p3b29fYkJNYkxfYlNBRU8yVnc1OGFJZ0h3SzU2blREdFRxbXhFcG03YWh3Y1I3TGVTSHBITjMxMTVpajJTN1c2OEpXejJQTi1lTjkzaE9jQTVMbEw3VDkzVmJiTVJQbjFMTHVrRnpZQWQxUm9rcGI?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXJFWm8yWVRVUVFfTzVEaTBTdnVQQUd4RTBFdDM3LTFGZkU1Wm5JT2kzYjlGZ3gwR185M1FCQXIzU3A0UFRvZEJ3TXU4dTVvWHpsS3Y4ODdkR3E2VVdFRFdMVm9ydXROb2FpWnZsbENIYTVkRE1JeG1Kamd4MUxBSGZ1X25hVEk?oc=5"
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXJFWm8yWVRVUVFfTzVEaTBTdnVQQUd4RTBFdDM3LTFGZkU1Wm5JT2kzYjlGZ3gwR185M1FCQXIzU3A0UFRvZEJ3TXU4dTVvWHpsS3Y4ODdkR3E2VVdFRFdMVm9ydXROb2FpWnZsbENIYTVkRE1JeG1Kamd4MUxBSGZ1X25hVEk?oc=5",
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM2pPa2ljTTFLTlpGakdjTmIwNk82YXIwdEp4TGduUFdLWkdKZjlCQmo3NXlwNUhyWGlUd2RmN2VDV0tFRWtoUExtVHAxODB3d1ZJSE5JQWdSNmhjTll0bklrUk9nZjVaVWtOZVFYYktIUWZOTUlRVHhWYXVCX0g0b1ZoUEFvUGtwaUtLTzY0WGpkMnlrMjhPQnFVVTZRaWFWS1NCZV9YdDA5Szk5ZGZhUzNONHBQSG1FUWtaWGJlVHB6LTkxemNsN0xmNzRWTG9ZbFVOdDZzTzhlWkgtdVFaeXdMeVNJaDZwMVBnYXBOUjlydw?oc=5"
   ],
   "business:Robot Simulation": [
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT05tNVRNbDFrRmN3WWNtaTRMenZVbUg3R0VYRkYxLXBtaGMxcFNicjFmb2JILUlONDhZZndMZkt1U3RFY0hxdkNVYk1rMEVoUTAzN0VfQjFNeDUtUE1MY3dvYWN0SVJoenJOalVZTE4zbkNwTk9fT0pSbTdQSGJqVEpxWHNrMGJaT2ZkanJtb0dLUFlTdF94RG81ZHRDbFZPODZNcVVDQzhNZVZIMS0wemhB?oc=5",
@@ -992,7 +1006,8 @@
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV1l3Wm41RFE3cGhxemVEamVMQmdfN09PU0djLTJrMDRfSXNzWWlKRmRkR09IUmpuODQzQ2prS1JoSmZxdUU3OXZkdjg4NWw2cEEtX1FiZzQxOVNVY2JBZmhxSlRQZlppQVlyT1dHMWNrWnk2YTNnaEtQaXhYbkJJRzhWT1BHaHRtWWY4Q3VJb0trQkN0U1Foa3NiUk1mcTFwcndYUzJGTVAwVnJsT3ZNeW1UQXFyLVFGMldmeXAyYXFoQ0hpNkQ4RmdPWUtNN2dRSjctdzRlS3RfYUFiTS1qTg?oc=5",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVE4tbFQwRG55VDdhMXNjWWdGSDR3bHVvd0pVcFFkNjRuQU5JYV9zMXpjN3dqTGVrejg5V0ctZGhFM0wzdVlEUXFtaVJwcjVFRGZuMzV0cE80M0lyTmtmOG44Y1dmc0dIaHJEcXNzLUUweDV0bVcwNldSZDRuWld2dkcxU0NfRi1YS3hTbjhEWHpTMHg1czhiRUtoYmZtVG45MFJkbExsV2ZnaUpURmh2UjVTR2pETGZUckxuTktnbW80akd3ZlFZLVVZSWdzVmlmWTlRZmZB?oc=5",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRVp6NmhMbnhpZjFtNjg3blZPYVZqbXB4alkwaktYSEJYMmdCV1F6NlFVeWhpUU5mWUlIU0ZJd05yaHF3eV9CdW5ycTdYbnpPQl9sSXV2ZkZaeXVVWFF4alFkYjI4alZlU1Rja05XcVJoRDcwUl9WczdHUWtqVlcwT2U3MkJOZlZta1BzdVFnbV9ha0xDaThSanAzTWVHWVF3eEVaR3hWeVEtazhrQ1FMTFBNNUtKRWg0bDNiY3hBNDdBandNZXY3NFlYVEhndl8ycGFOeDR6VGNUdnc0aTRDN2tHN0NEd1l2?oc=5",
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOczYzUHhVUnFwM0MtbjQ3OEdtNEZIUUw5Sno1T3hOYjJqM2I3TWpHYW83c1B6cmVrZXZ0NnV5TU9YQlBCVTI3XzhaTE9zNE8ydUw5VTBMdlE2bGdmR1ExYnJ6cVB5bGNDUk8wOERDa25ZSzBCVVVTMTcyLXl3SkZZR0tCR3JqdnB3cUUxbnp6OVBWVUNfRWJkNGVxLWpXTG5raEE?oc=5"
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOczYzUHhVUnFwM0MtbjQ3OEdtNEZIUUw5Sno1T3hOYjJqM2I3TWpHYW83c1B6cmVrZXZ0NnV5TU9YQlBCVTI3XzhaTE9zNE8ydUw5VTBMdlE2bGdmR1ExYnJ6cVB5bGNDUk8wOERDa25ZSzBCVVVTMTcyLXl3SkZZR0tCR3JqdnB3cUUxbnp6OVBWVUNfRWJkNGVxLWpXTG5raEE?oc=5",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEhyRTZLa01rRzlpQXhRSTBHOFFyd3Jpb1ZicVRDSHpFdWh4dkc0dTlzWTF3dS14bG9BQzNKcG9xWk1uWEgtWkxudXR2OXp2VkY5MnExemowcVduNGpaX2F4ZGx2Y1ZadFVFdlRBSURYZzl5dkFINWNiRVNBS2JoMUZNX1N1S3ZuUXdfVGRQQ28xMWRDaXY3d1lDYTRpSHFnRnBoQmctTFFaRlVQanB1aXNrd1UwTFBNSTM0aHhHNlo0b1NRdDd2Zkk0TmN4ZGpDQnM0TlZSSU45cHM?oc=5"
   ],
   "business:Intralogistics Simulation": [
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTWQ3dHZqWFdjMS1GWVdHa2xJYkxidW01NG9RUUZaZ054cHhaN1UtNEw0ZGxPeVNmSC1veVFnSVo0NzF5RFllOFc2aGtoN08xOGU0Mmh0eU5OVXU4a2JMbVNGdkxrc0JMNGljYTFJZDI2T1FGVmZJWWpQS1p1dTBCSlhGT1RIVS02TDFpdDA2V2p3a1lzVS1nS2VBMDRZdWlPU0d4eWl0NGpOTDNva2x5QUVYSVhSUGhsQnBLY29WVEtROVdMYV9BLVhzLXp4eXpwY1RCeg?oc=5",
@@ -1023,6 +1038,7 @@
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxOazVOWXNRcHUtbWVfbW0xUFgwNktLQXowLWJOb0lyM2tmYjdkWXdEWHhNOFkxc2RhenlSbDlXRnVHZFJjc3R6ZWpBMFlzSUluS2pPdE5COGN6SkZXeFY5dXlHclI3RU15aGc3RE9adFFtRFBSdXFIdDJEdkZXMWN4eGZ1M1hwUXZwR1VOdWphZTBFZTF2c2RXLVNud3QxRm5fLVJRUg?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1dac1dNMDN5VkxvRlZCYjBHR2wzNml3UFVrTUprMXBqVHcyMzlhZ09FU2Rhb3ZwOXQxR0RaVVRQcnlPWUxhWDVyLVR1a1dsY0pjSUk4MzBiTUtDVUZFRXc5ako2NjdCMS15VWlHUUFya3oxRXEzbHVLT3pDSHRFR201WG5JMHNRX3daTktPUnV5N25CYkxNXzk0UFAwTUtsQ2xMaXRXX3ZiVVI3OXF1bnBmSWFTX3J0NG9xeF9BLXVJZnAzNE83NnZPSlg?oc=5",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY0dta0ZWNDJEMzBJSUsyYktCaEUyUUNBeFJ3XzczdzBuX1BadGhZOVJHU1E1QUhWZ2lpRS12Wk9uWnJzdERJWHlpYnQ5M19RS040a2RVYnFZMlhhY09NaXBxSWxwT092VlNEREpsalVfNXlMTmhUNllmVHo4ZEphS0VnNkhoUHV0dDZaV0tydWIyMWJEWTV4X19OV2dWeGhwaXZxUHY5TV9rVjQ5NkZVX1M0QzdqY0RmeURzTWFMZ09Pa25IQ2JMY1BDZnNLUEx0SDRPQ0ZVX3hISFR0U1RvTFpmRzdLRWdyMTA4eFVyYkF6bVZOY2c?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1md2tPMVozQW1HNVJsT0Q0eGtYRGJIR1hILUxReVRYclI4V3c1OWI1YVRxOEZBOFFkT2JsUURBVUNYcTJpRU9wMFRoM3hNc0NtUVNhV0NLanN5Q1N6SzN6ZDhwSlcwOWVJaU9qWHFVQUtxWXpNRlBPNzRNYlc?oc=5"
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1md2tPMVozQW1HNVJsT0Q0eGtYRGJIR1hILUxReVRYclI4V3c1OWI1YVRxOEZBOFFkT2JsUURBVUNYcTJpRU9wMFRoM3hNc0NtUVNhV0NLanN5Q1N6SzN6ZDhwSlcwOWVJaU9qWHFVQUtxWXpNRlBPNzRNYlc?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXktMXN1LXhDSHVhLW9jM0VscXViSGRVaEU4Z2NnS2J1Mzh1YVZ1Q2dwdXdKdUYyTVlGMy1OcXRHaXpkSXp0TmZmd2J3MjBJSVZJQmY0UnIzeVd3U3Ywd2JBeGY2a0RfOFoyMzNyZWw2eDY0NGJaRGVVWjZSS0IyeC1HTmIyc3ZKdjYzc293Q2NnUW42QWMwMjg4ZFZvZWNqcDdtOUhQR1NQRkNuNTRSbkEzbGFNQ1hXYWZhSW5tQ1Uzdw?oc=5"
   ]
 }

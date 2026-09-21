@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-20 09:54 (Mexico City)
+Generated: 2026-09-21 12:08 (Mexico City)
 
 ## Business Keywords
 
@@ -11,35 +11,38 @@ Generated: 2026-09-20 09:54 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [PELF Infotech launches Digital Twin and Engineering Intelligence practice in its 25th year - Express Computer](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbi1aVFVJZ3VMUEUxQllsZkdmMEExaGxVUGlneVNlNE9qSTlTTzExWEQ0Qy1PbzNLOGk5alJnOFM1X2tCMzlGRFZHZEZfVFc2eFBIdGNIalllVHliMXR5Sl9BV3IwcDVFV29pNExrcHkzS1IzSE82RXdyWlkxSEhHeGVJdm4wTlk0WkNRUnE5eTBzbWF6a3BVX2p2bjVMRE9oMTVNbDVCZDcxU2ZiaTZjUXQwSjZNVGdfVkR2bzRBek5pa1ZlajJnaGItdG03YjAwRld4MA?oc=5) (2026-09-03 07:13) _(last seen)_
-  Summary: PELF Infotech launches Digital Twin and Engineering Intelligence practice in its 25th year Express Computer
+- [Digital Twin Market Size, Share, Trends & Forecast 2034 - IMARC Group](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DMWJhRFpRSGY4blFqQ2xfeHFqV2w4SFR2LXphRzFSajlpRzF2RnJyMmdPanZfbnBiYldfZF9NSXNiSG1jLXREWmlkVVZVZ2dUZGVtdnc4MlppUQ?oc=5) (2026-06-15 01:00)
+  Summary: Digital Twin Market Size, Share, Trends & Forecast 2034 IMARC Group
+  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
+- [India Digital Twin Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets](https://news.google.com/rss/articles/CBMijAFBVV95cUxNRU1aUU1pRVppV2NNZjJoalRjWUtoSFdhOGVmdHRJU1l3OGYyakV3SlZRT0JINmttY1ZoOVRJNkFFa0pwZEJwcEJpbjZZWmlWMkJJNVZBY2FIbkpzVWt5UzVlYnRpY2hqUTNrUUdwei1raWkySWhOUEdLLW1kNklUMHR6a0ctQkVCQTZVUw?oc=5) (2026-07-19 03:50)
+  Summary: India Digital Twin Market Size, Share,Trends, Growth Analysis Report, 2030 MarketsandMarkets
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Dassault Systèmes’ DELMIA Improves Factory Automation Production Line Efficiency - Dassault Systèmes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHdrN3BmeFE4M3M5NDQzRVQ5ZWdSYjBaVF81TjF4RW8ybUs5d0UyTUhFTHRtWGRSVjhJbnRVVTAzVEl6bUYwOWQ4dk9QRkFVZ3p3b29fYkJNYkxfYlNBRU8yVnc1OGFJZ0h3SzU2blREdFRxbXhFcG03YWh3Y1I3TGVTSHBITjMxMTVpajJTN1c2OEpXejJQTi1lTjkzaE9jQTVMbEw3VDkzVmJiTVJQbjFMTHVrRnpZQWQxUm9rcGI?oc=5) (2010-06-07 02:00)
-  Summary: Dassault Systèmes’ DELMIA Improves Factory Automation Production Line Efficiency Dassault Systèmes
-  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
-- [Industrial Automation & Control Systems Market Report, 2026-2033 - Grand View Research](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXJFWm8yWVRVUVFfTzVEaTBTdnVQQUd4RTBFdDM3LTFGZkU1Wm5JT2kzYjlGZ3gwR185M1FCQXIzU3A0UFRvZEJ3TXU4dTVvWHpsS3Y4ODdkR3E2VVdFRFdMVm9ydXROb2FpWnZsbENIYTVkRE1JeG1Kamd4MUxBSGZ1X25hVEk?oc=5) (2016-03-05 23:35)
-  Summary: Industrial Automation & Control Systems Market Report, 2026-2033 Grand View Research
+- [PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs - 24-7 Press Release Newswire](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM2pPa2ljTTFLTlpGakdjTmIwNk82YXIwdEp4TGduUFdLWkdKZjlCQmo3NXlwNUhyWGlUd2RmN2VDV0tFRWtoUExtVHAxODB3d1ZJSE5JQWdSNmhjTll0bklrUk9nZjVaVWtOZVFYYktIUWZOTUlRVHhWYXVCX0g0b1ZoUEFvUGtwaUtLTzY0WGpkMnlrMjhPQnFVVTZRaWFWS1NCZV9YdDA5Szk5ZGZhUzNONHBQSG1FUWtaWGJlVHB6LTkxemNsN0xmNzRWTG9ZbFVOdDZzTzhlWkgtdVFaeXdMeVNJaDZwMVBnYXBOUjlydw?oc=5) (2026-09-21 01:05)
+  Summary: PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs 24-7 Press Release Newswire
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation - Aerospace Manufacturing and Design](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRVp6NmhMbnhpZjFtNjg3blZPYVZqbXB4alkwaktYSEJYMmdCV1F6NlFVeWhpUU5mWUlIU0ZJd05yaHF3eV9CdW5ycTdYbnpPQl9sSXV2ZkZaeXVVWFF4alFkYjI4alZlU1Rja05XcVJoRDcwUl9WczdHUWtqVlcwT2U3MkJOZlZta1BzdVFnbV9ha0xDaThSanAzTWVHWVF3eEVaR3hWeVEtazhrQ1FMTFBNNUtKRWg0bDNiY3hBNDdBandNZXY3NFlYVEhndl8ycGFOeDR6VGNUdnc0aTRDN2tHN0NEd1l2?oc=5) (2026-09-12 23:30) _(last seen)_
-  Summary: IMTS 2026 Conference: Eliminating Downtime: How Offline Robot Programming Enables High-Mix Automation Aerospace Manufacturing and Design
+- [CAD to Robot: Inbolt and RoboDK Tackle Different Stages of the Automation Workflow - Machine Design](https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEhyRTZLa01rRzlpQXhRSTBHOFFyd3Jpb1ZicVRDSHpFdWh4dkc0dTlzWTF3dS14bG9BQzNKcG9xWk1uWEgtWkxudXR2OXp2VkY5MnExemowcVduNGpaX2F4ZGx2Y1ZadFVFdlRBSURYZzl5dkFINWNiRVNBS2JoMUZNX1N1S3ZuUXdfVGRQQ28xMWRDaXY3d1lDYTRpSHFnRnBoQmctTFFaRlVQanB1aXNrd1UwTFBNSTM0aHhHNlo0b1NRdDd2Zkk0TmN4ZGpDQnM0TlZSSU45cHM?oc=5) (2026-09-21 00:01)
+  Summary: CAD to Robot: Inbolt and RoboDK Tackle Different Stages of the Automation Workflow Machine Design
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Material Handling Equipment Market Size, Share & Growth 2034 - Fortune Business Insights](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHRkSWRaWFNKVlVhWnZld2hONjVhWWVEYi10OGRZejl4Z0ZPTXN4VmduS0JfcUdzM1VaOHUyQW9SNmg0eGVNYUtLRlJ1YUhyNmNrY0hKNnIzbDVlNDl2QUdQTnd0Z2J6TEhrMmtVODhFRjFMV21oRjF6NXdodVJyYWRaNjVjU0FYbWxvR1pDaEhaOWY2VXNONmpralJVWHc?oc=5) (2026-08-31 01:00) _(last seen)_
-  Summary: Material Handling Equipment Market Size, Share & Growth 2034 Fortune Business Insights
+- [Dematic Introduces Modeling Software to Validate Intralogistics System Performance - DC Velocity](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXktMXN1LXhDSHVhLW9jM0VscXViSGRVaEU4Z2NnS2J1Mzh1YVZ1Q2dwdXdKdUYyTVlGMy1OcXRHaXpkSXp0TmZmd2J3MjBJSVZJQmY0UnIzeVd3U3Ywd2JBeGY2a0RfOFoyMzNyZWw2eDY0NGJaRGVVWjZSS0IyeC1HTmIyc3ZKdjYzc293Q2NnUW42QWMwMjg4ZFZvZWNqcDdtOUhQR1NQRkNuNTRSbkEzbGFNQ1hXYWZhSW5tQ1Uzdw?oc=5) (2019-03-11 01:00)
+  Summary: Dematic Introduces Modeling Software to Validate Intralogistics System Performance DC Velocity
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
 
 ### NVIDIA
 
-- [Scale Autonomous Vehicle Perception with NVIDIA Omniverse NuRec](https://www.youtube.com/watch?v=tP_nNXsDE80) (2026-09-16 23:23) _(last seen)_
-  Summary: Explore how NVIDIA Omniverse NuRec helps adapt autonomous-vehicle perception when sensor placement, calibration, field of view, and vehicle geometry change. See how neural reconstruction generates target-vehicle camera views from recorded drives to identify coverage gaps and accelerate perception development. Attendees will learn how to: - Use NuRec containers and the Physical AI NuRec data set to render new viewpoints - Leverage NuRec Skills to execute the above workflow - Bring your own dat...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
+- [NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories](https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/) (2026-09-21 12:00)
+  Summary: Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing NVIDIA DSX Ready, a qualification program for partner products and solutions that meet applicable NVIDIA DSX AI factory refe...
+  Feed source: https://blogs.nvidia.com/feed/
+- [Why Deploying Physical AI at Scale Demands Safety at Every Layer](https://blogs.nvidia.com/blog/physical-ai-halos-safety/) (2026-09-21 10:00)
+  Summary: Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs) , while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035 . As these machines enter roads, factories, warehouses and other environments shared with people, safety must scale with them. Physical AI safety means proving that AI-driven machines — AVs , humanoid robots , industrial r...
+  Feed source: https://blogs.nvidia.com/feed/
 ### RoboDK
 
 - [How Access e.V. Cut Aerospace Inspection Documentation Time by a Third Using RoboDK](https://robodk.com/blog/access-cut-aerospace-inspection-documentation-using-robodk/) (2026-09-16 06:56) _(last seen)_
@@ -47,8 +50,26 @@ Generated: 2026-09-20 09:54 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Deploying Industrial AI on the Shop Floor](https://www.youtube.com/watch?v=K70MoJhsMAc) (2026-09-17 14:55) _(last seen)_
-  Summary: How can manufacturers create value with Industrial AI? What does it take to move towards an AI-powered autonomous production? In this episode of the Future Ready Podcast, Spencer Acain and Dr. Matthias Loskyll explore how Siemens is bringing AI capabilities from predictive, generative, and physical AI into real industrial environments to solve the challenges of modern manufacturing. They also explore the role of AI in quality inspection, process optimization, predictive maintenance, and engin...
+- [Siemens grants UniSC access to industrial AI software - Engineering.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWF9VMWNpN3pQbEMzTzE2T2xVTWpySDd4bWUxcTNrUjFhUUE1SFYyXzROT281NEE5cmcwRHhzWEZueXdHci1qdU00RXN4S25qR1RRSGlCb0VPLXR0UnV5dmlnRmJkeFhXTFZmeVNydVV5alhYZ0FfN0laR0g0NjRSVS1abXhlUFlnWXc?oc=5) (2026-07-01 01:00)
+  Summary: Siemens grants UniSC access to industrial AI software Engineering.com
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [What’s New in Simcenter Testlab 2606 | Efficient structural dynamics testing](https://www.youtube.com/watch?v=7Oh4Q7OTOg4) (2026-09-21 09:15)
+  Summary: Discover how Simcenter Testlab 2606 helps engineering teams streamline structural dynamics testing from test setup through simulation correlation. Simone Manzato, Product Manager, Structural dynamics testing, demonstrates how the complete next-generation workflows integrate geometry definition, virtual instrumentation, acquisition, modal analysis, model validation, and correlation within a single and intuitive environment. Reduce time spent on moving and managing data, use AI-assisted mode se...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [What’s New in Simcenter Testlab 2606 | De-risk spacecraft qualification testing](https://www.youtube.com/watch?v=2m2lvBdr0ps) (2026-09-21 08:46)
+  Summary: Discover how Simcenter Testlab 2606 helps dynamic environmental testing teams de-risk spacecraft qualification testing before exposing valuable hardware to full-level vibration. Umberto Musella, Product Manager, Dynamic environmental testing, demonstrates how Virtual Shaker Testing uses a digital twin derived from low-level system identification data to predict qualification-level behavior, optimize controller settings, evaluate system stability, and compare notching strategies in the digital...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [GROB und Siemens: Durchgängiger digitaler Zwilling von der Entwicklung bis zum Betrieb](https://www.youtube.com/watch?v=hD8EC4tB7NU) (2026-09-21 00:46)
+  Summary: GROB und Siemens zeigen, wie ein durchgängiger digitaler Zwilling den gesamten Maschinenlebenszyklus unterstützt – von der Entwicklung über die virtuelle Inbetriebnahme bis zum Betrieb. Am Beispiel der neuen Machine GP1350 von GROB wird gezeigt, wie der digitale Zwilling dabei hilft, Entwicklungs- und Inbetriebnahmezeiten zu verkürzen, NC-Programme vorab zu validieren, Kollisionen zu vermeiden und Prozesse zu optimieren. Durch die Simulation eines exakten Maschinenabbilds können Fehler frühze...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [GROB and Siemens: A continuous Digital Twin from engineering to operations](https://www.youtube.com/watch?v=b4c79pyW_nY) (2026-09-21 00:46)
+  Summary: GROB and Siemens showcase how a seamless Digital Twin supports the entire machine lifecycle, from engineering and virtual commissioning to operation. Using the new machine GP1350 from GROB as an example, the video demonstrates how the Digital Twin helps reduce development and commissioning times, validate NC programs in advance, avoid collisions, and optimize machining processes. By simulating an exact virtual replica of the machine, potential errors can be identified early and a high level o...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [SINUMERIK Machine Tool Robot für die Schienenstahlbearbeitung bei ROBEL Rail Automation GmbH](https://www.youtube.com/watch?v=WSh9ZuuRv00) (2026-09-21 00:45)
+  Summary: Erleben Sie, wie ROBEL Rail Automation den SINUMERIK Machine Tool Robot für die hochpräzise Schienenstahlbearbeitung einsetzt. Die Lösung ermöglicht schnellere Bearbeitungszeiten, höhere Genauigkeit und eine verbesserte Prozessstabilität für automatisierte Schienenreparaturanwendungen. Erfahren Sie mehr über die Anwendung und die wichtigsten Ergebnisse: https://sie.ag/3byyma
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [SINUMERIK Machine Tool Robot for rail steel milling for ROBEL RAIL Automation GmbH](https://www.youtube.com/watch?v=6l8UXNt7yhs) (2026-09-21 00:45)
+  Summary: See how ROBEL Rail Automation uses the SINUMERIK Machine Tool Robot for high-performance rail steel machining. The solution delivers faster processing, higher accuracy, and improved process stability for automated rail repair applications. Read more about the application and key results: https://sie.ag/3W7dWT
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
@@ -57,8 +78,11 @@ Generated: 2026-09-20 09:54 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
-- [Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork](https://www.youtube.com/watch?v=CStXllt3wac) (2026-09-18 16:00) _(last seen)_
-  Summary: Curious about what’s coming to Automation Fair? We’re giving you an inside look at what you can expect to see on the Expo show floor plus insights from our Partner Network. Learn more and register today! https://rok.auto/3I7y0K0 #ROKevents
+- [CooperSurgical Streamlines Product & Regulatory Control](https://www.youtube.com/watch?v=0cxPoS-MUu4) (2026-09-21 11:31)
+  Summary: CooperSurgical worked with Rockwell Automation and Kalypso to implement a unified PLM and RIM solution that helped them avoid ERP redeployment and launch ERP on time in North America. They company also improved visibility, control, and compliance across product and regulatory data. View the full story: https://rok.auto/4yPv8WO?
+  Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
+- [From Strategy to Scale: Unlocking Market Access Through Partner Ecosystem](https://www.youtube.com/watch?v=I7xl7n3Z9nU) (2026-09-21 03:02)
+  Summary: In this session, Rockwell Automation Market Access leaders Rohit Khera, global vice president, and Shovan Sengupta, Asia Pacific regional vice president, spotlight the critical role of partners in the transition from automation to autonomy. They emphasize how collaboration with the Rockwell Automation PartnerNetwork™ accelerates transformation, compresses time-to-value, and enables workforce readiness in Asia’s fast-growing markets. For more ROKStudios sessions: https://rok.auto/44ye5cn
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
