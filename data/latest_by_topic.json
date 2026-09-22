@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
-    "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing NVIDIA DSX Ready, a qualification program for partner products and solutions that meet applicable NVIDIA DSX AI factory refe...",
-    "link": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
-    "published": "2026-09-21 12:00",
+    "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+    "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 \u2014 a collection of GPU-accelerated packages built on ROS, released today at the ROSCon conference in Toronto, Canada \u2014 helps humans and AI agents build robots together. The release introduces new agentic workflows and platfor...",
+    "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+    "published": "2026-09-22 06:00",
     "source_url": "https://blogs.nvidia.com/feed/"
   },
   "competitors:RoboDK": {
@@ -20,10 +20,10 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "What\u2019s New in Simcenter Testlab 2606 | Efficient structural dynamics testing",
-    "summary": "Discover how Simcenter Testlab 2606 helps engineering teams streamline structural dynamics testing from test setup through simulation correlation. Simone Manzato, Product Manager, Structural dynamics testing, demonstrates how the complete next-generation workflows integrate geometry definition, virtual instrumentation, acquisition, modal analysis, model validation, and correlation within a single and intuitive environment. Reduce time spent on moving and managing data, use AI-assisted mode se...",
-    "link": "https://www.youtube.com/watch?v=7Oh4Q7OTOg4",
-    "published": "2026-09-21 09:15",
+    "title": "AI in electrical engineering: AI assisted design interrogation and modification",
+    "summary": "\u26a1 Discover how AI in electrical engineering is transforming the way engineers understand, analyze, and modify complex E/E systems designs. \ud83e\udd16 Capital Copilot brings AI-powered intelligence and automation directly into Siemens Capital, helping engineers interact with electrical and electronic systems designs through natural language. Instead of manually searching through complex design data or building queries from scratch, users can ask design-related questions and receive accurate, design-spe...",
+    "link": "https://www.youtube.com/watch?v=c9IlezsE1rs",
+    "published": "2026-09-22 08:18",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
   },
   "competitors:Visual Components": {
@@ -38,10 +38,10 @@
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "CooperSurgical Streamlines Product & Regulatory Control",
-    "summary": "CooperSurgical worked with Rockwell Automation and Kalypso to implement a unified PLM and RIM solution that helped them avoid ERP redeployment and launch ERP on time in North America. They company also improved visibility, control, and compliance across product and regulatory data. View the full story: https://rok.auto/4yPv8WO?",
-    "link": "https://www.youtube.com/watch?v=0cxPoS-MUu4",
-    "published": "2026-09-21 11:31",
+    "title": "Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork",
+    "summary": "Curious about what\u2019s coming to Automation Fair? We\u2019re giving you an inside look at what you can expect to see on the Expo show floor plus insights from our Partner Network. Learn more and register today! https://rok.auto/3I7y0K0 #ROKevents",
+    "link": "https://www.youtube.com/watch?v=CStXllt3wac",
+    "published": "2026-09-22 09:19",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {
@@ -83,10 +83,10 @@
   "business:PLC Simulation": {
     "section": "business",
     "topic": "PLC Simulation",
-    "title": "PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs - 24-7 Press Release Newswire",
-    "summary": "PLC Simulation Software Expands Browser-Based Industrial Automation Training With HMI, Robotics and 3D Labs 24-7 Press Release Newswire",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM2pPa2ljTTFLTlpGakdjTmIwNk82YXIwdEp4TGduUFdLWkdKZjlCQmo3NXlwNUhyWGlUd2RmN2VDV0tFRWtoUExtVHAxODB3d1ZJSE5JQWdSNmhjTll0bklrUk9nZjVaVWtOZVFYYktIUWZOTUlRVHhWYXVCX0g0b1ZoUEFvUGtwaUtLTzY0WGpkMnlrMjhPQnFVVTZRaWFWS1NCZV9YdDA5Szk5ZGZhUzNONHBQSG1FUWtaWGJlVHB6LTkxemNsN0xmNzRWTG9ZbFVOdDZzTzhlWkgtdVFaeXdMeVNJaDZwMVBnYXBOUjlydw?oc=5",
-    "published": "2026-09-21 01:05",
+    "title": "BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training - EIN News",
+    "summary": "BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training EIN News",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXI2U1FCR0htckFXQWh5OGllRXRPUWF4V1hhQUZiVlF6XzRVOTFKRU9VZWRmRVZtMUpQZkZaSTFKRWtlTU4yb0Z2S1VwTzdwUEtfZjNPeG9vckN4TXB0VFU4cUV0YjBpRFBlY1ppWnRQX05MdVRMN2hhdkhRTEZfN0VsQXZiUllBTVR0VVZhbVdGLXVqSnFDOFZ6M0lMenktREc0b2plU1BPS2k1b21sUFVySGEyaWlLZ3ZN?oc=5",
+    "published": "2026-09-22 08:16",
     "source_url": "https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Robot Simulation": {
