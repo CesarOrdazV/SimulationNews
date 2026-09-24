@@ -2,11 +2,11 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
-    "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 \u2014 a collection of GPU-accelerated packages built on ROS, released today at the ROSCon conference in Toronto, Canada \u2014 helps humans and AI agents build robots together. The release introduces new agentic workflows and platfor...",
-    "link": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
-    "published": "2026-09-22 06:00",
-    "source_url": "https://blogs.nvidia.com/feed/"
+    "title": "Simulate Robotiq Grippers With NVIDIA Isaac Sim and Newton",
+    "summary": "Get under the hood of Robotiq\u2019s gripper simulation workflows in NVIDIA Isaac Sim. In this livestream, the team will walk through the five-bar linkage articulation challenge in its underactuated gripper and how it was addressed in simulation. You\u2019ll also see Newton used for closed-loop kinematics, along with PhysX and a mimic joint for parallel gripping across two USD variants. The session also explores Robotiq\u2019s tactile sensors and what changes when deformable bodies enter the simulation. To...",
+    "link": "https://www.youtube.com/watch?v=K2ui16FdLZw",
+    "published": "2026-09-24 01:24",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
     "section": "competitors",
@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "AI in electrical engineering: AI assisted design interrogation and modification",
-    "summary": "\u26a1 Discover how AI in electrical engineering is transforming the way engineers understand, analyze, and modify complex E/E systems designs. \ud83e\udd16 Capital Copilot brings AI-powered intelligence and automation directly into Siemens Capital, helping engineers interact with electrical and electronic systems designs through natural language. Instead of manually searching through complex design data or building queries from scratch, users can ask design-related questions and receive accurate, design-spe...",
-    "link": "https://www.youtube.com/watch?v=c9IlezsE1rs",
-    "published": "2026-09-22 08:18",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
+    "title": "How green tech actually solves energy security",
+    "summary": "Industries often take energy for granted. Operators flip a switch, or fill a tank, and everything runs as expected. Recent global events prove the harsh reality: energy prices and availability can change quickly putting whole sectors at risk. Experts argue, however, that automation, digitalization and green technologies can secure energy supply chains. In this podcast, Christian Gueckel, Head of Verticals for Chemicals and Energy at Siemens Digital Industry and Bernd Kalusche, Director of Ver...",
+    "link": "https://www.youtube.com/watch?v=t5V-yIGpGL4",
+    "published": "2026-09-24 07:20",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
   },
   "competitors:Visual Components": {
     "section": "competitors",

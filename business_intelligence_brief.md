@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-23 10:41 (Mexico City)
+Generated: 2026-09-24 10:59 (Mexico City)
 
 ## Business Keywords
 
@@ -11,13 +11,16 @@ Generated: 2026-09-23 10:41 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [United States Digital Twin Technology in Manufacturing Market - openPR.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOVUJ3ZEFjZUlUZUFheEtidkRVdzlOMWJZUS0td1Y5bU1WR2wyNzNxdXNFTVZIUklnS2ZuczhqeUxGT3hVVFRTem8tXzdpanZCLVdjX25lVWJSNWd2eXhQNDliWVdfR2ZpX1dYdkpUUnhtSUtOTk0wbXRpbnIyMzN2bURtVG1lSnR1T0NUd285NW02cUItWFk3ZWliSjIyZw?oc=5) (2026-09-23 04:20)
-  Summary: United States Digital Twin Technology in Manufacturing Market openPR.com
+- [ThingWorx 8 Releases Manufacturing Apps and Simulation for the Digital Twin - Engineering.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEMxcHZOc2FicXpISnltc0oyRVpyU3dzMllWb0pMNTRoNTdDblY1bDFKeW1kMkdnUm0xbXdsUTJoNWZFUW05UnRzcldma0gxenR5OTY2eVBfcGZtMkI4dzk2VGVISUxUaVB2SnZRU2FvSXloc3gteEVGX2Ziang4REpfMTNYMWJ3VHFDNFZLb1BIQWtweERSbWdjTTZMQlpGaXlfN01TYw?oc=5) (2017-05-24 02:00)
+  Summary: ThingWorx 8 Releases Manufacturing Apps and Simulation for the Digital Twin Engineering.com
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training - EIN News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXI2U1FCR0htckFXQWh5OGllRXRPUWF4V1hhQUZiVlF6XzRVOTFKRU9VZWRmRVZtMUpQZkZaSTFKRWtlTU4yb0Z2S1VwTzdwUEtfZjNPeG9vckN4TXB0VFU4cUV0YjBpRFBlY1ppWnRQX05MdVRMN2hhdkhRTEZfN0VsQXZiUllBTVR0VVZhbVdGLXVqSnFDOFZ6M0lMenktREc0b2plU1BPS2k1b21sUFVySGEyaWlLZ3ZN?oc=5) (2026-09-22 08:16) _(last seen)_
-  Summary: BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training EIN News
+- [BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training - EIN Presswire](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkNLTlZPNEpkcnhRZnFONXNWWHZKVDctS0gzRFh3RmliQ0U0cWY4SHRDaWlHZHJZbHctRVNZOEt4SVJ3ay1vUkJMdXI4dnNGdDU5RGItQkZ4NnVUUjdyeFRCZEtUMEFRMm5Senl3aTdzWjF2WVVsbXlueTNTSGpaWi03MG5tTWsyVHlmNVY3SjRWeXcyaXdVMlNabUhTdlJodThaMlRxYUdGSFNESUdyRkpqaWdiQ04tZU13OTA2SG5JQQ?oc=5) (2026-09-22 08:16)
+  Summary: BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training EIN Presswire
+  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
+- [Digital twins for CNC - Aerospace Manufacturing and Design](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmFSUGVhRkc1XzlFQ1dQZnNzSk5PdWNaV0R0R3A1d01xdnR1TXBrdEpCbk1QRlV6ZWJmU0NJcDE0cGEtYUFCNXpsZ0dQODBBVERhcWZ3ZDVscVdQZTROZ0hLQnk0NVdXa2pZYmRYR29ucXp3cHMtQ2dmVzNNZmxoT01ya3UxVGYxUWJuR3QwWFM3ZDhiQ0dlbUdRck0wbGY0eVE?oc=5) (2020-09-17 23:59)
+  Summary: Digital twins for CNC Aerospace Manufacturing and Design
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
@@ -34,19 +37,28 @@ Generated: 2026-09-23 10:41 (Mexico City)
 
 ### NVIDIA
 
-- [Developing a Physical AI Simulation Live With GPT-6 Astra and NVIDIA Omniverse Libraries](https://www.youtube.com/watch?v=pbwlRzjLwqc) (2026-08-25 22:57)
-  Summary: You have an idea for a simulation. How far can you take it with an AI agent—and how do you know the result actually works? Join NVIDIA developers and community builders to explore what’s possible with GPT-6 Astra, NVIDIA Omniverse libraries, and OpenUSD. Max Bickley and Ashley Goldstein will work with Astra live: brainstorm ideas, guide the agent, inspect what it produces, and decide what to try next. Follow their reasoning as the experiment unfolds, including where they step in and change di...
+- [Simulate Robotiq Grippers With NVIDIA Isaac Sim and Newton](https://www.youtube.com/watch?v=K2ui16FdLZw) (2026-09-24 01:24) _(last seen)_
+  Summary: Get under the hood of Robotiq’s gripper simulation workflows in NVIDIA Isaac Sim. In this livestream, the team will walk through the five-bar linkage articulation challenge in its underactuated gripper and how it was addressed in simulation. You’ll also see Newton used for closed-loop kinematics, along with PhysX and a mimic joint for parallel gripping across two USD variants. The session also explores Robotiq’s tactile sensors and what changes when deformable bodies enter the simulation. To...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
-- [What Is Manufacturing Optimized Software and How Does It Improve Production Efficiency?](https://robodk.com/blog/manufacturing-optimized-software-and-how-does-it-improve-production-efficiency/) (2026-09-23 08:24)
+- [What Is Manufacturing Optimized Software and How Does It Improve Production Efficiency?](https://robodk.com/blog/manufacturing-optimized-software-and-how-does-it-improve-production-efficiency/) (2026-09-23 08:24) _(last seen)_
   Summary: Manufacturing optimized software refers to digital tools for streamlining, automating, and continuously improving production processes. But, not all robotic software is optimized for manufacturing. Robots are very common in manufacturing. However, that doesn’t mean they are necessarily “manufacturing optimized.” When you are choosing robotics software, it’s important to consider how it will fit within your wider ecosystem of connected software tools. In this article, we explore what is meant...
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [AI in electrical engineering: AI assisted design interrogation and modification](https://www.youtube.com/watch?v=c9IlezsE1rs) (2026-09-22 08:18) _(last seen)_
-  Summary: ⚡ Discover how AI in electrical engineering is transforming the way engineers understand, analyze, and modify complex E/E systems designs. 🤖 Capital Copilot brings AI-powered intelligence and automation directly into Siemens Capital, helping engineers interact with electrical and electronic systems designs through natural language. Instead of manually searching through complex design data or building queries from scratch, users can ask design-related questions and receive accurate, design-spe...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [How green tech actually solves energy security](https://www.youtube.com/watch?v=t5V-yIGpGL4) (2026-09-24 07:20)
+  Summary: Industries often take energy for granted. Operators flip a switch, or fill a tank, and everything runs as expected. Recent global events prove the harsh reality: energy prices and availability can change quickly putting whole sectors at risk. Experts argue, however, that automation, digitalization and green technologies can secure energy supply chains. In this podcast, Christian Gueckel, Head of Verticals for Chemicals and Energy at Siemens Digital Industry and Bernd Kalusche, Director of Ver...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [SINUMERIK Tutorial Blank Turning](https://www.youtube.com/watch?v=kAgifDC5m4g) (2026-09-24 05:00)
+  Summary: Improving cycle time for forged and cast parts 0:00 Opening 0:07 Explanation Blank Turning 1:34 Programm 9:46 Maschine simulation 10:34 Summary 10:09 Closing 👉 Mehr auf CNC4you: https://sie.ag/5dvm1v #sinumerik #BlankTurning #sinumerikone #sinumerik828D #cnc
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [SINUMERIK Tutorial Rohteil- / Konturdrehen](https://www.youtube.com/watch?v=6-byYjZXuwk) (2026-09-24 05:00)
+  Summary: Verbesserung der Zykluszeit für Schmiede- und Gussteile 0:00 Opening 0:07 Erklärung Rohteil- / Konturdrehen 1:52 Programm 10:22 Maschinensimulation 11:13 Zusammenfassung 12:02 Closing 👉 Mehr auf CNC4you: https://sie.ag/4ahMAq #sinumerik #Rohteildrehen #Kegeldrehen #sinumerikone #sinumerik828D #cnc
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [The Innovation](https://www.youtube.com/watch?v=eHSc2z6rFj0) (2026-09-24 00:25)
+  Summary: What will the factory of the future look like? In this episode, Dashi and Eray talk with Marc Schwerdtner, plant manager at Siemens in Zug, about innovation, automation, and artificial intelligence. Using the new production line as an example, Marc shows how digital twins, millions of data points, and AI are transforming manufacturing. The discussion also touches on the changes brought about by new technologies – and why, despite all the innovation, one thing matters above all else: bringing...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
 - [Bucher Municipal: accelerating robot welding with Visual Components](https://www.youtube.com/watch?v=QBVdtGXe9xw) (2026-09-16 02:08) _(last seen)_
