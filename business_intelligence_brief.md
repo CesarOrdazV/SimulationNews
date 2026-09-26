@@ -1,26 +1,23 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-25 11:01 (Mexico City)
+Generated: 2026-09-26 10:14 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnpoT2lyMHgwOUo5c3JVVjFubWlmOHhXbWNjZUJQdzAwaHJWRE1Cc0RhYnZBWTMwZ3VUOEpFUUhfNGJrY3pJaXAtZm1TM2lrbC1ndUMteldFTUFhLTRsZUZYaWdFYWFtOXJfci1RODk5UlVwaWtlRDVIal9hRWN0Wml3NFcwaHZ2R1lVUjUtOWFqbXYtMmR6VXJ0c1lYQV9uX1lQX2NFaXFjV2FxNjJxWjBNbnFlVkNobGR2QkxvVENKU25mcjh0a3lIM3JqWHlWMVI3Zi11QQ?oc=5) (2026-09-04 07:15) _(last seen)_
-  Summary: FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow
+- [Küttner Automation: Virtual commissioning in the “digital factory” shortens the commissioning phase and speeds up the ramp-up - foundry-planet.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSExVTTBxMmRLTGJEOC1hVUR5SS1FQUI5MV94aWNhMkUwZGUxQ3dPU0llLXBKZkYtT0I1QjV6LXNTTGpmQVNhUzlJU2g4c2x2YkxfT3VudXpMSHJJLXVFOENDNE9jbVpfLWZzVy11Z09qY3N3VWFBSGtSZVJJOFN6YjV2STFtTG5memNRRlI4eE5xVUJnYzhnMm1CRTRILUwwU01UMTBFOFZkXzVoVkZiTmlubkZiSXV0MkxVRmNZUWZTNTFzTDVZNkdDWXdvUU5IVWFVY3VNOExKZHRZSUh0cVRnM3VrN3FvM2E5RV9B?oc=5) (2017-06-02 02:00)
+  Summary: Küttner Automation: Virtual commissioning in the “digital factory” shortens the commissioning phase and speeds up the ramp-up foundry-planet.com
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Siemens unveils technologies to accelerate the industrial AI revolution at CES 2026 - Siemens press](https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUl4Q2NONi03VDladkJlXzFVMWZpQzZHeGN6blhyQjZhMGE3cXktdFFHUVpqWnBWVEtUZzBWYzBVenNwMHNLVzNUenBYb0NuUjdyRGhLeGlCV0dZZ3V0NXRaNlZUbGV2UUlqdDJ6ZWNFODZRSjNTTmRJYkdROXlPX1pPWDRfMlNKb0NhUWFaNnZMdDlrNE1MeTVYQlBub0dmdm5tSUlHLWFfdWZUM1p4SVB5T2UyWkVmbmhVX21KTQ?oc=5) (2026-01-06 02:00)
-  Summary: Siemens unveils technologies to accelerate the industrial AI revolution at CES 2026 Siemens press
-  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
-- [Digital twins in manufacturing – PEX Network - Process Excellence Network](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVEdpMzBkNlhmdUxIMUFuZ3F3d2FiazFXOTRQLUJPOUFoa3E3dUtNTlF1YWlzNS1xWjlTSTh4REExZUdOc1NhaWR3MjRZbDk3Y0RaZEpUcUZiajRjbkdXYUprRlpqTGtZV1RiOU9XS0tJamtObzgzRjZNMUtxVEdWV1c4ampfZFZqZ0taQW54Y09MZG92eDRicDF0OGRDNXVrZGdQbjJZOEo5QmhMSVJzZEhlRnZMS2g3bVpJ?oc=5) (2025-04-23 01:00)
-  Summary: Digital twins in manufacturing – PEX Network Process Excellence Network
+- [United States Digital Twin Technology in Manufacturing Market - openPR.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOVUJ3ZEFjZUlUZUFheEtidkRVdzlOMWJZUS0td1Y5bU1WR2wyNzNxdXNFTVZIUklnS2ZuczhqeUxGT3hVVFRTem8tXzdpanZCLVdjX25lVWJSNWd2eXhQNDliWVdfR2ZpX1dYdkpUUnhtSUtOTk0wbXRpbnIyMzN2bURtVG1lSnR1T0NUd285NW02cUItWFk3ZWliSjIyZw?oc=5) (2026-09-23 04:20) _(last seen)_
+  Summary: United States Digital Twin Technology in Manufacturing Market openPR.com
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Rockwell Automation to Demonstrate AI?Orchestrated Factory System Design at Hannover Messe 2026 - AD HOC NEWS](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbEY2RTM1cFlVbEFNM1RWdkVTMTNjbng2SjIyNUF1QVlySVdZRnNlc0VOVDN4Uk0zejlxMmNvV3F2cWtLVlpVZThHQlFPUW9MZkN5X3VkdV9URUtyRnVBajdOQ2dBV2pnUHZfNFRVemRhdXhEUnBfZkx4X2E0LVpkeUdFYTNPUEVza0t1WjVxWEdxdDRVZEtlWkU3X2JiVnBOY01WNTc1Qm9PUEJmQkRnWG4wQjNJSFNWZW9UMURkdHJGdU1KNzNFeDhQOTBOU29H?oc=5) (2026-04-20 01:00)
-  Summary: Rockwell Automation to Demonstrate AI?Orchestrated Factory System Design at Hannover Messe 2026 AD HOC NEWS
+- [BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training - EIN News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXI2U1FCR0htckFXQWh5OGllRXRPUWF4V1hhQUZiVlF6XzRVOTFKRU9VZWRmRVZtMUpQZkZaSTFKRWtlTU4yb0Z2S1VwTzdwUEtfZjNPeG9vckN4TXB0VFU4cUV0YjBpRFBlY1ppWnRQX05MdVRMN2hhdkhRTEZfN0VsQXZiUllBTVR0VVZhbVdGLXVqSnFDOFZ6M0lMenktREc0b2plU1BPS2k1b21sUFVySGEyaWlLZ3ZN?oc=5) (2026-09-22 08:16) _(last seen)_
+  Summary: BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training EIN News
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
@@ -29,14 +26,11 @@ Generated: 2026-09-25 11:01 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Autonomous Mobile Robots for Tire Plant Intralogistics Market, Global Market Analysis Report - 2036 - Fact.MR](https://news.google.com/rss/articles/CBMilgFBVV95cUxObkZFd3RmTFBYNU1hT05NLTBHY2VyVlhSd1E2Q3A2c05sNFktYVFkRk50aldpMi14UmkwSnVfSDhReUdjSVI5ampkQTNNajA4Y0s0S3FqbXlIZGdkZ0F1RlRwS3ByRE5YM3d0SU9WWVVZVkJGRXl5ajJfWHZkSy14SGc0ZXJGVC1rNm9Pa29ZUEh6UWl5U0E?oc=5) (2026-04-14 01:00)
-  Summary: Autonomous Mobile Robots for Tire Plant Intralogistics Market, Global Market Analysis Report - 2036 Fact.MR
+- [Argon & Co launches Intralogistics service offering for ANZ clients - Consultancy.com.au](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVUyOHNvVXRaOUF6UmpIRWZkMlU3bnhhaDMyTExUdHAtV0pqQjFIcG5CbzZIZTljSGRzeUhsQXZfRVF4STV0WXNlMXVOQnlUT096Y3RYN1VVYml4eW0wVlBEbVNyUWZONV8xVG0tdTlBUWpPdXR1ZS1TQ1pHWktOSzFKeHVTT0RIYnBDeUdnMmwtbTFnT1dNVWNMdUFFLWwwV08xRF9hai0wd9IBrwFBVV95cUxNcHpoYVNlekRTM1hLbFF3V2hTNHB2Z3A4cUFLQkVYUC02bzZEbmZkYjlJZnVDMDFlT3hzTnhxbjlDU2Y4UEc4SzJWSDdra2dJLVZIUWRQZVN2NmNLN1RrSEhEeDkxMzhHaWxzUi1IalF5REY4VXRKZmtEZVhBNllscVJhbVZxSWZ2Q2oxVjNtUmIwVnQyVlRuc2F3WEsyME5jOE91M3gwOGExSWhlTnFv?oc=5) (2023-06-26 01:00)
+  Summary: Argon & Co launches Intralogistics service offering for ANZ clients Consultancy.com.au
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
-- [Maximum transparency: Siemens shows the holistic digital twin of a logistics center - Siemens press](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUE9WZjhwd1RZYTM3UXljcFBEbC1nNGp5N1g1VEpkOUN1LVlSd05TR1pSZTJKN1VkNEpjX2Flc1BfSHJ6ZENHbExmdFAyWEprOTBIOVpKZVk5bHlFWEFFTzRmS2lkTERmYmpwcDlZaGF2d19VcGQzWWtzZEJydFJNczVnRE5Nd2hTY0c2aGRGNm5UMnNCd1d6UFhjYU12LVp3Z3loU0ZEeEdFQm9xak83YWRWdlVnaVdxb2VYYmVzMA?oc=5) (2023-03-20 01:00)
-  Summary: Maximum transparency: Siemens shows the holistic digital twin of a logistics center Siemens press
-  Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
-- [The transformation of warehouse technology: high -bay warehouse as the driver of modern intralogistics - Xpert.Digital - Konrad Wolfenstein](https://news.google.com/rss/articles/CBMickFVX3lxTE9PdmNZQnR4LWhiTW1fNXZ5S251NVpUb1Q2UVp3NjJqQzlhM3FucHh3Xy1WQ1pNTnNoeE9WUU51REVNNk5LNGduODJ1ZlNvNmRQVzY4NTZscmhlYzdBM3FPTFktMm43YzV6MzZEcUJDUVNxZw?oc=5) (2025-06-24 01:00)
-  Summary: The transformation of warehouse technology: high -bay warehouse as the driver of modern intralogistics Xpert.Digital - Konrad Wolfenstein
+- [Armstrong Dematic: Revolutionising the Intralogistics and Warehouse Automation Industry with AI and BI Driven Solutions - ThePrint](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeHhEQ0xYQVlnUklhampnZTcxZTNpdkJGeFNSTGJwZ1hnN2gyTXVxV3ppZEdIcl9mekJVbmgtZ19nU2VRYk9rVVBDX2swRjV6bE5JendkSjRYTEpmcWRoa3J4bWhtOXBDYTlOZVAxSUFqWFFlVzI4UVN6bzFmYWtaNmJOYWM2ZEhzQUFpZFR2VnhhSUE3bk1QUk5YeUhrbzdRY19aNENFXzFRMXZQcEc2U1BTQUlqcWJ2eDdQa21tVFp6UGJqanZQWEJoZWU1UEhSOXl0SWVhaV83NHRrdFBnVFpvUWZnVEx6V0Q0bzVzVzN1RkJKTTNFcnRn0gH_AUFVX3lxTE50R1ZKZENuWVdaaHpCSGRLemFGXzM3Z0w0Ym9fSlFKZmQzaWRhVGxxNW1CMUlDaWkwWFBUWXJSSURnbUZ6bkxReWNQYnFVOTdqV2NTU29ocU1HaFFJRlhydVVVRUxra1BZUDNmbDc3TFk3dHlER0htMmpJVThweWVPRExTeVRHSk5uc2N4UzVlN29ZRUtyUVNOV0EyZWszMGpwWjduNXhtZ1VrdGtxODhBYnRpcDJzSXd6YWlDRlVsNUJhNWZ4ZzhWQTM0MjZxRmNkZWdXUXV2Z2tITnBENXE3VmVmTk12YTR4dFF1RzM0MGhHaGZnTS1LSUU3VjRiMA?oc=5) (2023-07-19 01:00)
+  Summary: Armstrong Dematic: Revolutionising the Intralogistics and Warehouse Automation Industry with AI and BI Driven Solutions ThePrint
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
@@ -53,9 +47,15 @@ Generated: 2026-09-25 11:01 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [How green tech actually solves energy security](https://www.youtube.com/watch?v=t5V-yIGpGL4) (2026-09-24 07:20) _(last seen)_
-  Summary: Industries often take energy for granted. Operators flip a switch, or fill a tank, and everything runs as expected. Recent global events prove the harsh reality: energy prices and availability can change quickly putting whole sectors at risk. Experts argue, however, that automation, digitalization and green technologies can secure energy supply chains. In this podcast, Christian Gueckel, Head of Verticals for Chemicals and Energy at Siemens Digital Industry and Bernd Kalusche, Director of Ver...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [Siemens and NVIDIA preview industrial tech stack for AI-era manufacturing - Siemens Newsroom](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWhvSWNzczRPYjVZZXZtZ3JFSFhNN0ZuUjNjTkV6TlJxSnNCeHdBZkRYTU9LWkR2emIxc0h1UXlya3kwQWcwV2xNR1JKMFRXZm1oOHFKSmhlUkUtUWFUbHVGa2NfQlpaeV9TTFJhTTBDeWZXNzJzNDQ1UEttOVNDM3pFMjUzYXB5bW9OcFgyWmZKUUx1cUdIeTg1VlZ3cTE1aVEyOWJQemQ?oc=5) (2025-10-28 01:00)
+  Summary: Siemens and NVIDIA preview industrial tech stack for AI-era manufacturing Siemens Newsroom
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Simcenter PSIM troubleshooting tips and tricks](https://www.youtube.com/watch?v=8toKKiExfWk) (2026-09-25 12:45)
+  Summary: About this webinar Many simulation issues in Simcenter PSIM are often traced back to model setup, controls design, or simulation configuration rather than the solver itself. In this webinar, we'll explore real-world troubleshooting examples, demonstrate proven solutions, and share best practices to help you build more reliable and efficient simulations. Technical domain Power electronics, PSIM simulation Software - Simcenter PSIM 2026.1 Presenter Juan Rosales Customer Support Engineer, Siemen...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [Analyzing PWM impact on electric motor performance](https://www.youtube.com/watch?v=6y9S5nLohm8) (2026-09-25 12:24)
+  Summary: About this webinar This webinar presents how pulse-width modulation (PWM) can impact electric motor performance. It demonstrates simulation approaches for evaluating the effects of PWM excitation on electromagnetic behavior and overall motor performance using the Simcenter portfolio. Technical domain Low-frequency electromagnetics Software - Simcenter Flux - Simcenter Simlab - Simcenter PSIM - Simcenter Optistruct Presenter Simon Guicheteau Customer Support Engineer, Siemens Digital Industrie...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
 ### Visual Components
 
 - [Bucher Municipal: accelerating robot welding with Visual Components](https://www.youtube.com/watch?v=QBVdtGXe9xw) (2026-09-16 02:08) _(last seen)_
@@ -63,12 +63,9 @@ Generated: 2026-09-25 11:01 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
-- [Rockwell Automation to Demonstrate AI?Orchestrated Factory System Design at Hannover Messe 2026 - AD HOC NEWS](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbEY2RTM1cFlVbEFNM1RWdkVTMTNjbng2SjIyNUF1QVlySVdZRnNlc0VOVDN4Uk0zejlxMmNvV3F2cWtLVlpVZThHQlFPUW9MZkN5X3VkdV9URUtyRnVBajdOQ2dBV2pnUHZfNFRVemRhdXhEUnBfZkx4X2E0LVpkeUdFYTNPUEVza0t1WjVxWEdxdDRVZEtlWkU3X2JiVnBOY01WNTc1Qm9PUEJmQkRnWG4wQjNJSFNWZW9UMURkdHJGdU1KNzNFeDhQOTBOU29H?oc=5) (2026-04-20 01:00)
-  Summary: Rockwell Automation to Demonstrate AI?Orchestrated Factory System Design at Hannover Messe 2026 AD HOC NEWS
-  Feed source: https://news.google.com/rss/search?q=rockwell+automation+emulate3d+digital+twin&hl=en&gl=US&ceid=US:en
-- [How Rockwell is bundling AI into robotics, w... - BNamericas.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPYW5OVGJ5RG41MWNkZnlIZ1ZFR2Q1VnM5LWVYVWNHLVpFM196WDZxdWIxYVVGNFBQRkFEQU5zT05pc3JZYnhmRW5TdWxId2FEMHBWOUppWE0xemJpLUo0WGF4SDlEZ3dYTTlHeFN3ZG1TYmxUSDNQSWg2bEx6eWFsaEZsbE0yRWZJZHhITHB3ZmsxZEQtZkREeEwtQk51OEgyTGc?oc=5) (2024-07-09 01:00)
-  Summary: How Rockwell is bundling AI into robotics, w... BNamericas.com
-  Feed source: https://news.google.com/rss/search?q=rockwell+automation+emulate3d+digital+twin&hl=en&gl=US&ceid=US:en
+- [Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork](https://www.youtube.com/watch?v=CStXllt3wac) (2026-09-22 09:19) _(last seen)_
+  Summary: Curious about what’s coming to Automation Fair? We’re giving you an inside look at what you can expect to see on the Expo show floor plus insights from our Partner Network. Learn more and register today! https://rok.auto/3I7y0K0 #ROKevents
+  Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
 - [Build Models in Browser with AnyLogic Online](https://www.youtube.com/watch?v=PQDqXgEySAY) (2026-09-15 04:55) _(last seen)_
