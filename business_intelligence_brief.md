@@ -1,18 +1,18 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-26 10:14 (Mexico City)
+Generated: 2026-09-27 10:49 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [Küttner Automation: Virtual commissioning in the “digital factory” shortens the commissioning phase and speeds up the ramp-up - foundry-planet.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSExVTTBxMmRLTGJEOC1hVUR5SS1FQUI5MV94aWNhMkUwZGUxQ3dPU0llLXBKZkYtT0I1QjV6LXNTTGpmQVNhUzlJU2g4c2x2YkxfT3VudXpMSHJJLXVFOENDNE9jbVpfLWZzVy11Z09qY3N3VWFBSGtSZVJJOFN6YjV2STFtTG5memNRRlI4eE5xVUJnYzhnMm1CRTRILUwwU01UMTBFOFZkXzVoVkZiTmlubkZiSXV0MkxVRmNZUWZTNTFzTDVZNkdDWXdvUU5IVWFVY3VNOExKZHRZSUh0cVRnM3VrN3FvM2E5RV9B?oc=5) (2017-06-02 02:00)
-  Summary: Küttner Automation: Virtual commissioning in the “digital factory” shortens the commissioning phase and speeds up the ramp-up foundry-planet.com
+- [FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnpoT2lyMHgwOUo5c3JVVjFubWlmOHhXbWNjZUJQdzAwaHJWRE1Cc0RhYnZBWTMwZ3VUOEpFUUhfNGJrY3pJaXAtZm1TM2lrbC1ndUMteldFTUFhLTRsZUZYaWdFYWFtOXJfci1RODk5UlVwaWtlRDVIal9hRWN0Wml3NFcwaHZ2R1lVUjUtOWFqbXYtMmR6VXJ0c1lYQV9uX1lQX2NFaXFjV2FxNjJxWjBNbnFlVkNobGR2QkxvVENKU25mcjh0a3lIM3JqWHlWMVI3Zi11QQ?oc=5) (2026-09-04 07:15) _(last seen)_
+  Summary: FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [United States Digital Twin Technology in Manufacturing Market - openPR.com](https://news.google.com/rss/articles/CBMingFBVV95cUxOVUJ3ZEFjZUlUZUFheEtidkRVdzlOMWJZUS0td1Y5bU1WR2wyNzNxdXNFTVZIUklnS2ZuczhqeUxGT3hVVFRTem8tXzdpanZCLVdjX25lVWJSNWd2eXhQNDliWVdfR2ZpX1dYdkpUUnhtSUtOTk0wbXRpbnIyMzN2bURtVG1lSnR1T0NUd285NW02cUItWFk3ZWliSjIyZw?oc=5) (2026-09-23 04:20) _(last seen)_
-  Summary: United States Digital Twin Technology in Manufacturing Market openPR.com
+- [Synopsys boosts manufacturing with real-time digital twin simulation - DataCentreNews UK](https://news.google.com/rss/articles/CBMiogFBVV95cUxOV05vYWtVdk1sOW4telFhUVpoRFp2MTdvOFNRb21fRUtfb1E0WEhxZWZRMjc5Y1RsVDMtaU5zdFpYUFR6bkh2ekZCdTJWV3Rvd3AzZDM1UVBvUlJSakREdWdIb2ZxNEpTamVZTUtvM2NQd3daYWVmLW9QcFhFZ1ZSNzVoYk8yeUllZm9iZzZuYy1aSXI2NTdRSlpzRm9zOGVUMFE?oc=5) (2025-11-21 02:00)
+  Summary: Synopsys boosts manufacturing with real-time digital twin simulation DataCentreNews UK
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
@@ -26,11 +26,8 @@ Generated: 2026-09-26 10:14 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Argon & Co launches Intralogistics service offering for ANZ clients - Consultancy.com.au](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVUyOHNvVXRaOUF6UmpIRWZkMlU3bnhhaDMyTExUdHAtV0pqQjFIcG5CbzZIZTljSGRzeUhsQXZfRVF4STV0WXNlMXVOQnlUT096Y3RYN1VVYml4eW0wVlBEbVNyUWZONV8xVG0tdTlBUWpPdXR1ZS1TQ1pHWktOSzFKeHVTT0RIYnBDeUdnMmwtbTFnT1dNVWNMdUFFLWwwV08xRF9hai0wd9IBrwFBVV95cUxNcHpoYVNlekRTM1hLbFF3V2hTNHB2Z3A4cUFLQkVYUC02bzZEbmZkYjlJZnVDMDFlT3hzTnhxbjlDU2Y4UEc4SzJWSDdra2dJLVZIUWRQZVN2NmNLN1RrSEhEeDkxMzhHaWxzUi1IalF5REY4VXRKZmtEZVhBNllscVJhbVZxSWZ2Q2oxVjNtUmIwVnQyVlRuc2F3WEsyME5jOE91M3gwOGExSWhlTnFv?oc=5) (2023-06-26 01:00)
-  Summary: Argon & Co launches Intralogistics service offering for ANZ clients Consultancy.com.au
-  Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
-- [Armstrong Dematic: Revolutionising the Intralogistics and Warehouse Automation Industry with AI and BI Driven Solutions - ThePrint](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeHhEQ0xYQVlnUklhampnZTcxZTNpdkJGeFNSTGJwZ1hnN2gyTXVxV3ppZEdIcl9mekJVbmgtZ19nU2VRYk9rVVBDX2swRjV6bE5JendkSjRYTEpmcWRoa3J4bWhtOXBDYTlOZVAxSUFqWFFlVzI4UVN6bzFmYWtaNmJOYWM2ZEhzQUFpZFR2VnhhSUE3bk1QUk5YeUhrbzdRY19aNENFXzFRMXZQcEc2U1BTQUlqcWJ2eDdQa21tVFp6UGJqanZQWEJoZWU1UEhSOXl0SWVhaV83NHRrdFBnVFpvUWZnVEx6V0Q0bzVzVzN1RkJKTTNFcnRn0gH_AUFVX3lxTE50R1ZKZENuWVdaaHpCSGRLemFGXzM3Z0w0Ym9fSlFKZmQzaWRhVGxxNW1CMUlDaWkwWFBUWXJSSURnbUZ6bkxReWNQYnFVOTdqV2NTU29ocU1HaFFJRlhydVVVRUxra1BZUDNmbDc3TFk3dHlER0htMmpJVThweWVPRExTeVRHSk5uc2N4UzVlN29ZRUtyUVNOV0EyZWszMGpwWjduNXhtZ1VrdGtxODhBYnRpcDJzSXd6YWlDRlVsNUJhNWZ4ZzhWQTM0MjZxRmNkZWdXUXV2Z2tITnBENXE3VmVmTk12YTR4dFF1RzM0MGhHaGZnTS1LSUU3VjRiMA?oc=5) (2023-07-19 01:00)
-  Summary: Armstrong Dematic: Revolutionising the Intralogistics and Warehouse Automation Industry with AI and BI Driven Solutions ThePrint
+- [Material Handling Equipment Market Size, Share & Growth 2034 - Fortune Business Insights](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHRkSWRaWFNKVlVhWnZld2hONjVhWWVEYi10OGRZejl4Z0ZPTXN4VmduS0JfcUdzM1VaOHUyQW9SNmg0eGVNYUtLRlJ1YUhyNmNrY0hKNnIzbDVlNDl2QUdQTnd0Z2J6TEhrMmtVODhFRjFMV21oRjF6NXdodVJyYWRaNjVjU0FYbWxvR1pDaEhaOWY2VXNONmpralJVWHc?oc=5) (2026-08-31 01:00) _(last seen)_
+  Summary: Material Handling Equipment Market Size, Share & Growth 2034 Fortune Business Insights
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
@@ -47,25 +44,19 @@ Generated: 2026-09-26 10:14 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens and NVIDIA preview industrial tech stack for AI-era manufacturing - Siemens Newsroom](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWhvSWNzczRPYjVZZXZtZ3JFSFhNN0ZuUjNjTkV6TlJxSnNCeHdBZkRYTU9LWkR2emIxc0h1UXlya3kwQWcwV2xNR1JKMFRXZm1oOHFKSmhlUkUtUWFUbHVGa2NfQlpaeV9TTFJhTTBDeWZXNzJzNDQ1UEttOVNDM3pFMjUzYXB5bW9OcFgyWmZKUUx1cUdIeTg1VlZ3cTE1aVEyOWJQemQ?oc=5) (2025-10-28 01:00)
-  Summary: Siemens and NVIDIA preview industrial tech stack for AI-era manufacturing Siemens Newsroom
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Simcenter PSIM troubleshooting tips and tricks](https://www.youtube.com/watch?v=8toKKiExfWk) (2026-09-25 12:45)
+- [Simcenter PSIM troubleshooting tips and tricks](https://www.youtube.com/watch?v=8toKKiExfWk) (2026-09-25 12:45) _(last seen)_
   Summary: About this webinar Many simulation issues in Simcenter PSIM are often traced back to model setup, controls design, or simulation configuration rather than the solver itself. In this webinar, we'll explore real-world troubleshooting examples, demonstrate proven solutions, and share best practices to help you build more reliable and efficient simulations. Technical domain Power electronics, PSIM simulation Software - Simcenter PSIM 2026.1 Presenter Juan Rosales Customer Support Engineer, Siemen...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [Analyzing PWM impact on electric motor performance](https://www.youtube.com/watch?v=6y9S5nLohm8) (2026-09-25 12:24)
-  Summary: About this webinar This webinar presents how pulse-width modulation (PWM) can impact electric motor performance. It demonstrates simulation approaches for evaluating the effects of PWM excitation on electromagnetic behavior and overall motor performance using the Simcenter portfolio. Technical domain Low-frequency electromagnetics Software - Simcenter Flux - Simcenter Simlab - Simcenter PSIM - Simcenter Optistruct Presenter Simon Guicheteau Customer Support Engineer, Siemens Digital Industrie...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
 ### Visual Components
 
-- [Bucher Municipal: accelerating robot welding with Visual Components](https://www.youtube.com/watch?v=QBVdtGXe9xw) (2026-09-16 02:08) _(last seen)_
-  Summary: Facing growing demand and limited robot availability, Bucher Municipal transformed its welding operations with offline robot programming. By validating programs virtually before deployment, the company reduced programming time by up to 70%, minimized production interruptions, and improved welding consistency, creating a more efficient path to automation. Read the full customer case: https://www.visualcomponents.com/case-studies/bucher-municipal-accelerating-robot-welding-with-visual-components/
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
+- [Finnish-Japanese JV plans 3D simulations for manufacturers - drivesncontrols.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1lnNWl2UlpxRlZ2LUxyRm9OUE1pTmRhalZWTEs5ZlNGY2JwbzlzSk5kbHVHY294aUx2QnBTaHpaZV96TkEwcDF2SFd1M1MxSGE3NGhlRFBFN3hZRjRZRmdFdXgweVhhVWtXTE8waWRRRlM1cGtyYUN1NlV0dGxUcGFzYmd2QVRhbFFlYmc2cTE?oc=5) (2023-11-03 01:00)
+  Summary: Finnish-Japanese JV plans 3D simulations for manufacturers drivesncontrols.com
+  Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 
-- [Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork](https://www.youtube.com/watch?v=CStXllt3wac) (2026-09-22 09:19) _(last seen)_
-  Summary: Curious about what’s coming to Automation Fair? We’re giving you an inside look at what you can expect to see on the Expo show floor plus insights from our Partner Network. Learn more and register today! https://rok.auto/3I7y0K0 #ROKevents
-  Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
+- [Rockwell Automation Showcases Autonomous Industrial Operations at Hannover Messe 2026 - AD HOC NEWS](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPblNRdlVKNVU1UEg2UnNybmpsRGt6b1ZrR0R2dkpHdjRhTFVOcm5WR050eHZQWUFJY0NMQXROaG9HVGxmYTBYWG5KenA0b1AxU3o5YldoT19jZEhNYW84bkd2eS0yOU1vSGFwMVlDUWd3TS1DLV9tUGpkbjRQcHVwb05jNHJleUE4WmZaZ3NYT0hCbHpsRUdyVHRaT1Z3RUtXSFQ3SDNhRmR5TndheG5rQjFaWWkxRGFMVFdBMmxqdkNFLUxSTkJpck1vajlPWjR0STVJ?oc=5) (2026-03-26 01:00)
+  Summary: Rockwell Automation Showcases Autonomous Industrial Operations at Hannover Messe 2026 AD HOC NEWS
+  Feed source: https://news.google.com/rss/search?q=rockwell+automation+emulate3d+digital+twin&hl=en&gl=US&ceid=US:en
 ### AnyLogic
 
 - [Build Models in Browser with AnyLogic Online](https://www.youtube.com/watch?v=PQDqXgEySAY) (2026-09-15 04:55) _(last seen)_
