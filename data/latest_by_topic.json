@@ -20,19 +20,19 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Simcenter PSIM troubleshooting tips and tricks",
-    "summary": "About this webinar Many simulation issues in Simcenter PSIM are often traced back to model setup, controls design, or simulation configuration rather than the solver itself. In this webinar, we'll explore real-world troubleshooting examples, demonstrate proven solutions, and share best practices to help you build more reliable and efficient simulations. Technical domain Power electronics, PSIM simulation Software - Simcenter PSIM 2026.1 Presenter Juan Rosales Customer Support Engineer, Siemen...",
-    "link": "https://www.youtube.com/watch?v=8toKKiExfWk",
-    "published": "2026-09-25 12:45",
+    "title": "Community Conversations: Building a Designcenter NXOpen interactive console",
+    "summary": "Discuss this session and connect with the expert community in the Designcenter NXOpen forum: https://sie.ag/7KzAES This session of Community Conversations demonstrates how to build an interactive NXOpen console. By configuring ipykernel and client connections, developers can execute commands in real-time to optimize their automation workflows. Topics covered: \u2022 Understanding the interactive console architecture \u2022 Configuring ipykernel within the NX environment \u2022 Setting up the client connecti...",
+    "link": "https://www.youtube.com/watch?v=yCKFkxhxl8A",
+    "published": "2026-09-28 08:58",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
   },
   "competitors:Visual Components": {
     "section": "competitors",
     "topic": "Visual Components",
-    "title": "Bucher Municipal: accelerating robot welding with Visual Components",
-    "summary": "Facing growing demand and limited robot availability, Bucher Municipal transformed its welding operations with offline robot programming. By validating programs virtually before deployment, the company reduced programming time by up to 70%, minimized production interruptions, and improved welding consistency, creating a more efficient path to automation. Read the full customer case: https://www.visualcomponents.com/case-studies/bucher-municipal-accelerating-robot-welding-with-visual-components/",
-    "link": "https://www.youtube.com/watch?v=QBVdtGXe9xw",
-    "published": "2026-09-16 02:08",
+    "title": "Neu: FactoryLens macht aus Fabriksimulationen realistische Kundenerlebnisse",
+    "summary": "Visual Components stellt FactoryLens vor und erweitert damit die Zusammenarbeit mit NVIDIA bei industriellen digitalen Zwillingen. Mit FactoryLens k\u00f6nnen Systemintegratoren und Maschinenbauer ihre Simulationen aus Visual Components mit realistischen Materialien, Beleuchtung und Schatten pr\u00e4sentieren, sodass mehr Stakeholder ein geplantes Automatisierungssystem nachvollziehen k\u00f6nnen. https://www.visualcomponents.com/de/blog/factorylens-macht-aus-fabriksimulationen-realistische-kundenerlebnisse/",
+    "link": "https://www.youtube.com/watch?v=yNwiXky5y0s",
+    "published": "2026-09-28 06:42",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg"
   },
   "competitors:Rockwell Automation": {
@@ -74,10 +74,10 @@
   "business:Digital Twin Manufacturing": {
     "section": "business",
     "topic": "Digital Twin Manufacturing",
-    "title": "United States Digital Twin Technology in Manufacturing Market - openPR.com",
-    "summary": "United States Digital Twin Technology in Manufacturing Market openPR.com",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVUJ3ZEFjZUlUZUFheEtidkRVdzlOMWJZUS0td1Y5bU1WR2wyNzNxdXNFTVZIUklnS2ZuczhqeUxGT3hVVFRTem8tXzdpanZCLVdjX25lVWJSNWd2eXhQNDliWVdfR2ZpX1dYdkpUUnhtSUtOTk0wbXRpbnIyMzN2bURtVG1lSnR1T0NUd285NW02cUItWFk3ZWliSjIyZw?oc=5",
-    "published": "2026-09-23 04:20",
+    "title": "Digital Twin in Semiconductor Market Set for Rapid Growth as AI Reshapes Chip Manufacturing - TimesTech",
+    "summary": "Digital Twin in Semiconductor Market Set for Rapid Growth as AI Reshapes Chip Manufacturing TimesTech",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDhqeEZDOVZjT0NzNU9SUzJzUWZqUEFyQWoydHZmS1dhdTlkZl9KNGxSUTVfdVo4ZEdKSkpyYk5SVUQ5VWZCWmh1OENIVWR2X2lnTENfS3dadXV1SWVaRW8tNFBLWmV1Wk5iaG8xYVNkbzlvRHloOHlZWGEwUlZhODg2Nk5hblZpMmxvb3I0ZmtibEJ1WTB2YlRuUnUxcDd2M00xNWg3dnlhY3hoTHRLaEwxVQ?oc=5",
+    "published": "2026-09-28 00:23",
     "source_url": "https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en"
   },
   "business:PLC Simulation": {
@@ -92,10 +92,10 @@
   "business:Robot Simulation": {
     "section": "business",
     "topic": "Robot Simulation",
-    "title": "CAD to Robot: Inbolt and RoboDK Tackle Different Stages of the Automation Workflow - Machine Design",
-    "summary": "CAD to Robot: Inbolt and RoboDK Tackle Different Stages of the Automation Workflow Machine Design",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObEhyRTZLa01rRzlpQXhRSTBHOFFyd3Jpb1ZicVRDSHpFdWh4dkc0dTlzWTF3dS14bG9BQzNKcG9xWk1uWEgtWkxudXR2OXp2VkY5MnExemowcVduNGpaX2F4ZGx2Y1ZadFVFdlRBSURYZzl5dkFINWNiRVNBS2JoMUZNX1N1S3ZuUXdfVGRQQ28xMWRDaXY3d1lDYTRpSHFnRnBoQmctTFFaRlVQanB1aXNrd1UwTFBNSTM0aHhHNlo0b1NRdDd2Zkk0TmN4ZGpDQnM0TlZSSU45cHM?oc=5",
-    "published": "2026-09-21 00:01",
+    "title": "Visual Components launches FactoryLens, extending its collaboration with NVIDIA for industrial digital twins - Cision News",
+    "summary": "Visual Components launches FactoryLens, extending its collaboration with NVIDIA for industrial digital twins Cision News",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeFRVV0dRdDY4QjFFNlo5MEJiQ0E4UFRRNmhjOFEydXZYempiRllqN01SREUxLWNabmNQMmJyTWNMRFNKaFB0bzNIbk93dklMUEhuRm9vTm45WS1UQXZOX254UnBtMU5aaHh2aTYyR3ByOFhtX3otQmpPTldYTlVzdjdNM1BFYktQR2xvWHRWT2dZWVFjNUVya0tDRXFKSDNZX3BsaGNweElUNHpDckE5dDUxNDA5Ulc4Wno1Y2NBdTRuYXFsV3JDMkJuUTM1RVZjYWl5RE95TGtJaW96WDgyUThIekM1ZDg?oc=5",
+    "published": "2026-09-28 02:29",
     "source_url": "https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en"
   },
   "business:Intralogistics Simulation": {
@@ -104,7 +104,7 @@
     "title": "Material Handling Equipment Market Size, Share & Growth 2034 - Fortune Business Insights",
     "summary": "Material Handling Equipment Market Size, Share & Growth 2034 Fortune Business Insights",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHRkSWRaWFNKVlVhWnZld2hONjVhWWVEYi10OGRZejl4Z0ZPTXN4VmduS0JfcUdzM1VaOHUyQW9SNmg0eGVNYUtLRlJ1YUhyNmNrY0hKNnIzbDVlNDl2QUdQTnd0Z2J6TEhrMmtVODhFRjFMV21oRjF6NXdodVJyYWRaNjVjU0FYbWxvR1pDaEhaOWY2VXNONmpralJVWHc?oc=5",
-    "published": "2026-08-31 01:00",
+    "published": "2026-09-07 01:00",
     "source_url": "https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en"
   }
 }
