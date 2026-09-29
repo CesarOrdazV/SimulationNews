@@ -1,39 +1,33 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-28 13:33 (Mexico City)
+Generated: 2026-09-29 11:59 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [Virtual Commissioning Market Companies, Size & Trends 2026-2034 - Precedence Research](https://news.google.com/rss/articles/CBMicEFVX3lxTFBSQlNuTlhIRFM2aFhrSmZCU3l5NmwzWUdMZjdoRkJydnhKUS1NdmZ6UUJ3LVozU0hpdGkyQXhMRzlmT2RUcURvODQ5R2ZhZndybkh5Y1dReW5ZdGNXVjBfYmRpb2xxMnpyZzVydkcyZXU?oc=5) (2025-09-18 07:31)
-  Summary: Virtual Commissioning Market Companies, Size & Trends 2026-2034 Precedence Research
+- [FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Robotics Tomorrow](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVnpoT2lyMHgwOUo5c3JVVjFubWlmOHhXbWNjZUJQdzAwaHJWRE1Cc0RhYnZBWTMwZ3VUOEpFUUhfNGJrY3pJaXAtZm1TM2lrbC1ndUMteldFTUFhLTRsZUZYaWdFYWFtOXJfci1RODk5UlVwaWtlRDVIal9hRWN0Wml3NFcwaHZ2R1lVUjUtOWFqbXYtMmR6VXJ0c1lYQV9uX1lQX2NFaXFjV2FxNjJxWjBNbnFlVkNobGR2QkxvVENKU25mcjh0a3lIM3JqWHlWMVI3Zi11QQ?oc=5) (2026-09-04 07:15) _(last seen)_
+  Summary: FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Robotics Tomorrow
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Digital Twin in Semiconductor Market Set for Rapid Growth as AI Reshapes Chip Manufacturing - TimesTech](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDhqeEZDOVZjT0NzNU9SUzJzUWZqUEFyQWoydHZmS1dhdTlkZl9KNGxSUTVfdVo4ZEdKSkpyYk5SVUQ5VWZCWmh1OENIVWR2X2lnTENfS3dadXV1SWVaRW8tNFBLWmV1Wk5iaG8xYVNkbzlvRHloOHlZWGEwUlZhODg2Nk5hblZpMmxvb3I0ZmtibEJ1WTB2YlRuUnUxcDd2M00xNWg3dnlhY3hoTHRLaEwxVQ?oc=5) (2026-09-28 00:23)
+- [Digital Twin in Semiconductor Market Set for Rapid Growth as AI Reshapes Chip Manufacturing - TimesTech](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDhqeEZDOVZjT0NzNU9SUzJzUWZqUEFyQWoydHZmS1dhdTlkZl9KNGxSUTVfdVo4ZEdKSkpyYk5SVUQ5VWZCWmh1OENIVWR2X2lnTENfS3dadXV1SWVaRW8tNFBLWmV1Wk5iaG8xYVNkbzlvRHloOHlZWGEwUlZhODg2Nk5hblZpMmxvb3I0ZmtibEJ1WTB2YlRuUnUxcDd2M00xNWg3dnlhY3hoTHRLaEwxVQ?oc=5) (2026-09-28 00:23) _(last seen)_
   Summary: Digital Twin in Semiconductor Market Set for Rapid Growth as AI Reshapes Chip Manufacturing TimesTech
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [RS Group selects Siemens’ EDA simulation technology for new cloud native DesignSpark Circuit Simulator - Siemens Newsroom](https://news.google.com/rss/articles/CBMibEFVX3lxTE9hUm13OTRqMTNEWjgyY25xREtBVDRiOVhIZGRUVERGT3R1elFhRTFBaGpzLUlNQkMzODNUQ2wwRV9hcUl4UEUxOGZsNjFxQzViY1YxQmFiSWxGb2ZjdHROd1pjcmREV3M0RWdwdg?oc=5) (2023-12-05 02:00)
-  Summary: RS Group selects Siemens’ EDA simulation technology for new cloud native DesignSpark Circuit Simulator Siemens Newsroom
-  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
-- [10 Critical Flaws Found in CODESYS Industrial Automation Software - The Hacker News](https://news.google.com/rss/articles/CBMifkFVX3lxTE9GY3ZkU0owWlhKZXZVOHBNanZmT1N3Mm5BbmduQVAzMEE1UURjeVFIRHE3MGZTejBIWF9vWWp2NHFScDZxOUNpN3lyckdpR09nem9ad2JFeFVpTURaWHlIdkpDbFNYb2pyWThYd3R1U0hUYkpuc1RhQ3pDRGRmZw?oc=5) (2021-06-04 02:00)
-  Summary: 10 Critical Flaws Found in CODESYS Industrial Automation Software The Hacker News
-  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
-- [SJEC organises consecutive 3-day hands-on workshops on “Automation & PLC Programming” - Daijiworld](https://news.google.com/rss/articles/CBMiakFVX3lxTFBWODk0cnEwS2JMVTFzcFJJcnZZWHpwRUZjejZ0STZCbUw1STU3anFacmxpYzUwMzRoMHRLNnZUMV80c1BoSXU1QmxzVWJQWjdLSzdYT25uaFpSWkp0cHdaRTlFSXRsVi1HNXc?oc=5) (2025-09-04 01:00)
-  Summary: SJEC organises consecutive 3-day hands-on workshops on “Automation & PLC Programming” Daijiworld
+- [Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering - Siemens Newsroom](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ONEVkY3JJVlY5ZXFOSnhYWmhSUkhHYkxDbS1Ia3RvNS03bGZwa1JLTF9oODhwM0JEZS05ckxNMGJjSkxFWUNRbi1nR0c0TG9mb0VKeVhfdldqZnVQN3RhUHFNZw?oc=5) (2026-08-28 01:07)
+  Summary: Siemens launches Eigen Engineering Agent in Thailand, bringing purpose-built industrial AI to automation engineering Siemens Newsroom
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [Visual Components launches FactoryLens, extending its collaboration with NVIDIA for industrial digital twins - Cision News](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeFRVV0dRdDY4QjFFNlo5MEJiQ0E4UFRRNmhjOFEydXZYempiRllqN01SREUxLWNabmNQMmJyTWNMRFNKaFB0bzNIbk93dklMUEhuRm9vTm45WS1UQXZOX254UnBtMU5aaHh2aTYyR3ByOFhtX3otQmpPTldYTlVzdjdNM1BFYktQR2xvWHRWT2dZWVFjNUVya0tDRXFKSDNZX3BsaGNweElUNHpDckE5dDUxNDA5Ulc4Wno1Y2NBdTRuYXFsV3JDMkJuUTM1RVZjYWl5RE95TGtJaW96WDgyUThIekM1ZDg?oc=5) (2026-09-28 02:29)
-  Summary: Visual Components launches FactoryLens, extending its collaboration with NVIDIA for industrial digital twins Cision News
+- [Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins - AZoRobotics](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ETHNzZTYzQWFjYnd4TFRzN3ZfTktEdi1sLVNGOGdNSWEyenpCTjFfanRnYzJjSmlCaGhKRmNsSkNTMTZJanRtbWEwd2dNNGc5c0lBU3FhNWtYTmdJbWpv?oc=5) (2026-09-28 23:30)
+  Summary: Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins AZoRobotics
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Armstrong Dematic: Revolutionising the Intralogistics and Warehouse Automation Industry with AI and BI Driven Solutions - ANI News](https://news.google.com/rss/articles/CBMiigJBVV95cUxQNjZJZGpwSnpZYXJLWUh0enlSN05jdXk2WG54S2lYMVVKUEs3d1IxaFNJUl9UX2s2MUtDa1pMcVBhOW1tVEZnSkhlamw2LXZ5U0NfUF9ycWNIZVJRZndCNGVsNG0xaWZKeHc1bDhDR19KUHdIMUdzWW1oeXpKUFZnVGZnS0x2SWN2aXlSRXhxa1pfWW9lekdldUpJQ01SYUt6cTgyc2ZGdlFkc1NJRERMWU5HM1NNb1d1NDZubkEzZWxVa2Jrak1ndFNMTzFYR0lELUV2b3BhWnNaRVBGai05bHRRQlpWXzlDbHdDaUJLN0pDVThrendSY3BHcTBSNy1VWDJreTRWSm9zZw?oc=5) (2023-07-19 01:00)
-  Summary: Armstrong Dematic: Revolutionising the Intralogistics and Warehouse Automation Industry with AI and BI Driven Solutions ANI News
+- [Material Handling Equipment Market Size, Share & Growth 2034 - Fortune Business Insights](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHRkSWRaWFNKVlVhWnZld2hONjVhWWVEYi10OGRZejl4Z0ZPTXN4VmduS0JfcUdzM1VaOHUyQW9SNmg0eGVNYUtLRlJ1YUhyNmNrY0hKNnIzbDVlNDl2QUdQTnd0Z2J6TEhrMmtVODhFRjFMV21oRjF6NXdodVJyYWRaNjVjU0FYbWxvR1pDaEhaOWY2VXNONmpralJVWHc?oc=5) (2026-09-07 01:00) _(last seen)_
+  Summary: Material Handling Equipment Market Size, Share & Growth 2034 Fortune Business Insights
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
@@ -45,25 +39,25 @@ Generated: 2026-09-28 13:33 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
-- [What Is Manufacturing Optimized Software and How Does It Improve Production Efficiency?](https://robodk.com/blog/manufacturing-optimized-software-and-how-does-it-improve-production-efficiency/) (2026-09-23 08:24) _(last seen)_
-  Summary: Manufacturing optimized software refers to digital tools for streamlining, automating, and continuously improving production processes. But, not all robotic software is optimized for manufacturing. Robots are very common in manufacturing. However, that doesn’t mean they are necessarily “manufacturing optimized.” When you are choosing robotics software, it’s important to consider how it will fit within your wider ecosystem of connected software tools. In this article, we explore what is meant...
+- [Spotlight on… JAKA Robotics: Collaborative Automation for Every Scale](https://robodk.com/blog/spotlight-on-jaka-robotics-collaborative-automation/) (2026-09-29 03:32)
+  Summary: JAKA Robotics is one to watch as a growing name in the collaborative robotics industry. This global cobot manufacturer already has thousands of robots deployed across nearly 100 countries. with a unique range of application-specific solutions. For interesting collaborative robot catalogs, JAKA is one of the broadest and most comprehensive that we’ve seen. With industry-targeted solutions for automotive, new energy, metal manufacturing, and other industries, the company covers a impressive ran...
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Community Conversations: Building a Designcenter NXOpen interactive console](https://www.youtube.com/watch?v=yCKFkxhxl8A) (2026-09-28 08:58)
-  Summary: Discuss this session and connect with the expert community in the Designcenter NXOpen forum: https://sie.ag/7KzAES This session of Community Conversations demonstrates how to build an interactive NXOpen console. By configuring ipykernel and client connections, developers can execute commands in real-time to optimize their automation workflows. Topics covered: • Understanding the interactive console architecture • Configuring ipykernel within the NX environment • Setting up the client connecti...
+- [Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht - Siemens Newsroom](https://news.google.com/rss/articles/CBMifkFVX3lxTE53UmhfNzMwenY4ZjB0QTkzNVVqRmZXLURIaXpnaHV2WjBwZVNyczhJaHZCU2V4Rlc2U084cnJub2pSQkdLU2NkbTNTczAweTFQeFloZWVhLXhIZUJkM195MWdtTEk4dnFOS2VCUGxBejRwRTB5a3hUcVl2UExJQQ?oc=5) (2026-09-29 08:47)
+  Summary: Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht Siemens Newsroom
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [What is the industrial metaverse? - Siemens](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcFVBS1BVUnFFSWRGSzMtR2lkVlp1enBkWkswa0Jodmx5ZWg4U2xZTFpfcnh6ZXZhN0RUWWhGUzJFWnRvRGNLd3I2eDVPbDRjcmVqa0c3RzEySWdkQXNDVmZyUGh5YXk2QkFVVkc2MkFpTnNuWFkxdkJWcTJRc3lTRnFibWJkNWNRcEE?oc=5) (2026-02-13 06:12)
+  Summary: What is the industrial metaverse? Siemens
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Elevating aerospace & defense nanufacturing with Siemens digital solutions](https://www.youtube.com/watch?v=SesWPieoSms) (2026-09-29 00:59)
+  Summary: Aerospace and defense manufacturers face challenges connecting enterprise systems and making data from design, manufacturing and quality engineering available downstream. They also need a production digital twin to simulate, validate and optimize processes before taking them to the shop floor. In this video, Zvika Weisman, Director of Aerospace & Defense Digital Manufacturing Software Solutions at Siemens, discusses how Siemens manufacturing planning solutions connect this data through a sing...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
 ### Visual Components
 
-- [Visual Components launches FactoryLens, extending its collaboration with NVIDIA for industrial digital twins - Cision News](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeFRVV0dRdDY4QjFFNlo5MEJiQ0E4UFRRNmhjOFEydXZYempiRllqN01SREUxLWNabmNQMmJyTWNMRFNKaFB0bzNIbk93dklMUEhuRm9vTm45WS1UQXZOX254UnBtMU5aaHh2aTYyR3ByOFhtX3otQmpPTldYTlVzdjdNM1BFYktQR2xvWHRWT2dZWVFjNUVya0tDRXFKSDNZX3BsaGNweElUNHpDckE5dDUxNDA5Ulc4Wno1Y2NBdTRuYXFsV3JDMkJuUTM1RVZjYWl5RE95TGtJaW96WDgyUThIekM1ZDg?oc=5) (2026-09-28 02:29)
-  Summary: Visual Components launches FactoryLens, extending its collaboration with NVIDIA for industrial digital twins Cision News
+- [Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins - AZoRobotics](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ETHNzZTYzQWFjYnd4TFRzN3ZfTktEdi1sLVNGOGdNSWEyenpCTjFfanRnYzJjSmlCaGhKRmNsSkNTMTZJanRtbWEwd2dNNGc5c0lBU3FhNWtYTmdJbWpv?oc=5) (2026-09-28 23:30)
+  Summary: Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins AZoRobotics
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
-- [Neu: FactoryLens macht aus Fabriksimulationen realistische Kundenerlebnisse](https://www.youtube.com/watch?v=yNwiXky5y0s) (2026-09-28 06:42)
-  Summary: Visual Components stellt FactoryLens vor und erweitert damit die Zusammenarbeit mit NVIDIA bei industriellen digitalen Zwillingen. Mit FactoryLens können Systemintegratoren und Maschinenbauer ihre Simulationen aus Visual Components mit realistischen Materialien, Beleuchtung und Schatten präsentieren, sodass mehr Stakeholder ein geplantes Automatisierungssystem nachvollziehen können. https://www.visualcomponents.com/de/blog/factorylens-macht-aus-fabriksimulationen-realistische-kundenerlebnisse/
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
-- [Introducing FactoryLens: turn factory simulations into realistic customer experiences](https://www.youtube.com/watch?v=-qWAB6rnbC8) (2026-09-28 02:30)
-  Summary: Visual Components launches FactoryLens, extending its collaboration with NVIDIA for industrial digital twins. FactoryLens helps system integrators and machine builders present Visual Components simulations with realistic materials, lighting, and shadows, so more stakeholders can understand a proposed automation system. Read the full blog post: https://www.visualcomponents.com/blog/introducing-factorylens/
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
 - [Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork](https://www.youtube.com/watch?v=CStXllt3wac) (2026-09-22 09:19) _(last seen)_
@@ -71,8 +65,8 @@ Generated: 2026-09-28 13:33 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
-- [Build Models in Browser with AnyLogic Online](https://www.youtube.com/watch?v=PQDqXgEySAY) (2026-09-15 04:55) _(last seen)_
-  Summary: Simulation modeling just became more accessible. Meet AnyLogic Online. Build dynamic simulation models, explore complex systems, and test new ideas in one online environment. See the model editor in action: organize projects, use powerful modeling libraries, create process logic visually, and customize behavior with built-in code completion. Add space markup, robots, conveyors, and engaging 2D and 3D animation. When your model is ready, run simulations and compare scenarios to uncover bottlen...
+- [Webinar | The Future of Digital Twins with AnyLogic](https://www.youtube.com/watch?v=v3pUj4ob5Tc) (2026-09-29 08:15)
+  Summary: Manufacturing organizations are under constant pressure to improve efficiency, reduce risk, and make better decisions faster. In this webinar, presented by AnyLogic and Mobeats, discover how simulation modeling and digital twin technology help manufacturers test operational changes before investing in new equipment, facility expansions, workforce adjustments, process improvements, or supply chain initiatives. What you'll learn: ✅ What simulation modeling is and how it helps organizations save...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCdH-e29FvfphfWmI2EMZPhg
 ### F.EE / fescreen-sim
 
