@@ -2,11 +2,11 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Simulate Robotiq Grippers With NVIDIA Isaac Sim and Newton",
-    "summary": "Get under the hood of Robotiq\u2019s gripper simulation workflows in NVIDIA Isaac Sim. In this livestream, the team will walk through the five-bar linkage articulation challenge in its underactuated gripper and how it was addressed in simulation. You\u2019ll also see Newton used for closed-loop kinematics, along with PhysX and a mimic joint for parallel gripping across two USD variants. The session also explores Robotiq\u2019s tactile sensors and what changes when deformable bodies enter the simulation. To...",
-    "link": "https://www.youtube.com/watch?v=K2ui16FdLZw",
-    "published": "2026-09-24 01:24",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
+    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+    "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year if it sold every token it can produce. Useful life : How long its AI hardware keeps earning. Demand : How much demand there is for those tokens. Strength cannot fully offset we...",
+    "link": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+    "published": "2026-10-01 07:00",
+    "source_url": "https://blogs.nvidia.com/feed/"
   },
   "competitors:RoboDK": {
     "section": "competitors",
@@ -20,19 +20,19 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Joe Bohman @#RealizeLIVE 2026 | Product Realization of the Future",
-    "summary": "Joe Bohman, EVP of PLM products, at Realize LIVE 2026 in Detroit, on how bringing together a dream team of industrial intelligence capabilities is delivering product realization of the future. 0:17 How the Dream Team won 1:32 The strategy backed by \u20ac25 billion in investments 2:35 Software-defined products 8:03 The new Simcenter 14:27 Intelligence Center X 21:22 Factory of the Future --- More from Realize LIVE: https://events.sw.siemens.com/en-US/r... ** --- Joe Bohman: https://www.linkedin.co...",
-    "link": "https://www.youtube.com/watch?v=UfweMwOn_Ss",
-    "published": "2026-09-30 07:47",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
+    "title": "Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht - Siemens Newsroom",
+    "summary": "Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht Siemens Newsroom",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nQkwxVDJpY3hBWG05T0RuOVhHLTFBdnVGSzIzeGswUVk1N0xmdWNvdDh5UktrZFd6ODQ4eFVReWhzSTUyZmJyQmExdU1pVFhGU3BEZjlkUnI3b3FFdkZjdWYzTWkybmJOeW0wTEFIT2xiTEJwck52eG9qUXpIUQ?oc=5",
+    "published": "2026-10-01 07:58",
+    "source_url": "https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en"
   },
   "competitors:Visual Components": {
     "section": "competitors",
     "topic": "Visual Components",
-    "title": "Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins - AZoRobotics",
-    "summary": "Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins AZoRobotics",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ETHNzZTYzQWFjYnd4TFRzN3ZfTktEdi1sLVNGOGdNSWEyenpCTjFfanRnYzJjSmlCaGhKRmNsSkNTMTZJanRtbWEwd2dNNGc5c0lBU3FhNWtYTmdJbWpv?oc=5",
-    "published": "2026-09-28 23:30",
+    "title": "FactoryLens launches to improve manufacturing simulation - Logistics Manager",
+    "summary": "FactoryLens launches to improve manufacturing simulation Logistics Manager",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0QxM0kxcmRlYXEwV0NVYlVLYWM4LTAwMVpPTFpFUVdKU0s0NHJfbXphQ0dkS3FRR21sZjVpLUo5a3ROQ0NhX3I4dTk1SHR2MFk0NmdaNlE1MGFSaGVqTlc5eXFWZkxvWkFvd1RqTFltWFdrWUwtaU5UY2h5YmdvUE5NZjlqS3R4N2ZVaE82MEhhaEpW?oc=5",
+    "published": "2026-10-01 02:12",
     "source_url": "https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en"
   },
   "competitors:Rockwell Automation": {
@@ -92,10 +92,10 @@
   "business:Robot Simulation": {
     "section": "business",
     "topic": "Robot Simulation",
-    "title": "Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins - AZoRobotics",
-    "summary": "Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins AZoRobotics",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ETHNzZTYzQWFjYnd4TFRzN3ZfTktEdi1sLVNGOGdNSWEyenpCTjFfanRnYzJjSmlCaGhKRmNsSkNTMTZJanRtbWEwd2dNNGc5c0lBU3FhNWtYTmdJbWpv?oc=5",
-    "published": "2026-09-28 23:30",
+    "title": "FactoryLens launches to improve manufacturing simulation - Logistics Manager",
+    "summary": "FactoryLens launches to improve manufacturing simulation Logistics Manager",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0QxM0kxcmRlYXEwV0NVYlVLYWM4LTAwMVpPTFpFUVdKU0s0NHJfbXphQ0dkS3FRR21sZjVpLUo5a3ROQ0NhX3I4dTk1SHR2MFk0NmdaNlE1MGFSaGVqTlc5eXFWZkxvWkFvd1RqTFltWFdrWUwtaU5UY2h5YmdvUE5NZjlqS3R4N2ZVaE82MEhhaEpW?oc=5",
+    "published": "2026-10-01 02:12",
     "source_url": "https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en"
   },
   "business:Intralogistics Simulation": {

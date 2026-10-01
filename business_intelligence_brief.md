@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-09-30 11:55 (Mexico City)
+Generated: 2026-10-01 12:21 (Mexico City)
 
 ## Business Keywords
 
@@ -11,14 +11,8 @@ Generated: 2026-09-30 11:55 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Digital Twin in Manufacturing Market to Reach $190 Billion by 2035 as AI Transforms Virtual Factories - timestech.in](https://news.google.com/rss/articles/CBMivwFBVV95cUxOakFyeDlSbTVUbHFCUGhOS3Q4SnpVdTh0cDR3eDNKSFhMWVZIMzJOVjkzeHZzMmFUaF9RRDJsbVhoODN0Ml9jbnVQNHVzcDhOMlBFeHVZaFp3eXFIVzRBb0hta29mWm5ZaWJLN2duZ2gtM2puX3BOZm5ERTgydDlEOFU4NXd5OHN1d0c3TGlzU0JnMEhiZktXai0yR25ZSU1EUmlZWlJraS1SNGtUUWM1aEp3ckJoYVFBWUp1Ymd2aw?oc=5) (2026-09-30 00:05)
+- [Digital Twin in Manufacturing Market to Reach $190 Billion by 2035 as AI Transforms Virtual Factories - timestech.in](https://news.google.com/rss/articles/CBMivwFBVV95cUxOakFyeDlSbTVUbHFCUGhOS3Q4SnpVdTh0cDR3eDNKSFhMWVZIMzJOVjkzeHZzMmFUaF9RRDJsbVhoODN0Ml9jbnVQNHVzcDhOMlBFeHVZaFp3eXFIVzRBb0hta29mWm5ZaWJLN2duZ2gtM2puX3BOZm5ERTgydDlEOFU4NXd5OHN1d0c3TGlzU0JnMEhiZktXai0yR25ZSU1EUmlZWlJraS1SNGtUUWM1aEp3ckJoYVFBWUp1Ymd2aw?oc=5) (2026-09-30 00:05) _(last seen)_
   Summary: Digital Twin in Manufacturing Market to Reach $190 Billion by 2035 as AI Transforms Virtual Factories timestech.in
-  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
-- [New Digital Twin and Simulation Capabilities From: NORD - Industrial Equipment News](https://news.google.com/rss/articles/CBMioAFBVV95cUxOTThqaE9mdVZ0c281T2lyU1BCaUtyTFh2SklRcnVaa1JDTE5CNzVoTHE3T2ZWWUc5My1hdE83S0RjcGY3cDgzaTdhTUliNms0b2Rnc3ZvX0FaR0p4dnRiSEY0dkxnT0M3a1NzRkJhWWJkN1IyQnRPZGlVeGUwQ0h1UE9NenNHd3hqQ2tySlE1Q1h4UF8xTHV2MFF6MU05RFE0?oc=5) (2026-02-17 14:17)
-  Summary: New Digital Twin and Simulation Capabilities From: NORD Industrial Equipment News
-  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
-- [Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins - AZoRobotics](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ETHNzZTYzQWFjYnd4TFRzN3ZfTktEdi1sLVNGOGdNSWEyenpCTjFfanRnYzJjSmlCaGhKRmNsSkNTMTZJanRtbWEwd2dNNGc5c0lBU3FhNWtYTmdJbWpv?oc=5) (2026-09-28 23:30)
-  Summary: Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins AZoRobotics
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
@@ -27,8 +21,8 @@ Generated: 2026-09-30 11:55 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins - AZoRobotics](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ETHNzZTYzQWFjYnd4TFRzN3ZfTktEdi1sLVNGOGdNSWEyenpCTjFfanRnYzJjSmlCaGhKRmNsSkNTMTZJanRtbWEwd2dNNGc5c0lBU3FhNWtYTmdJbWpv?oc=5) (2026-09-28 23:30) _(last seen)_
-  Summary: Visual Components Launches FactoryLens, Extending its Collaboration with NVIDIA for Industrial Digital Twins AZoRobotics
+- [FactoryLens launches to improve manufacturing simulation - Logistics Manager](https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0QxM0kxcmRlYXEwV0NVYlVLYWM4LTAwMVpPTFpFUVdKU0s0NHJfbXphQ0dkS3FRR21sZjVpLUo5a3ROQ0NhX3I4dTk1SHR2MFk0NmdaNlE1MGFSaGVqTlc5eXFWZkxvWkFvd1RqTFltWFdrWUwtaU5UY2h5YmdvUE5NZjlqS3R4N2ZVaE82MEhhaEpW?oc=5) (2026-10-01 02:12)
+  Summary: FactoryLens launches to improve manufacturing simulation Logistics Manager
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
@@ -40,8 +34,11 @@ Generated: 2026-09-30 11:55 (Mexico City)
 
 ### NVIDIA
 
-- [Simulate Robotiq Grippers With NVIDIA Isaac Sim and Newton](https://www.youtube.com/watch?v=K2ui16FdLZw) (2026-09-24 01:24) _(last seen)_
-  Summary: Get under the hood of Robotiq’s gripper simulation workflows in NVIDIA Isaac Sim. In this livestream, the team will walk through the five-bar linkage articulation challenge in its underactuated gripper and how it was addressed in simulation. You’ll also see Newton used for closed-loop kinematics, along with PhysX and a mimic joint for parallel gripping across two USD variants. The session also explores Robotiq’s tactile sensors and what changes when deformable bodies enter the simulation. To...
+- [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/) (2026-10-01 07:00)
+  Summary: AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year if it sold every token it can produce. Useful life : How long its AI hardware keeps earning. Demand : How much demand there is for those tokens. Strength cannot fully offset we...
+  Feed source: https://blogs.nvidia.com/feed/
+- [Authoring OpenUSD Scenes from CAD Models and GPT-6 Astra With Vertiv and PTC](https://www.youtube.com/shorts/1p-4t9x_hts) (2026-09-30 18:17)
+  Summary: Frontier AI models like OpenAI’s ChatGPT-6 Astra are reshaping how CAD data becomes simulation-ready OpenUSD assets. Watch the livestream replay to learn more about how companies like PTC and Vertiv are thinking about this next chapter for AI factory and robotics workflows. 📺 https://nvda.ws/47bfg5n
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
@@ -50,29 +47,35 @@ Generated: 2026-09-30 11:55 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht - Siemens Newsroom](https://news.google.com/rss/articles/CBMifkFVX3lxTFB4bzlsVXIwMXVHQXhKTGZsdU1VQ3Q1dWw0QnZQYVl0eXdicHZaYk5TeGZ1blhVdUdfMmFmdGhqMUtwZU1RanFmemdKTy16cGx0SEJNTS10d1B5N0tzdHY5anZSUkh1enFTYzIxNl9ZRHYwLTBDLU45UFFqYzJlZw?oc=5) (2026-09-29 13:30)
+- [Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht - Siemens Newsroom](https://news.google.com/rss/articles/CBMifkFVX3lxTE1nQkwxVDJpY3hBWG05T0RuOVhHLTFBdnVGSzIzeGswUVk1N0xmdWNvdDh5UktrZFd6ODQ4eFVReWhzSTUyZmJyQmExdU1pVFhGU3BEZjlkUnI3b3FFdkZjdWYzTWkybmJOeW0wTEFIT2xiTEJwck52eG9qUXpIUQ?oc=5) (2026-10-01 07:58)
   Summary: Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht Siemens Newsroom
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Joe Bohman @#RealizeLIVE 2026 | Product Realization of the Future](https://www.youtube.com/watch?v=UfweMwOn_Ss) (2026-09-30 07:47)
-  Summary: Joe Bohman, EVP of PLM products, at Realize LIVE 2026 in Detroit, on how bringing together a dream team of industrial intelligence capabilities is delivering product realization of the future. 0:17 How the Dream Team won 1:32 The strategy backed by €25 billion in investments 2:35 Software-defined products 8:03 The new Simcenter 14:27 Intelligence Center X 21:22 Factory of the Future --- More from Realize LIVE: https://events.sw.siemens.com/en-US/r... ** --- Joe Bohman: https://www.linkedin.co...
+- [Digital twin technology to help improve safety of ammonia-fueled vessels - Offshore Energy](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNHpuSGV2WGk1VllTZGJrcm5hdlQ3QnVwUkFKdTE5LUo2MVJ4dVUwbkFpSm5fTnA2b3RVcEpPQlVRZldyRDYwYnV0TWh2NXFMLXNaSEZ0dXo2RzVsTkpsUzhHRjc2SmpuTGt5NVFBYkhtSmNNTmFnTUpQVGI1bnJseEJ5eXFKVmxyRzNwcXpzNVZRREF4bzdVaGpNUjFiNnE5bjY2SUF1Tnp6TFMycXZpQg?oc=5) (2026-10-01 04:00)
+  Summary: Digital twin technology to help improve safety of ammonia-fueled vessels Offshore Energy
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Digital twins to assess ammonia risks - motorship.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnFUaU9ucVBobUdrenFIT2Y2ckN2VHZnUFZGeHd3QXlyUHFqbmFpZXhIOTFHVlZXVklaS3M4aHRoSmVGS0h6OV9FWWpiUWx3c0t3Z3hmdnBpMU0xZHhzV2ZzU01QSXp4Tnd2SFNRbXV6RVYwclVJTlJsM2lFYUNObXZCUlN4bFFlZDlDcVdlOEMwVmwyWEo1VC10V2RlV2s?oc=5) (2026-10-01 06:31)
+  Summary: Digital twins to assess ammonia risks motorship.com
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Siemens to Advance U.S. Army Manufacturing with Digital Twin and UAS Production Technologies - Mobility Engineering Technology](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY0tmQWs4Y0xrSFg1N2hWSGs4b3NBeFdSa19uN29FMVNDWFFrVE5uNGJXVS1fR2h2ZERKYjdUT2ZfWG1QUFA2U2pVSWRkVW5Ba3pWT3N6U2JoTXZZQm5UMUdyYjYtaHdtU1dia0gydjZqUTZKLXRxekZxWU1DeWg2LUsyMlRycFF2elFRc0c4VmxEWUViNGVqWDY3YkpZV2tUTkFMMHdkQXF6bVJXQVBnaHRSZkZiRUtPUUxCZkZvc0pnNUUzWFNCbFBIZUZxZWljQklEZ3FpU2xuY1VBZldsWHR4Mnl3dEcyaU1PeXdUOGhSVUFiRkE?oc=5) (2026-08-12 01:00)
+  Summary: Siemens to Advance U.S. Army Manufacturing with Digital Twin and UAS Production Technologies Mobility Engineering Technology
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Dear designer: A wish list from the factory floor | Printed Circuit podcast episode 44](https://www.youtube.com/watch?v=GqLzv_TEHQo) (2026-10-01 06:22)
+  Summary: What if the fabricator could write a letter to every PCB designer — and the first line was "please call us before it's too late"? In this episode of the Printed Circuit Podcast, host Steph Chavez sits down with John Johnson, Director of Quality and Advanced Technology at American Standard Circuits (ASC). Framed as a wish list from the factory floor, the conversation walks through seven things fabricators wish every designer understood: involving manufacturing before the design is final, resis...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [Electrically thick dielectric coatings in Simcenter Feko 2026](https://www.youtube.com/watch?v=n7-zujqBC2A) (2026-09-30 07:00)
-  Summary: About this webinar This webinar presents the support for electrically thick dielectric coatings in Simcenter Feko 2026. It demonstrates how multilayer dielectric coatings can be defined and applied for electromagnetic simulation. Technical domain High-frequency electromagnetics Software Simcenter Feko 2026 Presenter Evan Urban Customer Support Engineer, Siemens Digital Industries Software © Siemens 2026 #SimcenterElectroMagnetics #Simcenter #Feko
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [Large-model and high-frequency solver enhancements in Simcenter Feko 2026](https://www.youtube.com/watch?v=rkni6XlyjwM) (2026-09-29 17:09)
-  Summary: About this webinar This webinar presents solver enhancements in Simcenter Feko 2026 for electrically large models and high-frequency applications. It covers MLFMM performance improvements and enhancements to the RL-GO solver for more efficient electromagnetic simulations. Technical domain High-frequency electromagnetics Software - Simcenter Feko 2026 Presenter Torben Voigt Customer Support Engineer, Siemens Digital Industries Software © Siemens 2026 #SimcenterElectroMagnetics #Simcenter #Feko
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [Perfect magnetic conductor definition in Simcenter Feko solvers](https://www.youtube.com/watch?v=aFj5bytOOiQ) (2026-09-29 16:23)
-  Summary: About this webinar This webinar presents perfect magnetic conductor (PMC) modeling in Simcenter Feko. It introduces PMC boundary conditions and demonstrates new PMC capabilities across different Feko solvers and simulation approaches. Technical domain High-frequency electromagnetics Software - Simcenter Feko Presenter Jaehoon Kim Customer Support Engineer, Siemens Digital Industries Software © Siemens 2026 #SimcenterElectroMagnetics #Simcenter #Feko
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [Introducing PAC for Opcenter Execution Semiconductor: Connect, Automate and Scale Factory Operations](https://www.youtube.com/watch?v=Rr3AHz_XVh4) (2026-09-29 12:30)
-  Summary: Unlock the potential of your semiconductor factory floor. In this fourth installment of our series, we introduce PAC (Process Automation Controller), a scalable platform designed to bridge the gap between shop-floor equipment and manufacturing systems. Semiconductor manufacturing relies on precision and speed. PAC provides the connectivity layer to help manufacturers digitize, automate, and orchestrate operations across diverse equipment types and protocols. From manual data collection to com...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [Shaping the future of semiconductors with the digital twin](https://www.youtube.com/watch?v=pqGMe-tgvC4) (2026-10-01 07:50)
+  Summary: Bringing a new chip design to market is not simply a matter of designing the chip then sending it to be fabricated. Building fabs is, itself, a costly and highly complex process and, even once that is completed, it will still take further time to dial in the chip fabrication process to achieve good yields. All these factors contribute to the costs, risks and challenges associated with bringing new, cutting-edge chip designs to market. So, across the chip design process, adopting the latest in...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [Episode 48: Die Strom-Projektierer](https://www.youtube.com/watch?v=QdBZpxbRd84) (2026-10-01 03:44)
+  Summary: Biogasanlagen liefern nicht nur Ökostrom – sie stabilisieren mit ihrer steuerbaren Leistung auch das Netz. Doch erst die digitale Vernetzung mit Siemens Industrial Edge ermöglicht es Unternehmen wie pbeg, dezentrale Anlagen zentral zu steuern und sie am Regelenergiemarkt teilnehmen zu lassen. Wie das im Detail funktioniert und welche Perspektiven das bietet, erfahren Sie im Podcast. Josef Mandl (https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosef-ma...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
-- [IAS uses Visual Components to speed up robotics and automation systems design process - Robotics & Automation News](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV3pDbkJwSGZ2d1NSSHVvdFU0a0pWNC03S1pzYjFnMzNoRnJIUWJISTA5UTlmV2VURjEwQkt1TXBZdnBaV2lNUEVESkFqMnVPWUFGNjhpanhfTkpqM3JDaXRLS29Ddy1fR3loSzhEQXRJQ0V1Ul94THFuU1dHdVZXaVZORWNtV0RScERMdWg4ZHZXWGpMOU0zMTZ3Y3Axa3MydzBUZmNPVWc5WU03V3Y2UnFzaU8ydWRSSC0xSUhVaEdjenRLalVzbGxBckVXUHZoYW1CTURTSHU?oc=5) (2017-10-12 02:00)
-  Summary: IAS uses Visual Components to speed up robotics and automation systems design process Robotics & Automation News
+- [FactoryLens launches to improve manufacturing simulation - Logistics Manager](https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0QxM0kxcmRlYXEwV0NVYlVLYWM4LTAwMVpPTFpFUVdKU0s0NHJfbXphQ0dkS3FRR21sZjVpLUo5a3ROQ0NhX3I4dTk1SHR2MFk0NmdaNlE1MGFSaGVqTlc5eXFWZkxvWkFvd1RqTFltWFdrWUwtaU5UY2h5YmdvUE5NZjlqS3R4N2ZVaE82MEhhaEpW?oc=5) (2026-10-01 02:12)
+  Summary: FactoryLens launches to improve manufacturing simulation Logistics Manager
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
+- [Photorealistic simulation for sales and engineering](https://www.youtube.com/watch?v=237uyz75rYE) (2026-10-01 01:17)
+  Summary: Powered by NVIDIA Omniverse libraries, Visual Components FactoryLens helps engineering, sales, and marketing teams work from the same digital factory model, accelerate decision-making, support virtual commissioning, and reduce time and costs throughout the project lifecycle. Learn more: https://www.visualcomponents.com/blog/introducing-factorylens/ yt:cc=on
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
 - [Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork](https://www.youtube.com/watch?v=CStXllt3wac) (2026-09-22 09:19) _(last seen)_
