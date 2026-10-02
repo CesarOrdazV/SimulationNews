@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-10-01 12:21 (Mexico City)
+Generated: 2026-10-02 11:46 (Mexico City)
 
 ## Business Keywords
 
@@ -16,12 +16,12 @@ Generated: 2026-10-01 12:21 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training - EIN News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXI2U1FCR0htckFXQWh5OGllRXRPUWF4V1hhQUZiVlF6XzRVOTFKRU9VZWRmRVZtMUpQZkZaSTFKRWtlTU4yb0Z2S1VwTzdwUEtfZjNPeG9vckN4TXB0VFU4cUV0YjBpRFBlY1ppWnRQX05MdVRMN2hhdkhRTEZfN0VsQXZiUllBTVR0VVZhbVdGLXVqSnFDOFZ6M0lMenktREc0b2plU1BPS2k1b21sUFVySGEyaWlLZ3ZN?oc=5) (2026-09-22 08:16) _(last seen)_
-  Summary: BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training EIN News
+- [Digital Twin Market Size And Share | Industry Report, 2033 - Grand View Research](https://news.google.com/rss/articles/CBMie0FVX3lxTE5OYW92dnFVX1FLclRrZW03eU50TWxxQk1ob3NNVTcyMFVwS0lsV1BNcXBOWldubkc1dmlVQ2NUSHlEREluRlFTTnZPT2V0OFdLSDZReVBESXBZTE8tNGJfVGpOVnB6RzZ1dUFPbFd2Uzl4ZThwQjFvMldLQQ?oc=5) (2018-10-06 21:44)
+  Summary: Digital Twin Market Size And Share | Industry Report, 2033 Grand View Research
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [FactoryLens launches to improve manufacturing simulation - Logistics Manager](https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0QxM0kxcmRlYXEwV0NVYlVLYWM4LTAwMVpPTFpFUVdKU0s0NHJfbXphQ0dkS3FRR21sZjVpLUo5a3ROQ0NhX3I4dTk1SHR2MFk0NmdaNlE1MGFSaGVqTlc5eXFWZkxvWkFvd1RqTFltWFdrWUwtaU5UY2h5YmdvUE5NZjlqS3R4N2ZVaE82MEhhaEpW?oc=5) (2026-10-01 02:12)
+- [FactoryLens launches to improve manufacturing simulation - Logistics Manager](https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0QxM0kxcmRlYXEwV0NVYlVLYWM4LTAwMVpPTFpFUVdKU0s0NHJfbXphQ0dkS3FRR21sZjVpLUo5a3ROQ0NhX3I4dTk1SHR2MFk0NmdaNlE1MGFSaGVqTlc5eXFWZkxvWkFvd1RqTFltWFdrWUwtaU5UY2h5YmdvUE5NZjlqS3R4N2ZVaE82MEhhaEpW?oc=5) (2026-10-01 02:12) _(last seen)_
   Summary: FactoryLens launches to improve manufacturing simulation Logistics Manager
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
@@ -34,12 +34,9 @@ Generated: 2026-10-01 12:21 (Mexico City)
 
 ### NVIDIA
 
-- [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/) (2026-10-01 07:00)
+- [Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment](https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/) (2026-10-01 07:00) _(last seen)_
   Summary: AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year if it sold every token it can produce. Useful life : How long its AI hardware keeps earning. Demand : How much demand there is for those tokens. Strength cannot fully offset we...
   Feed source: https://blogs.nvidia.com/feed/
-- [Authoring OpenUSD Scenes from CAD Models and GPT-6 Astra With Vertiv and PTC](https://www.youtube.com/shorts/1p-4t9x_hts) (2026-09-30 18:17)
-  Summary: Frontier AI models like OpenAI’s ChatGPT-6 Astra are reshaping how CAD data becomes simulation-ready OpenUSD assets. Watch the livestream replay to learn more about how companies like PTC and Vertiv are thinking about this next chapter for AI factory and robotics workflows. 📺 https://nvda.ws/47bfg5n
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
 - [Spotlight on… JAKA Robotics: Collaborative Automation for Every Scale](https://robodk.com/blog/spotlight-on-jaka-robotics-collaborative-automation/) (2026-09-29 03:32) _(last seen)_
@@ -47,40 +44,25 @@ Generated: 2026-10-01 12:21 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht - Siemens Newsroom](https://news.google.com/rss/articles/CBMifkFVX3lxTE1nQkwxVDJpY3hBWG05T0RuOVhHLTFBdnVGSzIzeGswUVk1N0xmdWNvdDh5UktrZFd6ODQ4eFVReWhzSTUyZmJyQmExdU1pVFhGU3BEZjlkUnI3b3FFdkZjdWYzTWkybmJOeW0wTEFIT2xiTEJwck52eG9qUXpIUQ?oc=5) (2026-10-01 07:58)
-  Summary: Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht Siemens Newsroom
+- [Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht - news.siemens.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5GM09KeVpEZ1JPZlpGdlV2VnhTUlRTS3llT1VfZFYwQVdta25EZFVrdllkNEZac2FqV0hzWlNtZU9RQWN2aXVCN2tyTmF4TjhKVGsyWnJSdmt4bnhZUFVkLUZTMTJtQXVVNWY2NGx1dlNMR2NtY0cta1BPdDBudw?oc=5) (2026-09-29 01:31)
+  Summary: Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht news.siemens.com
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Digital twin technology to help improve safety of ammonia-fueled vessels - Offshore Energy](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNHpuSGV2WGk1VllTZGJrcm5hdlQ3QnVwUkFKdTE5LUo2MVJ4dVUwbkFpSm5fTnA2b3RVcEpPQlVRZldyRDYwYnV0TWh2NXFMLXNaSEZ0dXo2RzVsTkpsUzhHRjc2SmpuTGt5NVFBYkhtSmNNTmFnTUpQVGI1bnJseEJ5eXFKVmxyRzNwcXpzNVZRREF4bzdVaGpNUjFiNnE5bjY2SUF1Tnp6TFMycXZpQg?oc=5) (2026-10-01 04:00)
-  Summary: Digital twin technology to help improve safety of ammonia-fueled vessels Offshore Energy
+- [ABS, HD KSOE and Siemens sign MOU to develop digital twin technology for ammonia safety — SMI DIGITAL - shipmanagementinternational.com](https://news.google.com/rss/articles/CBMiggJBVV95cUxOMHFLaGhzOHU2WjdwR1VmakpjTE04aEFmWjgzMXp4Q2NPYVFraHBCNEFxWFViZ1hFNU1VbU9uWld0SmtrRTFBMGs4UjAyLUZibnFwTFBaWmhQWGhCV1Rydmp4ZGVFMXFwemRTM3lOZHZYYk1HYjc2ZXBjS3pmVTB2NF9iVEpwblgxZldkSk9iZ2tVUkpCSlhVY2xlanJMRUJqSXdtR21PYXFFajJBM2JQWURyM2ZZd0pKOW5wLWp5RzJTX3NMYTFJTkVUY0RYOTIyMHNQa3FHYVJOMlRlLWQtdXZSRGcyblhQVXpSbzVMM3hKSDJtNlAtVVVEemNPS0ZMTWc?oc=5) (2026-10-02 03:03)
+  Summary: ABS, HD KSOE and Siemens sign MOU to develop digital twin technology for ammonia safety — SMI DIGITAL shipmanagementinternational.com
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Digital twins to assess ammonia risks - motorship.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnFUaU9ucVBobUdrenFIT2Y2ckN2VHZnUFZGeHd3QXlyUHFqbmFpZXhIOTFHVlZXVklaS3M4aHRoSmVGS0h6OV9FWWpiUWx3c0t3Z3hmdnBpMU0xZHhzV2ZzU01QSXp4Tnd2SFNRbXV6RVYwclVJTlJsM2lFYUNObXZCUlN4bFFlZDlDcVdlOEMwVmwyWEo1VC10V2RlV2s?oc=5) (2026-10-01 06:31)
-  Summary: Digital twins to assess ammonia risks motorship.com
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Siemens to Advance U.S. Army Manufacturing with Digital Twin and UAS Production Technologies - Mobility Engineering Technology](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPY0tmQWs4Y0xrSFg1N2hWSGs4b3NBeFdSa19uN29FMVNDWFFrVE5uNGJXVS1fR2h2ZERKYjdUT2ZfWG1QUFA2U2pVSWRkVW5Ba3pWT3N6U2JoTXZZQm5UMUdyYjYtaHdtU1dia0gydjZqUTZKLXRxekZxWU1DeWg2LUsyMlRycFF2elFRc0c4VmxEWUViNGVqWDY3YkpZV2tUTkFMMHdkQXF6bVJXQVBnaHRSZkZiRUtPUUxCZkZvc0pnNUUzWFNCbFBIZUZxZWljQklEZ3FpU2xuY1VBZldsWHR4Mnl3dEcyaU1PeXdUOGhSVUFiRkE?oc=5) (2026-08-12 01:00)
-  Summary: Siemens to Advance U.S. Army Manufacturing with Digital Twin and UAS Production Technologies Mobility Engineering Technology
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Dear designer: A wish list from the factory floor | Printed Circuit podcast episode 44](https://www.youtube.com/watch?v=GqLzv_TEHQo) (2026-10-01 06:22)
-  Summary: What if the fabricator could write a letter to every PCB designer — and the first line was "please call us before it's too late"? In this episode of the Printed Circuit Podcast, host Steph Chavez sits down with John Johnson, Director of Quality and Advanced Technology at American Standard Circuits (ASC). Framed as a wish list from the factory floor, the conversation walks through seven things fabricators wish every designer understood: involving manufacturing before the design is final, resis...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [Shaping the future of semiconductors with the digital twin](https://www.youtube.com/watch?v=pqGMe-tgvC4) (2026-10-01 07:50)
-  Summary: Bringing a new chip design to market is not simply a matter of designing the chip then sending it to be fabricated. Building fabs is, itself, a costly and highly complex process and, even once that is completed, it will still take further time to dial in the chip fabrication process to achieve good yields. All these factors contribute to the costs, risks and challenges associated with bringing new, cutting-edge chip designs to market. So, across the chip design process, adopting the latest in...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [Episode 48: Die Strom-Projektierer](https://www.youtube.com/watch?v=QdBZpxbRd84) (2026-10-01 03:44)
-  Summary: Biogasanlagen liefern nicht nur Ökostrom – sie stabilisieren mit ihrer steuerbaren Leistung auch das Netz. Doch erst die digitale Vernetzung mit Siemens Industrial Edge ermöglicht es Unternehmen wie pbeg, dezentrale Anlagen zentral zu steuern und sie am Regelenergiemarkt teilnehmen zu lassen. Wie das im Detail funktioniert und welche Perspektiven das bietet, erfahren Sie im Podcast. Josef Mandl (https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjosef-ma...
+- [Digital Twin and Industrial AI in real use case: Goal-Driven Automation](https://www.youtube.com/watch?v=oMipJrcoKWs) (2026-10-02 05:39)
+  Summary: How do we move from rigid, hard-coded automation to flexible, goal-driven workflows? The answer lies in the powerful synergy between Digital Twin and Industrial AI. In this video, we explore how digital environments allow us to train AI algorithms through millions of cycles—testing, coding, and validating every scenario before applying in the real world. Using a conveyor sorting system as a real-world example, we demonstrate how self-adapting AI can handle random inputs to deliver consistent,...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
-- [FactoryLens launches to improve manufacturing simulation - Logistics Manager](https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0QxM0kxcmRlYXEwV0NVYlVLYWM4LTAwMVpPTFpFUVdKU0s0NHJfbXphQ0dkS3FRR21sZjVpLUo5a3ROQ0NhX3I4dTk1SHR2MFk0NmdaNlE1MGFSaGVqTlc5eXFWZkxvWkFvd1RqTFltWFdrWUwtaU5UY2h5YmdvUE5NZjlqS3R4N2ZVaE82MEhhaEpW?oc=5) (2026-10-01 02:12)
+- [FactoryLens launches to improve manufacturing simulation - Logistics Manager](https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0QxM0kxcmRlYXEwV0NVYlVLYWM4LTAwMVpPTFpFUVdKU0s0NHJfbXphQ0dkS3FRR21sZjVpLUo5a3ROQ0NhX3I4dTk1SHR2MFk0NmdaNlE1MGFSaGVqTlc5eXFWZkxvWkFvd1RqTFltWFdrWUwtaU5UY2h5YmdvUE5NZjlqS3R4N2ZVaE82MEhhaEpW?oc=5) (2026-10-01 02:12) _(last seen)_
   Summary: FactoryLens launches to improve manufacturing simulation Logistics Manager
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
-- [Photorealistic simulation for sales and engineering](https://www.youtube.com/watch?v=237uyz75rYE) (2026-10-01 01:17)
-  Summary: Powered by NVIDIA Omniverse libraries, Visual Components FactoryLens helps engineering, sales, and marketing teams work from the same digital factory model, accelerate decision-making, support virtual commissioning, and reduce time and costs throughout the project lifecycle. Learn more: https://www.visualcomponents.com/blog/introducing-factorylens/ yt:cc=on
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
-- [Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork](https://www.youtube.com/watch?v=CStXllt3wac) (2026-09-22 09:19) _(last seen)_
-  Summary: Curious about what’s coming to Automation Fair? We’re giving you an inside look at what you can expect to see on the Expo show floor plus insights from our Partner Network. Learn more and register today! https://rok.auto/3I7y0K0 #ROKevents
-  Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
+- [Rockwell Automation Digital Twin Technology Accelerates Project Delivery and Cuts Costs for Brazil-based Falcare Industrial Equipment - Investing News Network](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY2dGUk9ETG5WZWd2bUJVY3RLOHBmUVhYS0ZQQ0ZIWDNsek1IdjhlWXA0akZUUmlQeU1KanBvRGZUVi1lVUxvb0VZbjdDa1NYWTJ5TmVpaVg3XzJfY29wNzczQ0ZjTUJlZTZlbmMwYUtueGpoNXYzVFFiMFk5cDAxRmZFUE9iek1CbTQzTVA0UXFxcUFOV1E2NUtrdy13b2dLNElVbnlRR2JYS0tZR3BEemtOWG1MclVRbFJKZXFCd3N2U25DR1lONHZxbmVZeFhOZ0Q1X0VYNGluNlZNNzltUXRfZndlbDhNTjVWMlIxRHkwZw?oc=5) (2026-02-16 02:00)
+  Summary: Rockwell Automation Digital Twin Technology Accelerates Project Delivery and Cuts Costs for Brazil-based Falcare Industrial Equipment Investing News Network
+  Feed source: https://news.google.com/rss/search?q=rockwell+automation+emulate3d+digital+twin&hl=en&gl=US&ceid=US:en
 ### AnyLogic
 
 - [Webinar | The Future of Digital Twins with AnyLogic](https://www.youtube.com/watch?v=v3pUj4ob5Tc) (2026-09-29 08:15) _(last seen)_
