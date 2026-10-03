@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-10-02 11:46 (Mexico City)
+Generated: 2026-10-03 10:06 (Mexico City)
 
 ## Business Keywords
 
@@ -16,13 +16,16 @@ Generated: 2026-10-02 11:46 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Digital Twin Market Size And Share | Industry Report, 2033 - Grand View Research](https://news.google.com/rss/articles/CBMie0FVX3lxTE5OYW92dnFVX1FLclRrZW03eU50TWxxQk1ob3NNVTcyMFVwS0lsV1BNcXBOWldubkc1dmlVQ2NUSHlEREluRlFTTnZPT2V0OFdLSDZReVBESXBZTE8tNGJfVGpOVnB6RzZ1dUFPbFd2Uzl4ZThwQjFvMldLQQ?oc=5) (2018-10-06 21:44)
-  Summary: Digital Twin Market Size And Share | Industry Report, 2033 Grand View Research
+- [BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training - EIN News](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXI2U1FCR0htckFXQWh5OGllRXRPUWF4V1hhQUZiVlF6XzRVOTFKRU9VZWRmRVZtMUpQZkZaSTFKRWtlTU4yb0Z2S1VwTzdwUEtfZjNPeG9vckN4TXB0VFU4cUV0YjBpRFBlY1ppWnRQX05MdVRMN2hhdkhRTEZfN0VsQXZiUllBTVR0VVZhbVdGLXVqSnFDOFZ6M0lMenktREc0b2plU1BPS2k1b21sUFVySGEyaWlLZ3ZN?oc=5) (2026-09-22 08:16) _(last seen)_
+  Summary: BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training EIN News
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [FactoryLens launches to improve manufacturing simulation - Logistics Manager](https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0QxM0kxcmRlYXEwV0NVYlVLYWM4LTAwMVpPTFpFUVdKU0s0NHJfbXphQ0dkS3FRR21sZjVpLUo5a3ROQ0NhX3I4dTk1SHR2MFk0NmdaNlE1MGFSaGVqTlc5eXFWZkxvWkFvd1RqTFltWFdrWUwtaU5UY2h5YmdvUE5NZjlqS3R4N2ZVaE82MEhhaEpW?oc=5) (2026-10-01 02:12) _(last seen)_
-  Summary: FactoryLens launches to improve manufacturing simulation Logistics Manager
+- [Robot Offline Programming Software Competitive Ranking Report Published - Metrology and Quality News](https://news.google.com/rss/articles/CBMimwFBVV95cUxQajFfazJhZ0dtRDMwOTdjVVh0YkVUQmlIdTI0ajlCdzk0ckFKTktkVWNrQU11a2xMV1FuNjd5WnBBeF9KZm91Q05WSThoWmhtRFlJN0ZGZ3RsaEVScGpyQVVDc0R3enRHREdSSUQ4ZUhuaUVXN1F6bms5eXJNSFVIcWw5RmZsM2dIR0NFY3ZsQmw1NW9NcEtoMDlIQQ?oc=5) (2024-08-19 01:00)
+  Summary: Robot Offline Programming Software Competitive Ranking Report Published Metrology and Quality News
+  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
+- [Visual Components Expands Its Simulation Tools with Delfoi Robotics Acquisition - Design News](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkFUeUotV3lKaVlabXY3OElmY3lScllBS3VxNUVKaWlFR3BMc1F6TXQ3eVQ3TzUwMFVXSmFRa2tvS1M5UjFfWm42ekdKLTZQdGdCeEQ4bkhxTTgxaFhRcURkbkF5czNpUF91WXBEamdZWW1YUGZzbHRsUk83QmpNNVZ4N3l0ekVQTklXemVTRi1OQzJMSnZLQW9menRUZkpNWHpydEJ1U2JnVEVjSXphV0FQUVhRQQ?oc=5) (2023-01-19 02:00)
+  Summary: Visual Components Expands Its Simulation Tools with Delfoi Robotics Acquisition Design News
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
@@ -44,24 +47,27 @@ Generated: 2026-10-02 11:46 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht - news.siemens.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE5GM09KeVpEZ1JPZlpGdlV2VnhTUlRTS3llT1VfZFYwQVdta25EZFVrdllkNEZac2FqV0hzWlNtZU9RQWN2aXVCN2tyTmF4TjhKVGsyWnJSdmt4bnhZUFVkLUZTMTJtQXVVNWY2NGx1dlNMR2NtY0cta1BPdDBudw?oc=5) (2026-09-29 01:31)
-  Summary: Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht news.siemens.com
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [ABS, HD KSOE and Siemens sign MOU to develop digital twin technology for ammonia safety — SMI DIGITAL - shipmanagementinternational.com](https://news.google.com/rss/articles/CBMiggJBVV95cUxOMHFLaGhzOHU2WjdwR1VmakpjTE04aEFmWjgzMXp4Q2NPYVFraHBCNEFxWFViZ1hFNU1VbU9uWld0SmtrRTFBMGs4UjAyLUZibnFwTFBaWmhQWGhCV1Rydmp4ZGVFMXFwemRTM3lOZHZYYk1HYjc2ZXBjS3pmVTB2NF9iVEpwblgxZldkSk9iZ2tVUkpCSlhVY2xlanJMRUJqSXdtR21PYXFFajJBM2JQWURyM2ZZd0pKOW5wLWp5RzJTX3NMYTFJTkVUY0RYOTIyMHNQa3FHYVJOMlRlLWQtdXZSRGcyblhQVXpSbzVMM3hKSDJtNlAtVVVEemNPS0ZMTWc?oc=5) (2026-10-02 03:03)
-  Summary: ABS, HD KSOE and Siemens sign MOU to develop digital twin technology for ammonia safety — SMI DIGITAL shipmanagementinternational.com
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Digital Twin and Industrial AI in real use case: Goal-Driven Automation](https://www.youtube.com/watch?v=oMipJrcoKWs) (2026-10-02 05:39)
-  Summary: How do we move from rigid, hard-coded automation to flexible, goal-driven workflows? The answer lies in the powerful synergy between Digital Twin and Industrial AI. In this video, we explore how digital environments allow us to train AI algorithms through millions of cycles—testing, coding, and validating every scenario before applying in the real world. Using a conveyor sorting system as a real-world example, we demonstrate how self-adapting AI can handle random inputs to deliver consistent,...
+- [ICYMI: Siemens at IMTS 2026](https://www.youtube.com/shorts/HwpJX38IBHo) (2026-10-03 02:01)
+  Summary: In case you missed it: 90,000+ manufacturing professionals gathered in Chicago for IMTS 2026, North America’s largest manufacturing technology show. But the conversation wasn’t just about what’s next — it was about what’s possible now. Across the show floor, manufacturers were asking how Industrial AI, connected engineering and digital manufacturing can solve real challenges and deliver value today. At the Siemens booth, we brought that question to life, demonstrating how an AI-powered digita...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [The Factory Brain: How Opcenter redefines modern manufacturing](https://www.youtube.com/watch?v=Nnj3dpL6JxU) (2026-10-02 13:49)
+  Summary: Opcenter is the factory "brain" and system of record, offering flexible deployment (cloud, customer cloud, or on-premises), AI-native agent capabilities for engineering and shop-floor assistance, and closed-loop manufacturing that unifies engineering and operations. With over 100 customers already implementing this closed-loop approach, users are seeing significant improvements in cycle speed, quality, and time-to-market—demonstrating the measurable value of end-to-end feedback between engine...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [Can digital twin technology accelerate the path to commercial fusion? | CFS + Siemens + AWS](https://www.youtube.com/watch?v=iQrcJF3K4yg) (2026-09-30 13:41)
+  Summary: In this episode of the Industry insight series, leaders from Commonwealth Fusion Systems (CFS) and Siemens explore how digital engineering, simulation and cloud computing are helping accelerate the path to commercial fusion energy. CFS is developing high-field fusion magnets using advanced superconducting materials, enabling smaller, more economical fusion machines. With support from Siemens, CFS is also using digital engineering and simulation to virtually model its fusion technology before...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [Industrial AI, Robotics and the Future of Factory Automation](https://www.youtube.com/watch?v=9V0v0HHpaRo) (2026-10-02 12:35)
+  Summary: Artificial Intelligence in industrial environments has so far been deployed in limited solutions that focus on predictive maintenance, copilots embedded in engineering tools or data analysis pilots. Now, manufacturing companies are contemplating a deeper transformation by integrating AI directly into physical systems, bringing intelligence directly to the shop floor. In this episode of the Future Ready Podcast, Spencer Acain is joined again by Dr. Matthias Loskyll to examine this transition....
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
-- [FactoryLens launches to improve manufacturing simulation - Logistics Manager](https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0QxM0kxcmRlYXEwV0NVYlVLYWM4LTAwMVpPTFpFUVdKU0s0NHJfbXphQ0dkS3FRR21sZjVpLUo5a3ROQ0NhX3I4dTk1SHR2MFk0NmdaNlE1MGFSaGVqTlc5eXFWZkxvWkFvd1RqTFltWFdrWUwtaU5UY2h5YmdvUE5NZjlqS3R4N2ZVaE82MEhhaEpW?oc=5) (2026-10-01 02:12) _(last seen)_
-  Summary: FactoryLens launches to improve manufacturing simulation Logistics Manager
+- [Visual Components Expands Its Simulation Tools with Delfoi Robotics Acquisition - Design News](https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkFUeUotV3lKaVlabXY3OElmY3lScllBS3VxNUVKaWlFR3BMc1F6TXQ3eVQ3TzUwMFVXSmFRa2tvS1M5UjFfWm42ekdKLTZQdGdCeEQ4bkhxTTgxaFhRcURkbkF5czNpUF91WXBEamdZWW1YUGZzbHRsUk83QmpNNVZ4N3l0ekVQTklXemVTRi1OQzJMSnZLQW9menRUZkpNWHpydEJ1U2JnVEVjSXphV0FQUVhRQQ?oc=5) (2023-01-19 02:00)
+  Summary: Visual Components Expands Its Simulation Tools with Delfoi Robotics Acquisition Design News
   Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
 ### Rockwell Automation
 
-- [Rockwell Automation Digital Twin Technology Accelerates Project Delivery and Cuts Costs for Brazil-based Falcare Industrial Equipment - Investing News Network](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY2dGUk9ETG5WZWd2bUJVY3RLOHBmUVhYS0ZQQ0ZIWDNsek1IdjhlWXA0akZUUmlQeU1KanBvRGZUVi1lVUxvb0VZbjdDa1NYWTJ5TmVpaVg3XzJfY29wNzczQ0ZjTUJlZTZlbmMwYUtueGpoNXYzVFFiMFk5cDAxRmZFUE9iek1CbTQzTVA0UXFxcUFOV1E2NUtrdy13b2dLNElVbnlRR2JYS0tZR3BEemtOWG1MclVRbFJKZXFCd3N2U25DR1lONHZxbmVZeFhOZ0Q1X0VYNGluNlZNNzltUXRfZndlbDhNTjVWMlIxRHkwZw?oc=5) (2026-02-16 02:00)
-  Summary: Rockwell Automation Digital Twin Technology Accelerates Project Delivery and Cuts Costs for Brazil-based Falcare Industrial Equipment Investing News Network
+- [Rockwell Automation Launches FactoryTalk Orchestration Software at Automate - Finansavisen](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLXh5Wll4WGRORjgyRTRfRjNrcndyQWhMYW0tZDhIT0QwQWxQdUdpcWM1ZzdlZVc3MkZTLUdoTmQ0aHpLbjVDNFEyNWo1ejljYXhuMjJEdnFlMjdIRl9UUnJkV3kxTkVyY0RZcFB5ZWl0aG1fZmJGNEtkUHpSR3NRSnNsWE1YV08xOGk2T3RJMDJmM0RnNFppa0p2b08xczNQZU02a2dZT3AyaWpEQi0yQzdEdHB2bEF0Q3I4VmJOR3hPWFJMcEM0YVZvQUlGbE05b2M3YVZHTDMycGFNSTl0MDNyc21EdUFzTHJ6M2hzOEZqdUlURkllbFFoRQ?oc=5) (2026-06-22 01:00)
+  Summary: Rockwell Automation Launches FactoryTalk Orchestration Software at Automate Finansavisen
   Feed source: https://news.google.com/rss/search?q=rockwell+automation+emulate3d+digital+twin&hl=en&gl=US&ceid=US:en
 ### AnyLogic
 
