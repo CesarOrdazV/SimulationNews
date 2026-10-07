@@ -2,28 +2,28 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
-    "summary": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year if it sold every token it can produce. Useful life : How long its AI hardware keeps earning. Demand : How much demand there is for those tokens. Strength cannot fully offset we...",
-    "link": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
-    "published": "2026-10-01 07:00",
-    "source_url": "https://blogs.nvidia.com/feed/"
+    "title": "Closing the Real-to-Sim-to-Real Loop for Physical AI",
+    "summary": "Building Physical AI systems requires more than simulating idealized environments\u2014it requires a way to connect real robot behavior, simulation, data generation, and deployment. In this livestream, Industrial Next introduces the R2S2R Arena, an open coalition for advancing real-to-sim-to-real research with academia and the broader robotics community. Industrial Next will outline the challenge and the Arena\u2019s benchmark tasks at sim2world.ai. Versor will share how robot trajectories can drive re...",
+    "link": "https://www.youtube.com/watch?v=q1UFopOrrQM",
+    "published": "2026-10-07 01:22",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
     "section": "competitors",
     "topic": "RoboDK",
-    "title": "Spotlight on\u2026 JAKA Robotics: Collaborative Automation for Every Scale",
-    "summary": "JAKA Robotics is one to watch as a growing name in the collaborative robotics industry. This global cobot manufacturer already has thousands of robots deployed across nearly 100 countries. with a unique range of application-specific solutions. For interesting collaborative robot catalogs, JAKA is one of the broadest and most comprehensive that we\u2019ve seen. With industry-targeted solutions for automotive, new energy, metal manufacturing, and other industries, the company covers a impressive ran...",
-    "link": "https://robodk.com/blog/spotlight-on-jaka-robotics-collaborative-automation/",
-    "published": "2026-09-29 03:32",
+    "title": "What Is Feed Rate in Machining, and How Do You Choose the Right One?",
+    "summary": "Feed rate is a key concept in machining and refers to the speed at which your cutting tool advances through the workpiece. Calculating the right feed rate can be complicated, as it depends on your workpiece material, tool geometry, machine rigidity, and your desired finish quality. How do you choose the right feed rate for your specific machining operation? In this guide, we introduce the fundamentals for calculating your optimal feed rate. We also discuss robot machining, along with some fac...",
+    "link": "https://robodk.com/blog/feed-rate-machining-choose-right-one/",
+    "published": "2026-10-07 04:58",
     "source_url": "https://robodk.com/blog/feed/"
   },
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Siemens at IMTS 2026: Industrial AI, digitalization and the future of part manufacturing",
-    "summary": "Caption: The largest part manufacturing technology show in North America, IMTS 2026 has come to a close. A key takeaway: part manufacturers are ready to move beyond talking about the potential of AI and digitalization. They are ready to embed and adopt AI into their design-to-manufacturing workflow. At the booth, visitors followed a digital thread manufacturing process powered by Industrial AI. Visitors saw how AI-powered technology in Siemens CAM software can help programmers analyze 3D geom...",
-    "link": "https://www.youtube.com/watch?v=B4h2S1Q8ic0",
-    "published": "2026-10-05 17:06",
+    "title": "The power of end-to-end digital twins: Insights from Klaus Erdrich (BCT Technology AG)",
+    "summary": "In this video, Klaus Erdrich, President and Member of the Executive Board of BCT Technology AG, breaks down what it takes to achieve holistic digitalization across the entire manufacturing value chain. With a Siemens partnership dating back to 1994, BCT Technology AG specializes in CAD, PLM, simulation, and end-to-end digital twins. Klaus shares how simulation bolstered by BCT's acquisition of CFD expert Cascade serves as a key enabler for modern product development. Discover a real-world suc...",
+    "link": "https://www.youtube.com/watch?v=Dm2iUurGnlM",
+    "published": "2026-10-07 09:45",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
   },
   "competitors:Visual Components": {
@@ -83,10 +83,10 @@
   "business:PLC Simulation": {
     "section": "business",
     "topic": "PLC Simulation",
-    "title": "BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training - EIN News",
-    "summary": "BIN95 Launches Free Online PLC Programming Lesson Hub for Industrial Training EIN News",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXI2U1FCR0htckFXQWh5OGllRXRPUWF4V1hhQUZiVlF6XzRVOTFKRU9VZWRmRVZtMUpQZkZaSTFKRWtlTU4yb0Z2S1VwTzdwUEtfZjNPeG9vckN4TXB0VFU4cUV0YjBpRFBlY1ppWnRQX05MdVRMN2hhdkhRTEZfN0VsQXZiUllBTVR0VVZhbVdGLXVqSnFDOFZ6M0lMenktREc0b2plU1BPS2k1b21sUFVySGEyaWlLZ3ZN?oc=5",
-    "published": "2026-09-22 08:16",
+    "title": "Xentara Targets the Runtime Layer for Physical AI in Industrial Automation - ARC Advisory Group",
+    "summary": "Xentara Targets the Runtime Layer for Physical AI in Industrial Automation ARC Advisory Group",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd096TjVIMm1kSU1tUUkxX2ZIbXFmb2ptUWNydTBIbGx4VC1zZ2k0ZS16WVhlcFJ4OTI3RFJkUENZaUZ4dHE0V1RGRVhYTHBib3pjQUV5Q3NNd2tLRUIwdEdBUmhpWk9Zb3FrelBuQ241LTVGLXVXTjdhS0R0T1I1TS02QXBwYS1ycGl2bGgzOGE2VHpZR3c?oc=5",
+    "published": "2026-10-07 06:00",
     "source_url": "https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Robot Simulation": {
