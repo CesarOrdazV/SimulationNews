@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Closing the Real-to-Sim-to-Real Loop for Physical AI",
-    "summary": "Building Physical AI systems requires more than simulating idealized environments\u2014it requires a way to connect real robot behavior, simulation, data generation, and deployment. In this livestream, Industrial Next introduces the R2S2R Arena, an open coalition for advancing real-to-sim-to-real research with academia and the broader robotics community. Industrial Next will outline the challenge and the Arena\u2019s benchmark tasks at sim2world.ai. Versor will share how robot trajectories can drive re...",
-    "link": "https://www.youtube.com/watch?v=q1UFopOrrQM",
-    "published": "2026-10-07 01:22",
+    "title": "Video to Data Challenge: From Human Video to Robot Skills",
+    "summary": "How can robots learn from human video? Join us for the Video to Data (V2D) Challenge kickoff, welcoming registered teams, curious developers, and researchers exploring whether to participate. You don\u2019t need to be signed up to join. We\u2019ll introduce the challenge\u2019s three tracks: reconstructing 4D human-object interactions, transferring human demonstrations into robot policies, and learning robot skills from first-person video. Along the way, we\u2019ll walk through examples, explore the datasets and...",
+    "link": "https://www.youtube.com/watch?v=U8GHIxXqHLQ",
+    "published": "2026-10-07 14:08",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -29,10 +29,10 @@
   "competitors:Visual Components": {
     "section": "competitors",
     "topic": "Visual Components",
-    "title": "Visual Components FactoryLens: realistic visualizations for communication and decision-making.",
-    "summary": "Turn engineering simulations into photorealistic visualizations with Visual Components FactoryLens. Communicate automation projects more clearly and create compelling visuals from the simulation models you already have. Read the full blog article: https://www.visualcomponents.com/blog/introducing-factorylens/ yt:cc=on",
-    "link": "https://www.youtube.com/watch?v=F_gT8wsp-fY",
-    "published": "2026-10-04 23:47",
+    "title": "Visual Components FactoryLens: fFrom technical layouts to customer-ready visuals",
+    "summary": "Powered by NVIDIA Omniverse libraries, FactoryLens turns technical simulation layouts into photorealistic visuals for sales, marketing, and customer communication, without external rendering tools and extra effort from engineering teams. Learn more: https://www.visualcomponents.com/blog/introducing-factorylens/",
+    "link": "https://www.youtube.com/watch?v=8FzxR7MU6OM",
+    "published": "2026-10-07 15:00",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg"
   },
   "competitors:Rockwell Automation": {
