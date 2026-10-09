@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Video to Data Challenge: From Human Video to Robot Skills",
-    "summary": "How can robots learn from human video? Join us for the Video to Data (V2D) Challenge kickoff, welcoming registered teams, curious developers, and researchers exploring whether to participate. You don\u2019t need to be signed up to join. We\u2019ll introduce the challenge\u2019s three tracks: reconstructing 4D human-object interactions, transferring human demonstrations into robot policies, and learning robot skills from first-person video. Along the way, we\u2019ll walk through examples, explore the datasets and...",
-    "link": "https://www.youtube.com/watch?v=U8GHIxXqHLQ",
-    "published": "2026-10-07 14:08",
+    "title": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models",
+    "summary": "How can you make it easier to create SimReady assets for robotics? Frontier AI models. \ud83e\udd1d See how OpenAI\u2019s GPT-6 Astra and NVIDIA Omniverse tools and skills help prepare ABB Robotics\u2019 YuMi robot for simulation through a five-step workflow in NVIDIA Isaac Sim. Read the full blog: https://nvda.ws/4hO8p6F",
+    "link": "https://www.youtube.com/shorts/H5UaOdIZERw",
+    "published": "2026-10-08 15:40",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -20,10 +20,10 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "The power of end-to-end digital twins: Insights from Klaus Erdrich (BCT Technology AG)",
-    "summary": "In this video, Klaus Erdrich, President and Member of the Executive Board of BCT Technology AG, breaks down what it takes to achieve holistic digitalization across the entire manufacturing value chain. With a Siemens partnership dating back to 1994, BCT Technology AG specializes in CAD, PLM, simulation, and end-to-end digital twins. Klaus shares how simulation bolstered by BCT's acquisition of CFD expert Cascade serves as a key enabler for modern product development. Discover a real-world suc...",
-    "link": "https://www.youtube.com/watch?v=Dm2iUurGnlM",
-    "published": "2026-10-07 09:45",
+    "title": "Radeberger Gruppe: The digital recipe for brewing excellence",
+    "summary": "Discover how Radeberger Gruppe, Germany's largest private brewery group, leverages the Siemens Digital Twin and Supply Chain Suite to brew excellence at scale. In this video, Fabienne Zachwieja, Team Lead Digital Twin, shares how transitioning to an in-house modeling solution with Siemens has given their team a holistic, end-to-end view of the value chain. By moving from reactive problem-solving to forward-looking simulation, Radeberger Gruppe has unlocked impressive results\u2014including a doubl...",
+    "link": "https://www.youtube.com/watch?v=5bg7pCAFYwY",
+    "published": "2026-10-08 15:14",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
   },
   "competitors:Visual Components": {
@@ -38,10 +38,10 @@
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork",
-    "summary": "Curious about what\u2019s coming to Automation Fair? We\u2019re giving you an inside look at what you can expect to see on the Expo show floor plus insights from our Partner Network. Learn more and register today! https://rok.auto/3I7y0K0 #ROKevents",
-    "link": "https://www.youtube.com/watch?v=CStXllt3wac",
-    "published": "2026-09-22 09:19",
+    "title": "The Future of Life Sciences Manufacturing",
+    "summary": "Staying competitive in life sciences manufacturing requires leaders to balance compliance, operational agility, cybersecurity, and AI adoption in an increasingly connected environment. Join influencer Antonio Grasso and Matt Weaver, Vice President, Global Industry Life Sciences at Rockwell Automation as they discuss key findings from the Life Sciences Digital Maturity Report. Their conversation explores what it takes to succeed in the future of life sciences manufacturing: building a foundati...",
+    "link": "https://www.youtube.com/watch?v=vpnUWYXYXqY",
+    "published": "2026-10-09 10:28",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {
@@ -74,10 +74,10 @@
   "business:Digital Twin Manufacturing": {
     "section": "business",
     "topic": "Digital Twin Manufacturing",
-    "title": "Digital Twin in Manufacturing Market to Reach $190 Billion by 2035 as AI Transforms Virtual Factories - timestech.in",
-    "summary": "Digital Twin in Manufacturing Market to Reach $190 Billion by 2035 as AI Transforms Virtual Factories timestech.in",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOakFyeDlSbTVUbHFCUGhOS3Q4SnpVdTh0cDR3eDNKSFhMWVZIMzJOVjkzeHZzMmFUaF9RRDJsbVhoODN0Ml9jbnVQNHVzcDhOMlBFeHVZaFp3eXFIVzRBb0hta29mWm5ZaWJLN2duZ2gtM2puX3BOZm5ERTgydDlEOFU4NXd5OHN1d0c3TGlzU0JnMEhiZktXai0yR25ZSU1EUmlZWlJraS1SNGtUUWM1aEp3ckJoYVFBWUp1Ymd2aw?oc=5",
-    "published": "2026-09-30 00:05",
+    "title": "Global Digital Twin Market Size, Share, Trends & Forecast (2026-2034) - IMARC Group",
+    "summary": "Global Digital Twin Market Size, Share, Trends & Forecast (2026-2034) IMARC Group",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DMWJhRFpRSGY4blFqQ2xfeHFqV2w4SFR2LXphRzFSajlpRzF2RnJyMmdPanZfbnBiYldfZF9NSXNiSG1jLXREWmlkVVZVZ2dUZGVtdnc4MlppUQ?oc=5",
+    "published": "2026-10-06 01:00",
     "source_url": "https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en"
   },
   "business:PLC Simulation": {

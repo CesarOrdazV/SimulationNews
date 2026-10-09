@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-10-08 12:45 (Mexico City)
+Generated: 2026-10-09 12:16 (Mexico City)
 
 ## Business Keywords
 
@@ -11,31 +11,34 @@ Generated: 2026-10-08 12:45 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Digital Twin in Manufacturing Market to Reach $190 Billion by 2035 as AI Transforms Virtual Factories - timestech.in](https://news.google.com/rss/articles/CBMivwFBVV95cUxOakFyeDlSbTVUbHFCUGhOS3Q4SnpVdTh0cDR3eDNKSFhMWVZIMzJOVjkzeHZzMmFUaF9RRDJsbVhoODN0Ml9jbnVQNHVzcDhOMlBFeHVZaFp3eXFIVzRBb0hta29mWm5ZaWJLN2duZ2gtM2puX3BOZm5ERTgydDlEOFU4NXd5OHN1d0c3TGlzU0JnMEhiZktXai0yR25ZSU1EUmlZWlJraS1SNGtUUWM1aEp3ckJoYVFBWUp1Ymd2aw?oc=5) (2026-09-30 00:05) _(last seen)_
-  Summary: Digital Twin in Manufacturing Market to Reach $190 Billion by 2035 as AI Transforms Virtual Factories timestech.in
+- [Motorsports lead the way in connecting physical and virtual data with the Digital Twin and industrial AI - Engineering.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOW5tQThrSlRITlVEcGlUZXZxWEFiWUIyNUs0YVR6YnBaXzhndTMxS05oV1JpanhxQXhoNkNjMjBQQmZqUHlpYVc4V1RTQUtrTS1iVnptdFR2WmxtX3FURURSSHQwd0JCTVJFaEV0RXAzQXk0QVRjdzR1WlNkZy1SZ0xadDZWYWFwRWNhQ1ZjZ1dEUkFvS0VjZU0tdm1MLTFCRndnU3VJYmNVQU1OTkFSVW9qSms1dm1qVkpwWElRUmhsbXBCOXVabW0zTl9Idw?oc=5) (2026-09-22 01:00)
+  Summary: Motorsports lead the way in connecting physical and virtual data with the Digital Twin and industrial AI Engineering.com
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [MetAI and Kenmec Pioneer Robotic and Automation Simulations with NVIDIA Omniverse "Mega" Blueprint to Optimize AI-Powered Smart Warehouses - Lelezard](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzhqdndlc2ZTSjVHOS1vN3ZzUzVwNzhqckdTNkZEMnI0U3ZFcWlmclZqbzRNdEE3OW1fMnRSTUNmQTVrUGYyMm1WSjJVUmNVYzB4SmpBT1ZVbUlhai04SnJvcTB2N01QMVd2NnJJX1gtQlVoVHVvMGtEX1V0V1Y4dG5lZV81d1lQdHIxWXZqaERFdWxvdzd4VWFIM3czc1BSdktQOEowVGIxY3RfYUVaZUVvVWJKTXZWMmRrVHoweUFoVC03VFZpdFFIb1hhNWNKQzNjOC05eE5QbFRYTl93?oc=5) (2025-05-19 01:00)
-  Summary: MetAI and Kenmec Pioneer Robotic and Automation Simulations with NVIDIA Omniverse "Mega" Blueprint to Optimize AI-Powered Smart Warehouses Lelezard
+- [Xentara Targets the Runtime Layer for Physical AI in Industrial Automation - ARC Advisory Group](https://news.google.com/rss/articles/CBMilgFBVV95cUxPd096TjVIMm1kSU1tUUkxX2ZIbXFmb2ptUWNydTBIbGx4VC1zZ2k0ZS16WVhlcFJ4OTI3RFJkUENZaUZ4dHE0V1RGRVhYTHBib3pjQUV5Q3NNd2tLRUIwdEdBUmhpWk9Zb3FrelBuQ241LTVGLXVXTjdhS0R0T1I1TS02QXBwYS1ycGl2bGgzOGE2VHpZR3c?oc=5) (2026-10-07 06:00) _(last seen)_
+  Summary: Xentara Targets the Runtime Layer for Physical AI in Industrial Automation ARC Advisory Group
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [Ency Software and Estun launch technology partnership for integrated robot programming - Robotics & Automation News](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUUd1NWxoaE1UZl81cVA1Ty16VXFBb1BoOTF2WXNKRjlralZNTXRxWFBZWWg2eXVaNDJaYm51bkJ2eDN2QXY4M0ViOXdxa3JhcEI4NDk1UzdlZUZ5QmVaNjRwRl9DRlBEZ3RtMENIQzFzVzlXSTd2RHVUbzFMZl9wakQtVGRFTVlmV3F6bm1kMnR6WF8tQ3pJeXNKQzhOQkZsbzVFUlhBSHBjbmQ0Nk5uRjB5MkNvQXk5R2dHdDJDV1BiT3dHelBldDdHQlVhWDFqSG9SOG9IX3JWLU0?oc=5) (2026-10-05 16:16)
-  Summary: Ency Software and Estun launch technology partnership for integrated robot programming Robotics & Automation News
+- [ENCY Software and ESTUN Launch Technology Partnership for Integrated Robot Programming - Bisinfotech](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZE5JQUxmdzFtWkpRMXdibllxSEdzS1ZuSUxrMjYzWFBwTFprNl9nU0hLZG5QaDJ3Y2l4WFpYX2N2bHhTWnZNZE9VbWVHemxpRWl3bHUybnNLS1pNbGZXNnNBQVU2VTdLVEJlaXd6UWV4NTcwWVE0NGdlaHBfTDJVTXVHLUZlay11Zm00c3JtanRYSXJDV01EMEp1QlZnN0ROdkU0SHlQUzNWTWtKX3ZFTHJCWkM1QQ?oc=5) (2026-10-05 23:45) _(last seen)_
+  Summary: ENCY Software and ESTUN Launch Technology Partnership for Integrated Robot Programming Bisinfotech
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Siemens creates new vertical market dedicated to Intralogistics in the U.S. - DC Velocity](https://news.google.com/rss/articles/CBMitwFBVV95cUxObEFtTlFYNlZYUVlhbnIwYWdLZ3hPbWpvbEVGa1QzUlllVnpCZWxGQldHTWZGaDRXOVRlVUtGd1lEQlVUaUZLc2NqWVVyd0dSWk9WWDhHZE1MMzJmelFRTS1oUkhWZmVQREN3QllhN2RLb2pLZ2lyTVl2S29zM3diM1Jzb1RSSmk5aHQwdHlvT192WE9XWjI2UWpJV0ZOZkxMQmxKbE9YaHEzbGg2eWVNWkk3MlpqN1U?oc=5) (2023-03-15 01:00)
-  Summary: Siemens creates new vertical market dedicated to Intralogistics in the U.S. DC Velocity
+- [Material Handling Equipment Market Size, Share & Growth 2034 - Fortune Business Insights](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHRkSWRaWFNKVlVhWnZld2hONjVhWWVEYi10OGRZejl4Z0ZPTXN4VmduS0JfcUdzM1VaOHUyQW9SNmg0eGVNYUtLRlJ1YUhyNmNrY0hKNnIzbDVlNDl2QUdQTnd0Z2J6TEhrMmtVODhFRjFMV21oRjF6NXdodVJyYWRaNjVjU0FYbWxvR1pDaEhaOWY2VXNONmpralJVWHc?oc=5) (2026-09-21 01:00) _(last seen)_
+  Summary: Material Handling Equipment Market Size, Share & Growth 2034 Fortune Business Insights
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
 
 ### NVIDIA
 
-- [Video to Data Challenge: From Human Video to Robot Skills](https://www.youtube.com/watch?v=U8GHIxXqHLQ) (2026-10-07 14:08) _(last seen)_
-  Summary: How can robots learn from human video? Join us for the Video to Data (V2D) Challenge kickoff, welcoming registered teams, curious developers, and researchers exploring whether to participate. You don’t need to be signed up to join. We’ll introduce the challenge’s three tracks: reconstructing 4D human-object interactions, transferring human demonstrations into robot policies, and learning robot skills from first-person video. Along the way, we’ll walk through examples, explore the datasets and...
+- [Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents](https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/) (2026-10-08 15:06)
+  Summary: Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through natural-language instructions, review results and guide changes. Omniverse libraries provide GPU-acce...
+  Feed source: https://blogs.nvidia.com/feed/
+- [5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](https://www.youtube.com/shorts/H5UaOdIZERw) (2026-10-08 15:40)
+  Summary: How can you make it easier to create SimReady assets for robotics? Frontier AI models. 🤝 See how OpenAI’s GPT-6 Astra and NVIDIA Omniverse tools and skills help prepare ABB Robotics’ YuMi robot for simulation through a five-step workflow in NVIDIA Isaac Sim. Read the full blog: https://nvda.ws/4hO8p6F
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
@@ -44,21 +47,24 @@ Generated: 2026-10-08 12:45 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht - Siemens Newsroom](https://news.google.com/rss/articles/CBMifkFVX3lxTE11d3EzcExIdGpKNFhaSXE5LVpBc09NVVlkRUgzb0RhSXFjRXVXQlAteU9Pb1hiQjlXVXdpdkd1NHFlbmhtWlh3cTJmaGN6VlEtbVRmSHNjUTk4cFd5dDJtTmNoUHFOWHlfRlBkLVZwWVJwVWthVGtIbldBOWNzdw?oc=5) (2026-09-29 02:11)
-  Summary: Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht Siemens Newsroom
+- [Motorsports lead the way in connecting physical and virtual data with the Digital Twin and industrial AI - Engineering.com](https://news.google.com/rss/articles/CBMizgFBVV95cUxNOW5tQThrSlRITlVEcGlUZXZxWEFiWUIyNUs0YVR6YnBaXzhndTMxS05oV1JpanhxQXhoNkNjMjBQQmZqUHlpYVc4V1RTQUtrTS1iVnptdFR2WmxtX3FURURSSHQwd0JCTVJFaEV0RXAzQXk0QVRjdzR1WlNkZy1SZ0xadDZWYWFwRWNhQ1ZjZ1dEUkFvS0VjZU0tdm1MLTFCRndnU3VJYmNVQU1OTkFSVW9qSms1dm1qVkpwWElRUmhsbXBCOXVabW0zTl9Idw?oc=5) (2026-09-22 01:00)
+  Summary: Motorsports lead the way in connecting physical and virtual data with the Digital Twin and industrial AI Engineering.com
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
+- [Radeberger Gruppe: The digital recipe for brewing excellence](https://www.youtube.com/watch?v=5bg7pCAFYwY) (2026-10-08 15:14)
+  Summary: Discover how Radeberger Gruppe, Germany's largest private brewery group, leverages the Siemens Digital Twin and Supply Chain Suite to brew excellence at scale. In this video, Fabienne Zachwieja, Team Lead Digital Twin, shares how transitioning to an in-house modeling solution with Siemens has given their team a holistic, end-to-end view of the value chain. By moving from reactive problem-solving to forward-looking simulation, Radeberger Gruppe has unlocked impressive results—including a doubl...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [Centralize semiconductor shop floor orchestration: MJAC for Opcenter Execution Semiconductor](https://www.youtube.com/watch?v=zY06RQCobLI) (2026-10-08 14:06)
+  Summary: MJAC, ZNT' Manufacturing Job Automation Controller, part of our Opcenter MES Semiconductor solution, centralizes semiconductor shop floor orchestration, integrating with MES/EAP/AMHS to provide real time dashboards, drag and drop workflow design, event driven recovery, hot standby high availability, 100% job traceability and analytics to optimize throughput, reduce management effort and ensure compliance. Book a demo. Learn more about Opcenter Execution Semiconductor: https://sie.ag/7GDHAb
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
 ### Visual Components
 
-- [Videos: Powered by Visual Components: The FlexLink Design Tool - A3 Association for Advancing Automation](https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2dNU2w3STVHV3RoV3NMRlZIVnRWQmZVYnZoaVM5STdZVE1xLWo2OHRSajhkTzcxeTBxWDduUzlnUEZobFY4ZHlRV1lkSlJiZHEwczMwTGlBZERPcDU1d2ZKQ0hqbktLc2M0cGJOeUMwOWRXUkpkNXBMTXFNcXdtZGJWLWE3ekYtel9MZUR0Sy13X2Jhay14elF3?oc=5) (2024-02-27 17:53)
-  Summary: Videos: Powered by Visual Components: The FlexLink Design Tool A3 Association for Advancing Automation
-  Feed source: https://news.google.com/rss/search?q=%22visual+components%22+simulation+manufacturing&hl=en&gl=US&ceid=US:en
-- [Visual Components FactoryLens: fFrom technical layouts to customer-ready visuals](https://www.youtube.com/watch?v=8FzxR7MU6OM) (2026-10-07 15:00)
+- [Visual Components FactoryLens: fFrom technical layouts to customer-ready visuals](https://www.youtube.com/watch?v=8FzxR7MU6OM) (2026-10-07 15:00) _(last seen)_
   Summary: Powered by NVIDIA Omniverse libraries, FactoryLens turns technical simulation layouts into photorealistic visuals for sales, marketing, and customer communication, without external rendering tools and extra effort from engineering teams. Learn more: https://www.visualcomponents.com/blog/introducing-factorylens/
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
-- [Automation Fair 2026 Sneak Preview of the Expo & PartnerNetwork](https://www.youtube.com/watch?v=CStXllt3wac) (2026-09-22 09:19) _(last seen)_
-  Summary: Curious about what’s coming to Automation Fair? We’re giving you an inside look at what you can expect to see on the Expo show floor plus insights from our Partner Network. Learn more and register today! https://rok.auto/3I7y0K0 #ROKevents
+- [The Future of Life Sciences Manufacturing](https://www.youtube.com/watch?v=vpnUWYXYXqY) (2026-10-09 10:28)
+  Summary: Staying competitive in life sciences manufacturing requires leaders to balance compliance, operational agility, cybersecurity, and AI adoption in an increasingly connected environment. Join influencer Antonio Grasso and Matt Weaver, Vice President, Global Industry Life Sciences at Rockwell Automation as they discuss key findings from the Life Sciences Digital Maturity Report. Their conversation explores what it takes to succeed in the future of life sciences manufacturing: building a foundati...
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 
