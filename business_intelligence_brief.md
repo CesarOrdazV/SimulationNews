@@ -1,29 +1,23 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-10-11 11:37 (Mexico City)
+Generated: 2026-10-12 15:11 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [Virtual Commissioning of a Robotic Cell - Automation World](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb21kdDFsTE9aMnNEV214ZDJ6Z21kbGhHTnFjMUR4VmhhNnV3VHYxcUlPOWNVRXhRbVR3R29BcEJSdlZnaHdxaVNxTlhWWnVzVkQ3VTh4Z0thOW5XLVNQd0lweWZ3R3Bjb0hTNzBSWW45b0UxbmIwQnNmRVFSc3h0RXh5VVpsZ3Q3SVlMcE1iM0lKYnhCemQ5Nlg0WnpzMnFSdXZxNA?oc=5) (2019-07-25 02:00)
-  Summary: Virtual Commissioning of a Robotic Cell Automation World
+- [Factory Acceptance Testing (FAT) Services Market Size, [2034] - Fortune Business Insights](https://news.google.com/rss/articles/CBMimAFBVV95cUxOVm5CZVZiZEpOMXZCQXFrRXBYR0tkN1psc01MWEVDQUtOWlJtNzMteEl5WlhwbzFMWFpycmUwRXdmWUxXcG40UEkya2RfcmFTaFpnMWF5SlRvTTA1SkhUenhXYnNVMkJmd0NENGFqbFVhWmpTbGN5Mm5oSENuOGJoMWQwX0hxTEd0cWNfVndrODh5czVSVVZ1Wg?oc=5) (2026-09-14 01:00) _(last seen)_
+  Summary: Factory Acceptance Testing (FAT) Services Market Size, [2034] Fortune Business Insights
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Amazon Devices & Services Achieves Major Step Toward Zero-Touch Manufacturing With NVIDIA AI and Digital Twins - NVIDIA Blog](https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaDF0UFJuY1ZpSDkzWGdEVDNTSXVxUzBHaUwtWmViTThVRV9rbTYwQTNBN3V5WlB2UmswNzZBZGtZZjRwTThHa2hWbEJEQzlySUxkUnFwY1RNVHBWVFJ5dFpOb3ZTeFpiQVJ4QUd1aw?oc=5) (2025-08-11 01:00)
-  Summary: Amazon Devices & Services Achieves Major Step Toward Zero-Touch Manufacturing With NVIDIA AI and Digital Twins NVIDIA Blog
-  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
-- [Cloud-based process design in a digital twin framework with integrated and coupled technology models for blisk milling - Frontiers](https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1NGRG44NmdidFhaa01qZG5hTVpHRWZxNGZVZHh3RWlCLUtldk01dkFBNTNLNjQ3VDF1Y3pzZjR3MERudmNaT19tTGRET2xxWGpsYlhxdTdyWkJBR2t3SS1tWUU0X3MyOXZ2ZjU3RGdOVl9fdnVGRkt0bllTd2JrQmNINFVkM2VUYk04bTloN1JoeVZ3a2lOVFJtaUVib2NLckZRSw?oc=5) (2022-12-18 02:00)
-  Summary: Cloud-based process design in a digital twin framework with integrated and coupled technology models for blisk milling Frontiers
+- [Global Digital Twin Market Size, Share, Trends & Forecast (2026-2034) - IMARC Group](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DMWJhRFpRSGY4blFqQ2xfeHFqV2w4SFR2LXphRzFSajlpRzF2RnJyMmdPanZfbnBiYldfZF9NSXNiSG1jLXREWmlkVVZVZ2dUZGVtdnc4MlppUQ?oc=5) (2026-10-06 01:00) _(last seen)_
+  Summary: Global Digital Twin Market Size, Share, Trends & Forecast (2026-2034) IMARC Group
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Virtual Commissioning of a Robotic Cell - Automation World](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb21kdDFsTE9aMnNEV214ZDJ6Z21kbGhHTnFjMUR4VmhhNnV3VHYxcUlPOWNVRXhRbVR3R29BcEJSdlZnaHdxaVNxTlhWWnVzVkQ3VTh4Z0thOW5XLVNQd0lweWZ3R3Bjb0hTNzBSWW45b0UxbmIwQnNmRVFSc3h0RXh5VVpsZ3Q3SVlMcE1iM0lKYnhCemQ5Nlg0WnpzMnFSdXZxNA?oc=5) (2019-07-25 02:00)
-  Summary: Virtual Commissioning of a Robotic Cell Automation World
-  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
-- [Remote Motor Control (Direct On Line) Simulation by Cade-SIMU / industrial automation @bawashir - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XbEZDUEpYSjRFWTZyMHA3TjdRcUZiMHJBS3B2M0c0X3pnbG4wc2ZhcjJKbG9menVmbngtMHVaVmh1MXdCdFZIZ0R1eUJvOVM0bzBob3NQUW9US2hr?oc=5) (2024-07-25 01:00)
-  Summary: Remote Motor Control (Direct On Line) Simulation by Cade-SIMU / industrial automation @bawashir YouTube
+- [Xentara Targets the Runtime Layer for Physical AI in Industrial Automation - ARC Advisory Group](https://news.google.com/rss/articles/CBMilgFBVV95cUxPd096TjVIMm1kSU1tUUkxX2ZIbXFmb2ptUWNydTBIbGx4VC1zZ2k0ZS16WVhlcFJ4OTI3RFJkUENZaUZ4dHE0V1RGRVhYTHBib3pjQUV5Q3NNd2tLRUIwdEdBUmhpWk9Zb3FrelBuQ241LTVGLXVXTjdhS0R0T1I1TS02QXBwYS1ycGl2bGgzOGE2VHpZR3c?oc=5) (2026-10-07 06:00) _(last seen)_
+  Summary: Xentara Targets the Runtime Layer for Physical AI in Industrial Automation ARC Advisory Group
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
@@ -40,8 +34,8 @@ Generated: 2026-10-11 11:37 (Mexico City)
 
 ### NVIDIA
 
-- [5 Steps to Create SimReady Assets for Robotics with Frontier AI Models](https://www.youtube.com/shorts/H5UaOdIZERw) (2026-10-08 15:40) _(last seen)_
-  Summary: How can you make it easier to create SimReady assets for robotics? Frontier AI models. 🤝 See how OpenAI’s GPT-6 Astra and NVIDIA Omniverse tools and skills help prepare ABB Robotics’ YuMi robot for simulation through a five-step workflow in NVIDIA Isaac Sim. Read the full blog: https://nvda.ws/4hO8p6F
+- [Get Started With the Newton Physics Engine | Robotics Office Hours](https://www.youtube.com/watch?v=4dbaTrlaLJ8) (2026-10-12 11:30)
+  Summary: Learn how to get started with Newton, an open-source physics engine for robot simulation built on NVIDIA Warp and OpenUSD. Join us for an introduction and live demo of Newton Fundamentals, the first module of Accelerating Robot Learning With Isaac Lab and Newton. We’ll walk through the building blocks of a simulation and explore examples covering robot control, inverse kinematics, and a Franka arm manipulating a deformable cable. If you’re a robotics engineer, simulation developer, or machine...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
@@ -50,13 +44,16 @@ Generated: 2026-10-11 11:37 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Radeberger Gruppe: The digital recipe for brewing excellence](https://www.youtube.com/watch?v=5bg7pCAFYwY) (2026-10-08 15:14) _(last seen)_
-  Summary: Discover how Radeberger Gruppe, Germany's largest private brewery group, leverages the Siemens Digital Twin and Supply Chain Suite to brew excellence at scale. In this video, Fabienne Zachwieja, Team Lead Digital Twin, shares how transitioning to an in-house modeling solution with Siemens has given their team a holistic, end-to-end view of the value chain. By moving from reactive problem-solving to forward-looking simulation, Radeberger Gruppe has unlocked impressive results—including a doubl...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [Siemens unveils Digital Twin Composer - Siemens Newsroom](https://news.google.com/rss/articles/CBMib0FVX3lxTFBNSzJQbWJlUHk1REF6eGZtM2ZJczRKckd5SDBDRzBUZURVdnhyUGp1RjdqN0pmOFBtVVJHdEdfaWRub01aTGVIYlJIUEhpMlZsVEU2WUtVSXEyZlZPN0JFZExZMjNBRk9MRm44NFBnTQ?oc=5) (2026-04-11 00:38)
+  Summary: Siemens unveils Digital Twin Composer Siemens Newsroom
+  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
 ### Visual Components
 
-- [Visual Components FactoryLens: fFrom technical layouts to customer-ready visuals](https://www.youtube.com/watch?v=8FzxR7MU6OM) (2026-10-07 15:00) _(last seen)_
-  Summary: Powered by NVIDIA Omniverse libraries, FactoryLens turns technical simulation layouts into photorealistic visuals for sales, marketing, and customer communication, without external rendering tools and extra effort from engineering teams. Learn more: https://www.visualcomponents.com/blog/introducing-factorylens/
+- [Learn the basics of the FactoryLens Add-on](https://www.youtube.com/watch?v=hh4HYxGw0pA) (2026-10-12 02:14)
+  Summary: This short tutorial provides a brief introduction to FactoryLens in Visual Components. You will learn where to find FactoryLens, the basic requirements for using it, and how to launch the FactoryLens viewport. Using a simple bin-picking example, the tutorial gives a quick overview of the setup process and shows how to move from a traditional simulation view into an immersive factory experience. It's a great starting point for anyone new to FactoryLens. This video is also available from the Vi...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
+- [Visual Components FactoryLens: turning simulation models into realistic factory visualizations](https://www.youtube.com/watch?v=F-BuB82NWjU) (2026-10-11 15:00)
+  Summary: Powered by NVIDIA Omniverse libraries, Visual Components transforms technical simulation models into photorealistic visuals that are easier to present, review, and understand across different stakeholder groups. FactoryLens helps bridge the gap between engineering accuracy and management-friendly communication by turning complex automation concepts into realistic factory visualizations with just a few clicks. Learn more: https://www.visualcomponents.com/blog/introducing-factorylens/ yt:cc=on
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 

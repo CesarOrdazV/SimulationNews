@@ -2,10 +2,10 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models",
-    "summary": "How can you make it easier to create SimReady assets for robotics? Frontier AI models. \ud83e\udd1d See how OpenAI\u2019s GPT-6 Astra and NVIDIA Omniverse tools and skills help prepare ABB Robotics\u2019 YuMi robot for simulation through a five-step workflow in NVIDIA Isaac Sim. Read the full blog: https://nvda.ws/4hO8p6F",
-    "link": "https://www.youtube.com/shorts/H5UaOdIZERw",
-    "published": "2026-10-08 15:40",
+    "title": "Get Started With the Newton Physics Engine | Robotics Office Hours",
+    "summary": "Learn how to get started with Newton, an open-source physics engine for robot simulation built on NVIDIA Warp and OpenUSD. Join us for an introduction and live demo of Newton Fundamentals, the first module of Accelerating Robot Learning With Isaac Lab and Newton. We\u2019ll walk through the building blocks of a simulation and explore examples covering robot control, inverse kinematics, and a Franka arm manipulating a deformable cable. If you\u2019re a robotics engineer, simulation developer, or machine...",
+    "link": "https://www.youtube.com/watch?v=4dbaTrlaLJ8",
+    "published": "2026-10-12 11:30",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
@@ -29,10 +29,10 @@
   "competitors:Visual Components": {
     "section": "competitors",
     "topic": "Visual Components",
-    "title": "Visual Components FactoryLens: fFrom technical layouts to customer-ready visuals",
-    "summary": "Powered by NVIDIA Omniverse libraries, FactoryLens turns technical simulation layouts into photorealistic visuals for sales, marketing, and customer communication, without external rendering tools and extra effort from engineering teams. Learn more: https://www.visualcomponents.com/blog/introducing-factorylens/",
-    "link": "https://www.youtube.com/watch?v=8FzxR7MU6OM",
-    "published": "2026-10-07 15:00",
+    "title": "Learn the basics of the FactoryLens Add-on",
+    "summary": "This short tutorial provides a brief introduction to FactoryLens in Visual Components. You will learn where to find FactoryLens, the basic requirements for using it, and how to launch the FactoryLens viewport. Using a simple bin-picking example, the tutorial gives a quick overview of the setup process and shows how to move from a traditional simulation view into an immersive factory experience. It's a great starting point for anyone new to FactoryLens. This video is also available from the Vi...",
+    "link": "https://www.youtube.com/watch?v=hh4HYxGw0pA",
+    "published": "2026-10-12 02:14",
     "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg"
   },
   "competitors:Rockwell Automation": {
