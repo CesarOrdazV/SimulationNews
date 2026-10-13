@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-10-12 15:11 (Mexico City)
+Generated: 2026-10-13 13:10 (Mexico City)
 
 ## Business Keywords
 
@@ -11,13 +11,16 @@ Generated: 2026-10-12 15:11 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Global Digital Twin Market Size, Share, Trends & Forecast (2026-2034) - IMARC Group](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DMWJhRFpRSGY4blFqQ2xfeHFqV2w4SFR2LXphRzFSajlpRzF2RnJyMmdPanZfbnBiYldfZF9NSXNiSG1jLXREWmlkVVZVZ2dUZGVtdnc4MlppUQ?oc=5) (2026-10-06 01:00) _(last seen)_
-  Summary: Global Digital Twin Market Size, Share, Trends & Forecast (2026-2034) IMARC Group
+- [Siemens unveils Digital Twin Composer - Siemens Newsroom](https://news.google.com/rss/articles/CBMib0FVX3lxTFBNSzJQbWJlUHk1REF6eGZtM2ZJczRKckd5SDBDRzBUZURVdnhyUGp1RjdqN0pmOFBtVVJHdEdfaWRub01aTGVIYlJIUEhpMlZsVEU2WUtVSXEyZlZPN0JFZExZMjNBRk9MRm44NFBnTQ?oc=5) (2026-04-11 00:38)
+  Summary: Siemens unveils Digital Twin Composer Siemens Newsroom
+  Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
+- [Schneider Electric, Aveva, & ETAP Join Alliance for OpenUSD to Advance Industrial Digital Twins & 3D Modeling - Design News](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSzFTcjNVVmVvZDRYM3lLUUdPd1lPLVotSkR6WlY2TEpRVWVoXzVRR0RzNi05TGJocWhEclRJX1hENXFqQjdpc19EYm9obkQ4MTZqN1ItSVlMb3ZYWVZSaHVuYmo2V2xBVHdsby1QZjQ1c0pkdE9FcGEzNnFDamVKUXdxR1R1WTM4V2FFTE01cVpkSl9HbHB6Y0lETmlhTjVMN1pDaDR4WERPUThHbGRza1dEdnN5YXB3dXAwd0ljZXZ6VzFlV0hGMHRwMFJRbkNZSW5zbHhBSW5NYUdmc2JxekdScw?oc=5) (2025-12-02 02:00)
+  Summary: Schneider Electric, Aveva, & ETAP Join Alliance for OpenUSD to Advance Industrial Digital Twins & 3D Modeling Design News
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Xentara Targets the Runtime Layer for Physical AI in Industrial Automation - ARC Advisory Group](https://news.google.com/rss/articles/CBMilgFBVV95cUxPd096TjVIMm1kSU1tUUkxX2ZIbXFmb2ptUWNydTBIbGx4VC1zZ2k0ZS16WVhlcFJ4OTI3RFJkUENZaUZ4dHE0V1RGRVhYTHBib3pjQUV5Q3NNd2tLRUIwdEdBUmhpWk9Zb3FrelBuQ241LTVGLXVXTjdhS0R0T1I1TS02QXBwYS1ycGl2bGgzOGE2VHpZR3c?oc=5) (2026-10-07 06:00) _(last seen)_
-  Summary: Xentara Targets the Runtime Layer for Physical AI in Industrial Automation ARC Advisory Group
+- [Physical AI Brings Machine Intelligence And Atomistic Materials Simulation Together - Automation World](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLUxQaEE2cndBUDNaa0ktZklhV0xSNHROVV9vX3ZJVldTS1E3a3A2Q2JQZ0pHNGRSTDJuLTMxRElfbzdYMWxOcW5VTlB4dkZiWU9VYlByaWQ5b1puRUlzek9RLWVLdTdyeWRrMFZFa19sRVExMG1IeTZnRWhaUG9zUUNJWVBva2ZNLXFwa3cxOWdCOXdhM1hPNE9LRkdmNE5BVDRiUk1QdjdWcmFsRnpDdm02bFBmbEI1Tl9qUnRtTl9tcDNsa2Y4OG5OVmVMVk5RTUg2a0FOU2ZfNmZyeV9WaXRWYXcwM29BYURlLWdNMGJmS05oeGc?oc=5) (2026-10-13 11:55)
+  Summary: Physical AI Brings Machine Intelligence And Atomistic Materials Simulation Together Automation World
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
@@ -26,15 +29,15 @@ Generated: 2026-10-12 15:11 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [Material Handling Equipment Market Size, Share & Growth 2034 - Fortune Business Insights](https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHRkSWRaWFNKVlVhWnZld2hONjVhWWVEYi10OGRZejl4Z0ZPTXN4VmduS0JfcUdzM1VaOHUyQW9SNmg0eGVNYUtLRlJ1YUhyNmNrY0hKNnIzbDVlNDl2QUdQTnd0Z2J6TEhrMmtVODhFRjFMV21oRjF6NXdodVJyYWRaNjVjU0FYbWxvR1pDaEhaOWY2VXNONmpralJVWHc?oc=5) (2026-09-21 01:00) _(last seen)_
-  Summary: Material Handling Equipment Market Size, Share & Growth 2034 Fortune Business Insights
+- [Dematic introduces Dematic iQ Virtual emulation and simulation platform - Automation.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDVVTFhSVXRZenpZbEQwNGlQd3huMVAyOWV6dnM1SUp2MTVfbzJoaWRaM0M2eHpNQTRxRlUwcGtOSzc2ZDlXenkwb1NWZ1hOX2dOam9lYXdJZG01RUI5ODdUS3NvY0w3bURuQkh3b2hUTC10dHBvN3JIYTB5MjdKcDNzc1FoWjVzbk5rYTNB?oc=5) (2025-10-17 10:19)
+  Summary: Dematic introduces Dematic iQ Virtual emulation and simulation platform Automation.com
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
 ## Competitors
 
 ### NVIDIA
 
-- [Get Started With the Newton Physics Engine | Robotics Office Hours](https://www.youtube.com/watch?v=4dbaTrlaLJ8) (2026-10-12 11:30)
+- [Get Started With the Newton Physics Engine | Robotics Office Hours](https://www.youtube.com/watch?v=4dbaTrlaLJ8) (2026-10-12 11:30) _(last seen)_
   Summary: Learn how to get started with Newton, an open-source physics engine for robot simulation built on NVIDIA Warp and OpenUSD. Join us for an introduction and live demo of Newton Fundamentals, the first module of Accelerating Robot Learning With Isaac Lab and Newton. We’ll walk through the building blocks of a simulation and explore examples covering robot control, inverse kinematics, and a Franka arm manipulating a deformable cable. If you’re a robotics engineer, simulation developer, or machine...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
@@ -44,16 +47,13 @@ Generated: 2026-10-12 15:11 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens unveils Digital Twin Composer - Siemens Newsroom](https://news.google.com/rss/articles/CBMib0FVX3lxTFBNSzJQbWJlUHk1REF6eGZtM2ZJczRKckd5SDBDRzBUZURVdnhyUGp1RjdqN0pmOFBtVVJHdEdfaWRub01aTGVIYlJIUEhpMlZsVEU2WUtVSXEyZlZPN0JFZExZMjNBRk9MRm44NFBnTQ?oc=5) (2026-04-11 00:38)
-  Summary: Siemens unveils Digital Twin Composer Siemens Newsroom
+- [Altair HyperWorks 2026 delivers design and simulation at scale with AI - Siemens Newsroom](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hOV9aVnl0UWFEVVd4MmMwQXhkaGU0SVkyaFdRZnI2c3h6NmVLdVp2Y1NtWW9UQXJiZjNKRzJuX1BjMG9QM3A2TnlZeXpKQnBJZWE0OTFmRnNPVkxTbDR1VVpJc2c?oc=5) (2026-05-21 14:14)
+  Summary: Altair HyperWorks 2026 delivers design and simulation at scale with AI Siemens Newsroom
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
 ### Visual Components
 
-- [Learn the basics of the FactoryLens Add-on](https://www.youtube.com/watch?v=hh4HYxGw0pA) (2026-10-12 02:14)
+- [Learn the basics of the FactoryLens Add-on](https://www.youtube.com/watch?v=hh4HYxGw0pA) (2026-10-12 02:14) _(last seen)_
   Summary: This short tutorial provides a brief introduction to FactoryLens in Visual Components. You will learn where to find FactoryLens, the basic requirements for using it, and how to launch the FactoryLens viewport. Using a simple bin-picking example, the tutorial gives a quick overview of the setup process and shows how to move from a traditional simulation view into an immersive factory experience. It's a great starting point for anyone new to FactoryLens. This video is also available from the Vi...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
-- [Visual Components FactoryLens: turning simulation models into realistic factory visualizations](https://www.youtube.com/watch?v=F-BuB82NWjU) (2026-10-11 15:00)
-  Summary: Powered by NVIDIA Omniverse libraries, Visual Components transforms technical simulation models into photorealistic visuals that are easier to present, review, and understand across different stakeholder groups. FactoryLens helps bridge the gap between engineering accuracy and management-friendly communication by turning complex automation concepts into realistic factory visualizations with just a few clicks. Learn more: https://www.visualcomponents.com/blog/introducing-factorylens/ yt:cc=on
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
