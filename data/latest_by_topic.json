@@ -2,11 +2,11 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "Get Started With the Newton Physics Engine | Robotics Office Hours",
-    "summary": "Learn how to get started with Newton, an open-source physics engine for robot simulation built on NVIDIA Warp and OpenUSD. Join us for an introduction and live demo of Newton Fundamentals, the first module of Accelerating Robot Learning With Isaac Lab and Newton. We\u2019ll walk through the building blocks of a simulation and explore examples covering robot control, inverse kinematics, and a Franka arm manipulating a deformable cable. If you\u2019re a robotics engineer, simulation developer, or machine...",
-    "link": "https://www.youtube.com/watch?v=4dbaTrlaLJ8",
-    "published": "2026-10-12 11:30",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
+    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+    "summary": "Keeping a city running means making decisions that affect residents every day \u2014 from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make those decisions. These applications can anticipate maintenance needs, guide urban planning and make public services more responsive. Software partners inc...",
+    "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
+    "published": "2026-10-14 00:00",
+    "source_url": "https://blogs.nvidia.com/feed/"
   },
   "competitors:RoboDK": {
     "section": "competitors",
@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Radeberger Gruppe: The digital recipe for brewing excellence",
-    "summary": "Discover how Radeberger Gruppe, Germany's largest private brewery group, leverages the Siemens Digital Twin and Supply Chain Suite to brew excellence at scale. In this video, Fabienne Zachwieja, Team Lead Digital Twin, shares how transitioning to an in-house modeling solution with Siemens has given their team a holistic, end-to-end view of the value chain. By moving from reactive problem-solving to forward-looking simulation, Radeberger Gruppe has unlocked impressive results\u2014including a doubl...",
-    "link": "https://www.youtube.com/watch?v=5bg7pCAFYwY",
-    "published": "2026-10-08 15:14",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
+    "title": "Teleprotection Gateway - GridOperators",
+    "summary": "You know the SWT 3000 for its reliability. Now, we\u2019re making it easier to manage within your automation environment. The SIPROTEC Teleprotection Gateway brings familiar protection functionality into a product designed for Substation Automation Engineers. It\u2019s about keeping the lights on while making your system more transparent and easier to maintain.",
+    "link": "https://www.youtube.com/watch?v=_Lb9wM-GUHg",
+    "published": "2026-10-14 09:47",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
   },
   "competitors:Visual Components": {
     "section": "competitors",
@@ -38,10 +38,10 @@
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "Automation Fair 2026 Keynotes, Summits, and Sessions Sneak Preview",
-    "summary": "Tune in to get a glimpse of what's ahead at Automation Fair 2026! Join our livestream to explore the Keynotes, Summits, and Sessions that are shaping this year's Automation Fair! Learn more and register here https://rok.auto/3I7y0K0 #ROKevents",
-    "link": "https://www.youtube.com/watch?v=OnsdKjvghIg",
-    "published": "2026-10-09 13:19",
+    "title": "The Future of Life Sciences Manufacturing",
+    "summary": "Staying competitive in life sciences manufacturing requires leaders to balance compliance, operational agility, cybersecurity, and AI adoption in an increasingly connected environment. Join influencer Antonio Grasso and Matt Weaver, Vice President, Global Industry Life Sciences at Rockwell Automation as they discuss key findings from the Life Sciences Digital Maturity Report. Their conversation explores what it takes to succeed in the future of life sciences manufacturing: building a foundati...",
+    "link": "https://www.youtube.com/watch?v=vpnUWYXYXqY",
+    "published": "2026-10-13 21:56",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {
