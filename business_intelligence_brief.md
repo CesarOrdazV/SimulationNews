@@ -1,6 +1,6 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-10-14 10:59 (Mexico City)
+Generated: 2026-10-15 10:46 (Mexico City)
 
 ## Business Keywords
 
@@ -11,24 +11,21 @@ Generated: 2026-10-14 10:59 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Siemens Expands AI-Powered Digital Twin Composer Across UK and Ireland Industries - Konsulteer](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWC01T3NabDFTbHdMSVEzUDNIUXNvQzZEVmFHeXpNeEpNRERBeXVQUXpxRjZST2pzY1g0ajZzQXU1NlR0eF9rLU85NnpXOUhvcmplN2gwenNlbENvZU0wdjhWazVPb25qcFRsc2x0VE90UkhBdm1GcVBNaHBFbndZNWhjSUY0MFVhb3R0Y3RNdFA5dkpaZDRlazQxeFZSOW1qVUhMSXduYkZYdEhwc1FDcDQ1cTAwLVE?oc=5) (2026-07-16 01:00)
-  Summary: Siemens Expands AI-Powered Digital Twin Composer Across UK and Ireland Industries Konsulteer
+- [Asia-Pacific Digital Twin Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQV9GZkhSNTdiSE9pZ0FTb1EwV2JoS1FYWFBiT0xFN2dxSzdoOVRTczVfYWt5Q0FVeFRwS1NDTllOLXBYcjRndjd6dEFRcVFISGdEM0JnNXFsSDI3dHNrSHBibE0zeVMxQUswa291VXo2eFhrOWUwbEFUZFl6czhqLVQ3YjFlVW95bGpKUmJPQU05OUtPbnc?oc=5) (2026-08-11 14:25)
+  Summary: Asia-Pacific Digital Twin Market Size, Share,Trends, Growth Analysis Report, 2030 MarketsandMarkets
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Training with Workflow and Simulation Software - Automation World](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWc2OGpuTlk2V3A5QVZCSXM4NlBhcDZBTGpqb3A2dWQ0ZHQ2MmpJSUtTYUs4R2FhdTRVejE3b21NTWgxSi1RWFFfcWdrSGNaQ09BVHBiRGJZT2JnN3dVVU9USWJWMzZlV3VxRTNnaFUtcWJqTFRYajJnS29qNlNNV0N6THF0OV9CS1R0OWhZYU1XSklqT05UWUh3dGlLSlhjYmM1X29ZRl9IMFZoaVV5SV9ESQ?oc=5) (2023-01-25 02:00)
-  Summary: Training with Workflow and Simulation Software Automation World
-  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
-- [Siemens Debuts Intelligence Center X—Industrial AI for Enterprise Impact - Design News](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOHZ0MUN2MlpFZmtXU2lPTUFwTkRWbkxEVHFmYlNBaGJYQjY3d3lsTTl4VS1oRXQ3cjg4Y1VFSjhxb0Rsd0s1OFpJZllsTElVLUNFa3FPOGR1bE5ZWDZBSUxBV1FfTlhCUERKdzZfaUJJVEJ2ejR5STlMOTVQUnMxLVlZcFpWYnA0MFlwYUpFZWJDbkVLcUdJSTM3Tmc5Wjh4bExDMzBaQ2x1NW5tYkpv?oc=5) (2026-06-02 01:00)
-  Summary: Siemens Debuts Intelligence Center X—Industrial AI for Enterprise Impact Design News
-  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
-- [CD-adapco Unleashes Simulation on EV Battery Design - Design News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHl2dzF5UjdzZVRRRzljdk9yX3U4dnhJaWFTRlZSdENjYTB6UmFkMlpsVC1fOWFzQUxacXJpSDNzbnhJQ196b3MwSVNHazA0enE2TjVCR3lqZmlHV0xkczdqV0s1aWZWc0d5QWxyVTlPRE81WXdBbDE4cTROam54UkNHUWVkSndja2k3LWNMckN5UWxEYWpkVG9TaTQ?oc=5) (2012-08-16 02:00)
-  Summary: CD-adapco Unleashes Simulation on EV Battery Design Design News
+- [IDEC releases WindLDR version 8.2.2 PLC programming software - Automation.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeTJUY1FaWTJoTk5mZGJCcGdybnZjdlljTmtDSjhGMXJlenJ5Yk1wTjJZR3BuWk1NNWQ4M2ZEWldlYWUxWGg3M0FxakE2b054bGo1Y3NBTlpZT1FZbFVjNUhiV08xN3RheE9MR3F4MnVvcVp0MVdRd0NBd3RwaXRLSXNvMGNya3lpT1JNQQ?oc=5) (2025-10-17 16:42)
+  Summary: IDEC releases WindLDR version 8.2.2 PLC programming software Automation.com
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
-- [ENCY Software and ESTUN Launch Technology Partnership for Integrated Robot Programming - Bisinfotech](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZE5JQUxmdzFtWkpRMXdibllxSEdzS1ZuSUxrMjYzWFBwTFprNl9nU0hLZG5QaDJ3Y2l4WFpYX2N2bHhTWnZNZE9VbWVHemxpRWl3bHUybnNLS1pNbGZXNnNBQVU2VTdLVEJlaXd6UWV4NTcwWVE0NGdlaHBfTDJVTXVHLUZlay11Zm00c3JtanRYSXJDV01EMEp1QlZnN0ROdkU0SHlQUzNWTWtKX3ZFTHJCWkM1QQ?oc=5) (2026-10-05 23:45) _(last seen)_
-  Summary: ENCY Software and ESTUN Launch Technology Partnership for Integrated Robot Programming Bisinfotech
+- [Factory analysis and robotic automatic setup... 'AI Orchestration Factory' is emerging - 머니투데이](https://news.google.com/rss/articles/CBMibkFVX3lxTE0tQmR3WnZReTFzbjFlc2w2QXpWcTBlemdEeHlwSTdRTnJyTVpGQkNUYk4xSjZ3ZmdtT2wzak1HZjFZdVVpdkt4VGE5TGM2OC1TWm9FLTBhUUVRTEItVWZONXRrNUVwZUliODBuNVhB?oc=5) (2026-08-25 01:00)
+  Summary: Factory analysis and robotic automatic setup... 'AI Orchestration Factory' is emerging 머니투데이
+  Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
+- [Robotics Simulation Software Market to Reach US$6.3 Billion by 2033 at 16.2% CAGR | Persistence Market Research - openPR.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxORDlZaFl3dERIRHM1anFtWVRlUmh6Sm5HeHlJaXhtNlhhb3hBeVIyNDFJS0k2b21SOEtMOXE1QmdlS2s5ZEFUNDhpRzZaYmtULS02dzlBQVhiOF8tSGFJcHdYZU5uQ2NLWDhJb3B6Z2tkT3BMbXdNUmhpbmd1cjhRRko2d0VLcXdSSDZvaE55NjZob3BPMl8xb3Bwbw?oc=5) (2026-10-15 00:26)
+  Summary: Robotics Simulation Software Market to Reach US$6.3 Billion by 2033 at 16.2% CAGR | Persistence Market Research openPR.com
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
@@ -40,9 +37,9 @@ Generated: 2026-10-14 10:59 (Mexico City)
 
 ### NVIDIA
 
-- [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/) (2026-10-14 00:00)
-  Summary: Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make those decisions. These applications can anticipate maintenance needs, guide urban planning and make public services more responsive. Software partners inc...
-  Feed source: https://blogs.nvidia.com/feed/
+- [What’s New in Newton Physics for Robot Simulation | Robotics Office Hour](https://www.youtube.com/watch?v=4dbaTrlaLJ8) (2026-10-15 01:28) _(last seen)_
+  Summary: Explore what’s new in Newton, an open-source physics engine for robot simulation built on NVIDIA Warp and OpenUSD. Join us for a live walkthrough of Newton’s new features and essential simulation components. See practical demonstrations of robot control and inverse kinematics, and learn how these workflows connect to robot learning. We’ll also cover highlights from the “Accelerating Robot Learning With Isaac Lab and Newton" learning path. Designed for robotics engineers, simulation developers...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA
 ### RoboDK
 
 - [What Is Feed Rate in Machining, and How Do You Choose the Right One?](https://robodk.com/blog/feed-rate-machining-choose-right-one/) (2026-10-07 04:58) _(last seen)_
@@ -50,32 +47,29 @@ Generated: 2026-10-14 10:59 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [What is the industrial metaverse? - Siemens](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcnpCZkJkZ0M3Sl9JSXFGSkJhMUxJeURWUXZ2dC0zRG82VUdrQVBzYk1MVllja3haMDlsS2FnU3FfeDlLaVQxTm1FZkxqNFFNVUJUWV9YNmZrZU5kck9FaDgwREx0SGYtSXNEdzdRUjZnTGRzZTNuTXdfbDN6S3VRcXQ2czl3dlAzdHc?oc=5) (2026-02-13 06:12)
-  Summary: What is the industrial metaverse? Siemens
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Siemens Expands AI-Powered Digital Twin Composer Across UK and Ireland Industries - Konsulteer](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWC01T3NabDFTbHdMSVEzUDNIUXNvQzZEVmFHeXpNeEpNRERBeXVQUXpxRjZST2pzY1g0ajZzQXU1NlR0eF9rLU85NnpXOUhvcmplN2gwenNlbENvZU0wdjhWazVPb25qcFRsc2x0VE90UkhBdm1GcVBNaHBFbndZNWhjSUY0MFVhb3R0Y3RNdFA5dkpaZDRlazQxeFZSOW1qVUhMSXduYkZYdEhwc1FDcDQ1cTAwLVE?oc=5) (2026-07-16 01:00)
-  Summary: Siemens Expands AI-Powered Digital Twin Composer Across UK and Ireland Industries Konsulteer
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Siemens and IFS partner on industrial AI for factories - Engineering.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS2hzdzk0WVFKTXZfbWFNQmhJWnViRzVhdGdzRUZLTVE2a0dJTzJpQXc3MmFpWVMzMklFZVpLdGY4dlVqRHQwTXZvN3IyRjNJXzYzb3pUYTFVcG1VeVhiQ2QzMFRXLTB6UnJhS1NWdXd5anB4SkdJRWE4RnNsVnptem9JX01LdGUyeU9N?oc=5) (2026-06-30 01:00)
-  Summary: Siemens and IFS partner on industrial AI for factories Engineering.com
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Thin Surfaces for Rotor Simulations with Simcenter Flightstream](https://www.youtube.com/watch?v=C6eZJ8Kv6WA) (2026-10-14 03:53)
-  Summary: Learn how to set up and run an unsteady rotor simulation using thin surfaces in Simcenter Flightstream. Thin surfaces can significantly reduce computational cost in simulations involving multiple rotors, such as eVTOL configurations with multiple propellers. This approach is particularly useful when the primary objective is to capture rotor slipstream effects on the surrounding vehicle and calculate integrated rotor forces. In this step-by-step tutorial, we demonstrate how to create a thin su...
+- [Radiation emission analysis of 3-Phase cable using Simcenter Feko & Simcenter PSIM](https://www.youtube.com/watch?v=O3Zb_ol8yUE) (2026-10-15 08:02)
+  Summary: About this webinar This webinar will demonstrate an integrated simulation workflow for analyzing radiated electromagnetic emissions from a three-phase cable. This talk introduces how to combine a power circuit modeler (Simcenter PSIM) and an electromagnetic field simulator (Simcenter Feko) to estimate the radiation emissions of a 3-phase cable used in the electric vehicle (EV) powertrain system. Specifically, the workflow required to estimate how the cable affects an antenna installed on the...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [Actuator Disc Tutorial in Simcenter Flightstream](https://www.youtube.com/watch?v=Ld8ZMtmZ0to) (2026-10-14 03:46)
-  Summary: In this tutorial, we demonstrate how to model an actuator disc in Simcenter Flightstream for aerodynamic performance analysis. Follow the workflow to set up the actuator disc model, configure the relevant simulation settings, and evaluate the resulting flow field. Actuator disc modeling provides a practical approach for representing propellers and rotors in aerodynamic simulations, making it useful for preliminary design studies and performance assessment.
+- [Exploring  Simcenter PSIM's 1D magnetics library and motor models](https://www.youtube.com/watch?v=KusfRbWnjyI) (2026-10-14 17:29)
+  Summary: About this webinar This webinar provides a practical look into how Simcenter PSIM's 1D magnetics library and motor models work and how they should be used in system‑level simulations. We will cover key modeling concepts such as saturable cores, hysteresis, winding and core loss mechanisms, and how spatial harmonics in motors influence system performance and control behavior. We will close with a forward‑looking discussion on how reduced‑complexity models, informed by finite element analysis (...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [Teleprotection Gateway - GridOperators](https://www.youtube.com/watch?v=_Lb9wM-GUHg) (2026-10-14 09:47)
-  Summary: You know the SWT 3000 for its reliability. Now, we’re making it easier to manage within your automation environment. The SIPROTEC Teleprotection Gateway brings familiar protection functionality into a product designed for Substation Automation Engineers. It’s about keeping the lights on while making your system more transparent and easier to maintain.
+- [Unlock fast & easy axial flux machine simulation](https://www.youtube.com/watch?v=HKdMme_ZfJQ) (2026-10-14 17:00)
+  Summary: About this webinar This webinar presents a fast and efficient approach for simulating axial flux electric machines. It demonstrates how Simcenter Flux and Simcenter Simlab can be used to model and analyze axial flux machines and evaluate their electromagnetic performance. Technical domain Low-frequency electromagnetics Software - Simcenter Flux - Simcenter Simlab Presenter Abdessamed Soualmi Customer Support Engineer, Siemens Digital Industries Software © Siemens 2026 #SimcenterElectroMagneti...
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
+- [Siemens x KUKA: Robotik trifft Automatisierung](https://www.youtube.com/watch?v=TH7Wi_tUYJ8) (2026-10-15 07:38)
+  Summary: AMB 2026: Siemens X KUKA - Robotik trifft Automatisierung Wie integriert man Robotik nahtlos in Werkzeugmaschinen? In diesem Interview von der AMB 2026 zeigen wir, wie Siemens und KUKA die Automatisierung durch ihre Partnerschaft vereinfachen. Wenn starke Robotik-Kompetenz auf bewährte Automatisierungslösungen trifft, wird die Roboterintegration einfacher, effizienter und zukunftssicherer. Key Topics: • Wie SINUMERIK 828d direkte Robotersteuerung ermöglicht • Nahtlose Integration durch offene...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [Teleprotection Gateway - CxO](https://www.youtube.com/watch?v=8OiEj7OuPrc) (2026-10-14 09:47)
-  Summary: For leadership, the goal is clear: maximize reliability while reducing operational complexity. By integrating the proven SWT 3000 teleprotection technology into the SIPROTEC automation ecosystem, we aren't just launching a product—we’re streamlining the grid's architecture. This Teleprotection Gateway represents a strategic shift that reduces vendor fragmentation and ensures long-term stability for critical infrastructure.
+- [Digital innovation in focus: Experience the Digital Twin of Kellenberger's TM300](https://www.youtube.com/watch?v=nDDWzsTSVbk) (2026-10-15 07:38)
+  Summary: AMB 2026: Partnership driving digital innovation | Siemens & Kellenberger How does a Digital Twin accelerate machine development and reduce commissioning risks? In this interview from AMB 2026, we explore how Kellenberger uses Siemens technology to create a comprehensive Digital Twin of their TM300 machine. Our partnership with Kellenberger demonstrates how collaboration between CNC control expertise and precision engineering drives innovation in machine tool development. Key topics: • How Di...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [Teleprotection Gateway - Consultants](https://www.youtube.com/watch?v=UDw1p5a9yGY) (2026-10-14 09:46)
-  Summary: For consultants, the challenge is often found in the "in-between" spaces of a substation. How do you integrate proven protection reliability with modern automation requirements? We’ve taken the legendary functionality of the SWT 3000 and brought it into the SIPROTEC ecosystem. It’s the best of both worlds—designed to simplify your specifications while ensuring maximum grid resilience.
+- [Partnership Driving the Future of Robotic Machining](https://www.youtube.com/watch?v=a83I8SkFTNA) (2026-10-15 07:38)
+  Summary: AMB 2026: Partnership driving the future of robotic machining | Siemens & Güdel What happens when CNC control meets robotic technology? In this interview from AMB 2026, we explore how Siemens and Güdel are advancing robotic machining together. The manufacturing world faces real challenges: skilled labor shortages, capacity constraints, and demand for flexibility. Robotic machining addresses all three. What this partnership delivers: • Pre-tested solutions that reduce engineering effort • Adva...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
-- [Can Wastewater Be Reused?](https://www.youtube.com/shorts/CH-InlMzflk) (2026-10-14 09:00)
-  Summary: What if water got a second life? 4Earth is helping recover and reuse water that would otherwise go to waste. Working together, 4Earth combines its technology with Siemens automation to help transform wastewater into reusable process water.
+- [Next-Level PLC Programming](https://www.youtube.com/watch?v=ffYYP0dbd5E) (2026-10-15 07:36)
+  Summary: AMB 2026: Eigen Engineering Agent - Your new productivity assistant How is AI changing automation engineering? In this interview from AMB 2026, we explore how AI helps engineers work faster and smarter through the TIA Portal. What AI can do: • Generate code and create documentation automatically • Explain logic and troubleshoot errors faster • Handle repetitive tasks so you focus on innovation The key message: start small. Use AI as your daily co-pilot to save time and learn faster.
+  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
+- [Siemens & SparePartsNow: Offering refubished Siemens Automation products](https://www.youtube.com/watch?v=NpUJm1lMZZE) (2026-10-15 06:25)
+  Summary: AMB 2026: Siemens & SparePartsNow - Refurbished automation products What does it mean to refurbish a Siemens automation product, and why does it matter? This interview recorded at AMB 2026 explores how refurbished automation products help customers extend equipment lifecycles, maintain operational continuity, and support their business goals through circular economy principles. In this video, you'll learn: ✅ What refurbished products are and how they are professionally restored ✅ Why extendin...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
@@ -84,11 +78,8 @@ Generated: 2026-10-14 10:59 (Mexico City)
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UC-mCG6o3M7-U-INitjtLCXg
 ### Rockwell Automation
 
-- [Rockwell Automation Unveils Digital Manufacturing Innovations at Interpack 2026 - Machine Maker](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmx0clBKbzBlcTZBekhOd25DVkR6cC0wRlpMNEV1NGtUc0RtSHFfU3R6R0QwdXRlSUZySmRaVmxObVBGTDJicW5kcnloMTJPVU14M2djcklocXViY3BUeUFmX1F3cjZ5QlZfZXBzQXp6ckVzZHVOZ1lobGhaeUI0VE5pXzlKTFlOYnEzYUNWYVgwY2Qxb2F1SHZySk5STDhYbmNvdHA1SFZvVzRldWVCb0lzbw?oc=5) (2026-05-13 01:00)
-  Summary: Rockwell Automation Unveils Digital Manufacturing Innovations at Interpack 2026 Machine Maker
-  Feed source: https://news.google.com/rss/search?q=rockwell+automation+emulate3d+digital+twin&hl=en&gl=US&ceid=US:en
-- [FactoryTalk Optix v1.8 AI Chatbot Example: Retentivity](https://www.youtube.com/watch?v=yTn0PAsTEzE) (2026-10-13 13:15)
-  Summary: This video demonstrates how to use the AI chatbot in FactoryTalk Optix v1.8. The user scenario covers Retentivity and token count. For more information, refer to https://rok.auto/4ilZcmv
+- [The Future of Life Sciences Manufacturing](https://www.youtube.com/watch?v=vpnUWYXYXqY) (2026-10-13 21:56) _(last seen)_
+  Summary: Staying competitive in life sciences manufacturing requires leaders to balance compliance, operational agility, cybersecurity, and AI adoption in an increasingly connected environment. Join influencer Antonio Grasso and Matt Weaver, Vice President, Global Industry Life Sciences at Rockwell Automation as they discuss key findings from the Life Sciences Digital Maturity Report. Their conversation explores what it takes to succeed in the future of life sciences manufacturing: building a foundati...
   Feed source: https://www.youtube.com/feeds/videos.xml?user=ROKAutomation
 ### AnyLogic
 

@@ -2,11 +2,11 @@
   "competitors:NVIDIA": {
     "section": "competitors",
     "topic": "NVIDIA",
-    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-    "summary": "Keeping a city running means making decisions that affect residents every day \u2014 from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make those decisions. These applications can anticipate maintenance needs, guide urban planning and make public services more responsive. Software partners inc...",
-    "link": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
-    "published": "2026-10-14 00:00",
-    "source_url": "https://blogs.nvidia.com/feed/"
+    "title": "What\u2019s New in Newton Physics for Robot Simulation | Robotics Office Hour",
+    "summary": "Explore what\u2019s new in Newton, an open-source physics engine for robot simulation built on NVIDIA Warp and OpenUSD. Join us for a live walkthrough of Newton\u2019s new features and essential simulation components. See practical demonstrations of robot control and inverse kinematics, and learn how these workflows connect to robot learning. We\u2019ll also cover highlights from the \u201cAccelerating Robot Learning With Isaac Lab and Newton\" learning path. Designed for robotics engineers, simulation developers...",
+    "link": "https://www.youtube.com/watch?v=4dbaTrlaLJ8",
+    "published": "2026-10-15 01:28",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSKUoczbGAcMld7HjpCR8OA"
   },
   "competitors:RoboDK": {
     "section": "competitors",
@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Teleprotection Gateway - GridOperators",
-    "summary": "You know the SWT 3000 for its reliability. Now, we\u2019re making it easier to manage within your automation environment. The SIPROTEC Teleprotection Gateway brings familiar protection functionality into a product designed for Substation Automation Engineers. It\u2019s about keeping the lights on while making your system more transparent and easier to maintain.",
-    "link": "https://www.youtube.com/watch?v=_Lb9wM-GUHg",
-    "published": "2026-10-14 09:47",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
+    "title": "Radiation emission analysis of 3-Phase cable using Simcenter Feko & Simcenter PSIM",
+    "summary": "About this webinar This webinar will demonstrate an integrated simulation workflow for analyzing radiated electromagnetic emissions from a three-phase cable. This talk introduces how to combine a power circuit modeler (Simcenter PSIM) and an electromagnetic field simulator (Simcenter Feko) to estimate the radiation emissions of a 3-phase cable used in the electric vehicle (EV) powertrain system. Specifically, the workflow required to estimate how the cable affects an antenna installed on the...",
+    "link": "https://www.youtube.com/watch?v=O3Zb_ol8yUE",
+    "published": "2026-10-15 08:02",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
   },
   "competitors:Visual Components": {
     "section": "competitors",
@@ -92,10 +92,10 @@
   "business:Robot Simulation": {
     "section": "business",
     "topic": "Robot Simulation",
-    "title": "ENCY Software and ESTUN Launch Technology Partnership for Integrated Robot Programming - Bisinfotech",
-    "summary": "ENCY Software and ESTUN Launch Technology Partnership for Integrated Robot Programming Bisinfotech",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZE5JQUxmdzFtWkpRMXdibllxSEdzS1ZuSUxrMjYzWFBwTFprNl9nU0hLZG5QaDJ3Y2l4WFpYX2N2bHhTWnZNZE9VbWVHemxpRWl3bHUybnNLS1pNbGZXNnNBQVU2VTdLVEJlaXd6UWV4NTcwWVE0NGdlaHBfTDJVTXVHLUZlay11Zm00c3JtanRYSXJDV01EMEp1QlZnN0ROdkU0SHlQUzNWTWtKX3ZFTHJCWkM1QQ?oc=5",
-    "published": "2026-10-05 23:45",
+    "title": "Robotics Simulation Software Market to Reach US$6.3 Billion by 2033 at 16.2% CAGR | Persistence Market Research - openPR.com",
+    "summary": "Robotics Simulation Software Market to Reach US$6.3 Billion by 2033 at 16.2% CAGR | Persistence Market Research openPR.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDlZaFl3dERIRHM1anFtWVRlUmh6Sm5HeHlJaXhtNlhhb3hBeVIyNDFJS0k2b21SOEtMOXE1QmdlS2s5ZEFUNDhpRzZaYmtULS02dzlBQVhiOF8tSGFJcHdYZU5uQ2NLWDhJb3B6Z2tkT3BMbXdNUmhpbmd1cjhRRko2d0VLcXdSSDZvaE55NjZob3BPMl8xb3Bwbw?oc=5",
+    "published": "2026-10-15 00:26",
     "source_url": "https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en"
   },
   "business:Intralogistics Simulation": {
