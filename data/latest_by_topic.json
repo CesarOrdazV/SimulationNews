@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "Radiation emission analysis of 3-Phase cable using Simcenter Feko & Simcenter PSIM",
-    "summary": "About this webinar This webinar will demonstrate an integrated simulation workflow for analyzing radiated electromagnetic emissions from a three-phase cable. This talk introduces how to combine a power circuit modeler (Simcenter PSIM) and an electromagnetic field simulator (Simcenter Feko) to estimate the radiation emissions of a 3-phase cable used in the electric vehicle (EV) powertrain system. Specifically, the workflow required to estimate how the cable affects an antenna installed on the...",
-    "link": "https://www.youtube.com/watch?v=O3Zb_ol8yUE",
-    "published": "2026-10-15 08:02",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
+    "title": "AMB 2026: Third Wave Systems X Siemens - Introducing Wingman in Siemens NX",
+    "summary": "Manufacturers face constant pressure: accelerate product introduction, improve process stability, scale manufacturing knowledge. In this interview from AMB 2026, we explore how Siemens and Third Wave Systems bring simulation technology into the manufacturing workflow \u2013 enabling programmers to optimize processes faster. Modern manufacturing requires doing more with less. When simulation capabilities are integrated into the engineering workflow, programmers make better decisions \u2013 improving eff...",
+    "link": "https://www.youtube.com/watch?v=fQmRySbvQ5M",
+    "published": "2026-10-16 04:07",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
   },
   "competitors:Visual Components": {
     "section": "competitors",
@@ -38,10 +38,10 @@
   "competitors:Rockwell Automation": {
     "section": "competitors",
     "topic": "Rockwell Automation",
-    "title": "The Future of Life Sciences Manufacturing",
-    "summary": "Staying competitive in life sciences manufacturing requires leaders to balance compliance, operational agility, cybersecurity, and AI adoption in an increasingly connected environment. Join influencer Antonio Grasso and Matt Weaver, Vice President, Global Industry Life Sciences at Rockwell Automation as they discuss key findings from the Life Sciences Digital Maturity Report. Their conversation explores what it takes to succeed in the future of life sciences manufacturing: building a foundati...",
-    "link": "https://www.youtube.com/watch?v=vpnUWYXYXqY",
-    "published": "2026-10-13 21:56",
+    "title": "Automation Fair 2026 Keynotes, Summits, and Sessions Sneak Preview",
+    "summary": "Tune in to get a glimpse of what's ahead at Automation Fair 2026! Join our livestream to explore the Keynotes, Summits, and Sessions that are shaping this year's Automation Fair! Learn more and register here https://rok.auto/3I7y0K0 #ROKevents",
+    "link": "https://www.youtube.com/watch?v=OnsdKjvghIg",
+    "published": "2026-10-15 11:29",
     "source_url": "https://www.youtube.com/feeds/videos.xml?user=ROKAutomation"
   },
   "competitors:AnyLogic": {
@@ -101,10 +101,10 @@
   "business:Intralogistics Simulation": {
     "section": "business",
     "topic": "Intralogistics Simulation",
-    "title": "Material Handling Equipment Market Size, Share & Growth 2034 - Fortune Business Insights",
-    "summary": "Material Handling Equipment Market Size, Share & Growth 2034 Fortune Business Insights",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHRkSWRaWFNKVlVhWnZld2hONjVhWWVEYi10OGRZejl4Z0ZPTXN4VmduS0JfcUdzM1VaOHUyQW9SNmg0eGVNYUtLRlJ1YUhyNmNrY0hKNnIzbDVlNDl2QUdQTnd0Z2J6TEhrMmtVODhFRjFMV21oRjF6NXdodVJyYWRaNjVjU0FYbWxvR1pDaEhaOWY2VXNONmpralJVWHc?oc=5",
-    "published": "2026-09-21 01:00",
+    "title": "The $96 billion intralogistics market: Software and robotics as growth engines, 5 market drivers, and 3 trends - IoT Analytics",
+    "summary": "The $96 billion intralogistics market: Software and robotics as growth engines, 5 market drivers, and 3 trends IoT Analytics",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOUFEVVdNekZkS01CeGtSNnZ0T1ozX3piOVQ3d0t0VllGRDFvM1IxTFQwdUZHdGVEWVhyLVFaS1h6bWlWc1hzVVZQU2FTQ05GX3ZGRnFLWHlCRUg0QnRKSXZuWVRidkxSMXlqT1NKNVROQnU4anZOSUFQQzVkTzFqVFI0YUw?oc=5",
+    "published": "2026-10-15 13:38",
     "source_url": "https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en"
   }
 }
