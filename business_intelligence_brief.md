@@ -1,23 +1,26 @@
 # Industrial Automation Business Intelligence Brief
 
-Generated: 2026-10-16 10:29 (Mexico City)
+Generated: 2026-10-17 09:23 (Mexico City)
 
 ## Business Keywords
 
 ### Virtual Commissioning
 
-- [FANUC America Announces Plan for $90 Million Facility - Automation World](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWFJY3JyWE11bDNhZEpsMkFXbWVEWEpTU0dvdVVqZXhWSGh0a3Z3ck1VaHV0VFowZUFCTHgtdjQtemp2UjBnZW9IMk9IdXpQOXpyX0x1a0VicFh3QXp0X2Z6S2JtQVA3NnhTdjNOY19Ec3lpd3hqUWtOOGFTRndoalppVldwbVNGUXFaMjZvaG9FcXNIcGZLTVhPN0JQaVFGZ1llaktoNDRBT1pxOVpDeEhkVmNUdw?oc=5) (2026-04-14 01:00)
-  Summary: FANUC America Announces Plan for $90 Million Facility Automation World
+- [FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 - Lelezard](https://news.google.com/rss/articles/CBMiywFBVV95cUxQblk3aExYQ2JEYURsUDZ2UTlaak94aUFWX2ljN1MzZjRISkp0LW5MRzdPcTdwdUVQZUl1UlZuZ2ZkSHhPZ2FDcUZfUDVQM3h1NnA5SUhuRm85Sy1PdWlGdHVJcmxyZzZSaHQ2X3VSeDliZVZucGR5NWJJeEZuNnFXOXRTUllwcDNzaVFLNFN6c0tvRk4tUXE0SEQ2R25lS3pSSDVBblh0ODNYbG1EYXN0REIxWW13UjJUTVd1RVd4c29waDExMVJmb0VzSQ?oc=5) (2026-09-03 01:00)
+  Summary: FANUC America Brings Robotics, Automation, Physical AI and CNC Innovation to IMTS 2026 Lelezard
   Feed source: https://news.google.com/rss/search?q=%22virtual+commissioning%22+manufacturing+automation&hl=en&gl=US&ceid=US:en
 ### Digital Twin Manufacturing
 
-- [Vinay Ahuja: Advancing Digital Manufacturing Through Simulation and Automation - Tech Times](https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3ZXMjVUbHE5U1V6dGlERTNlRGQ5Q0xOVWtlcVNRNGN6YjhWOXZKb0hrVUF4TXJEUUNPWVdOVTFHOElTazRodVBvRWItX0NxZjJRa1RBUjROS3FFNlMxOVdBenA2V2pTVjJWWC1MZW5ldi11RUJTaEFlUmdBcGJJNjc4TnJncTdZaXpOeEpIQlNMd1c2d3gwWDZybWpzblZzeGFFYlc0cVg2LUlCTDlXeUotYzVUQ2VaS0w3N1pKSzVnVlJ4aTNj?oc=5) (2026-09-30 01:00)
-  Summary: Vinay Ahuja: Advancing Digital Manufacturing Through Simulation and Automation Tech Times
+- [Global Digital Twin Market Size, Share, Trends & Forecast (2026-2034) - IMARC Group](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DMWJhRFpRSGY4blFqQ2xfeHFqV2w4SFR2LXphRzFSajlpRzF2RnJyMmdPanZfbnBiYldfZF9NSXNiSG1jLXREWmlkVVZVZ2dUZGVtdnc4MlppUQ?oc=5) (2026-10-06 01:00) _(last seen)_
+  Summary: Global Digital Twin Market Size, Share, Trends & Forecast (2026-2034) IMARC Group
   Feed source: https://news.google.com/rss/search?q=%22digital+twin%22+manufacturing+simulation&hl=en&gl=US&ceid=US:en
 ### PLC Simulation
 
-- [Physical AI Brings Machine Intelligence And Atomistic Materials Simulation Together - Automation World](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLUxQaEE2cndBUDNaa0ktZklhV0xSNHROVV9vX3ZJVldTS1E3a3A2Q2JQZ0pHNGRSTDJuLTMxRElfbzdYMWxOcW5VTlB4dkZiWU9VYlByaWQ5b1puRUlzek9RLWVLdTdyeWRrMFZFa19sRVExMG1IeTZnRWhaUG9zUUNJWVBva2ZNLXFwa3cxOWdCOXdhM1hPNE9LRkdmNE5BVDRiUk1QdjdWcmFsRnpDdm02bFBmbEI1Tl9qUnRtTl9tcDNsa2Y4OG5OVmVMVk5RTUg2a0FOU2ZfNmZyeV9WaXRWYXcwM29BYURlLWdNMGJmS05oeGc?oc=5) (2026-10-13 11:55) _(last seen)_
-  Summary: Physical AI Brings Machine Intelligence And Atomistic Materials Simulation Together Automation World
+- [How Quanta Is Accelerating Electronics Production Through Digitalization - Automation World](https://news.google.com/rss/articles/CBMirwJBVV95cUxPM1czUnZmN211dW5TMUg0UUYzOHhINDFaYkdQOGp2Z3lsUTkwakx5SUQtZ3pITWZCUWFfQ01kcUd5RnJFQ1c1OFRadk5TVVZWSE5leGo0ME1lVDc5T3BHRDh2ZW5MQXI0RURBYkNPcU1jOVZhV3hwcF9NNDF4S243RG4yTWw1U1UtRldlQmhwNjFEeE1LTU9Ca0dTVzNNaEFQcEhYM3pQTG9kRk5SUjN2dGQxVnhtdk1MTW9FRlg2U0I5ZDc5Mi15c1R6M3o3YU5kcXJZU0p4Qk8yU3VaRTMwdlRyUnlwY0J3MXFyNHI2OFlGSWRWZkJaT0s5U1VmbnByQWVYMjVLdHpsWnozWURjMGx6TEVmcTJ4U3k2NGstYUhMRWFfYVRXd1ZCRFh2OUU?oc=5) (2026-08-16 01:00)
+  Summary: How Quanta Is Accelerating Electronics Production Through Digitalization Automation World
+  Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
+- [AI agent programs Siemens S7-1500 PLC, flags race conditions - TechGig](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGtZbVg3aV9BTFpOSmU2ZXZWZ2wtVGhyTzI2TEdSemRTbmp1NEhYb2RFQldHbGFVUWZ1MWlMV0hDVjJJQTBITDZQWkZwWG15S01FYTNnNWVzZzhRSzgwZDFoSTNhdEJRQkM1MWFjWHMweERONUJlT1puaFF0Q25pNGFHQ1Nna3NIUmVxSUxjX2lrQWphMlUwZjRBUmpObzByelFr0gGjAUFVX3lxTE9sa1ltWDdpX0FMWk5KZTZldlZnbC1UaHJPMjZMR1J6ZFNuanU0SFhvZEVCV0dsYVVRZnUxaUxXSENWMklBMEhMNlBaRnBYbXlLTUVhM2c1ZXNnOFFLODBkMWhJM2F0QlFCQzUxYWNYczB4RE41QmVPWm5oUXRDbmk0YUdDU2drc0hSZXFJTGNfaWtBamEyVTBmNEFSak5vMHJ6UWs?oc=5) (2026-10-13 19:41)
+  Summary: AI agent programs Siemens S7-1500 PLC, flags race conditions TechGig
   Feed source: https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en
 ### Robot Simulation
 
@@ -26,7 +29,7 @@ Generated: 2026-10-16 10:29 (Mexico City)
   Feed source: https://news.google.com/rss/search?q=robot+simulation+offline+programming+factory&hl=en&gl=US&ceid=US:en
 ### Intralogistics Simulation
 
-- [The $96 billion intralogistics market: Software and robotics as growth engines, 5 market drivers, and 3 trends - IoT Analytics](https://news.google.com/rss/articles/CBMihAFBVV95cUxOOUFEVVdNekZkS01CeGtSNnZ0T1ozX3piOVQ3d0t0VllGRDFvM1IxTFQwdUZHdGVEWVhyLVFaS1h6bWlWc1hzVVZQU2FTQ05GX3ZGRnFLWHlCRUg0QnRKSXZuWVRidkxSMXlqT1NKNVROQnU4anZOSUFQQzVkTzFqVFI0YUw?oc=5) (2026-10-15 13:38)
+- [The $96 billion intralogistics market: Software and robotics as growth engines, 5 market drivers, and 3 trends - IoT Analytics](https://news.google.com/rss/articles/CBMihAFBVV95cUxOOUFEVVdNekZkS01CeGtSNnZ0T1ozX3piOVQ3d0t0VllGRDFvM1IxTFQwdUZHdGVEWVhyLVFaS1h6bWlWc1hzVVZQU2FTQ05GX3ZGRnFLWHlCRUg0QnRKSXZuWVRidkxSMXlqT1NKNVROQnU4anZOSUFQQzVkTzFqVFI0YUw?oc=5) (2026-10-15 13:38) _(last seen)_
   Summary: The $96 billion intralogistics market: Software and robotics as growth engines, 5 market drivers, and 3 trends IoT Analytics
   Feed source: https://news.google.com/rss/search?q=intralogistics+simulation+warehouse+automation&hl=en&gl=US&ceid=US:en
 
@@ -44,24 +47,15 @@ Generated: 2026-10-16 10:29 (Mexico City)
   Feed source: https://robodk.com/blog/feed/
 ### Siemens Digital Industries
 
-- [Siemens Unveils Digital Twin Composer - foodengineeringmag.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxOcU8yWkRFeWUzME5nY2JfRXY1clRpTm1jUmJNQmhyOEo3alpSN1BwMldCVVIxUVNCT2loY01CRmE4VXZDVTBQcEJVQndaVUpic1k3ZVNEbzRIc3VPOVJjMFRWcG5acll1Z0txOU52R0lWbGcxbnBrMWNqSEUzOXdlNGFZVkd1YlM3T1h1U09aNU5MUQ?oc=5) (2026-01-26 02:00)
-  Summary: Siemens Unveils Digital Twin Composer foodengineeringmag.com
+- [Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht - Siemens Newsroom](https://news.google.com/rss/articles/CBMifkFVX3lxTE42REwtZldEZmcwZ2JLQllUbWZHMVBuVFF6U1hPeXZFRlZOUXA2VUl1M0J1VGU2TGJKRWtNZ1hKaXBJUFM5VWh3M3dYUjV0WElZeW1Hb1pPVHUzOFZheGlxNUR6WWhCZzgzd2k4NFBBUnBoY2FhVGxjdlQ3MEhfQQ?oc=5) (2026-09-29 02:19)
+  Summary: Siemens digital twin technology helps Caponnetto Hueber deliver hydrodynamic innovation for Bluegame BGF45 yacht Siemens Newsroom
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [How Quanta Is Accelerating Electronics Production Through Digitalization - Automation World](https://news.google.com/rss/articles/CBMirwJBVV95cUxPM1czUnZmN211dW5TMUg0UUYzOHhINDFaYkdQOGp2Z3lsUTkwakx5SUQtZ3pITWZCUWFfQ01kcUd5RnJFQ1c1OFRadk5TVVZWSE5leGo0ME1lVDc5T3BHRDh2ZW5MQXI0RURBYkNPcU1jOVZhV3hwcF9NNDF4S243RG4yTWw1U1UtRldlQmhwNjFEeE1LTU9Ca0dTVzNNaEFQcEhYM3pQTG9kRk5SUjN2dGQxVnhtdk1MTW9FRlg2U0I5ZDc5Mi15c1R6M3o3YU5kcXJZU0p4Qk8yU3VaRTMwdlRyUnlwY0J3MXFyNHI2OFlGSWRWZkJaT0s5U1VmbnByQWVYMjVLdHpsWnozWURjMGx6TEVmcTJ4U3k2NGstYUhMRWFfYVRXd1ZCRFh2OUU?oc=5) (2026-08-16 01:00)
-  Summary: How Quanta Is Accelerating Electronics Production Through Digitalization Automation World
+- [PepsiCo Partners With Siemens and Nvidia on AI Digital Twins - PYMNTS.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlBRkVBbGItNi02aC1rXzFGWjFGN1puWmRhTlRnS2RGYUFzUG5QbFU3dDlXTEw3MVQ0dHlqZDJKN1RKT3BrbVJUSkZ5ZUVUODFVZjNPbWRWbEZmZjVQY012ZzdzX1hqbDY4ci1fbE5VOV9oWDlnUlpZdjRMZGlVMGp3Tnl4M0h0N3Q5ai13TEl2Z2JjdGNZOWVBYmtyQnBISURlb2g2MFN6aWlGSF83by1ITklPUGJRLVE?oc=5) (2026-01-28 02:00)
+  Summary: PepsiCo Partners With Siemens and Nvidia on AI Digital Twins PYMNTS.com
   Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Siemens unveils technologies to accelerate the industrial AI revol ... - Siemens press](https://news.google.com/rss/articles/CBMiakFVX3lxTE9obDV3b0kxSDJqOUlGZmNVaVpEclFKX0RxWkZJYWhnZm9zVkNOODlLQWtRTW5uc2YtNUJmVXVWN0tYWDVWbUtGS0RhRFUweV9PMkJSNUdpOFZ5dzRaMjN2UWpxVEQ2ak16VHc?oc=5) (2026-01-06 02:00)
-  Summary: Siemens unveils technologies to accelerate the industrial AI revol ... Siemens press
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Accenture to Strengthen Capabilities for Software and Automation Solutions from Siemens Digital Industries with Acquisition of Industries eXcellence Group - Lelezard](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcTJQMWVxOWxmNlhORWpxSG1PdU9hbm5HRzVQQnJRdnljVmVKU1dqYUZwZzdNVG1OVFJtTk5ZX3FhQlNWT1lxR3VIQlZUWnR6ZHpkYWFOYi1LTmFGaXIwWF9XeEhPYXRIOVRfYUg2cHVDY0d3dnNGMXdJMGVJYWFwVnI4WUs0VWpGVUxsVkFXQUpfNTdEQlktYVB4TXhZcWlHLTdmY3JaZlNJeV9OTXpqUTJUUlN5XzlQN2I4RmlwaXE2ZkJ3XzExS1FRZmlwTlNheHVzTmw4STItQQ?oc=5) (2026-06-17 01:00)
-  Summary: Accenture to Strengthen Capabilities for Software and Automation Solutions from Siemens Digital Industries with Acquisition of Industries eXcellence Group Lelezard
-  Feed source: https://news.google.com/rss/search?q=siemens+digital+industries+simulation+digital+twin&hl=en&gl=US&ceid=US:en
-- [Industry insight series - From molecule to market](https://www.youtube.com/watch?v=bAkSYmD-LVI) (2026-10-15 15:31)
-  Summary: ow can pharmaceutical and life sciences companies move from molecule to market faster – without adding risk? See how Siemens and AWS technologies are helping pharmaceutical and life sciences organizations move beyond siloed digital transformation to connect data, workflows, and decision-making across the development lifecycle. From Agentic AI and Native Cloud to digital twins and simulation, discover three shifts helping organizations: • Connect scientific data and knowledge across the digita...
+- [Tecnomatix Plant Simulation Virtual User Group: SQLite basics](https://www.youtube.com/watch?v=PYpYWQ-tNz4) (2026-10-16 15:10)
+  Summary: Join the conversation! Discuss this session and connect with the expert community in the Plant Simulation Virtual User Group: https://sie.ag/3N8fz8 This session demonstrates how the integration of SQLite, particularly as an in-memory database, provides high-performance data access within Tecnomatix Plant Simulation. Session elements include: • Building SQLite databases • SQL data access • Handling simulation datasets • Managing database workflows Freelance simulation expert and Siemens Commun...
   Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw
-- [AMB 2026: Third Wave Systems X Siemens - Introducing Wingman in Siemens NX](https://www.youtube.com/watch?v=fQmRySbvQ5M) (2026-10-16 04:07)
-  Summary: Manufacturers face constant pressure: accelerate product introduction, improve process stability, scale manufacturing knowledge. In this interview from AMB 2026, we explore how Siemens and Third Wave Systems bring simulation technology into the manufacturing workflow – enabling programmers to optimize processes faster. Modern manufacturing requires doing more with less. When simulation capabilities are integrated into the engineering workflow, programmers make better decisions – improving eff...
-  Feed source: https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ
 ### Visual Components
 
 - [Learn the basics of the FactoryLens Add-on](https://www.youtube.com/watch?v=hh4HYxGw0pA) (2026-10-12 02:14) _(last seen)_

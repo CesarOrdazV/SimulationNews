@@ -20,11 +20,11 @@
   "competitors:Siemens Digital Industries": {
     "section": "competitors",
     "topic": "Siemens Digital Industries",
-    "title": "AMB 2026: Third Wave Systems X Siemens - Introducing Wingman in Siemens NX",
-    "summary": "Manufacturers face constant pressure: accelerate product introduction, improve process stability, scale manufacturing knowledge. In this interview from AMB 2026, we explore how Siemens and Third Wave Systems bring simulation technology into the manufacturing workflow \u2013 enabling programmers to optimize processes faster. Modern manufacturing requires doing more with less. When simulation capabilities are integrated into the engineering workflow, programmers make better decisions \u2013 improving eff...",
-    "link": "https://www.youtube.com/watch?v=fQmRySbvQ5M",
-    "published": "2026-10-16 04:07",
-    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCaEEm-0s0x3MHg9jzFcHuQQ"
+    "title": "Tecnomatix Plant Simulation Virtual User Group: SQLite basics",
+    "summary": "Join the conversation! Discuss this session and connect with the expert community in the Plant Simulation Virtual User Group: https://sie.ag/3N8fz8 This session demonstrates how the integration of SQLite, particularly as an in-memory database, provides high-performance data access within Tecnomatix Plant Simulation. Session elements include: \u2022 Building SQLite databases \u2022 SQL data access \u2022 Handling simulation datasets \u2022 Managing database workflows Freelance simulation expert and Siemens Commun...",
+    "link": "https://www.youtube.com/watch?v=PYpYWQ-tNz4",
+    "published": "2026-10-16 15:10",
+    "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYR5Kgzn6suihs56iJ8_vfw"
   },
   "competitors:Visual Components": {
     "section": "competitors",
@@ -83,10 +83,10 @@
   "business:PLC Simulation": {
     "section": "business",
     "topic": "PLC Simulation",
-    "title": "Physical AI Brings Machine Intelligence And Atomistic Materials Simulation Together - Automation World",
-    "summary": "Physical AI Brings Machine Intelligence And Atomistic Materials Simulation Together Automation World",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLUxQaEE2cndBUDNaa0ktZklhV0xSNHROVV9vX3ZJVldTS1E3a3A2Q2JQZ0pHNGRSTDJuLTMxRElfbzdYMWxOcW5VTlB4dkZiWU9VYlByaWQ5b1puRUlzek9RLWVLdTdyeWRrMFZFa19sRVExMG1IeTZnRWhaUG9zUUNJWVBva2ZNLXFwa3cxOWdCOXdhM1hPNE9LRkdmNE5BVDRiUk1QdjdWcmFsRnpDdm02bFBmbEI1Tl9qUnRtTl9tcDNsa2Y4OG5OVmVMVk5RTUg2a0FOU2ZfNmZyeV9WaXRWYXcwM29BYURlLWdNMGJmS05oeGc?oc=5",
-    "published": "2026-10-13 11:55",
+    "title": "AI agent programs Siemens S7-1500 PLC, flags race conditions - TechGig",
+    "summary": "AI agent programs Siemens S7-1500 PLC, flags race conditions TechGig",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGtZbVg3aV9BTFpOSmU2ZXZWZ2wtVGhyTzI2TEdSemRTbmp1NEhYb2RFQldHbGFVUWZ1MWlMV0hDVjJJQTBITDZQWkZwWG15S01FYTNnNWVzZzhRSzgwZDFoSTNhdEJRQkM1MWFjWHMweERONUJlT1puaFF0Q25pNGFHQ1Nna3NIUmVxSUxjX2lrQWphMlUwZjRBUmpObzByelFr0gGjAUFVX3lxTE9sa1ltWDdpX0FMWk5KZTZldlZnbC1UaHJPMjZMR1J6ZFNuanU0SFhvZEVCV0dsYVVRZnUxaUxXSENWMklBMEhMNlBaRnBYbXlLTUVhM2c1ZXNnOFFLODBkMWhJM2F0QlFCQzUxYWNYczB4RE41QmVPWm5oUXRDbmk0YUdDU2drc0hSZXFJTGNfaWtBamEyVTBmNEFSak5vMHJ6UWs?oc=5",
+    "published": "2026-10-13 19:41",
     "source_url": "https://news.google.com/rss/search?q=plc+simulation+industrial+automation&hl=en&gl=US&ceid=US:en"
   },
   "business:Robot Simulation": {
